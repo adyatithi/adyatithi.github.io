@@ -1,0 +1,27 @@
++++
+title = "हेरम्ब-महागणपति-महासङ्कटहर-चतुर्थी-व्रतम्"
+id = "hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam"
+slug = "heramba-mahaganapati-mahasagkatahara-caturthi-vratam"
+source_path = "devatA/gaNapati/description_only/hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam.toml"
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+devata = ["Gāṇapatya (Gaṇeśa)"]
+category = ["Devatā Observances"]
+
+shlokas = '''
+गणाधिपस्त्वं देवेश चतुर्थ्यां पूजितो मया।
+कष्टान्मां मोचयेशान सर्वमिष्टं च देहि मे॥
+
+यदा सङ्क्लेशितो मर्त्यो नानादुःखैश्च दारुणैः।
+तदा कृष्णे चतुर्थ्यां वै पूजनीयो गणाधिपः॥ (भविष्यपुराणम्)
+
+श्रावणकृष्णचतुर्थ्यां प्रारभ्य कृष्णचतुर्थीषु यावज्जीवमेकविंशतिवर्षाणि एकवर्षं वा सङ्कटचतुर्थीव्रतं कार्यम्॥
+अशक्तौ प्रतिवर्षं श्रावणचतुर्थ्यामेव कार्यम्॥
+'''
+
+description_en = '''
+Special vrata day for Ganesha. In this month, Ganesha is worshipped as `hEramba-mahAgaNapatiH`. Fast during the day and pray to Ganesha after moonrise, chanting the shloka mentioned.
+'''
+
+[names]
+sa = ["हेरम्ब-महागणपति-महासङ्कटहर-चतुर्थी-व्रतम्"]
++++

@@ -1,0 +1,25 @@
++++
+title = "आश्विन-मासः"
+id = "Azvina-mAsaH"
+slug = "azvina-masah"
+source_path = "time_focus/misc/description_only/Azvina-mAsaH.toml"
+tags = ["SpecialDays", "SpecialPeriod"]
+category = ["Calendrical Specials"]
+
+shlokas = '''
+आश्विनकृत्यमाह यमः---
+घृतमाश्वयुजे मासि नित्यं दद्याद्द्विजातये।
+प्रीणयित्वा द्विजान्देवान् रूपभागभिजायते॥
+वामनपुराणे---
+तिलास्तुरगवृषभदधिताम्रवशादिकम्।
+प्रीत्यर्थं पद्मनाभस्य देयमाश्वयुजे नरैः॥ इति।
+वशा धेनुः।
+'''
+
+description_en = '''
+`Azvina-mAsaH` begins today --- In the month of Āśvina, as declared by Yama, one should donate ghee to a brāhmaṇa daily. By satisfying both the brāhmaṇas and the Devās through such offerings, one attains divine beauty. In the Vāmana Purāṇa, it is stated that during Āśvina, to please Padmanābha (Viṣṇu), one should give donations that include sesame seeds (tila), a horse, a bull, curd, copper, and a vaśā (a milking cow).
+'''
+
+[names]
+sa = ["आश्विन-मासः"]
++++

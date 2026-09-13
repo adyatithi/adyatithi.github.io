@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ $pages := .Pages }}
+<section class="page-header">
+  <div class="wrap">
+    <p class="eyebrow">{{ .Data.Singular | title }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="muted">{{ len $pages }} festival{{ if ne (len $pages) 1 }}s{{ end }} found.</p>
+  </div>
+</section>
+<section class="wrap">
+  {{ partial "pill-filters.html" . }}
+</section>
+<section class="wrap">
+  <div class="card-grid" id="card-grid">
+    {{ range $pages.ByTitle }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

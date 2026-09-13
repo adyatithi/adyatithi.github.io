@@ -1,0 +1,25 @@
+{{ $p := . }}
+<a class="card"
+   href="{{ $p.RelPermalink }}"
+   data-month="{{ range $p.Params.month }}{{ . | urlize }} {{ end }}"
+   data-devata="{{ range $p.Params.devata }}{{ . | urlize }} {{ end }}"
+   data-tithi="{{ range $p.Params.tithi }}{{ . | urlize }} {{ end }}"
+   data-nakshatra="{{ range $p.Params.nakshatra }}{{ . | urlize }} {{ end }}"
+   data-category="{{ range $p.Params.category }}{{ . | urlize }} {{ end }}"
+   data-tags="{{ range $p.Params.tags }}{{ . | urlize }} {{ end }}"
+   data-search="{{ $p.Title | lower }} {{ $p.Params.id | lower }} {{ with $p.Params.description_en }}{{ . | plainify | lower }}{{ end }}">
+  <span class="card__accent" aria-hidden="true"></span>
+  <div class="card__body">
+    <h3 class="card__title">{{ $p.Title }}</h3>
+    {{ with $p.Params.timing_summary }}<p class="card__timing">{{ . }}</p>{{ end }}
+    {{ if $p.Params.shlokas }}
+      <p class="card__shloka">{{ $p.Params.shlokas | plainify | truncate 88 }}</p>
+    {{ else if $p.Params.description_en }}
+      <p class="card__excerpt">{{ $p.Params.description_en | plainify | truncate 130 }}</p>
+    {{ end }}
+    <div class="card__pills">
+      {{ range first 1 $p.Params.category }}<span class="pill pill--category">{{ . }}</span>{{ end }}
+      {{ range first 2 $p.Params.tags }}<span class="pill pill--tag">{{ . }}</span>{{ end }}
+    </div>
+  </div>
+</a>

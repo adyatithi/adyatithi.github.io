@@ -1,0 +1,33 @@
++++
+title = "चैत्र-मास-आरम्भः"
+id = "caitra-mAsa-ArambhaH"
+slug = "caitra-masa-arambhah"
+source_path = "time_focus/misc/lunar_month/tithi/01/01/caitra-mAsa-ArambhaH.toml"
+tags = ["SpecialDays", "SpecialPeriodStart"]
+month = ["Caitra"]
+tithi = ["Pratipat"]
+category = ["Calendrical Specials"]
+timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat"
+
+shlokas = '''
+चैत्रकृत्यं मत्स्यपुराणे---
+वर्जयित्वा मधौ यस्तु दधिक्षीरघृतैक्षवम्।
+दद्याद्वस्त्राणि सूक्ष्माणि सर्ववर्णयुतानि च॥
+सम्पूज्य विप्रमिथुनं गौरी मे प्रीयतामिति।
+एतद् गौरीव्रतं नाम भवानीलोकदायकम्॥ इति।
+भविष्योत्तरे---
+चैत्रे त्रिरात्रं नक्ताशी नद्यां स्नात्वा ददाति यः।
+अजाः पञ्च पयस्विन्यो दरिद्राय कुटुम्बिने।
+न जायते पुनरसौ जीवलोके कदाचन॥ इति।
+वामन पुराणे---
+चैत्रे मासि विचित्राणि शयनान्यासनानि च।
+विष्णोः प्रीत्यर्थमेतानि देयानि ब्राह्मणेष्वथ॥ इति।
+'''
+
+description_en = '''
+`caitra-mAsaH` begins today. In Matsya Purāṇam, it is suggested to perform `dAna` of fine garments to a Brahmana couple with due worship. This is known as the Gaurī-vrata, and it grants the realm of Devi Bhavānī. In Bhavishyottara Purāṇam, it is said that if one fasts during the day and eats only in the night for three nights, performs `snAna` in a river, and gives five milch goats to a poor householder, he is never born again in this world! In Vamana Purana, it is said that one should give away beautiful beds and seats to Brahmanas, to please Bhagavan Viṣṇu.
+'''
+
+[names]
+sa = ["चैत्र-मास-आरम्भः"]
++++

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="page-header">
+  <div class="wrap">
+    <p class="eyebrow">Browse by</p>
+    <h1>{{ .Title }}</h1>
+  </div>
+</section>
+<section class="wrap">
+  <div class="filter-bar__pills filter-bar__pills--big">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}" class="pill pill--filter pill--big">
+        {{ .Page.Title }} <span class="pill__count">{{ .Count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

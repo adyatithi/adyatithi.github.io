@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="{{ "/" | relLangURL }}">
+      <span class="brand__deva">अ</span>
+      <span class="brand__text">
+        <span class="brand__name">Adyatithi</span>
+        <span class="brand__tagline">{{ .Site.Params.tagline }}</span>
+      </span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ "/festivals/" | relLangURL }}">All festivals</a>
+      <a href="{{ "/month/" | relLangURL }}">Months</a>
+      <a href="{{ "/devata/" | relLangURL }}">Devatā</a>
+      <a href="{{ "/tithi/" | relLangURL }}">Tithi</a>
+      <a href="{{ "/nakshatra/" | relLangURL }}">Nakṣatra</a>
+      <a href="{{ "/tags/" | relLangURL }}">Tags</a>
+      <a href="{{ .Site.Params.sourceRepo }}" target="_blank" rel="noopener">Data source ↗</a>
+    </nav>
+  </div>
+</header>

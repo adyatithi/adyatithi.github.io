@@ -1,0 +1,85 @@
+{{ define "main" }}
+{{ $langNames := dict "sa" "Sanskrit" "ta" "Tamil" "te" "Telugu" "kn" "Kannada" "ml" "Malayalam" "hi" "Hindi" "mr" "Marathi" "gu" "Gujarati" "bn" "Bengali" "en" "English" "or" "Odia" }}
+<article class="festival">
+  <header class="festival__banner">
+    <div class="festival__banner-pattern" aria-hidden="true"></div>
+    <div class="wrap festival__banner-inner">
+      {{ with .Params.category }}<p class="eyebrow eyebrow--light">{{ delimit . ", " }}</p>{{ end }}
+      <h1 class="festival__title">{{ .Title }}</h1>
+      {{ if ne .Params.id .Title }}<p class="festival__id">{{ .Params.id }}</p>{{ end }}
+      {{ if .Params.tags }}
+      <div class="festival__pills">
+        {{ range .Params.tags }}<span class="pill pill--onbanner">{{ . }}</span>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="wrap festival__body">
+    {{ if .Params.timing_summary }}
+    <div class="festival__timing">
+      <span class="festival__timing-label">Timing</span>
+      <span class="festival__timing-value">{{ .Params.timing_summary }}</span>
+      {{ with .Params.priority_rule }}<span class="festival__timing-note">({{ . }} tithi rule)</span>{{ end }}
+    </div>
+    {{ end }}
+
+    {{ if .Params.shlokas }}
+    <section class="shloka-block">
+      <span class="shloka-block__mark" aria-hidden="true">“</span>
+      <p class="shloka-block__text">{{ replaceRE "\n" "<br>\n" (.Params.shlokas | htmlEscape) | safeHTML }}</p>
+    </section>
+    {{ end }}
+
+    {{ if .Params.description_en }}
+    <section class="prose">
+      {{ .Params.description_en | markdownify }}
+    </section>
+    {{ end }}
+
+    {{ if .Params.names }}
+    <section class="names-block">
+      <h2 class="section-title section-title--sm">Names</h2>
+      <dl class="names-grid">
+        {{ range $lang, $vals := .Params.names }}
+        <div class="names-grid__row">
+          <dt>{{ index $langNames $lang | default (upper $lang) }}</dt>
+          <dd>{{ delimit $vals ", " }}</dd>
+        </div>
+        {{ end }}
+      </dl>
+    </section>
+    {{ end }}
+
+    <section class="pill-groups">
+      {{ range slice
+          (dict "label" "Month" "tax" "month" "vals" .Params.month)
+          (dict "label" "Devatā" "tax" "devata" "vals" .Params.devata)
+          (dict "label" "Tithi" "tax" "tithi" "vals" .Params.tithi)
+          (dict "label" "Nakṣatra" "tax" "nakshatra" "vals" .Params.nakshatra)
+      }}
+        {{ if .vals }}
+        <div class="pill-groups__row">
+          <span class="filter-bar__label">{{ .label }}</span>
+          {{ $tax := .tax }}
+          {{ range .vals }}<a class="pill pill--filter" href="/{{ $tax }}/{{ . | urlize }}/">{{ . }}</a>{{ end }}
+        </div>
+        {{ end }}
+      {{ end }}
+    </section>
+
+    {{ if .Params.references }}
+    <section class="sources">
+      <h2 class="section-title section-title--sm">Sources cited</h2>
+      <ul>
+        {{ range .Params.references }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    </section>
+    {{ end }}
+
+    <p class="festival__source">
+      <a href="{{ .Site.Params.sourceRepo }}/blob/master/{{ .Params.source_path }}" target="_blank" rel="noopener">View source TOML on GitHub ↗</a>
+    </p>
+  </div>
+</article>
+{{ end }}

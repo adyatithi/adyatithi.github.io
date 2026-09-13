@@ -1,0 +1,27 @@
++++
+title = "फाल्गुन-मास-आरम्भः"
+id = "phAlguna-mAsa-ArambhaH"
+slug = "phalguna-masa-arambhah"
+source_path = "time_focus/misc/lunar_month/tithi/12/01/phAlguna-mAsa-ArambhaH.toml"
+tags = ["SpecialDays", "SpecialPeriodStart"]
+month = ["Phālguna"]
+tithi = ["Pratipat"]
+category = ["Calendrical Specials"]
+timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pratipat"
+
+shlokas = '''
+फाल्गुनकृत्यं स्कन्दपुराणे---
+एकभक्तं तु कुर्वाणः फाल्गुने मासि नित्यशः।
+स्त्रीषु सौभाग्यमाप्नोति स्त्रियश्च परमप्रियाः॥
+वामनपुराणे---
+फाल्गुने व्रीहयो गावो वस्त्रं कृष्णाजिनान्वितम्।
+गोविन्दप्रीणनार्थाय दातव्यं पुरुषर्षभ॥ इति।
+'''
+
+description_en = '''
+`phAlguna-mAsaH` begins today. From the Skanda Purāṇa: He who observes ekabhakta (one meal a day) regularly throughout the month of Phālguna gains saubhāgya among women, and becomes extremely dear to them. From the Vāmana Purāṇa: During Phālguna, one should offer rice, cows, and cloth along with kṛṣṇājina (black antelope skin) as a gift to please Govinda (Viṣṇu).
+'''
+
+[names]
+sa = ["फाल्गुन-मास-आरम्भः"]
++++

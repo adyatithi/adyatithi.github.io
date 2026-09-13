@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ $festivals := where .Site.RegularPages "Section" "festivals" }}
+<section class="hero">
+  <div class="wrap">
+    <p class="hero__deva">अद्यतिथि</p>
+    <h1>Adyatithi</h1>
+    <p class="hero__tagline">{{ .Site.Params.tagline }}</p>
+    <p class="hero__stat">{{ len $festivals }} festivals catalogued, browsable by month, devatā, tithi, nakṣatra and tag.</p>
+  </div>
+</section>
+
+<section class="wrap">
+  {{ partial "pill-filters.html" . }}
+</section>
+
+<section class="wrap">
+  <h2 class="section-title">All festivals</h2>
+  <div class="card-grid" id="card-grid">
+    {{ range $festivals.ByTitle }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+  <p id="no-results" class="muted" hidden>No festivals match the current filters.</p>
+</section>
+{{ end }}

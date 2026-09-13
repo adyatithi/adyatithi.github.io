@@ -1,0 +1,51 @@
++++
+title = "वैशाख-मास-आरम्भः"
+id = "vaizAkha-mAsa-ArambhaH"
+slug = "vaizakha-masa-arambhah"
+source_path = "time_focus/misc/lunar_month/tithi/02/01/vaizAkha-mAsa-ArambhaH.toml"
+tags = ["SpecialDays", "SpecialPeriodStart"]
+month = ["Vaiśākha"]
+tithi = ["Pratipat"]
+category = ["Calendrical Specials"]
+timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Pratipat"
+"references" = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+
+shlokas = '''
+वैशाखे मासि यो दद्यात् तक्रं तापविनाशनम्॥४१॥
+विद्यावान् धनवान् भूमौ जायते नात्र संशयः।
+न तक्रसदृशं दानं घर्मकालेषु विद्यते॥४२॥
+तस्मात्तक्रं प्रदातव्यमध्वश्रान्तद्विजातये।
+जम्बीरसुरसोपेतं लसल्लवणमिश्रितम्॥४३॥
+यस्तक्रमरुचिघ्नं तु दत्त्वा मोक्षमवाप्नुयात्।
+यो दद्याद्दधिखण्डं तु वैशाखे घर्मशान्तये॥४४॥
+तस्य पुण्यफलं वक्तुं नाहं शक्नोमि भूमिप।
+यो दद्यात् तण्डुलान् दिव्यान् मधुसूदनवल्लभे॥४५॥
+स लभेत् पूर्णमायुष्यं सर्वयज्ञफलं लभेत्।
+यो घृतं तेजसो रूपं गव्यं दद्याद् द्विजातये॥
+सोऽश्वमेधफलं प्राप्य मोदते विष्णुमन्दिरे॥४६॥
+उर्वारुगुडसम्मिश्रं वैशाखे मेषगे रवौ।
+सर्वपापविनिर्मुक्तः श्वेतद्वीपे वसेद् ध्रुवम्॥४७॥
+यश्चेक्षुदण्डं सायाह्ने दिवा तापोपशान्तये।
+ब्राह्मणाय च यो दद्यात् तस्य पुण्यमनन्तकम्॥४८॥
+वैशाखे पानकं दत्त्वा सायाह्ने श्रमशान्तये।
+सर्वपापविनिर्मुक्तो विष्णोः सायुज्यमाप्नुयात्॥४९॥
+सफलं पानकं मेषमासे सायं द्विजातये।
+दद्यात् तेन पितॄणां तु सुधापानं न संशयः॥५०॥
+वैशाखे पानकं चूतसुपक्वफलसंयुतम्।
+तस्य सर्वाणि पापानि विनाशं यान्ति निश्चितम्॥५१॥
+—स्कन्दपुराणे द्वितीये वैष्णवखण्डे वैशाखमाहात्म्ये तृतीये अध्याये
+वैशाखकृत्यं महाभारते---
+निश्चरेदेकभक्तेन वैशाखे यो जितेन्द्रियः।
+प्रातःस्नायी नरः स्त्री वा जातीनां श्रेष्ठतां व्रजेत्॥ इति।
+वामनपुराणे---
+गन्धमाल्यानि च तथा वैशाखे सुरभीणि च।
+देयानि द्विजमुख्येभ्यो मधुसूदनतुष्टये॥ इति।
+'''
+
+description_en = '''
+`vaizAkha-mAsaH` begins today --- special for various `dAnam`'s such as buttermilk, `pAnakam` etc. Brings unlimited `puNyam`! In the Mahābhārata, it is said that one who, with controlled senses (jitendriyaḥ), observes the month of Vaiśākha with ekabhakta discipline (one meal a day), and bathes early in the morning — whether man or woman — attains excellence among their community. In the Vāmana Purāṇa, it is stated that during Vaiśākha, one should offer fragrant garlands and perfumes to distinguished brāhmaṇas to please Madhusūdana (Viṣṇu).
+'''
+
+[names]
+sa = ["वैशाख-मास-आरम्भः"]
++++

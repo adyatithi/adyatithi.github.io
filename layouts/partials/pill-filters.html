@@ -1,0 +1,33 @@
+{{/* Renders the interactive pill filter bar. Each pill is a real link to
+     its taxonomy term page (works with JS off), and also carries data
+     attributes so filter.js can intercept clicks and filter in place. */}}
+<div class="filter-bar" id="filter-bar">
+  <div class="filter-bar__row filter-bar__row--search">
+    <input type="search" id="search-input" placeholder="Search festivals, shlokas, descriptions…" aria-label="Search festivals">
+    <button type="button" id="clear-filters" class="pill pill--clear" hidden>Clear filters ✕</button>
+  </div>
+
+  {{ $groups := slice
+      (dict "key" "month" "label" "Month" "tax" .Site.Taxonomies.month)
+      (dict "key" "devata" "label" "Devatā" "tax" .Site.Taxonomies.devata)
+      (dict "key" "tithi" "label" "Tithi" "tax" .Site.Taxonomies.tithi)
+      (dict "key" "nakshatra" "label" "Nakṣatra" "tax" .Site.Taxonomies.nakshatra)
+      (dict "key" "tags" "label" "Tags" "tax" .Site.Taxonomies.tags)
+      (dict "key" "category" "label" "Category" "tax" .Site.Taxonomies.category)
+  }}
+  {{ range $groups }}
+    {{ if .tax }}
+    <div class="filter-bar__row">
+      <span class="filter-bar__label">{{ .label }}</span>
+      <div class="filter-bar__pills">
+        {{ $key := .key }}
+        {{ range .tax.Alphabetical }}
+          <a href="{{ .Page.RelPermalink }}" class="pill pill--filter" data-tax="{{ $key }}" data-term="{{ .Page.Title | urlize }}">
+            {{ .Page.Title }} <span class="pill__count">{{ .Count }}</span>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+</div>
