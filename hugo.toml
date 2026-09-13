@@ -1,7 +1,6 @@
 baseURL = "https://adyatithi.github.io/"
 locale = "en-us"
 title = "Adyatithi"
-theme = ""
 enableRobotsTXT = true
 pygmentsUseClasses = true
 removePathAccents = true
