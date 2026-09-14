@@ -9,7 +9,7 @@ rashi = ["Meṣa"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "चन्द्रोदयः"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
 
 shlokas = '''
 चित्रगुप्तं महाप्राज्ञं लेखनीपत्रधारिणम्।

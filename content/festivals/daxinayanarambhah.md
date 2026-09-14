@@ -6,7 +6,7 @@ slug = "daxinayanarambhah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/05/01/daxiNAyanArambhaH.toml"
 rashi = ["Siṃha"]
 category = ["Calendrical Specials"]
-timing_summary = "Siṃha (सिंह) rāśi, tropical"
+timing_summary = "Siṃha (सिंह) māsa, tropical"
 
 description_en = '''
 Summer solstice.

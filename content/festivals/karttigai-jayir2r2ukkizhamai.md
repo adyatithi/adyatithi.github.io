@@ -7,7 +7,7 @@ source_path = "time_focus/vaara_conditioned/kArttigai~JAyir2r2ukkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
 rashi = ["Vṛścika"]
 category = ["Calendrical Specials"]
-timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal"
+timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal"
 
 description_en = '''
 Do puja to Surya/Suryanamaskaram.

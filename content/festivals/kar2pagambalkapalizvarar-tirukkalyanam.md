@@ -10,7 +10,7 @@ tithi = ["Pūrṇimā"]
 category = ["Temple Festivals"]
 kaala = "चन्द्रोदयः"
 priority_rule = "paraviddha"
-timing_summary = "Mīna (मीन) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
+timing_summary = "Mīna (मीन) māsa, sidereal, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
 
 [names]
 ta = ["kaṟpagāmbāḻ–kapālīśvarar tirukkalyāṇam"]

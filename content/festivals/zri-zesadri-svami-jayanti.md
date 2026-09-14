@@ -11,7 +11,7 @@ nakshatra = ["Hasta"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Makara (मकर) rāśi, sidereal, Hasta nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) māsa, sidereal, Hasta nakṣatra, at प्रातः"
 
 shlokas = '''
 करुणासागरं शान्तम् अरुणाचलवासिनम्।

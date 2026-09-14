@@ -10,7 +10,7 @@ nakshatra = ["Śravaṇa"]
 category = ["Tamil Traditions"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, sidereal, Śravaṇa nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) māsa, sidereal, Śravaṇa nakṣatra, at प्रातः"
 
 [names]
 ta = ["oṇam"]

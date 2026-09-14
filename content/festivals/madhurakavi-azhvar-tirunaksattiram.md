@@ -11,7 +11,7 @@ nakshatra = ["Citrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Citrā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Citrā nakṣatra, at प्रातः"
 
 [names]
 ta = ["madhurakavi āl̤vār tirunakṣattiram"]

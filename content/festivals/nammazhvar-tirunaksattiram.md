@@ -11,7 +11,7 @@ nakshatra = ["Viśākhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Viśākhā nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) māsa, sidereal, Viśākhā nakṣatra, at प्रातः"
 
 [names]
 ta = ["nammāl̤vār tirunakṣattiram"]

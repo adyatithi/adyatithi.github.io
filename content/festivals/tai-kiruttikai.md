@@ -11,7 +11,7 @@ nakshatra = ["Kṛttikā"]
 category = ["Devatā Observances"]
 kaala = "सूर्योदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Makara (मकर) rāśi, sidereal, Kṛttikā nakṣatra, at सूर्योदयः"
+timing_summary = "Makara (मकर) māsa, sidereal, Kṛttikā nakṣatra, at सूर्योदयः"
 
 [names]
 ta = ["tai kiruttikai"]

@@ -10,7 +10,7 @@ rashi = ["Siṃha"]
 nakshatra = ["Rohiṇī"]
 category = ["Devatā Observances"]
 kaala = "निशीथः"
-timing_summary = "Siṃha (सिंह) rāśi, sidereal, Rohiṇī nakṣatra, at निशीथः"
+timing_summary = "Siṃha (सिंह) māsa, sidereal, Rohiṇī nakṣatra, at निशीथः"
 
 [names]
 sa = ["श्री-जयन्ती (निशीथ-कालानुसारम्)"]

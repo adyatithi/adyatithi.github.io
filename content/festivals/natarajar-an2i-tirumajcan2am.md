@@ -10,7 +10,7 @@ nakshatra = ["Uttara Phalgunī"]
 category = ["Temple Festivals"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "paraviddha"
-timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्राक्तनारुणोदयः"
+timing_summary = "Mithuna (मिथुन) māsa, sidereal, Uttara Phalgunī nakṣatra, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।

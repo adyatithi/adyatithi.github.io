@@ -11,7 +11,7 @@ tithi = ["Amāvāsyā"]
 category = ["Devatā Observances"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, sidereal, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
+timing_summary = "Siṃha (सिंह) māsa, sidereal, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
 
 shlokas = '''
 कृत्यसारसमुच्चयः---

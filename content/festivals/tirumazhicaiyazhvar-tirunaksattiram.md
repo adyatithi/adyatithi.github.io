@@ -11,7 +11,7 @@ nakshatra = ["Maghā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Makara (मकर) rāśi, sidereal, Maghā nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) māsa, sidereal, Maghā nakṣatra, at प्रातः"
 
 [names]
 ta = ["tirumal̤icaiyāl̤vār tirunakṣattiram"]

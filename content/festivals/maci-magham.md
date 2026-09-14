@@ -9,7 +9,7 @@ rashi = ["Kumbha"]
 nakshatra = ["Maghā"]
 category = ["General Observances"]
 kaala = "मध्याह्नः~(त्रेधा)"
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Maghā nakṣatra, at मध्याह्नः~(त्रेधा)"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Maghā nakṣatra, at मध्याह्नः~(त्रेधा)"
 
 [names]
 ta = ["māci magham"]

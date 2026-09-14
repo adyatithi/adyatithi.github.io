@@ -11,7 +11,7 @@ nakshatra = ["Punarvasu"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Punarvasu nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Punarvasu nakṣatra, at प्रातः"
 
 [names]
 ta = ["kulaśekhara āl̤vār tirunakṣattiram"]

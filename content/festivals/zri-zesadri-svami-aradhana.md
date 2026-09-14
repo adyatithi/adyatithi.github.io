@@ -11,7 +11,7 @@ tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
 
 shlokas = '''
 करुणासागरं शान्तम् अरुणाचलवासिनम्।

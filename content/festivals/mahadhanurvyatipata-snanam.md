@@ -9,7 +9,7 @@ rashi = ["Dhanu"]
 category = ["Calendrical Specials"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, at प्राक्तनारुणोदयः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 पुष्ये च जन्मनक्षत्रे व्यतीपाते च वैधृतौ।

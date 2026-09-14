@@ -9,7 +9,7 @@ rashi = ["Makara"]
 tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
 priority_rule = "puurvaviddha"
-timing_summary = "Makara (मकर) rāśi, tropical, Śukla Pakṣa Pūrṇimā"
+timing_summary = "Makara (मकर) māsa, tropical, Śukla Pakṣa Pūrṇimā"
 
 [names]
 sa = ["आर्तव-तैत्तिरीय-उत्सर्गः पौर्णमास्याम्"]

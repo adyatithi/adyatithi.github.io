@@ -9,7 +9,7 @@ tradition = ["Śṛṅgeri Maṭha"]
 rashi = ["Dhanu"]
 nakshatra = ["Mṛgaśira"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Mṛgaśira nakṣatra"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Mṛgaśira nakṣatra"
 
 [names]
 sa = ["अन्धकासुर-वधः"]

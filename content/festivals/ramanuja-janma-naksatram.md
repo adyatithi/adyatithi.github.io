@@ -9,7 +9,7 @@ tradition = ["Vaiṣṇava Ācāryas"]
 rashi = ["Meṣa"]
 nakshatra = ["Ārdrā"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Ārdrā nakṣatra"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Ārdrā nakṣatra"
 
 [names]
 ta = ["rāmānujar tirunakṣattiram"]

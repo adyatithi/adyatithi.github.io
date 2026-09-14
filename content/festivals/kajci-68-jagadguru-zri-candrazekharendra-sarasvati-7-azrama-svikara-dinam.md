@@ -11,7 +11,7 @@ nakshatra = ["Uttara Bhādrapadā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Uttara Bhādrapadā nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Uttara Bhādrapadā nakṣatra, at प्रातः"
 
 description_en = '''
 `jagadguru zrI~candrazEkharEndra sarasvatI 7` was inducted into `sannyAsAzramam` on Friday, 15th February 1907, `parAbhava` year, `kumbha/adhika phAlguna mAsa zukla tRtIyA bhRguvAsaraH uttaraprOSThapadA nakSatram`.

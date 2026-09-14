@@ -10,7 +10,7 @@ nakshatra = ["Śravaṇa"]
 category = ["Temple Festivals"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Śravaṇa nakṣatra, at साङ्गवः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Śravaṇa nakṣatra, at साङ्गवः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।

@@ -10,7 +10,7 @@ tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
 kaala = "मध्याह्नः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, tropical, Śukla Pakṣa Pūrṇimā, at मध्याह्नः"
+timing_summary = "Siṃha (सिंह) māsa, tropical, Śukla Pakṣa Pūrṇimā, at मध्याह्नः"
 
 [names]
 sa = ["आर्तव-यजुर्वेद-उपाकर्म"]

@@ -11,7 +11,7 @@ nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mīna (मीन) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) māsa, sidereal, Svātī nakṣatra, at प्रातः"
 
 description_en = '''
 `jagadguru zrI~jayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 22nd March 1954, `vijaya` year, `mIna/phAlguna mAsa kRSNa dvitIyA sOmavAsaraH citrA upari svAtI nakSatram`.

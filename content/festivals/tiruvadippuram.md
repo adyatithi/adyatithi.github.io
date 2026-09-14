@@ -11,7 +11,7 @@ nakshatra = ["Pūrva Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Karka (कर्क) rāśi, sidereal, Pūrva Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) māsa, sidereal, Pūrva Phalgunī nakṣatra, at प्रातः"
 
 shlokas = '''
 श्रीविष्णुचित्त-कुलकल्पकनन्दवल्लीम्

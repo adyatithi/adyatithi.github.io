@@ -10,7 +10,7 @@ nakshatra = ["Uttara Phalgunī"]
 category = ["General Observances"]
 kaala = "मध्याह्नः~(त्रेधा)"
 priority_rule = "paraviddha"
-timing_summary = "Mīna (मीन) rāśi, sidereal, Uttara Phalgunī nakṣatra, at मध्याह्नः~(त्रेधा)"
+timing_summary = "Mīna (मीन) māsa, sidereal, Uttara Phalgunī nakṣatra, at मध्याह्नः~(त्रेधा)"
 
 [names]
 ta = ["paṅguṉi uttiram"]

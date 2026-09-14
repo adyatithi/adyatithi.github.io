@@ -11,7 +11,7 @@ nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Svātī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''

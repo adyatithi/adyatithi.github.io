@@ -8,7 +8,7 @@ tags = ["TamilnaduTempleFestivals"]
 rashi = ["Kumbha"]
 tithi = ["Pūrṇimā"]
 category = ["Temple Festivals"]
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Śukla Pakṣa Pūrṇimā"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Śukla Pakṣa Pūrṇimā"
 
 description_en = '''
 The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the three temple chariots are dragged and the festival is conducted for twelve days, concluding with a Teppam or Float Festival. This marks the final day of the festival.

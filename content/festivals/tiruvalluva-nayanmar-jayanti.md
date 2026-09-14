@@ -11,7 +11,7 @@ nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Anurādhā nakṣatra, at साङ्गवः"
+timing_summary = "Vṛṣabha (वृषभ) māsa, sidereal, Anurādhā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 पुण्ये वैशाखमासे यो मित्रर्क्षे समवातरत्।

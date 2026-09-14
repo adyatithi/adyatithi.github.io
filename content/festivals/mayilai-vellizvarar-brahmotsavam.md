@@ -7,7 +7,7 @@ source_path = "temples/Tamil/sidereal_solar_month/day/02/08/mayilai~veLLIzvarar~
 tags = ["TamilnaduTempleFestivals"]
 rashi = ["Vṛṣabha"]
 category = ["Temple Festivals"]
-timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal"
+timing_summary = "Vṛṣabha (वृषभ) māsa, sidereal"
 
 description_en = '''
 Enactment of restoration of eyesight of Shukracharya.

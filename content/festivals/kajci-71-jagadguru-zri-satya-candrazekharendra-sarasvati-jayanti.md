@@ -11,7 +11,7 @@ nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Śatabhiṣā nakṣatra, at साङ्गवः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Śatabhiṣā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 सत्यनारायणक्षेत्रात् सत्यव्रतसमागतम्।

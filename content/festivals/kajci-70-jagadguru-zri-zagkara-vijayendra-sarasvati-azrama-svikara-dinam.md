@@ -11,7 +11,7 @@ nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) māsa, sidereal, Mūla nakṣatra, at प्रातः"
 
 description_en = '''
 `jagadguru zrI~zaGkara vijayEndra sarasvatI` was inducted into the `kAmakOTi-pITham` on 29th May 1983, `rudhirOdgArI` year, `vRSabha/vaizAkha mAsa kRSNa tRtIyA bhAnuvAsaraH mUlA nakSatram`.

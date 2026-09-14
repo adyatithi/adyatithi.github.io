@@ -11,7 +11,7 @@ tithi = ["Trayodaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
 
 [names]
 sa = ["रमण-महर्षि-आराधना"]

@@ -11,7 +11,7 @@ tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Tulā (तुला) rāśi, sidereal, Kṛṣṇa Pakṣa Ṣaṣṭhī, at अपराह्णः"
+timing_summary = "Tulā (तुला) māsa, sidereal, Kṛṣṇa Pakṣa Ṣaṣṭhī, at अपराह्णः"
 "references" = ["Vaidikasri Nov 2017"]
 
 description_en = '''

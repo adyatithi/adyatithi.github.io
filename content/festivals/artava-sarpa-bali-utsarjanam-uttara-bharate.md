@@ -8,7 +8,7 @@ tags = ["LessCommonFestivals"]
 rashi = ["Dhanu"]
 tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
-timing_summary = "Dhanu (धनु) rāśi, tropical, Śukla Pakṣa Pūrṇimā"
+timing_summary = "Dhanu (धनु) māsa, tropical, Śukla Pakṣa Pūrṇimā"
 
 description_en = '''
 Offer final `bali` to serpents on to this day, in the night after `sthAlIpAka`.

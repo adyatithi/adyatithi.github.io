@@ -10,7 +10,7 @@ rashi = ["Dhanu"]
 nakshatra = ["Ārdrā"]
 category = ["Devatā Observances"]
 kaala = "प्राक्तनारुणोदयः"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Ārdrā nakṣatra, at प्राक्तनारुणोदयः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Ārdrā nakṣatra, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं सदाशिवं रुद्रमनन्तरूपम्।

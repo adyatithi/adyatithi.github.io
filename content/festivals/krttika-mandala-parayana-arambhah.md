@@ -7,7 +7,7 @@ source_path = "time_focus/misc/sidereal_solar_month/day/08/01/kRttikA-maNDala-pA
 tags = ["SpecialPeriodStart", "CommonFestivals"]
 rashi = ["Vṛścika"]
 category = ["Calendrical Specials"]
-timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal"
+timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal"
 
 description_en = '''
 Conduct Veda parayanam in the evening, during (or at least on one of) these 48 days.

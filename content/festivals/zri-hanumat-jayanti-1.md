@@ -9,7 +9,7 @@ devata = ["Vaiṣṇava"]
 rashi = ["Dhanu"]
 tithi = ["Amāvāsyā"]
 category = ["Devatā Observances"]
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Kṛṣṇa Pakṣa Amāvāsyā"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Kṛṣṇa Pakṣa Amāvāsyā"
 
 shlokas = '''
 आश्विनस्यासिते पक्षे भूतायां च महानिशि।

@@ -9,7 +9,7 @@ rashi = ["Meṣa"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Temple Festivals"]
 kaala = "मध्याह्नः"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Uttara Phalgunī nakṣatra, at मध्याह्नः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Uttara Phalgunī nakṣatra, at मध्याह्नः"
 
 [names]
 ta = ["mīṉākṣī tirukkalyāṇam"]

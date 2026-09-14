@@ -7,7 +7,7 @@ source_path = "time_focus/vaara_conditioned/puraTTAci~can2ikkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
 rashi = ["Kanyā"]
 category = ["Calendrical Specials"]
-timing_summary = "Kanyā (कन्या) rāśi, sidereal"
+timing_summary = "Kanyā (कन्या) māsa, sidereal"
 
 description_en = '''
 Perform special puja and naivedyam (e.g. `tilAnnam`) to Shri Venkateshwara.

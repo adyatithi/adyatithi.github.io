@@ -8,7 +8,7 @@ tags = ["LessCommonFestivals"]
 rashi = ["Siṃha"]
 tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
-timing_summary = "Siṃha (सिंह) rāśi, tropical, Śukla Pakṣa Pūrṇimā"
+timing_summary = "Siṃha (सिंह) māsa, tropical, Śukla Pakṣa Pūrṇimā"
 
 description_en = '''
 Offer `bali` to serpents on (from) this day, in the night after `sthAlIpAka`.

@@ -11,7 +11,7 @@ tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Makara (मकर) rāśi, sidereal, Kṛṣṇa Pakṣa Dvādaśī, at अपराह्णः"
+timing_summary = "Makara (मकर) māsa, sidereal, Kṛṣṇa Pakṣa Dvādaśī, at अपराह्णः"
 
 [names]
 sa = ["सेङ्गालिपुरम्-मुत्तण्णावाळ्-आराधना"]

@@ -10,7 +10,7 @@ nakshatra = ["Mūla"]
 category = ["Tamil Traditions"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) māsa, sidereal, Mūla nakṣatra, at प्रातः"
 
 [names]
 ta = ["piṭṭukku maṇ cumanda līlai"]

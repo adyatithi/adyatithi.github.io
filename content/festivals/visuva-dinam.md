@@ -6,7 +6,7 @@ slug = "visuva-dinam"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/02/01/viSuva-dinam.toml"
 rashi = ["Vṛṣabha"]
 category = ["Calendrical Specials"]
-timing_summary = "Vṛṣabha (वृषभ) rāśi, tropical"
+timing_summary = "Vṛṣabha (वृषभ) māsa, tropical"
 
 description_en = '''
 Vernal equinox

@@ -11,7 +11,7 @@ nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Kṛttikā nakṣatra, at प्रातः"
 
 [names]
 sa = ["श्याम-शास्त्री-जन्मदिनम्"]

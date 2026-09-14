@@ -10,7 +10,7 @@ tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
 kaala = "सूर्योदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Tulā (तुला) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at सूर्योदयः"
+timing_summary = "Tulā (तुला) māsa, sidereal, Śukla Pakṣa Pūrṇimā, at सूर्योदयः"
 "references" = ["Vaidikasri Nov 2017"]
 
 description_en = '''

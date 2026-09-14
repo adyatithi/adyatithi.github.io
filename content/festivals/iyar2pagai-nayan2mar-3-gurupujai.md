@@ -11,7 +11,7 @@ nakshatra = ["Uttara Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''

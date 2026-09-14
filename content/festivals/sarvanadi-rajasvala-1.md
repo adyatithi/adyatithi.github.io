@@ -8,7 +8,7 @@ tags = ["CommonFestivals"]
 devata = ["Nadī (River)"]
 rashi = ["Karka"]
 category = ["Devatā Observances"]
-timing_summary = "Karka (कर्क) rāśi, sidereal"
+timing_summary = "Karka (कर्क) māsa, sidereal"
 
 shlokas = '''
 अत्रिः---

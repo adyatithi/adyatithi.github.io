@@ -7,7 +7,7 @@ source_path = "general/sidereal_solar_month/day/07/01/AkAzadIpa-ArambhaH.toml"
 tags = ["LessCommonFestivals"]
 rashi = ["Tulā"]
 category = ["General Observances"]
-timing_summary = "Tulā (तुला) rāśi, sidereal"
+timing_summary = "Tulā (तुला) māsa, sidereal"
 
 shlokas = '''
 तुलायां  तिलतैलेन  सायङ्काले  समागते।

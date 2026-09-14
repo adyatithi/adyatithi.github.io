@@ -11,7 +11,7 @@ tithi = ["Dvitīyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Kṛṣṇa Pakṣa Dvitīyā, at अपराह्णः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Kṛṣṇa Pakṣa Dvitīyā, at अपराह्णः"
 
 description_en = '''
 Swami Gnanananda Giri is a famous saint, who performed several years of penance in the Himalayas and performed pilgrimage across Bharatam for several decades. He set up an ashram at Tirukkovilur which is popularly known as Tapovanam, where He finally shed his mortal coils on `mArgazIrSa-kRSNa-dvitIyA` in 1974.

@@ -283,7 +283,7 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
         iast, deva = RASHIS[month_num]
         record["rashi"] = [iast]
         qualifier = "tropical" if month_type == "tropical" else "sidereal"
-        record["timing_summary_parts"].append(f"{iast} ({deva}) rāśi, {qualifier}")
+        record["timing_summary_parts"].append(f"{iast} ({deva}) māsa, {qualifier}")
     elif (
         month_type in ("gregorian", "julian")
         and isinstance(month_num, int)

@@ -8,7 +8,7 @@ tradition = ["Kings & Dynasties"]
 rashi = ["Tulā"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Tulā (तुला) rāśi, sidereal, Śatabhiṣā nakṣatra"
+timing_summary = "Tulā (तुला) māsa, sidereal, Śatabhiṣā nakṣatra"
 
 description_en = '''
 On this day (starting from his coronation year), `rAjarAja cOzha` is commemorated by offerings to Bhagavan Shiva and the poor - especially at the `taJjAvUr bRhadIshvara` temple. This event is aka ‘Sathaya Vizha’.

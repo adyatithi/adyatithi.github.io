@@ -11,7 +11,7 @@ nakshatra = ["Rohiṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Karka (कर्क) rāśi, sidereal, Rohiṇī nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) māsa, sidereal, Rohiṇī nakṣatra, at प्रातः"
 
 [names]
 ta = ["tiruppāṇāl̤vār tirunakṣattiram"]

@@ -11,7 +11,7 @@ nakshatra = ["Puṣya"]
 category = ["Devatā Observances"]
 kaala = "रात्रिमानम्"
 priority_rule = "puurvaviddha"
-timing_summary = "Makara (मकर) rāśi, sidereal, Puṣya nakṣatra, at रात्रिमानम्"
+timing_summary = "Makara (मकर) māsa, sidereal, Puṣya nakṣatra, at रात्रिमानम्"
 
 [names]
 ta = ["taippūcam"]

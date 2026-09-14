@@ -11,7 +11,7 @@ nakshatra = ["Uttara Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Uttara Āṣāḍha nakṣatra, at साङ्गवः"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Uttara Āṣāḍha nakṣatra, at साङ्गवः"
 
 shlokas = '''
 नमामः शङ्करान्वाख्य-विजयेन्द्रसरस्वतीम्।

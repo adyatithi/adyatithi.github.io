@@ -11,7 +11,7 @@ nakshatra = ["Punarvasu"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Punarvasu nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Punarvasu nakṣatra, at प्रातः"
 
 [names]
 sa = ["रमण-महर्षि-जयन्ती"]

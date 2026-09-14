@@ -7,7 +7,7 @@ source_path = "general/sidereal_solar_month/day/01/01/nimba-kusuma-bhakSaNam.tom
 tags = ["LessCommonFestivals"]
 rashi = ["Meṣa"]
 category = ["General Observances"]
-timing_summary = "Meṣa (मेष) rāśi, sidereal"
+timing_summary = "Meṣa (मेष) māsa, sidereal"
 
 shlokas = '''
 शतायुर्वज्रदेहाय सर्वसम्पत्कराय च।

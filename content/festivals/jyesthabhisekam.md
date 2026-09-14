@@ -8,7 +8,7 @@ devata = ["Vaiṣṇava"]
 rashi = ["Mithuna"]
 nakshatra = ["Jyeṣṭhā"]
 category = ["Devatā Observances"]
-timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Jyeṣṭhā nakṣatra"
+timing_summary = "Mithuna (मिथुन) māsa, sidereal, Jyeṣṭhā nakṣatra"
 
 [names]
 ta = ["jyeṣṭhābhiṣekam"]

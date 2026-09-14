@@ -11,7 +11,7 @@ tithi = ["Trayodaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Makara (मकर) rāśi, sidereal, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
+timing_summary = "Makara (मकर) māsa, sidereal, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
 "references" = ["https://mahaperiyavaa.blog/2016/02/06/sri-angaraitriplicane-periyava-aradhana/"]
 
 description_en = '''

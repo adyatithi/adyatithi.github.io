@@ -8,7 +8,7 @@ tags = ["TamilnaduTempleFestivals"]
 rashi = ["Makara"]
 tithi = ["Amāvāsyā"]
 category = ["Temple Festivals"]
-timing_summary = "Makara (मकर) rāśi, sidereal, Kṛṣṇa Pakṣa Amāvāsyā"
+timing_summary = "Makara (मकर) māsa, sidereal, Kṛṣṇa Pakṣa Amāvāsyā"
 
 [names]
 ta = ["tirunèlveli nèllaiyappar patra dīpa tiruvil̤ā"]

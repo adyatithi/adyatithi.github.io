@@ -9,7 +9,7 @@ rashi = ["Siṃha"]
 nakshatra = ["Hasta"]
 category = ["Gṛhya Rites"]
 priority_rule = "puurvaviddha"
-timing_summary = "Siṃha (सिंह) rāśi, tropical, Hasta nakṣatra"
+timing_summary = "Siṃha (सिंह) māsa, tropical, Hasta nakṣatra"
 
 [names]
 sa = ["आर्तव-तैत्तिरीय-उपाकर्म हस्ते"]

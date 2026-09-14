@@ -10,7 +10,7 @@ tithi = ["Amāvāsyā"]
 category = ["Calendrical Specials"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, tropical, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
+timing_summary = "Siṃha (सिंह) māsa, tropical, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
 
 [names]
 sa = ["दर्भ-सङ्ग्रह आर्तव-चान्द्रः ५"]

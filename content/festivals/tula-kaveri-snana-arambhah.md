@@ -8,7 +8,7 @@ devata = ["Nadī (River)"]
 rashi = ["Tulā"]
 category = ["Devatā Observances"]
 kaala = "braahma"
-timing_summary = "Tulā (तुला) rāśi, sidereal, at braahma"
+timing_summary = "Tulā (तुला) māsa, sidereal, at braahma"
 
 shlokas = '''
 षट्षष्टिकोटितीर्थानि द्विसप्तभुवनेषु च।

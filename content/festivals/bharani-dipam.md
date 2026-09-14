@@ -10,7 +10,7 @@ nakshatra = ["Bharaṇī"]
 category = ["Tamil Traditions"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
-timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Bharaṇī nakṣatra, at सूर्योदयः"
+timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal, Bharaṇī nakṣatra, at सूर्योदयः"
 
 [names]
 ta = ["bharaṇī dīpam"]

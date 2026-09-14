@@ -11,7 +11,7 @@ nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mīna (मीन) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) māsa, sidereal, Kṛttikā nakṣatra, at प्रातः"
 
 [names]
 sa = ["मुत्तुस्वामि-दीक्षित-जन्मदिनम्"]

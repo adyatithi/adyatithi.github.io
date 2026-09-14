@@ -6,7 +6,7 @@ slug = "daxina-visuva-dinam"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/08/01/daxiNa-viSuva-dinam.toml"
 rashi = ["Vṛścika"]
 category = ["Calendrical Specials"]
-timing_summary = "Vṛścika (वृश्चिक) rāśi, tropical"
+timing_summary = "Vṛścika (वृश्चिक) māsa, tropical"
 
 description_en = '''
 Vernal equinox

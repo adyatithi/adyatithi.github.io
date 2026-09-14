@@ -11,7 +11,7 @@ nakshatra = ["Jyeṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Dhanu (धनु) rāśi, sidereal, Jyeṣṭhā nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) māsa, sidereal, Jyeṣṭhā nakṣatra, at प्रातः"
 
 [names]
 ta = ["tòṇḍaraḍippòḍiyāl̤vār tirunakṣattiram"]

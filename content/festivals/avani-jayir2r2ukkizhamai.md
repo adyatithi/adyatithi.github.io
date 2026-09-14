@@ -7,7 +7,7 @@ source_path = "time_focus/vaara_conditioned/AvaNi~JAyir2r2ukkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
 rashi = ["Siṃha"]
 category = ["Calendrical Specials"]
-timing_summary = "Siṃha (सिंह) rāśi, sidereal"
+timing_summary = "Siṃha (सिंह) māsa, sidereal"
 
 description_en = '''
 Do puja to Surya/Suryanamaskaram.

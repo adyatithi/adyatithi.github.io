@@ -11,7 +11,7 @@ nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Karka (कर्क) rāśi, sidereal, Anurādhā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) māsa, sidereal, Anurādhā nakṣatra, at प्रातः"
 "references" = ["Vaidikasri Nov 2009"]
 
 description_en = '''

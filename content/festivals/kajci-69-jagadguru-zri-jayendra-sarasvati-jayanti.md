@@ -11,7 +11,7 @@ nakshatra = ["Dhaniṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Karka (कर्क) rāśi, sidereal, Dhaniṣṭhā nakṣatra, at साङ्गवः"
+timing_summary = "Karka (कर्क) māsa, sidereal, Dhaniṣṭhā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 देवे देहे च देशे च भक्त्यारोग्य-सुख-प्रदम्।

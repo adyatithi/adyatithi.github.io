@@ -10,7 +10,7 @@ tithi = ["Caturdaśī"]
 category = ["Temple Festivals"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Kanyā (कन्या) rāśi, sidereal, Śukla Pakṣa Caturdaśī, at प्राक्तनारुणोदयः"
+timing_summary = "Kanyā (कन्या) māsa, sidereal, Śukla Pakṣa Caturdaśī, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।

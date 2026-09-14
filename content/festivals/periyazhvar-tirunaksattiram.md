@@ -11,7 +11,7 @@ nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) māsa, sidereal, Svātī nakṣatra, at प्रातः"
 
 [names]
 ta = ["pèriyāl̤vār tirunakṣattiram"]

@@ -10,7 +10,7 @@ tithi = ["Pūrṇimā"]
 category = ["Tamil Traditions"]
 kaala = "रात्रिमानम्"
 priority_rule = "puurvaviddha"
-timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at रात्रिमानम्"
+timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal, Śukla Pakṣa Pūrṇimā, at रात्रिमानम्"
 
 [names]
 ta = ["sarvālaya dīpam"]

@@ -11,7 +11,7 @@ nakshatra = ["Revatī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Makara (मकर) rāśi, sidereal, Revatī nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) māsa, sidereal, Revatī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''

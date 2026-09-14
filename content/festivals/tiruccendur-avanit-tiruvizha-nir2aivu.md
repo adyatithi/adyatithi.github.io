@@ -10,7 +10,7 @@ nakshatra = ["Viśākhā"]
 category = ["Temple Festivals"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Siṃha (सिंह) rāśi, sidereal, Viśākhā nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) māsa, sidereal, Viśākhā nakṣatra, at प्रातः"
 
 description_en = '''
 The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is conducted for twelve days. This marks the final day of the festival.

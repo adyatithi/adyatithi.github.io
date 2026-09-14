@@ -7,7 +7,7 @@ source_path = "general/sidereal_solar_month/day/06/01/vizvakarma~jayantI.toml"
 tags = ["OtherJayantis"]
 rashi = ["Kanyā"]
 category = ["General Observances"]
-timing_summary = "Kanyā (कन्या) rāśi, sidereal"
+timing_summary = "Kanyā (कन्या) māsa, sidereal"
 
 [names]
 sa = ["विश्वकर्म-जयन्ती"]

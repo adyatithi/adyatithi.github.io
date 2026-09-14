@@ -6,7 +6,7 @@ slug = "uttarayanarambhah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/11/01/uttarAyaNArambhaH.toml"
 rashi = ["Kumbha"]
 category = ["Calendrical Specials"]
-timing_summary = "Kumbha (कुम्भ) rāśi, tropical"
+timing_summary = "Kumbha (कुम्भ) māsa, tropical"
 
 description_en = '''
 Winter solstice.

@@ -11,7 +11,7 @@ nakshatra = ["Pūrva Bhādrapadā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Pūrva Bhādrapadā nakṣatra, at साङ्गवः"
+timing_summary = "Kumbha (कुम्भ) māsa, sidereal, Pūrva Bhādrapadā nakṣatra, at साङ्गवः"
 "references" = ["https://mahaperiyavaa.blog/2016/02/06/sri-angaraitriplicane-periyava-aradhana/"]
 
 description_en = '''

@@ -8,7 +8,7 @@ tags = ["OtherJayantis", "CommonFestivals"]
 tradition = ["Vaiṣṇava Ācāryas"]
 rashi = ["Vṛścika"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal"
+timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal"
 
 description_en = '''
 Celebration of completion of Narayaniyam (Kollam 762/1586 CE), in Guruvayur temple.

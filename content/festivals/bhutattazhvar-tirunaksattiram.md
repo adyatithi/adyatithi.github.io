@@ -11,7 +11,7 @@ nakshatra = ["Dhaniṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Tulā (तुला) rāśi, sidereal, Dhaniṣṭhā nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) māsa, sidereal, Dhaniṣṭhā nakṣatra, at प्रातः"
 
 [names]
 ta = ["bhūtattāl̤vār tirunakṣattiram"]

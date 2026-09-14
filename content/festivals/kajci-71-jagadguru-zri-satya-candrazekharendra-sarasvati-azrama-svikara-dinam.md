@@ -11,7 +11,7 @@ nakshatra = ["Rohiṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Meṣa (मेष) rāśi, sidereal, Rohiṇī nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) māsa, sidereal, Rohiṇī nakṣatra, at प्रातः"
 
 description_en = '''
 `jagadguru zrI~satya-candrazEkharEndra-sarasvatI` was inducted into the `kAmakOTi-pITham` on Akshaya Tritiya day, conjoined with Budhavasara and Rohini nakshatram (a rare and special occurrence), 30th April 2025, `vizvAvasu` year, `mESa/vaizAkha mAsa zukla tRtIyA saumyavAsaraH rohiNI nakSatram`.

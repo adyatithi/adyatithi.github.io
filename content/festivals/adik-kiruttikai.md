@@ -10,7 +10,7 @@ rashi = ["Karka"]
 nakshatra = ["Kṛttikā"]
 category = ["Devatā Observances"]
 kaala = "सूर्यास्तमयः"
-timing_summary = "Karka (कर्क) rāśi, sidereal, Kṛttikā nakṣatra, at सूर्यास्तमयः"
+timing_summary = "Karka (कर्क) māsa, sidereal, Kṛttikā nakṣatra, at सूर्यास्तमयः"
 
 description_en = '''
 Special puja for Subrahmanya Swami in temples.

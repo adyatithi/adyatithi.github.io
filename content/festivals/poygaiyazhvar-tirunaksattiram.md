@@ -11,7 +11,7 @@ nakshatra = ["Śravaṇa"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Tulā (तुला) rāśi, sidereal, Śravaṇa nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) māsa, sidereal, Śravaṇa nakṣatra, at प्रातः"
 
 [names]
 ta = ["pòygaiyāl̤vār tirunakṣattiram"]

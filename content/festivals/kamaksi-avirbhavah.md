@@ -11,7 +11,7 @@ nakshatra = ["Pūrva Phalgunī"]
 category = ["Devatā Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Tulā (तुला) rāśi, sidereal, Pūrva Phalgunī nakṣatra, at साङ्गवः"
+timing_summary = "Tulā (तुला) māsa, sidereal, Pūrva Phalgunī nakṣatra, at साङ्गवः"
 
 shlokas = '''
 कान्ता काम-दुघा करीन्द्र-गमना कामारि-वामाङ्क-गा
