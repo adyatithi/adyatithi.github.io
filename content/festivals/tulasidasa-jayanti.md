@@ -1,0 +1,15 @@
++++
+title = "तुलसीदास-जयन्ती"
+id = "tulasIdAsa~jayantI"
+slug = "tulasidasa-jayanti"
+source_path = "mahApuruSha/vaiShNava-misc/lunar_month/tithi/05/07/tulasIdAsa~jayantI.toml"
+tags = ["MahapurushaEvents"]
+tradition = ["Vaiṣṇava Ācāryas"]
+month = ["Śrāvaṇa"]
+tithi = ["Saptamī"]
+category = ["Mahāpuruṣa Observances"]
+timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Saptamī"
+
+[names]
+sa = ["तुलसीदास-जयन्ती"]
++++

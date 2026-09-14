@@ -1,0 +1,15 @@
++++
+title = "चिदम्बरे भिक्षाटन-स्वर्णरथः"
+id = "cidambarE_bhikSATana_svarNarathaH"
+slug = "cidambare-bhiksatana-svarnarathah"
+source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-2/cidambarE_bhikSATana_svarNarathaH.toml"
+tags = ["TamilnaduTempleFestivals"]
+category = ["Temple Festivals"]
+
+description_en = '''
+The Brahmotsavam of Nataraja at Chidambaram happens specially around the Aani Thirumanjana festival each year, for ten days. On this eighth day of the festival, Shiva appears as Bhikshatana. This form relates to the myth of Daruvana, the Daru Forest, where Shiva enlightened the rishis on devotion and advaita, and commenced his Cosmic Dance. As a naked mendicant, Bhikshatana, he implores us to surrender our ego into his begging bowl. Upon reaching the East Car Street, Bhagavan will be placed in the magnificent Golden Chariot for a procession around the four car streets. Late at night, after Bhikshatana returns, Somaskanda will ride around the city on a horse vahana.
+'''
+
+[names]
+sa = ["चिदम्बरे भिक्षाटन-स्वर्णरथः"]
++++

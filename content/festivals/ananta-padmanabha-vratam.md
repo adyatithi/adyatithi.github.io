@@ -1,0 +1,19 @@
++++
+title = "अनन्त-पद्मनाभ-व्रतम्"
+id = "ananta-padmanAbha-vratam"
+slug = "ananta-padmanabha-vratam"
+source_path = "devatA/vaiShNava/lunar_month/tithi/06/14/ananta-padmanAbha-vratam.toml"
+tags = ["SpecialPuja"]
+devata = ["Vaiṣṇava"]
+month = ["Bhādrapada"]
+tithi = ["Caturdaśī"]
+category = ["Devatā Observances"]
+timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Caturdaśī"
+
+description_en = '''
+Puja of Ananta Padmanabha.
+'''
+
+[names]
+sa = ["अनन्त-पद्मनाभ-व्रतम्"]
++++

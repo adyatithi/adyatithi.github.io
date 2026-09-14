@@ -1,0 +1,32 @@
++++
+title = "काञ्ची २५ जगद्गुरु-श्री-सच्चिदानन्दघनेन्द्र-सरस्वती-आराधना"
+id = "kAJcI_25_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_ArAdhanA"
+slug = "kajci-25-jagadguru-zri-saccidanandaghanendra-sarasvati-aradhana"
+source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/01/kAJcI_25_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_ArAdhanA.toml"
+tags = ["KanchiAradhanaDays"]
+tradition = ["Kāñcī Maṭha"]
+month = ["Āṣāḍha"]
+tithi = ["Pratipat"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "अपराह्णः"
+priority_rule = "vyaapti"
+timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
+"references" = ["www.kamakoti.org"]
+
+shlokas = '''
+श्रीमुष्णकृष्णतनयः शिवसाम्बनामा यस्त्रिः प्रदक्षिणितपुण्यमहिर्महात्मा।
+श्रीचित्सुखेन्द्रयमिनः श्रितशिष्यभावः श्रीशारदामठविभुः समभूत् स शान्तः॥५२॥
+यदीयवृत्तं निबबन्ध मन्थो निबन्धने सिद्धजयाभिधाने।
+स विंशतिं सैकसमाः स्वपीठे निषद्य नित्यत्वम् अवाप सद्यः॥५३॥
+अधिसप्ततिके चतुश्शिरस्के (४७०) सच्चिदानन्दघनः स सन् शकाब्दे।
+प्रभवे प्रभवन् शुचिश्च शुच्योः प्रथमायां पृथुलिङ्गताम् अवापत्॥५४॥
+—पुण्यश्लोकमञ्जरी
+'''
+
+description_en = '''
+The noble son of Śrīkṛṣṇa of Śrīmuṣṇa by name Śivasāmbha who went round the earth thrice, became a disciple of Śrīcitrukha through initiation, and later became the head of Śrī Śārada maṭha. He (Śrī Citsukhendra), whose biography was composed by Mantha in his work titled Siddhajaya adorned the Pīṭha for twenty-one years and attained immortal state. He, the austere, Saccidānandaghana attained immortality in the form of Śivaliṅga on the first day of the bright fortnight in the month of Āṣāḍha of Prabhava year in the Śaka era 470.
+'''
+
+[names]
+sa = ["काञ्ची २५ जगद्गुरु-श्री-सच्चिदानन्दघनेन्द्र-सरस्वती-आराधना"]
++++

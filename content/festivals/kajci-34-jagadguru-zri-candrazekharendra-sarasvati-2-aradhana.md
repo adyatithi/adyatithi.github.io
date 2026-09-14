@@ -1,0 +1,32 @@
++++
+title = "काञ्ची ३४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-२-आराधना"
+id = "kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA"
+slug = "kajci-34-jagadguru-zri-candrazekharendra-sarasvati-2-aradhana"
+source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/30/kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA.toml"
+tags = ["KanchiAradhanaDays"]
+tradition = ["Kāñcī Maṭha"]
+month = ["Mārgaśira"]
+tithi = ["Amāvāsyā"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "अपराह्णः"
+priority_rule = "vyaapti"
+timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
+"references" = ["www.kamakoti.org"]
+
+shlokas = '''
+सूनुर्वेगवतीतटोद्भवमहादेवाह्वयस्य श्रुतः
+शम्भुर्नाम दवाग्निदग्धपृथुकत्राणावगाढानलः।
+आचार्यस्य निदेशतः क्षितितलं सर्वं चरन् यश्चतुर्-
+वर्णान् स्वस्वपथाद्व्यधादगलितान् आचार्यपीठस्थितः॥६६॥
+श्रीचन्द्रशेखरेन्द्रोऽप्यध्युष्याष्टादश स्वमठम् अब्दान्।
+सौम्यः सौम्येऽन्तरधात् सहेऽतिसहनः सुदर्शनो दर्शे॥६७॥
+—पुण्यश्लोकमञ्जरी
+'''
+
+description_en = '''
+The preceptor, son of Mahādeva, who lived on the banks of river Vegavati, known by Bhagavan Śiva’s name, who entered into the dense forest fire to save the child, wandered through out the earth by the directions of his master and adorning the Pīṭha and made the four varṇas to adhere to their respective paths. The pleasing, elegant and enduring preceptor Sri Chandraśekarendra also having remained in his maṭha for eighteen years disappeared on the new moon day of the month of Mārgaśīrṣa in the year Saumya. His preceptorship was for eighteen years.
+'''
+
+[names]
+sa = ["काञ्ची ३४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-२-आराधना"]
++++

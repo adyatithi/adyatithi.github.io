@@ -1,0 +1,15 @@
++++
+title = "बदरी-गौरी-व्रतम्"
+id = "badarI-gaurI-vratam"
+slug = "badari-gauri-vratam"
+source_path = "devatA/umA/lunar_month/tithi/09/04/badarI-gaurI-vratam.toml"
+tags = ["SpecialVratam"]
+devata = ["Umā"]
+month = ["Mārgaśira"]
+tithi = ["Caturthī"]
+category = ["Devatā Observances"]
+timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Caturthī"
+
+[names]
+sa = ["बदरी-गौरी-व्रतम्"]
++++

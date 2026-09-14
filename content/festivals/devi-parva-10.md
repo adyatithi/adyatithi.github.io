@@ -1,0 +1,17 @@
++++
+title = "देवी-पर्व-१०"
+id = "devi-parva-10"
+slug = "devi-parva-10"
+source_path = "devatA/devIparva/lunar_month/tithi/10/15/devi-parva-10.toml"
+tags = ["Devi Parva"]
+devata = ["Devī Parva"]
+month = ["Pauṣa"]
+tithi = ["Pūrṇimā"]
+category = ["Devatā Observances"]
+kaala = "आश्विनः"
+priority_rule = "paraviddha"
+timing_summary = "Pauṣa (पौष) māsa, Śukla Pakṣa Pūrṇimā, at आश्विनः"
+
+[names]
+sa = ["देवी-पर्व-१०"]
++++

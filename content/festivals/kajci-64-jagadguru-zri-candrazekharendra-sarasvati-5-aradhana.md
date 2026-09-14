@@ -1,0 +1,30 @@
++++
+title = "काञ्ची ६४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-५-आराधना"
+id = "kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA"
+slug = "kajci-64-jagadguru-zri-candrazekharendra-sarasvati-5-aradhana"
+source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/16/kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA.toml"
+tags = ["KanchiAradhanaDays"]
+tradition = ["Kāñcī Maṭha"]
+month = ["Kārtika"]
+tithi = ["Pratipat"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "अपराह्णः"
+priority_rule = "vyaapti"
+timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Pratipat, at अपराह्णः"
+"references" = ["www.kamakoti.org"]
+
+shlokas = '''
+श्रीमठपार्श्वे सद्मनि जातो वेङ्कटसुब्रह्मण्यतपस्वी।
+श्रीगुरुपार्श्वे संस्थितिम् आगाद् उत्तरवृन्दावनविख्यातः॥१४॥
+श्रीचन्द्रशेखरगुरुः श्रितचन्द्रमौलिस्त्रिंशत्समा अपि च सप्त वसन् नु पीठे।
+साधारणे शरदि कार्त्तिककृष्णपक्षस्याद्ये तिथावुपगतः स्थिरम् आत्मधाम॥१५॥
+—पुण्यश्लोकमञ्जरी परिशिष्टम्
+'''
+
+description_en = '''
+Devoted to Bhagavan Chandramauli, preceptor Śrī Chandraśekhara too remaining in the Pīṭha for thirty-seven years reached his eternal abode on the first day of Kṛṣṇapakṣa in the month of Kārtika of the year Sādhāraṇa. The name of this preceptor before initiation was Veñkatasubrahmaṇya Dīkṣita. He was a descendant of the family of Govinda Dīkṣita, wellknown as “Ayyan” who carried out many righteous acts of “pūrta” and adorned the ministerial post in the assembly of King Sevappa Nāyaka of the Nāyaka dynasty ruling Tanjavur. This preceptor was well-versed in Mantra Śāstra. Only during the period of this preceptor, the renovation or reinstallation of the pair of ear-rings (taṭaṅka yugala) symbolic of Srichakra, of Devī Akhilāṇdeśvarī of Jambukeśvara, renovation of Srichakra in the Kāmākṣī temple at Kāñci were carried out. During his visit ot Tanjavur, the preceptor was reverentially coronated with gold or offered Kanakābhiṣeka by the monarch who was ruling Tanjavur. Śalivahana era 1773. The adhishthanam is located at https://maps.app.goo.gl/Zrry6C2Sbqd3NUAS6, in the premises of the Kumbhaghonam Kanchi Shankara Matham.
+'''
+
+[names]
+sa = ["काञ्ची ६४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-५-आराधना"]
++++

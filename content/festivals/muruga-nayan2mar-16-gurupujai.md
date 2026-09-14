@@ -1,0 +1,28 @@
++++
+title = "muruga nAyan2mAr (16) gurupUjai"
+id = "muruga_nAyan2mAr_(16)_gurupUjai"
+slug = "muruga-nayan2mar-16-gurupujai"
+source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/muruga_nAyan2mAr_(16)_gurupUjai.toml"
+tags = ["NayanmarGurupujai"]
+tradition = ["Nāyanmār"]
+month = ["Vaiśākha"]
+nakshatra = ["Mūla"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "प्रातः"
+priority_rule = "paraviddha"
+timing_summary = "Vaiśākha (वैशाख) māsa, Mūla nakṣatra, at प्रातः"
+"references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+
+description_en = '''
+Between the 6th and 9th centuries, in South India, there existed 63 ardent devotees of Bhagavan Shiva, collectively known as the Nayanmars. These devout individuals, hailing from various walks of life including potters, fishermen, farmers, merchants, priests, hunters, and washermen, created devotional songs still sung by followers around the globe. Among these Nayanmars, Appar, Sambandar, and Sundarar, known for their Thevaram hymns, along with Manikkavasagar, are distinguished as the Samayacharyas or the ‘The Four’ (`nAlvar`) revered teachers of the faith. They were instrumental in promoting the Shaiva Siddhanta philosophy and culture, effectively challenging the spread of Jainism and Buddhism. Their teachings centered around the concept that Shiva embodies love, and that embracing love for all beings and existence is essential in connecting with Shiva, the Supreme Being.
+
+The 16th Nayanmar, Muruga Nayanmar, known for his exemplary worship of Bhagavan Shiva, was born in Tirupukalur, a place renowned for its association with many Nayanmars. His devotion manifested in a specific form of worship, which included performing Archana with flowers as described in the Shiva Agamas, offering floral garlands to the deity, and reciting the Panchakshara Mantra. This mantra, found in the central portion of the Sri Rudradhyayi within the Yajur Veda, is highly revered for its power to liberate devotees from the cycle of birth and death.
+
+Every day, Muruga Nayanmar would rise before dawn, complete his daily rituals including a bath and applying sacred ash, and then head to the garden. While chanting the Panchakshara Mantra, he would collect flowers and meticulously craft colorful garlands following the guidelines of the Shiva Agamas, which he would then offer to Bhagavan Shiva.
+
+A significant event in Muruga Nayanmar's life was the arrival of the revered Jnana Sambandar to Tirupukalur. Muruga Nayanmar extended an invitation to Sambandar, worshiped him, and earned his favor, leading to a deep friendship. This bond culminated in a profound spiritual experience at Sambandar's wedding, where Muruga Nayanmar, along with Sambandar, the bride, and others (including Tiruneelanakka Nayanmar and Tiruneelakanta Yazhpanar), merged into the Divine Effulgence of Bhagavan Shiva. This event epitomises the Tamil proverb which states that the rarest achievement is gaining the favor of the great, a feat Muruga Nayanmar accomplished through his devotion, earning him not just Sambandar's friendship but also divine realization.
+'''
+
+[names]
+ta = ["muruga nAyan2mAr (16) gurupUjai"]
++++

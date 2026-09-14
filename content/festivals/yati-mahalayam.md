@@ -1,0 +1,17 @@
++++
+title = "यति-महालयम्"
+id = "yati-mahAlayam"
+slug = "yati-mahalayam"
+source_path = "devatA/pitR/lunar_month/tithi/06/27/yati-mahAlayam.toml"
+tags = ["SpecialPuja", "CommonFestivals", "CommonFestivals"]
+devata = ["Pitṛ (Ancestral)"]
+month = ["Bhādrapada"]
+tithi = ["Dvādaśī"]
+category = ["Devatā Observances"]
+kaala = "अपराह्णः"
+priority_rule = "vyaapti"
+timing_summary = "Bhādrapada (भाद्रपद) māsa, Kṛṣṇa Pakṣa Dvādaśī, at अपराह्णः"
+
+[names]
+sa = ["यति-महालयम्"]
++++

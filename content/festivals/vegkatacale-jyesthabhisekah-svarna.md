@@ -1,0 +1,24 @@
++++
+title = "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (स्वर्ण-कवचम्)"
+id = "vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)"
+slug = "vegkatacale-jyesthabhisekah-svarna"
+source_path = "temples/venkaTAchala/lunar_month/tithi/03/15/vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa).toml"
+tags = ["LessCommonFestivals", "DanamDays"]
+month = ["Jyeṣṭha"]
+tithi = ["Pūrṇimā"]
+category = ["Temple Festivals"]
+timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Pūrṇimā"
+
+description_en = '''
+The Abhidhyeyaka Abhishekam festival, also known as Jyeshthabhishekam, is a celebration held annually in the auspicious month of Jyeshtha, aligning with the Jyeshtha star in the constellation. The term “Abhidhyeyakam” refers to a protective shield or armour, symbolizing the divine defense that Bhagavan assumes in this Kaliyuga to combat evil. This festival, celebrated over three days, centers around a special abhishekam performed for this sacred armour.
+
+According to temple traditions, this Abhishekam is conducted to safeguard the Utsava deities of Bhagavan Malayappa Swami and his consorts, Sridevi and Bhudevi. The purpose is to prevent any potential damage during various processions and holy baths (Tirumanjanam) throughout the year.
+
+Each day of the festival, after the second bell, the deities are taken to the Kalyanotsava Mandapam situated in Sampangi Prakaram. Here, Snapana Tirumanjanam is performed, a ritual involving bathing the deities with consecrated water infused with spices, turmeric, sandal paste, honey, milk, and curd, accompanied by the chanting of Vedic mantras.
+
+On each day, Bhagavan and his consorts are adorned in unique kavachams: The first day features the Vajrakavacham, a diamond-studded armour; the second day showcases the Muthyala kavacham, an armour studded with pearls; and the third day highlights the Svarna kavacham, a golden armour. The Svarna kavacham remains on the deities for the entire year and is only removed for the next Abhidhyeyaka Abhishekam.
+'''
+
+[names]
+sa = ["वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (स्वर्ण-कवचम्)"]
++++

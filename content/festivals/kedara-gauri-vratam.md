@@ -1,0 +1,15 @@
++++
+title = "केदार-गौरी-व्रतम्"
+id = "kEdAra-gaurI-vratam"
+slug = "kedara-gauri-vratam"
+source_path = "devatA/umA/lunar_month/tithi/07/30/kEdAra-gaurI-vratam.toml"
+tags = ["SpecialVratam"]
+devata = ["Umā"]
+month = ["Āśvina"]
+tithi = ["Amāvāsyā"]
+category = ["Devatā Observances"]
+timing_summary = "Āśvina (आश्विन) māsa, Kṛṣṇa Pakṣa Amāvāsyā"
+
+[names]
+sa = ["केदार-गौरी-व्रतम्"]
++++

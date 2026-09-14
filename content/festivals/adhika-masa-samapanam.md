@@ -1,0 +1,14 @@
++++
+title = "अधिक-मास-समापनम्"
+id = "adhika-mAsa-samApanam"
+slug = "adhika-masa-samapanam"
+source_path = "general/lunar_month/tithi/00/30/adhika-mAsa-samApanam.toml"
+tags = ["SpecialFestivals", "SpecialPeriodEnd"]
+tithi = ["Amāvāsyā"]
+category = ["General Observances"]
+priority_rule = "paraviddha"
+timing_summary = "Kṛṣṇa Pakṣa Amāvāsyā"
+
+[names]
+sa = ["अधिक-मास-समापनम्"]
++++

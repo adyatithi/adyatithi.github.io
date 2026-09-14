@@ -1,0 +1,34 @@
++++
+title = "tirunALaippOvAr nAyan2mAr (18) gurupUjai"
+id = "tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai"
+slug = "tirunalaippovar-nayan2mar-18-gurupujai"
+source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/04/tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai.toml"
+tags = ["NayanmarGurupujai"]
+tradition = ["Nāyanmār"]
+month = ["Bhādrapada"]
+nakshatra = ["Rohiṇī"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "प्रातः"
+priority_rule = "paraviddha"
+timing_summary = "Bhādrapada (भाद्रपद) māsa, Rohiṇī nakṣatra, at प्रातः"
+"references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+
+description_en = '''
+Between the 6th and 9th centuries, in South India, there existed 63 ardent devotees of Bhagavan Shiva, collectively known as the Nayanmars. These devout individuals, hailing from various walks of life including potters, fishermen, farmers, merchants, priests, hunters, and washermen, created devotional songs still sung by followers around the globe. Among these Nayanmars, Appar, Sambandar, and Sundarar, known for their Thevaram hymns, along with Manikkavasagar, are distinguished as the Samayacharyas or the ‘The Four’ (`nAlvar`) revered teachers of the faith. They were instrumental in promoting the Shaiva Siddhanta philosophy and culture, effectively challenging the spread of Jainism and Buddhism. Their teachings centered around the concept that Shiva embodies love, and that embracing love for all beings and existence is essential in connecting with Shiva, the Supreme Being.
+
+Nandanar, a Pulaiyar (agricultural labourers/singers) by birth, was born in Adanoor in the Chola kingdom. Known for his deep humility and devotion, Bhagavan Shiva was his only solace. Nandanar would often visit sacred pilgrimage sites, providing temples with leather drums and other musical instruments. However, due to his community's traditions, he always worshipped from outside the temple premises.
+
+Once, Nandanar longed to visit Tirupunkur (Sivaloganathar temple: https://maps.app.goo.gl/1b6RxxuengzJtrCs7) to see Bhagavan Shiva and offer his services. At Tirupunkur, his view of the deity was obstructed by the Nandi statue in front of the temple. In response to Nandanar's fervent prayers, Bhagavan Shiva commanded Nandi to move aside, allowing Nandanar to have a clear view of the deity. This event was so significant that the statue of Nandi in Tirupunkur remains shifted to one side even today. After fulfilling his desire of digging a tank near the temple, Nandanar returned to Adanoor.
+
+Nandanar's next aspiration was to visit Chidambaram and witness the cosmic dance of Bhagavan Nataraja. Nandanar's love for Bhagavan Shiva grew so intense that he often told his companions, “I will surely go to Chidambaram tomorrow”, earning him the name “Tiru Nalai Povar” (the one who would go tomorrow). Finally, driven by his yearning, Nandanar embarked on a journey to Chidambaram. However, upon reaching the village, he hesitated to enter due to his low birth. 
+
+Nandanar prayed to Bhagavan, expressing his desire to witness His cosmic dance in the Nritya Sabha but lamenting his inability to enter the temple. Bhagavan, moved by his devotion, appeared in Nandanar's dream and instructed him to take a fire bath and join the Brahmanas in the Kanaka Sabha. Similarly, Bhagavan appeared in the dreams of the Brahmanas, informing them of Nandanar's arrival and instructing them to prepare a sacred fire for his purification.
+
+The Brahmanas of Tillai prepared this sacred fire for Nandanar. Respectfully inviting him, they witnessed Nandanar walk into the fire, only to emerge transformed with a new holy body adorned with sacred ashes, holy thread, and matted locks. Nandanar then entered the temple and was absorbed in Bhagavan Nataraja's dance. Finally, engulfed in a dazzling light, Nandanar disappeared, merging with his beloved Bhagavan Nataraja.
+
+Nandanar's story is a powerful testament to the transformative power of devotion and the unwavering faith that can overcome societal barriers. He continues to be revered as a Nayanmar, inspiring generations with his unwavering devotion to Bhagavan Shiva.
+'''
+
+[names]
+ta = ["tirunALaippOvAr nAyan2mAr (18) gurupUjai"]
++++

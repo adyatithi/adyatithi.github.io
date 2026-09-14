@@ -1,0 +1,41 @@
++++
+title = "काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-जयन्ती"
+id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI"
+slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-jayanti"
+source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/02/17/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI.toml"
+tags = ["MahapurushaEvents", "CommonFestivals"]
+tradition = ["Kāñcī Maṭha"]
+month = ["Vaiśākha"]
+nakshatra = ["Anurādhā"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "साङ्गवः"
+priority_rule = "paraviddha"
+timing_summary = "Vaiśākha (वैशाख) māsa, Anurādhā nakṣatra, at साङ्गवः"
+
+shlokas = '''
+महास्वामीति विख्यातस्त्वष्टषष्टो जगद्गुरुः।
+हारीतेऽन्वय उद्भूत उत्कृष्टे नाम धामनि॥२५॥
+पञ्चोने वर्षसाहस्रपञ्चके विगते कलौ।
+जयवर्षे वृषे मासि मैत्रर्क्षे कृष्णपक्षके॥२६॥
+प्रतिपत्तिथिमध्याह्ने स्वामिनाथेति कीर्तितः।
+महालक्ष्मीसुब्रह्मण्यदम्पत्योस्तपसः फलम्॥२७॥
+रुजाऽपहृतदेहत्वे पूर्वयोर्गुरुनाथयोः।
+तदाज्ञया स सन्न्यस्तो वयस्यूनत्रयोदशे॥२८॥
+चन्द्रशेखरेति पुण्यनाम बिभ्रत् स आश्रमी।
+सर्वज्ञमूर्तिस्त्रिर्यात्रां भारतस्याचरत् पदा॥२९॥
+प्रत्यक्षं दैवतं भूत्वा धर्मे चाकृष्य मार्दवात्।
+लोकान् समनुजग्राह वर्षाणां शतकं शुभम्॥३०॥
+काञ्च्यां विदेहकैवल्यं प्रापद्यत मुनीश्वरः।
+श्रीमुखे मार्गकृष्णे स द्वादश्याम् अपराह्णके॥३१॥
+—पुण्यश्लोकमञ्जरी
+अपारकरुणासिन्धुं ज्ञानदं शान्तरूपिणम्।
+श्रीचन्द्रशेखरगुरुं प्रणमामि मुदाऽन्वहम्॥
+'''
+
+description_en = '''
+Renowned as Mahaswami, the sixty-eighth Jagadguru was born in the Harita gotra, at a place named Utkṛṣṭa. In Kali Yuga, when 4995 years had passed, in the year Jaya, during the solar transit in Vrishabha, under the Anuradha constellation, in the dark fortnight (Krishna Paksha), at midday on the Pratipat (first lunar day), He was born. Named Swaminathan, He was the fruit of the penance of the couple Mahalakshmi and Subrahmanya. When the two previous Gurus (the 66th and 67th Acharyas) had departed due to illness, by their command, He took up sannyasa at the young age of thirteen. Bearing the sacred name Chandrashekharendra, an embodiment of omniscience, He undertook three pilgrimages across India on foot. Becoming a visible divine presence, He gently drew people towards Dharma (righteousness), and guided the world for a blessed span of one hundred years. In Kanchi, the great sage attained final liberation on the twelfth day of the dark fortnight of Margashirsha month, Shrimukha year, in the afternoon (CE 1994-01-08). The adhishthanam is in the premises of Kanchi Matham at https://maps.app.goo.gl/GqcNJ87GrkU2o4RB9.
+'''
+
+[names]
+sa = ["काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-जयन्ती"]
++++

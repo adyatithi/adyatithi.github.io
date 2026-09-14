@@ -1,0 +1,19 @@
++++
+title = "सत्यनारायण-जयन्ती"
+id = "satyanArAyaNa~jayantI"
+slug = "satyanarayana-jayanti"
+source_path = "temples/Andhra/lunar_month/tithi/05/02/satyanArAyaNa~jayantI.toml"
+tags = ["AndhraTempleFestivals"]
+month = ["Śrāvaṇa"]
+tithi = ["Dvitīyā"]
+category = ["Temple Festivals"]
+timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Dvitīyā"
+"references" = ["http://hindupad.com/satyanarayana-swamy-jayanti-in-annavaram-satyanarayana-swamy-temple/"]
+
+description_en = '''
+Satyanarayana Swami Jayanti is celebrated in Annavaram Satya Narayana Temple, Andhra Pradesh
+'''
+
+[names]
+sa = ["सत्यनारायण-जयन्ती"]
++++

@@ -1,0 +1,14 @@
++++
+title = "कजरी-तृतीया"
+id = "kajarI~tRtIyA"
+slug = "kajari-trtiya"
+source_path = "general/lunar_month/tithi/06/18/kajarI~tRtIyA.toml"
+tags = ["SpecialVratam"]
+month = ["Bhādrapada"]
+tithi = ["Tṛtīyā"]
+category = ["General Observances"]
+timing_summary = "Bhādrapada (भाद्रपद) māsa, Kṛṣṇa Pakṣa Tṛtīyā"
+
+[names]
+sa = ["कजरी-तृतीया"]
++++

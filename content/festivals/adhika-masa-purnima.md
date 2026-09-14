@@ -1,0 +1,14 @@
++++
+title = "अधिक-मास-पूर्णिमा"
+id = "adhika-mAsa-pUrNimA"
+slug = "adhika-masa-purnima"
+source_path = "general/lunar_month/tithi/00/15/adhika-mAsa-pUrNimA.toml"
+tags = ["SpecialFestivals", "SpecialPeriodEnd"]
+tithi = ["Pūrṇimā"]
+category = ["General Observances"]
+priority_rule = "paraviddha"
+timing_summary = "Śukla Pakṣa Pūrṇimā"
+
+[names]
+sa = ["अधिक-मास-पूर्णिमा"]
++++

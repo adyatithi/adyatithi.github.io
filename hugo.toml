@@ -13,6 +13,7 @@ removePathAccents = true
 [taxonomies]
   tag = "tags"
   devata = "devata"
+  tradition = "tradition"
   month = "month"
   tithi = "tithi"
   nakshatra = "nakshatra"

@@ -3,6 +3,7 @@
    href="{{ $p.RelPermalink }}"
    data-month="{{ range $p.Params.month }}{{ . | urlize }} {{ end }}"
    data-devata="{{ range $p.Params.devata }}{{ . | urlize }} {{ end }}"
+   data-tradition="{{ range $p.Params.tradition }}{{ . | urlize }} {{ end }}"
    data-tithi="{{ range $p.Params.tithi }}{{ . | urlize }} {{ end }}"
    data-nakshatra="{{ range $p.Params.nakshatra }}{{ . | urlize }} {{ end }}"
    data-category="{{ range $p.Params.category }}{{ . | urlize }} {{ end }}"
@@ -18,8 +19,8 @@
       <p class="card__excerpt">{{ $p.Params.description_en | plainify | truncate 130 }}</p>
     {{ end }}
     <div class="card__pills">
-      {{ range first 1 $p.Params.category }}<span class="pill pill--category">{{ . }}</span>{{ end }}
-      {{ range first 2 $p.Params.tags }}<span class="pill pill--tag">{{ . }}</span>{{ end }}
+      {{ with $p.Params.category }}{{ range first 1 . }}<span class="pill pill--category">{{ . }}</span>{{ end }}{{ end }}
+      {{ with $p.Params.tags }}{{ range first 2 . }}<span class="pill pill--tag">{{ . }}</span>{{ end }}{{ end }}
     </div>
   </div>
 </a>

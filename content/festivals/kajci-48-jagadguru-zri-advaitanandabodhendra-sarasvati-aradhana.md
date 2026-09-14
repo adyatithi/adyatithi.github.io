@@ -1,0 +1,34 @@
++++
+title = "काञ्ची ४८ जगद्गुरु-श्री-अद्वैतानन्दबोधेन्द्र-सरस्वती-आराधना"
+id = "kAJcI_48_jagadguru_zrI~advaitAnandabOdhEndra_sarasvatI_ArAdhanA"
+slug = "kajci-48-jagadguru-zri-advaitanandabodhendra-sarasvati-aradhana"
+source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/10/kAJcI_48_jagadguru_zrI~advaitAnandabOdhEndra_sarasvatI_ArAdhanA.toml"
+tags = ["KanchiAradhanaDays"]
+tradition = ["Kāñcī Maṭha"]
+month = ["Āṣāḍha"]
+tithi = ["Daśamī"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "अपराह्णः"
+priority_rule = "vyaapti"
+timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Daśamī, at अपराह्णः"
+"references" = ["www.kamakoti.org"]
+
+shlokas = '''
+प्रेमेशस्य पिनाकिनीतटभुवः सूनुः स सीतापतिः
+स्नात्वा सप्तदशायुराश्रमम् अधाच्छ्रीचन्द्रचूडान्मुनेः।
+खण्डं खण्डम् अखण्ड खण्डनकृदाद्यौद्दण्ड्यम् उच्चण्डवाग्
+आचार्यस्त्रिरहिण्डताऽऽजलनिधिं विष्वक् स विश्वम्भराम्॥९४॥
+वाग्वर्षैर्विशदय्य विश्वमभितोऽद्वैतं विदां सम्मतं
+सिद्धार्थिन्यपि हायने शुचिदशम्यह्नि श्रितश्चित्सभाम्।
+अर्चन्नेव च मुक्तिलिङ्गम् अदधादन्तः समन्ताच्छ्रिते-
+ष्वासीदत्स्वपि चिद्विलासनियमी चिद्व्योम्नि साक्षादसौ॥९५॥
+—पुण्यश्लोकमञ्जरी
+'''
+
+description_en = '''
+Sītāpati, son of Premeśa, on the banks of river Pinākinī, received at the age of seventeen years, initiation into asceticism from preceptor Śrī Chandracūḍa; that eminent preceptor defeated in debates great scholar poets Śrī Harsha, Abhinavagupta and others and wandered three times throughout the earth. This preceptor Cidvilāsa, revered by all, spread the tenets of Advaita through his eloquent teachings reached Cidambaram; worshipping the Muktiliṅga, He disappeared in the air in the very presence of the onlookers all around, on the tenth day of the bright fortnight of Jyeṣṭha in the year Siddharthi. This preceptor Śrī Advaitānandabodhendra, also known as the author of Brahmavidyābharaṇavivaraṇa and other works and a lion to the elephants, viz., refuting the views of Śrī Harsha, Abhinavagupta and others in debates. His preceptorship spread over thirty-four years.
+'''
+
+[names]
+sa = ["काञ्ची ४८ जगद्गुरु-श्री-अद्वैतानन्दबोधेन्द्र-सरस्वती-आराधना"]
++++

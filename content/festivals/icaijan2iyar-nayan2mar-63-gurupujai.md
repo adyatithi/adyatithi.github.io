@@ -1,0 +1,26 @@
++++
+title = "icaiJAn2iyAr nAyan2mAr (63) gurupUjai"
+id = "icaiJAn2iyAr_nAyan2mAr_(63)_gurupUjai"
+slug = "icaijan2iyar-nayan2mar-63-gurupujai"
+source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/14/icaiJAn2iyAr_nAyan2mAr_(63)_gurupUjai.toml"
+tags = ["NayanmarGurupujai"]
+tradition = ["Nāyanmār"]
+month = ["Caitra"]
+nakshatra = ["Citrā"]
+category = ["Mahāpuruṣa Observances"]
+kaala = "प्रातः"
+priority_rule = "paraviddha"
+timing_summary = "Caitra (चैत्र) māsa, Citrā nakṣatra, at प्रातः"
+"references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+
+description_en = '''
+Between the 6th and 9th centuries, in South India, there existed 63 ardent devotees of Bhagavan Shiva, collectively known as the Nayanmars. These devout individuals, hailing from various walks of life including potters, fishermen, farmers, merchants, priests, hunters, and washermen, created devotional songs still sung by followers around the globe. Among these Nayanmars, Appar, Sambandar, and Sundarar, known for their Thevaram hymns, along with Manikkavasagar, are distinguished as the Samayacharyas or the ‘The Four’ (`nAlvar`) revered teachers of the faith. They were instrumental in promoting the Shaiva Siddhanta philosophy and culture, effectively challenging the spread of Jainism and Buddhism. Their teachings centered around the concept that Shiva embodies love, and that embracing love for all beings and existence is essential in connecting with Shiva, the Supreme Being.
+
+In the region of Tirunavalur in Tirumuraipadi, there lived a devout Adi Shaiva named Sadayanar, whose lineage was known for its deep devotion to Bhagavan Shiva. Sadayanar, embodying the same piety and dedication, was married to Isaijnaniyar, a woman equally devoted to Bhagavan. Their virtuous past actions blessed them with a divine child, who was none other than Sundaramurthi Nayanmar.
+
+The child's striking beauty caught the attention of Narasinga Munaiyar, the local king, who expressed a desire to raise the child himself. Demonstrating their detachment from worldly attachments, Sadayanar and Isaijnaniyar willingly entrusted their child to the king without hesitation. This couple exemplified the ideal life of householders, focusing on spiritual devotion and ultimately earning the grace of the Divine.
+'''
+
+[names]
+ta = ["icaiJAn2iyAr nAyan2mAr (63) gurupUjai"]
++++

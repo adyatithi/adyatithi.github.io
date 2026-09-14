@@ -22,8 +22,6 @@ DEFAULT_DATA_DIR = Path(
 )
 
 # Only these top-level dirs are treated as "festival" content for the site.
-# mahApuruSha (biographies / historical events, incl. some grim modern
-# history entries) is deliberately excluded from the festival showcase.
 INCLUDED_ROOTS = [
     "general",
     "devatA",
@@ -31,7 +29,15 @@ INCLUDED_ROOTS = [
     "temples",
     "gRhya",
     "time_focus",
+    "mahApuruSha",
 ]
+
+# Specific subtrees to skip even within an included root. xatra-later holds
+# grim modern-history entries (massacres, persecution) that aren't festival
+# content and don't belong in this showcase.
+EXCLUDED_SUBPATHS = {
+    ("mahApuruSha", "xatra-later"),
+}
 
 CATEGORY_META = {
     "general": ("General Observances", "Pan-Hindu vratas, festivals and special days."),
@@ -40,6 +46,7 @@ CATEGORY_META = {
     "temples": ("Temple Festivals", "Festivals tied to specific temples and regions."),
     "gRhya": ("Gṛhya Rites", "Household-rite (gṛhyasūtra) observances."),
     "time_focus": ("Calendrical Specials", "Observances defined by rare or recurring time-patterns."),
+    "mahApuruSha": ("Mahāpuruṣa Observances", "Jayantis and commemorations of saints, ācāryas and sages."),
 }
 
 DEVATA_META = {
@@ -57,6 +64,23 @@ DEVATA_META = {
     "pitR": "Pitṛ (Ancestral)",
     "misc-fauna": "Fauna",
     "misc-flora": "Flora",
+}
+
+# mahApuruSha immediate subfolder -> display name for the "tradition" taxonomy.
+TRADITION_META = {
+    "ALvAr": "Āḻvār",
+    "nAyanmAr": "Nāyanmār",
+    "kAnchI-maTha": "Kāñcī Maṭha",
+    "zRGgErI-maTha": "Śṛṅgeri Maṭha",
+    "RShi": "Ṛṣi",
+    "vaiShNava-misc": "Vaiṣṇava Ācāryas",
+    "smArta-misc": "Smārta Ācāryas",
+    "mAdhva-misc": "Mādhva Ācāryas",
+    "sangIta-kRt": "Composers (Saṅgīta-kṛt)",
+    "sci-tech": "Science & Technology",
+    "xatra": "Kings & Dynasties",
+    "general-indic-tropical": "General",
+    "general-indic-non-tropical": "General",
 }
 
 MONTHS = {
@@ -222,6 +246,12 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
         key = parts[1]
         record["devata"] = [DEVATA_META.get(key, key)]
 
+    # tradition: immediate child folder under mahApuruSha/
+    record["tradition"] = []
+    if root == "mahApuruSha" and len(parts) > 2:
+        key = parts[1]
+        record["tradition"] = [TRADITION_META.get(key, key)]
+
     cat_name, _ = CATEGORY_META.get(root, (root, ""))
     record["category"] = [cat_name]
     record["category_root"] = root
@@ -236,6 +266,9 @@ def build(data_dir: Path, limit: int | None):
         if not root_dir.exists():
             continue
         for path in sorted(root_dir.rglob("*.toml")):
+            rel_parts = path.relative_to(data_dir).parts
+            if any(rel_parts[: len(ex)] == ex for ex in EXCLUDED_SUBPATHS):
+                continue
             rec = parse_file(path, data_dir)
             if rec is None:
                 continue
@@ -297,6 +330,8 @@ def build(data_dir: Path, limit: int | None):
             lines.append(f'tags = {toml_list(rec["tags"])}')
         if rec["devata"]:
             lines.append(f'devata = {toml_list(rec["devata"])}')
+        if rec["tradition"]:
+            lines.append(f'tradition = {toml_list(rec["tradition"])}')
         if rec["month"]:
             lines.append(f'month = {toml_list(rec["month"])}')
         if rec["tithi"]:

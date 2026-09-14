@@ -1,0 +1,19 @@
++++
+title = "तिन्दुकाष्टमी"
+id = "tindukASTamI"
+slug = "tindukastami"
+source_path = "general/lunar_month/tithi/03/23/tindukASTamI.toml"
+tags = ["LessCommonFestivals"]
+month = ["Jyeṣṭha"]
+tithi = ["Aṣṭamī"]
+category = ["General Observances"]
+timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Kṛṣṇa Pakṣa Aṣṭamī"
+"references" = ["Chaturvaga Chintamani"]
+
+description_en = '''
+Start of one year vratam of monthly shiva pooja as per chaturvaga chintamani.
+'''
+
+[names]
+sa = ["तिन्दुकाष्टमी"]
++++

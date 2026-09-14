@@ -1,0 +1,27 @@
++++
+title = "वेङ्कटाचले प्लवोत्सव-समापनम्"
+id = "vEGkaTAcalE_plavOtsava-samApanam"
+slug = "vegkatacale-plavotsava-samapanam"
+source_path = "temples/venkaTAchala/lunar_month/tithi/12/15/vEGkaTAcalE_plavOtsava-samApanam.toml"
+tags = ["AndhraTempleFestivals"]
+month = ["Phālguna"]
+tithi = ["Pūrṇimā"]
+category = ["Temple Festivals"]
+kaala = "चन्द्रोदयः"
+timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
+
+description_en = '''
+The Phalguna Paurnami festival is a grand five-day celebration held annually at the Swami Pushkarini. Each day of the festival features a different set of deities taken for a celestial ride on a beautifully decorated float in the temple tank.
+
+1. On the first day, Bhagavan Rama, along with Sita and Lakshmana, are worshipped and taken for a ride on the float.
+2. The second day is dedicated to Bhagavan Krishna and Rukmini, who are also offered puja and taken on the float for a pleasure ride.
+
+For the last three days, from Trayodashi to Paurnami:
+1. Sri Malayappa Swami, accompanied by Sridevi and Bhudevi, are taken out for a ride in the temple tank.
+2. The third day includes three rounds of the float, increasing to five rounds on the next day.
+3. On the final day, the utsava murtis (festival deities) are taken for a splendid ride on the float for seven rounds, attracting a large number of pilgrims. The beauty of the deities is further enhanced by the charm of the full moon, making this day particularly special and visually stunning.
+'''
+
+[names]
+sa = ["वेङ्कटाचले प्लवोत्सव-समापनम्"]
++++

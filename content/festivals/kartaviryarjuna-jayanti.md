@@ -1,0 +1,15 @@
++++
+title = "कार्तवीर्यार्जुन-जयन्ती"
+id = "kArtavIryArjuna~jayantI"
+slug = "kartaviryarjuna-jayanti"
+source_path = "general/lunar_month/tithi/08/08/kArtavIryArjuna~jayantI.toml"
+tags = ["OtherJayantis"]
+month = ["Kārtika"]
+tithi = ["Aṣṭamī"]
+category = ["General Observances"]
+timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Aṣṭamī"
+"references" = ["http://hindupad.com/karthaveerya-arjuna-jayanthi-2011-karthaveerya-uthpatthi/"]
+
+[names]
+sa = ["कार्तवीर्यार्जुन-जयन्ती"]
++++

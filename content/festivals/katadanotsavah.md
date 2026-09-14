@@ -1,0 +1,19 @@
++++
+title = "कटदानोत्सवः"
+id = "kaTadAnOtsavaH"
+slug = "katadanotsavah"
+source_path = "general/lunar_month/tithi/06/11/kaTadAnOtsavaH.toml"
+tags = ["DanamDays"]
+month = ["Bhādrapada"]
+tithi = ["Ekādaśī"]
+category = ["General Observances"]
+timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Ekādaśī"
+"references" = ["Smriti Kaustubham"]
+
+description_en = '''
+As per Smruti-Kaustubham, one must perform daanam of mat (`kaTam`) to a dharmic Vipra.
+'''
+
+[names]
+sa = ["कटदानोत्सवः"]
++++
