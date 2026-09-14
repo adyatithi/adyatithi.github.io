@@ -1,6 +1,7 @@
 +++
 title = "उत्थान-एकादशी"
 id = "utthAna-EkAdazI"
+id_display = "utthāna-Ekādaśī"
 slug = "utthana-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/utthAna-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

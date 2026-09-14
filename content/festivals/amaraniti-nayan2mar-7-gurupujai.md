@@ -1,16 +1,17 @@
 +++
-title = "amaranIti nAyan2mAr (7) gurupUjai"
+title = "amaranīti nāyaṉmār (7) gurupūjai"
 id = "amaranIti_nAyan2mAr_(7)_gurupUjai"
+id_display = "amaranīti nāyaṉmār (7) gurupūjai"
 slug = "amaraniti-nayan2mar-7-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/03/11/amaranIti_nAyan2mAr_(7)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Pūrva Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Pūrva Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Pūrva Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Witnessing this, the people around were amazed, and the Brahmachari revealed his
 '''
 
 [names]
-ta = ["amaranIti nAyan2mAr (7) gurupUjai"]
+ta = ["amaranīti nāyaṉmār (7) gurupūjai"]
 +++

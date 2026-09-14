@@ -1,6 +1,7 @@
 +++
 title = "रंगभरी एकादशी"
 id = "raMgabharI_EkAdazI"
+id_display = "raṃgabharī Ekādaśī"
 slug = "ramgabhari-ekadazi"
 source_path = "temples/North/description_only/raMgabharI_EkAdazI.toml"
 tags = ["UttarPradeshTempleFestivals"]

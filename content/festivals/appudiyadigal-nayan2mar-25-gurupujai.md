@@ -1,16 +1,17 @@
 +++
-title = "appUdiyaDigaL nAyan2mAr (25) gurupUjai"
+title = "appūdiyaḍigaḻ nāyaṉmār (25) gurupūjai"
 id = "appUdiyaDigaL_nAyan2mAr_(25)_gurupUjai"
+id_display = "appūdiyaḍigaḻ nāyaṉmār (25) gurupūjai"
 slug = "appudiyadigal-nayan2mar-25-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/24/appUdiyaDigaL_nAyan2mAr_(25)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Śatabhiṣā nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Upon learning of the boy's demise, Appar, deeply affected, instructed the body b
 '''
 
 [names]
-ta = ["appUdiyaDigaL nAyan2mAr (25) gurupUjai"]
+ta = ["appūdiyaḍigaḻ nāyaṉmār (25) gurupūjai"]
 +++

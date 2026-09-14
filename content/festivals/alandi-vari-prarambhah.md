@@ -1,6 +1,7 @@
 +++
 title = "आळन्दी-वारी-प्रारम्भः"
 id = "ALandI-vArI-prArambhaH"
+id_display = "āḻandī-vārī-prārambhaḥ"
 slug = "alandi-vari-prarambhah"
 source_path = "temples/Maharashtra/lunar_month/tithi/03/23/ALandI-vArI-prArambhaH.toml"
 tags = ["MaharashtraTempleFestivals"]

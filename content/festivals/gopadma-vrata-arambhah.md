@@ -1,6 +1,7 @@
 +++
 title = "गोपद्म-व्रत-आरम्भः"
 id = "gOpadma-vrata-ArambhaH"
+id_display = "gOpadma-vrata-ārambhaḥ"
 slug = "gopadma-vrata-arambhah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/04/11/gOpadma-vrata-ArambhaH.toml"
 tags = ["SpecialVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "पौष-मासः"
 id = "pauSa-mAsaH"
+id_display = "pauṣa-māsaḥ"
 slug = "pausa-masah"
 source_path = "time_focus/misc/description_only/pauSa-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

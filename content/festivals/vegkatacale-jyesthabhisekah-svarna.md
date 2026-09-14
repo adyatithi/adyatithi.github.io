@@ -1,6 +1,7 @@
 +++
 title = "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (स्वर्ण-कवचम्)"
 id = "vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)"
+id_display = "vEṅkaṭācalE jyEṣṭhābhiṣEkaḥ (svarṇa)"
 slug = "vegkatacale-jyesthabhisekah-svarna"
 source_path = "temples/venkaTAchala/lunar_month/tithi/03/15/vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa).toml"
 tags = ["LessCommonFestivals", "DanamDays"]

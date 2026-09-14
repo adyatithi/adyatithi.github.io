@@ -1,6 +1,7 @@
 +++
 title = "इन्द्र-पूजा/गो-पूजा"
 id = "indra-pUjA_or_gO-pUjA"
+id_display = "indra-pūjā or gO-pūjā"
 slug = "indra-puja-or-go-puja"
 source_path = "general/relative_event/makara-saGkramaNa-puNyakAlaH/offset__01/indra-pUjA_or_gO-pUjA.toml"
 tags = ["SpecialPuja"]

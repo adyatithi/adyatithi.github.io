@@ -1,6 +1,7 @@
 +++
 title = "जया-व्रतम्"
 id = "jayA-vratam"
+id_display = "jayā-vratam"
 slug = "jaya-vratam"
 source_path = "general/lunar_month/tithi/08/05/jayA-vratam.toml"
 tags = ["SpecialVratam"]

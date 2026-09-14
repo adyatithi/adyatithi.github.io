@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-शिवलिङ्ग-षष्ठी"
 id = "mArgazIrSa-zivaliGga-SaSThI"
+id_display = "mārgaśīrṣa-śivaliṅga-ṣaṣṭhī"
 slug = "margazirsa-zivaligga-sasthi"
 source_path = "general/lunar_month/tithi/09/06/mArgazIrSa-zivaliGga-SaSThI.toml"
 tags = ["SpecialPuja"]

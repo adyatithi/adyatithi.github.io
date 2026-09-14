@@ -1,13 +1,14 @@
 +++
 title = "खाल्सारम्भः"
 id = "khAlsArambhaH"
+id_display = "khālsārambhaḥ"
 slug = "khalsarambhah"
 source_path = "mahApuruSha/xatra/sidereal_solar_month/day/01/01/khAlsArambhaH.toml"
 tags = ["LessCommonFestivals"]
 tradition = ["Kings & Dynasties"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Caitra (चैत्र) māsa"
+timing_summary = "Meṣa (मेष) rāśi, sidereal"
 
 description_en = '''
 On this auspicious day, the tenth Guru of Sikhs, Guru Gobind Singh Ji, laid the foundation of Khalsa. The aim behind the formation of Khalsa was to create ideal people who would be perfect in every way including devotion (Bhakti) and strength (Shakti). He introduced the new form of initiatory rites ‘Khande di pahul’ or ‘rites by the double-edged sword’ in 1699. From that day, Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh became an integral part of Sikhism.

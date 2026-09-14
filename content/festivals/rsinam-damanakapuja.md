@@ -1,6 +1,7 @@
 +++
 title = "ऋषीणां दमनकपूजा"
 id = "RSINAM~damanakapUjA"
+id_display = "ṛṣīṇāṃ damanakapūjā"
 slug = "rsinam-damanakapuja"
 source_path = "general/lunar_month/tithi/01/11/RSINAM~damanakapUjA.toml"
 tags = ["LessCommonFestivals"]

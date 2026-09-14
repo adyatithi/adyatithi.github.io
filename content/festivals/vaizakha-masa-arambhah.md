@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-मास-आरम्भः"
 id = "vaizAkha-mAsa-ArambhaH"
+id_display = "vaiśākha-māsa-ārambhaḥ"
 slug = "vaizakha-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/02/01/vaizAkha-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

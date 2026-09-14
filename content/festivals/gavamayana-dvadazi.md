@@ -1,6 +1,7 @@
 +++
 title = "गवामयन-द्वादशी"
 id = "gavAmayana-dvAdazI"
+id_display = "gavāmayana-dvādaśī"
 slug = "gavamayana-dvadazi"
 source_path = "general/lunar_month/tithi/03/12/gavAmayana-dvAdazI.toml"
 tags = ["LessCommonFestivals"]

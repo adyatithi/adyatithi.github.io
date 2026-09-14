@@ -1,6 +1,7 @@
 +++
 title = "ग्रहास्तमयः"
 id = "graha-mauDhya-astamayaH"
+id_display = "graha-mauḍhya-astamayaḥ"
 slug = "graha-maudhya-astamayah"
 source_path = "time_focus/graha-maudhya/description_only/graha-mauDhya-astamayaH.toml"
 tags = ["RareDays", "GrahaMaudhya"]

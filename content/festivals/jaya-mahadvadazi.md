@@ -1,6 +1,7 @@
 +++
 title = "जया-महाद्वादशी"
 id = "jayA~mahAdvAdazI"
+id_display = "jayā mahādvādaśī"
 slug = "jaya-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/jayA~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations"]

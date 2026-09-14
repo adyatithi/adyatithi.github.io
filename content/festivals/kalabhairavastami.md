@@ -1,6 +1,7 @@
 +++
 title = "कालभैरवाष्टमी"
 id = "kAlabhairavASTamI"
+id_display = "kālabhairavāṣṭamī"
 slug = "kalabhairavastami"
 source_path = "devatA/shaiva/lunar_month/tithi/08/23/kAlabhairavASTamI.toml"
 tags = ["SpecialPuja"]

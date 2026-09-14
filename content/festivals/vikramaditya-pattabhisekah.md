@@ -1,6 +1,7 @@
 +++
 title = "विक्रमादित्य-पट्टाभिषेकः"
 id = "vikramAditya-paTTAbhiSEkaH"
+id_display = "vikramāditya-paṭṭābhiṣEkaḥ"
 slug = "vikramaditya-pattabhisekah"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/07/30/vikramAditya-paTTAbhiSEkaH.toml"
 tags = ["MahapurushaEvents"]

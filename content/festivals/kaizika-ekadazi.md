@@ -1,6 +1,7 @@
 +++
 title = "कैशिक-एकादशी"
 id = "kaizika-EkAdazI"
+id_display = "kaiśika-Ekādaśī"
 slug = "kaizika-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/kaizika-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

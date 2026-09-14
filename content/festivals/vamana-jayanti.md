@@ -1,6 +1,7 @@
 +++
 title = "वामन-जयन्ती"
 id = "vAmana~jayantI"
+id_display = "vāmana jayantī"
 slug = "vamana-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/12/vAmana~jayantI.toml"
 tags = ["Dashavataram", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "आदित्यहस्त-योगः"
 id = "Adityahasta-yOgaH"
+id_display = "ādityahasta-yOgaḥ"
 slug = "adityahasta-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/Adityahasta-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

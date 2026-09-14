@@ -1,6 +1,7 @@
 +++
 title = "चैत्र-(अधिक)-अमावास्या"
 id = "adhika-caitra-amAvAsyA"
+id_display = "adhika-caitra-amāvāsyā"
 slug = "adhika-caitra-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/adhika-caitra-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

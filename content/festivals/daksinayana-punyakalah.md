@@ -1,6 +1,7 @@
 +++
 title = "दक्षिणायन-पुण्यकालः"
 id = "dakSiNAyana-puNyakAlaH"
+id_display = "dakṣiṇāyana-puṇyakālaḥ"
 slug = "daksinayana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/dakSiNAyana-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

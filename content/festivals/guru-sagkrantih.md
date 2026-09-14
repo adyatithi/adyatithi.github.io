@@ -1,6 +1,7 @@
 +++
 title = "गुरु-सङ्क्रान्तिः"
 id = "guru-saGkrAntiH"
+id_display = "guru-saṅkrāntiḥ"
 slug = "guru-sagkrantih"
 source_path = "time_focus/sankrAnti/description_only/guru-saGkrAntiH.toml"
 tags = ["Sankranti"]

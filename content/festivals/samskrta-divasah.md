@@ -1,6 +1,7 @@
 +++
 title = "संस्कृत-दिवसः"
 id = "saMskRta-divasaH"
+id_display = "saṃskṛta-divasaḥ"
 slug = "samskrta-divasah"
 source_path = "general/lunar_month/tithi/05/15/saMskRta-divasaH.toml"
 tags = ["OtherJayantis"]

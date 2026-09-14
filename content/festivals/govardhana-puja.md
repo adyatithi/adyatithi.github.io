@@ -1,6 +1,7 @@
 +++
 title = "गोवर्धन-पूजा"
 id = "gOvardhana-pUjA"
+id_display = "gOvardhana-pūjā"
 slug = "govardhana-puja"
 source_path = "devatA/vaiShNava/lunar_month/tithi/08/01/gOvardhana-pUjA.toml"
 tags = ["PuranaEvents", "CommonFestivals"]

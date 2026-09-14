@@ -1,6 +1,7 @@
 +++
-title = "madhurai mIn2AkSI kOyilil kal yAn2aikku karumbu kODutta lIlai"
+title = "madhurai mīṉākṣī kOyilil kal yāṉaikku karumbu kOḍutta līlai"
 id = "madhurai_mIn2AkSI_kOyilil_kal_yAn2aikku_karumbu_kODutta_lIlai"
+id_display = "madhurai mīṉākṣī kOyilil kal yāṉaikku karumbu kOḍutta līlai"
 slug = "madhurai-min2aksi-koyilil-kal-yan2aikku-karumbu-kodutta-lilai"
 source_path = "temples/Tamil/relative_event/makara-saGkramaNa-puNyakAlaH/offset__00/madhurai_mIn2AkSI_kOyilil_kal_yAn2aikku_karumbu_kODutta_lIlai.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ Every year, on Pongal day, there is a unique festival celebrated in the Madurai 
 '''
 
 [names]
-ta = ["madhurai mIn2AkSI kOyilil kal yAn2aikku karumbu kODutta lIlai"]
+ta = ["madhurai mīṉākṣī kOyilil kal yāṉaikku karumbu kOḍutta līlai"]
 +++

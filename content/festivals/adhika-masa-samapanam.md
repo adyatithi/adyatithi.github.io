@@ -1,6 +1,7 @@
 +++
 title = "अधिक-मास-समापनम्"
 id = "adhika-mAsa-samApanam"
+id_display = "adhika-māsa-samāpanam"
 slug = "adhika-masa-samapanam"
 source_path = "general/lunar_month/tithi/00/30/adhika-mAsa-samApanam.toml"
 tags = ["SpecialFestivals", "SpecialPeriodEnd"]

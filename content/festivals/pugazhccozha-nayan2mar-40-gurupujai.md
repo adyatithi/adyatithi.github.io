@@ -1,16 +1,17 @@
 +++
-title = "pugazhccOzha nAyan2mAr (40) gurupUjai"
+title = "pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"
 id = "pugazhccOzha_nAyan2mAr_(40)_gurupUjai"
+id_display = "pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"
 slug = "pugazhccozha-nayan2mar-40-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/03/pugazhccOzha_nAyan2mAr_(40)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Among these heads, the king shockingly discovered one that bore the distinctive 
 '''
 
 [names]
-ta = ["pugazhccOzha nAyan2mAr (40) gurupUjai"]
+ta = ["pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "फाल्गुन-मास-आरम्भः"
 id = "phAlguna-mAsa-ArambhaH"
+id_display = "phālguna-māsa-ārambhaḥ"
 slug = "phalguna-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/12/01/phAlguna-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

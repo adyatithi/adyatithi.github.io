@@ -1,6 +1,7 @@
 +++
 title = "हयग्रीव-जयन्ती"
 id = "hayagrIva~jayantI"
+id_display = "hayagrīva jayantī"
 slug = "hayagriva-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/15/hayagrIva~jayantI.toml"
 tags = ["OtherAvatarams"]

@@ -1,6 +1,7 @@
 +++
 title = "शनि-सङ्क्रान्तिः"
 id = "zani-saGkrAntiH"
+id_display = "śani-saṅkrāntiḥ"
 slug = "zani-sagkrantih"
 source_path = "time_focus/sankrAnti/description_only/zani-saGkrAntiH.toml"
 tags = ["Sankranti"]

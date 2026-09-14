@@ -1,6 +1,7 @@
 +++
 title = "आन्दोलन-तृतीया"
 id = "AndOlana~tRtIyA"
+id_display = "āndOlana tṛtīyā"
 slug = "andolana-trtiya"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/03/AndOlana~tRtIyA.toml"
 tags = ["DeviPuja"]

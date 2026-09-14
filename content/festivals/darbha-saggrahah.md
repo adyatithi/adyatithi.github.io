@@ -1,16 +1,17 @@
 +++
 title = "दर्भ-सङ्ग्रहः"
 id = "darbha-saGgrahaH"
+id_display = "darbha-saṅgrahaḥ"
 slug = "darbha-saggrahah"
 source_path = "devatA/misc-flora/sidereal_solar_month/tithi/05/30/darbha-saGgrahaH.toml"
 tags = ["SpecialDays"]
 devata = ["Flora"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 tithi = ["Amāvāsyā"]
 category = ["Devatā Observances"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
 
 shlokas = '''
 कृत्यसारसमुच्चयः---

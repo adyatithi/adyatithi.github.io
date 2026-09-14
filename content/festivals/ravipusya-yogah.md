@@ -1,6 +1,7 @@
 +++
 title = "रविपुष्य-योगः"
 id = "ravipuSya-yOgaH"
+id_display = "ravipuṣya-yOgaḥ"
 slug = "ravipusya-yogah"
 source_path = "time_focus/misc_combinations/description_only/ravipuSya-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

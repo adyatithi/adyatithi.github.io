@@ -1,16 +1,17 @@
 +++
-title = "sOmAsimAra nAyan2mAr (33) gurupUjai"
+title = "sOmāsimāra nāyaṉmār (33) gurupūjai"
 id = "sOmAsimAra_nAyan2mAr_(33)_gurupUjai"
+id_display = "sOmāsimāra nāyaṉmār (33) gurupūjai"
 slug = "somasimara-nayan2mar-33-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/09/sOmAsimAra_nAyan2mAr_(33)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Āśleṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Āśleṣā nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Āśleṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Additionally, his devotion to his Guru, Sundaramurthi Nayanmar, was profound. He
 '''
 
 [names]
-ta = ["sOmAsimAra nAyan2mAr (33) gurupUjai"]
+ta = ["sOmāsimāra nāyaṉmār (33) gurupūjai"]
 +++

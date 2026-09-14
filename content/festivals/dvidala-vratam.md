@@ -1,6 +1,7 @@
 +++
 title = "द्विदल-व्रतम्"
 id = "dvidala-vratam"
+id_display = "dvidala-vratam"
 slug = "dvidala-vratam"
 source_path = "general/description_only/dvidala-vratam.toml"
 tags = ["Vratam", "SpecialPeriod", "CommonFestivals"]

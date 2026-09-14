@@ -1,6 +1,7 @@
 +++
 title = "धनूरवि-सङ्क्रमण-षडशीति-पुण्यकालः"
 id = "dhanUravi-saGkramaNa-SaDazIti-puNyakAlaH"
+id_display = "dhanūravi-saṅkramaṇa-ṣaḍaśīti-puṇyakālaḥ"
 slug = "dhanuravi-sagkramana-sadaziti-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/dhanUravi-saGkramaNa-SaDazIti-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

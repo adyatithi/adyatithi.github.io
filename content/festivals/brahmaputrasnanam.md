@@ -1,6 +1,7 @@
 +++
 title = "ब्रह्मपुत्रस्नानम्"
 id = "brahmaputrasnAnam"
+id_display = "brahmaputrasnānam"
 slug = "brahmaputrasnanam"
 source_path = "general/lunar_month/tithi/01/08/brahmaputrasnAnam.toml"
 tags = ["LessCommonFestivals"]

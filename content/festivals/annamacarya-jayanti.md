@@ -1,6 +1,7 @@
 +++
 title = "अन्नमाचार्य-जयन्ती"
 id = "annamAcArya~jayantI"
+id_display = "annamācārya jayantī"
 slug = "annamacarya-jayanti"
 source_path = "mahApuruSha/vaiShNava-misc/lunar_month/tithi/02/15/annamAcArya~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "चैत्र-मासः"
 id = "caitra-mAsaH"
+id_display = "caitra-māsaḥ"
 slug = "caitra-masah"
 source_path = "time_focus/misc/description_only/caitra-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

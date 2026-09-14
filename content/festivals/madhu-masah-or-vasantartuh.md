@@ -1,6 +1,7 @@
 +++
 title = "मधु-मासः/वसन्तऋतुः"
 id = "madhu-mAsaH_or_vasantaRtuH"
+id_display = "madhu-māsaḥ or vasantaṛtuḥ"
 slug = "madhu-masah-or-vasantartuh"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/madhu-mAsaH_or_vasantaRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

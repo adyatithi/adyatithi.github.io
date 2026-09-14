@@ -1,6 +1,7 @@
 +++
 title = "दिनक्षयः"
 id = "dinakSayaH"
+id_display = "dinakṣayaḥ"
 slug = "dinaksayah"
 source_path = "time_focus/special-tithis/description_only/dinakSayaH.toml"
 tags = ["RareDays"]

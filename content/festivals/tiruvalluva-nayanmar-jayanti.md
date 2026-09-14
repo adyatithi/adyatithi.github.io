@@ -1,16 +1,17 @@
 +++
-title = "tiruvaLLuva-nAyanmAr-jayantI"
+title = "tiruvaḻḻuva-nāyanmār-jayantī"
 id = "tiruvaLLuva-nAyanmAr-jayantI"
+id_display = "tiruvaḻḻuva-nāyanmār-jayantī"
 slug = "tiruvalluva-nayanmar-jayanti"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/nakshatra/02/17/tiruvaLLuva-nAyanmAr-jayantI.toml"
 tags = ["MahapurushaEvents"]
 tradition = ["Smārta Ācāryas"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Anurādhā nakṣatra, at साङ्गवः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Anurādhā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 पुण्ये वैशाखमासे यो मित्रर्क्षे समवातरत्।
@@ -26,5 +27,5 @@ Tiruvaḷḷuva Nayanmar (or Tiruvaḷḷuvar) was born in Vaikasi month, Anurad
 '''
 
 [names]
-ta = ["tiruvaLLuva nAyan2mAr jayantI"]
+ta = ["tiruvaḻḻuva nāyaṉmār jayantī"]
 +++

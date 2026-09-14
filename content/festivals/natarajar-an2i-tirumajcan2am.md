@@ -1,15 +1,16 @@
 +++
-title = "naTarAjar An2i tirumaJcan2am"
+title = "naṭarājar āṉi tirumañcaṉam"
 id = "naTarAjar_An2i_tirumaJcan2am"
+id_display = "naṭarājar āṉi tirumañcaṉam"
 slug = "natarajar-an2i-tirumajcan2am"
 source_path = "temples/Tamil/sidereal_solar_month/nakshatra/03/12/naTarAjar_An2i_tirumaJcan2am.toml"
 tags = ["TamilnaduTempleFestivals"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Temple Festivals"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Uttara Phalgunī nakṣatra, at प्राक्तनारुणोदयः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
@@ -21,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naTarAjar An2i tirumaJcan2am"]
+ta = ["naṭarājar āṉi tirumañcaṉam"]
 +++

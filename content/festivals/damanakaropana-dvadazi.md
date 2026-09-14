@@ -1,6 +1,7 @@
 +++
 title = "दमनकारोपण-द्वादशी"
 id = "damanakArOpaNa-dvAdazI"
+id_display = "damanakārOpaṇa-dvādaśī"
 slug = "damanakaropana-dvadazi"
 source_path = "temples/Odisha/lunar_month/tithi/01/12/damanakArOpaNa-dvAdazI.toml"
 tags = ["OdishaTempleFestivals"]

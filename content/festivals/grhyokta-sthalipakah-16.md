@@ -1,6 +1,7 @@
 +++
 title = "स्थालीपाकः (गृह्योक्तमानम्)"
 id = "gRhyokta-sthAlIpAkaH_16"
+id_display = "gṛhyokta-sthālīpākaḥ 16"
 slug = "grhyokta-sthalipakah-16"
 source_path = "gRhya/Apastamba_seasonal/lunar_month/tithi/00/16/gRhyokta-sthAlIpAkaH_16.toml"
 tags = ["MonthlyFestivals"]

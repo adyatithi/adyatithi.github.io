@@ -1,16 +1,17 @@
 +++
-title = "sundaramUrtti nAyan2mAr (1) gurupUjai"
+title = "sundaramūrtti nāyaṉmār (1) gurupūjai"
 id = "sundaramUrtti_nAyan2mAr_(1)_gurupUjai"
+id_display = "sundaramūrtti nāyaṉmār (1) gurupūjai"
 slug = "sundaramurtti-nayan2mar-1-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/15/sundaramUrtti_nAyan2mAr_(1)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Svātī nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Bhagavan Shiva then appeared, requesting Sundarar to compose a hymn starting wit
 '''
 
 [names]
-ta = ["sundaramUrtti nAyan2mAr (1) gurupUjai/tiruvADi svAti"]
+ta = ["sundaramūrtti nāyaṉmār (1) gurupūjai/tiruvāḍi svāti"]
 +++

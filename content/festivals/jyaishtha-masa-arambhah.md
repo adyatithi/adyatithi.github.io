@@ -1,6 +1,7 @@
 +++
 title = "ज्यैष्ठ-मास-आरम्भः"
 id = "jyaiShTha-mAsa-ArambhaH"
+id_display = "jyaiṣhṭha-māsa-ārambhaḥ"
 slug = "jyaishtha-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/03/01/jyaiShTha-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

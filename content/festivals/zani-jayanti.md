@@ -1,6 +1,7 @@
 +++
 title = "शनि-जयन्ती"
 id = "zani~jayantI"
+id_display = "śani jayantī"
 slug = "zani-jayanti"
 source_path = "devatA/graha/lunar_month/tithi/02/30/zani~jayantI.toml"
 tags = ["OtherJayantis"]

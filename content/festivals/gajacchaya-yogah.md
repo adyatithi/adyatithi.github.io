@@ -1,6 +1,7 @@
 +++
 title = "गजच्छाया-योगः"
 id = "gajacchAyA-yOgaH"
+id_display = "gajacchāyā-yOgaḥ"
 slug = "gajacchaya-yogah"
 source_path = "time_focus/yoga_intersections/gajacchAyA-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

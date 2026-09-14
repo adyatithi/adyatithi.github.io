@@ -1,16 +1,17 @@
 +++
 title = "काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-जयन्ती"
 id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI"
+id_display = "kāñcī 68 jagadguru śrī candraśEkharEndra sarasvatī 7 jayantī"
 slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/02/17/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Anurādhā nakṣatra, at साङ्गवः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Anurādhā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 महास्वामीति विख्यातस्त्वष्टषष्टो जगद्गुरुः।

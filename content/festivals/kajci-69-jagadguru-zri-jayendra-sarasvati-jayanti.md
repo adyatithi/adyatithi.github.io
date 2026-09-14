@@ -1,16 +1,17 @@
 +++
 title = "काञ्ची ६९ जगद्गुरु-श्री-जयेन्द्र-सरस्वती-जयन्ती"
 id = "kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_jayantI"
+id_display = "kāñcī 69 jagadguru śrī jayEndra sarasvatī jayantī"
 slug = "kajci-69-jagadguru-zri-jayendra-sarasvati-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/04/23/kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Dhaniṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Dhaniṣṭhā nakṣatra, at साङ्गवः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Dhaniṣṭhā nakṣatra, at साङ्गवः"
 
 shlokas = '''
 देवे देहे च देशे च भक्त्यारोग्य-सुख-प्रदम्।

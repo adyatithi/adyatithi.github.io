@@ -1,6 +1,7 @@
 +++
 title = "धूमावती-जयन्ती"
 id = "dhUmAvatI~jayantI"
+id_display = "dhūmāvatī jayantī"
 slug = "dhumavati-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/03/08/dhUmAvatI~jayantI.toml"
 tags = ["Dashamahavidya"]

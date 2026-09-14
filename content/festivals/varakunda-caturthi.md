@@ -1,6 +1,7 @@
 +++
-title = "शान्ता~वरकुन्द-चतुर्थी"
+title = "शान्ता वरकुन्द-चतुर्थी"
 id = "varakunda-caturthI"
+id_display = "varakunda-caturthī"
 slug = "varakunda-caturthi"
 source_path = "devatA/gaNapati/lunar_month/tithi/11/04/varakunda-caturthI.toml"
 tags = ["SpecialPuja"]
@@ -31,5 +32,5 @@ shlokas = '''
 '''
 
 [names]
-sa = ["शान्ता~वरकुन्द-चतुर्थी"]
+sa = ["शान्ता वरकुन्द-चतुर्थी"]
 +++

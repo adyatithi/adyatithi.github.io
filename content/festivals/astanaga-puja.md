@@ -1,6 +1,7 @@
 +++
 title = "अष्टनाग-पूजा"
 id = "aSTanAga-pUjA"
+id_display = "aṣṭanāga-pūjā"
 slug = "astanaga-puja"
 source_path = "general/lunar_month/tithi/04/17/aSTanAga-pUjA.toml"
 tags = ["SpecialPuja"]

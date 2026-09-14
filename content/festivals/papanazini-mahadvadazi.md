@@ -1,6 +1,7 @@
 +++
 title = "पापनाशिनी-महाद्वादशी"
 id = "pApanAzinI~mahAdvAdazI"
+id_display = "pāpanāśinī mahādvādaśī"
 slug = "papanazini-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/pApanAzinI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations"]

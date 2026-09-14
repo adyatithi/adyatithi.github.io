@@ -1,6 +1,7 @@
 +++
 title = "आषाढ-मास-आरम्भः"
 id = "ASADha-mAsa-ArambhaH"
+id_display = "āṣāḍha-māsa-ārambhaḥ"
 slug = "asadha-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/04/01/ASADha-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

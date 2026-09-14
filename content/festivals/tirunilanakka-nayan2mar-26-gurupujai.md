@@ -1,16 +1,17 @@
 +++
-title = "tirunIlanakka nAyan2mAr (26) gurupUjai"
+title = "tirunīlanakka nāyaṉmār (26) gurupūjai"
 id = "tirunIlanakka_nAyan2mAr_(26)_gurupUjai"
+id_display = "tirunīlanakka nāyaṉmār (26) gurupūjai"
 slug = "tirunilanakka-nayan2mar-26-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/tirunIlanakka_nAyan2mAr_(26)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Yearning to be in Sambandar's presence, Tiruneelanakkar later attended Sambandar
 '''
 
 [names]
-ta = ["tirunIlanakka nAyan2mAr (26) gurupUjai"]
+ta = ["tirunīlanakka nāyaṉmār (26) gurupūjai"]
 +++

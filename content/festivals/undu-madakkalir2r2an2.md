@@ -1,17 +1,18 @@
 +++
-title = "undu madakkaLir2r2an2"
+title = "undu madakkaḻiṟṟaṉ"
 id = "undu~madakkaLir2r2an2"
+id_display = "undu madakkaḻiṟṟaṉ"
 slug = "undu-madakkalir2r2an2"
 source_path = "tamil/sidereal_solar_month/day/09/18/undu~madakkaLir2r2an2.toml"
 tags = ["TamilFestivals", "CommonFestivals"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 category = ["Tamil Traditions"]
-timing_summary = "Mārgaśira (मार्गशिर) māsa"
+timing_summary = "Dhanu (धनु) rāśi, sidereal"
 
 description_en = '''
 Offer naivedyam of `citrAnnam` (tamarind rice) to Vishnu
 '''
 
 [names]
-ta = ["undu~madakkaLir2r2an2"]
+ta = ["undu madakkaḻiṟṟaṉ"]
 +++

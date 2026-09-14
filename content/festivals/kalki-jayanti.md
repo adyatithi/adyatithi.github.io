@@ -1,6 +1,7 @@
 +++
 title = "कल्कि-जयन्ती"
 id = "kalki~jayantI"
+id_display = "kalki jayantī"
 slug = "kalki-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/02/kalki~jayantI.toml"
 tags = ["Dashavataram"]

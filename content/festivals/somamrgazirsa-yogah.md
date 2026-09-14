@@ -1,6 +1,7 @@
 +++
 title = "सोममृगशीर्ष-योगः"
 id = "sOmamRgazIrSa-yOgaH"
+id_display = "sOmamṛgaśīrṣa-yOgaḥ"
 slug = "somamrgazirsa-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/sOmamRgazIrSa-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

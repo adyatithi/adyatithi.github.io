@@ -1,16 +1,17 @@
 +++
-title = "maGgaiyarkkaraciyAr nAyan2mAr (50) gurupUjai"
+title = "maṅgaiyarkkaraciyār nāyaṉmār (50) gurupūjai"
 id = "maGgaiyarkkaraciyAr_nAyan2mAr_(50)_gurupUjai"
+id_display = "maṅgaiyarkkaraciyār nāyaṉmār (50) gurupūjai"
 slug = "maggaiyarkkaraciyar-nayan2mar-50-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/04/maGgaiyarkkaraciyAr_nAyan2mAr_(50)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Rohiṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Rohiṇī nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Rohiṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Mangaiyarkarasiyar, the 50th of the Nayanmars was the wife of another Nayanmar, 
 '''
 
 [names]
-ta = ["maGgaiyarkkaraciyAr nAyan2mAr (50) gurupUjai"]
+ta = ["maṅgaiyarkkaraciyār nāyaṉmār (50) gurupūjai"]
 +++

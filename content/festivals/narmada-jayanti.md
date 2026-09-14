@@ -1,6 +1,7 @@
 +++
 title = "नर्मदा-जयन्ती"
 id = "narmadA~jayantI"
+id_display = "narmadā jayantī"
 slug = "narmada-jayanti"
 source_path = "devatA/nadI/lunar_month/tithi/11/07/narmadA~jayantI.toml"
 tags = ["OtherJayantis"]

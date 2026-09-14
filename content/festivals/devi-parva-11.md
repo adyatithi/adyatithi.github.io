@@ -1,6 +1,7 @@
 +++
 title = "देवी-पर्व-११"
 id = "devi-parva-11"
+id_display = "devi-parva-11"
 slug = "devi-parva-11"
 source_path = "devatA/devIparva/lunar_month/tithi/11/14/devi-parva-11.toml"
 tags = ["Devi Parva"]

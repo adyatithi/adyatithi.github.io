@@ -1,6 +1,7 @@
 +++
 title = "भाद्रपद-मास-आरम्भः"
 id = "bhAdrapada-mAsa-ArambhaH"
+id_display = "bhādrapada-māsa-ārambhaḥ"
 slug = "bhadrapada-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/06/01/bhAdrapada-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

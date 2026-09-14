@@ -1,6 +1,7 @@
 +++
 title = "चन्द्र-षष्ठी"
 id = "candra-SaSThI"
+id_display = "candra-ṣaṣṭhī"
 slug = "candra-sasthi"
 source_path = "devatA/graha/lunar_month/tithi/06/21/candra-SaSThI.toml"
 tags = ["SpecialPuja"]

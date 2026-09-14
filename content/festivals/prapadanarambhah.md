@@ -1,6 +1,7 @@
 +++
 title = "प्रपादान-आरम्भः"
 id = "prapAdAnArambhaH"
+id_display = "prapādānārambhaḥ"
 slug = "prapadanarambhah"
 source_path = "general/lunar_month/tithi/01/01/prapAdAnArambhaH.toml"
 tags = ["SpecialPeriodStart", "Danam"]

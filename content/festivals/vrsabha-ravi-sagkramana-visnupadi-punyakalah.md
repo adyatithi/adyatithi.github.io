@@ -1,6 +1,7 @@
 +++
 title = "वृषभ-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः"
 id = "vRSabha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+id_display = "vṛṣabha-ravi-saṅkramaṇa-viṣṇupadī-puṇyakālaḥ"
 slug = "vrsabha-ravi-sagkramana-visnupadi-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/vRSabha-ravi-saGkramaNa-viSNupadI-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

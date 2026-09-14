@@ -1,6 +1,7 @@
 +++
 title = "श्रवण-महाद्वादशी"
 id = "zravaNa-mahAdvAdazI"
+id_display = "śravaṇa-mahādvādaśī"
 slug = "zravana-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/zravaNa-mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

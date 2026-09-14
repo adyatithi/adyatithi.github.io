@@ -1,6 +1,7 @@
 +++
 title = "दशहरा"
 id = "dazaharA"
+id_display = "daśaharā"
 slug = "dazahara"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/10/dazaharA.toml"
 tags = ["CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "शुक-महर्षि-जयन्ती"
 id = "zuka~maharSi~jayantI"
+id_display = "śuka maharṣi jayantī"
 slug = "zuka-maharsi-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/02/30/zuka~maharSi~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

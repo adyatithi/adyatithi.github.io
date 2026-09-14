@@ -1,6 +1,7 @@
 +++
 title = "भालचन्द्र-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्"
 id = "bhAlacandra-mahAgaNapati-saGkaTahara-caturthI-vratam"
+id_display = "bhālacandra-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "bhalacandra-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/bhAlacandra-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]

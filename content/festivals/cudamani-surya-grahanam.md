@@ -1,6 +1,7 @@
 +++
 title = "★चूडामणि-सूर्य-ग्रहणम्"
 id = "★cUDAmaNi-sUrya-grahaNam"
+id_display = "★cūḍāmaṇi-sūrya-grahaṇam"
 slug = "cudamani-surya-grahanam"
 source_path = "time_focus/Eclipses/description_only/★cUDAmaNi-sUrya-grahaNam.toml"
 tags = ["RareDays", "Combinations", "Eclipses"]

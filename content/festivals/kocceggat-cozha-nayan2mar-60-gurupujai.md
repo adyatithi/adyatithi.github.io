@@ -1,16 +1,17 @@
 +++
-title = "kocceGgaT cOzha nAyan2mAr (60) gurupUjai"
+title = "kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"
 id = "kocceGgaT_cOzha_nAyan2mAr_(60)_gurupUjai"
+id_display = "kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"
 slug = "kocceggat-cozha-nayan2mar-60-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/11/24/kocceGgaT_cOzha_nAyan2mAr_(60)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Māgha"]
+rashi = ["Kumbha"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Māgha (माघ) māsa, Śatabhiṣā nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ As king, Kochengat Cholan became a great patron of Shaivism. He constructed a te
 '''
 
 [names]
-ta = ["kocceGgaT cOzha nAyan2mAr (60) gurupUjai"]
+ta = ["kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(सूर्य-सावर्णिः-[८])"
 id = "manvAdiH~(sUrya-sAvarNiH~[8])"
+id_display = "manvādiḥ (sūrya-sāvarṇiḥ [8])"
 slug = "manvadih-surya-savarnih-8"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/11/07/manvAdiH~(sUrya-sAvarNiH~[8]).toml"
 tags = ["ManvadiDays"]

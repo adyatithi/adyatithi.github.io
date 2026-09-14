@@ -1,6 +1,7 @@
 +++
 title = "सोम-प्रदोष-व्रतम्"
 id = "sOma-pradOSa-vratam"
+id_display = "sOma-pradOṣa-vratam"
 slug = "soma-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/sOma-pradOSa-vratam.toml"
 tags = ["MonthlyVratam", "PradoshaVratam"]

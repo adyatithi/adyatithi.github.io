@@ -1,16 +1,17 @@
 +++
-title = "kAraikkAl ammaiyAr (24) gurupUjai"
+title = "kāraikkāl ammaiyār (24) gurupūjai"
 id = "kAraikkAl_ammaiyAr_(24)_gurupUjai"
+id_display = "kāraikkāl ammaiyār (24) gurupūjai"
 slug = "karaikkal-ammaiyar-24-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/15/kAraikkAl_ammaiyAr_(24)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Svātī nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -28,5 +29,5 @@ Acknowledging her exceptional devotion, Bhagavan Shiva welcomed her warmly and o
 '''
 
 [names]
-ta = ["kAraikkAl ammaiyAr (24) gurupUjai"]
+ta = ["kāraikkāl ammaiyār (24) gurupūjai"]
 +++

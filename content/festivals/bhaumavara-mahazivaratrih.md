@@ -1,6 +1,7 @@
 +++
 title = "भौमवार-महाशिवरात्रिः"
 id = "bhaumavAra-mahAzivarAtriH"
+id_display = "bhaumavāra-mahāśivarātriḥ"
 slug = "bhaumavara-mahazivaratrih"
 source_path = "devatA/shaiva/description_only/bhaumavAra-mahAzivarAtriH.toml"
 tags = ["CommonFestivals"]

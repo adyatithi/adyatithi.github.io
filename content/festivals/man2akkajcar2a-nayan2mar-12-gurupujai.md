@@ -1,16 +1,17 @@
 +++
-title = "mAn2akkaJcAr2a nAyan2mAr (12) gurupUjai"
+title = "māṉakkañcāṟa nāyaṉmār (12) gurupūjai"
 id = "mAn2akkaJcAr2a_nAyan2mAr_(12)_gurupUjai"
+id_display = "māṉakkañcāṟa nāyaṉmār (12) gurupūjai"
 slug = "man2akkajcar2a-nayan2mar-12-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/09/15/mAn2akkaJcAr2a_nAyan2mAr_(12)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Svātī nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ When Eyarkon Kalikamar and his party arrived and learned of the incident, they w
 '''
 
 [names]
-ta = ["mAn2akkaJcAr2a nAyan2mAr (12) gurupUjai"]
+ta = ["māṉakkañcāṟa nāyaṉmār (12) gurupūjai"]
 +++

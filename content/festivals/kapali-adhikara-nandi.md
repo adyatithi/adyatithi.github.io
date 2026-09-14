@@ -1,6 +1,7 @@
 +++
 title = "कपाल्यधिकार-नन्दी"
 id = "kapAlI_adhikAra_nandi"
+id_display = "kapālī adhikāra nandi"
 slug = "kapali-adhikara-nandi"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-7/kapAlI_adhikAra_nandi.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -16,6 +17,6 @@ The sight of the majestic silver Nandi adorned with flowers and jewels, carrying
 '''
 
 [names]
-ta = ["kapAlI adhikAra nandi"]
+ta = ["kapālī adhikāra nandi"]
 sa = ["कपाल्यधिकार-नन्दी"]
 +++

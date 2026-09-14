@@ -1,6 +1,7 @@
 +++
 title = "माघ-पूर्णिमा-स्नानम्"
 id = "mAgha-pUrNimA-snAnam"
+id_display = "māgha-pūrṇimā-snānam"
 slug = "magha-purnima-snanam"
 source_path = "general/lunar_month/tithi/11/15/mAgha-pUrNimA-snAnam.toml"
 tags = ["SpecialSnanam"]

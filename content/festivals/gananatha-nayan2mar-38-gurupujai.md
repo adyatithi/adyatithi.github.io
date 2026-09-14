@@ -1,16 +1,17 @@
 +++
-title = "gaNanAtha nAyan2mAr (38) gurupUjai"
+title = "gaṇanātha nāyaṉmār (38) gurupūjai"
 id = "gaNanAtha_nAyan2mAr_(38)_gurupUjai"
+id_display = "gaṇanātha nāyaṉmār (38) gurupūjai"
 slug = "gananatha-nayan2mar-38-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/06/gaNanAtha_nAyan2mAr_(38)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 nakshatra = ["Ārdrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Ārdrā nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Ārdrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Gananathar, a devout Brahmana from Sirkali, was the 38th of the Nayanmars. He wa
 '''
 
 [names]
-ta = ["gaNanAtha nAyan2mAr (38) gurupUjai"]
+ta = ["gaṇanātha nāyaṉmār (38) gurupūjai"]
 +++

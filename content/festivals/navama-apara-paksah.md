@@ -1,6 +1,7 @@
 +++
 title = "नवम-(अपर)-पक्षः"
 id = "navama-(apara)-pakSaH"
+id_display = "navama-(apara)-pakṣaḥ"
 slug = "navama-apara-paksah"
 source_path = "devatA/pitR/description_only/navama-(apara)-pakSaH.toml"
 tags = ["SpecialPeriod"]

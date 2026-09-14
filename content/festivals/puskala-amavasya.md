@@ -1,6 +1,7 @@
 +++
 title = "पुष्कला-अमावास्या"
 id = "puSkalA-amAvAsyA"
+id_display = "puṣkalā-amāvāsyā"
 slug = "puskala-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/puSkalA-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

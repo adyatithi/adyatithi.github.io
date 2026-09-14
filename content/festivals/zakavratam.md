@@ -1,6 +1,7 @@
 +++
 title = "शाकव्रतम्"
 id = "zAkavratam"
+id_display = "śākavratam"
 slug = "zakavratam"
 source_path = "general/description_only/zAkavratam.toml"
 tags = ["Vratam", "SpecialPeriod", "CommonFestivals"]

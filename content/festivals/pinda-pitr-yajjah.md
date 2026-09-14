@@ -1,6 +1,7 @@
 +++
 title = "पिण्ड-पितृ-यज्ञः"
 id = "piNDa-pitR-yajJaH"
+id_display = "piṇḍa-pitṛ-yajñaḥ"
 slug = "pinda-pitr-yajjah"
 source_path = "devatA/pitR/lunar_month/tithi/00/30/piNDa-pitR-yajJaH.toml"
 tags = ["ShraddhaDays"]

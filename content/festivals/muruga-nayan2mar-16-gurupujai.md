@@ -1,16 +1,17 @@
 +++
-title = "muruga nAyan2mAr (16) gurupUjai"
+title = "muruga nāyaṉmār (16) gurupūjai"
 id = "muruga_nAyan2mAr_(16)_gurupUjai"
+id_display = "muruga nāyaṉmār (16) gurupūjai"
 slug = "muruga-nayan2mar-16-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/muruga_nAyan2mAr_(16)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ A significant event in Muruga Nayanmar's life was the arrival of the revered Jna
 '''
 
 [names]
-ta = ["muruga nAyan2mAr (16) gurupUjai"]
+ta = ["muruga nāyaṉmār (16) gurupūjai"]
 +++

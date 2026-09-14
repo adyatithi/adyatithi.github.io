@@ -1,6 +1,7 @@
 +++
 title = "परशुराम-जयन्ती (द्रविड-सम्प्रदायः)"
 id = "parazurAma~jayantI~2"
+id_display = "paraśurāma jayantī 2"
 slug = "parazurama-jayanti-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/09/17/parazurAma~jayantI~2.toml"
 tags = ["Dashavataram"]

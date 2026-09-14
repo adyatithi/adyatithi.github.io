@@ -1,6 +1,7 @@
 +++
 title = "माघ-मास-आरम्भः"
 id = "mAgha-mAsa-ArambhaH"
+id_display = "māgha-māsa-ārambhaḥ"
 slug = "magha-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/11/01/mAgha-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

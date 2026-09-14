@@ -1,6 +1,7 @@
 +++
 title = "शाकम्भरी-जयन्ती"
 id = "zAkambharI~jayantI"
+id_display = "śākambharī jayantī"
 slug = "zakambhari-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/10/15/zAkambharI~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
 title = "श्री-राघवेन्द्र-स्वामि-आराधना"
 id = "zrI~rAghavEndra~svAmI~ArAdhanA"
+id_display = "śrī rāghavEndra svāmī ārādhanā"
 slug = "zri-raghavendra-svami-aradhana"
 source_path = "mahApuruSha/mAdhva-misc/lunar_month/tithi/05/17/zrI~rAghavEndra~svAmI~ArAdhanA.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

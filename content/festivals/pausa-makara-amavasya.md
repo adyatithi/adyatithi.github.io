@@ -1,6 +1,7 @@
 +++
 title = "पौष (मकर) अमावास्या"
 id = "pauSa_(makara)_amAvAsyA"
+id_display = "pauṣa (makara) amāvāsyā"
 slug = "pausa-makara-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/pauSa_(makara)_amAvAsyA.toml"
 tags = ["AmavasyaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "महालय-पक्ष-समापनम्"
 id = "mahAlaya-pakSa-samApanam"
+id_display = "mahālaya-pakṣa-samāpanam"
 slug = "mahalaya-paksa-samapanam"
 source_path = "devatA/pitR/lunar_month/tithi/06/30/mahAlaya-pakSa-samApanam.toml"
 tags = ["SpecialPeriodEnd", "CommonFestivals"]

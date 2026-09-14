@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ३८ जगद्गुरु-श्री-अभिनवशङ्करेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_38_jagadguru_zrI~abhinavazaGkarEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 38 jagadguru śrī abhinavaśaṅkarEndra sarasvatī ārādhanā"
 slug = "kajci-38-jagadguru-zri-abhinavazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/30/kAJcI_38_jagadguru_zrI~abhinavazaGkarEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

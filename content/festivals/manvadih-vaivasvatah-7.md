@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(वैवस्वतः-[७])"
 id = "manvAdiH~(vaivasvataH~[7])"
+id_display = "manvādiḥ (vaivasvataḥ [7])"
 slug = "manvadih-vaivasvatah-7"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/04/10/manvAdiH~(vaivasvataH~[7]).toml"
 tags = ["ManvadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "वसिष्ठ-महर्षि-जयन्ती"
 id = "vasiSTha~maharSi~jayantI"
+id_display = "vasiṣṭha maharṣi jayantī"
 slug = "vasistha-maharsi-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/02/09/vasiSTha~maharSi~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

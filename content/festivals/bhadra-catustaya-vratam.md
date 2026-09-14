@@ -1,6 +1,7 @@
 +++
 title = "भद्र-चतुष्टय-व्रतम्"
 id = "bhadra-catuSTaya-vratam"
+id_display = "bhadra-catuṣṭaya-vratam"
 slug = "bhadra-catustaya-vratam"
 source_path = "general/lunar_month/tithi/03/01/bhadra-catuSTaya-vratam.toml"
 tags = ["SpecialVratam"]

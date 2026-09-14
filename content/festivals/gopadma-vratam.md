@@ -1,6 +1,7 @@
 +++
 title = "गोपद्म-व्रतम्"
 id = "gOpadma-vratam"
+id_display = "gOpadma-vratam"
 slug = "gopadma-vratam"
 source_path = "devatA/vaiShNava/description_only/gOpadma-vratam.toml"
 tags = ["SpecialVratam"]

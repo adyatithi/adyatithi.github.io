@@ -1,6 +1,7 @@
 +++
 title = "काम-दहनम्"
 id = "kAma-dahanam"
+id_display = "kāma-dahanam"
 slug = "kama-dahanam"
 source_path = "general/lunar_month/tithi/12/14/kAma-dahanam.toml"
 tags = ["CommonFestivals", "PuranaEvents"]

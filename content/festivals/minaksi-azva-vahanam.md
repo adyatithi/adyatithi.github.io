@@ -1,6 +1,7 @@
 +++
-title = "mInAkSI azva vAhanam"
+title = "mīnākṣī aśva vāhanam"
 id = "mInAkSI_azva_vAhanam"
+id_display = "mīnākṣī aśva vāhanam"
 slug = "minaksi-azva-vahanam"
 source_path = "temples/Tamil/relative_event/mIn2AkSI_tirukkalyANam/offset__-5/mInAkSI_azva_vAhanam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,5 +13,5 @@ From: https://x.com/AnObserversView/status/1777654948647571495
 '''
 
 [names]
-ta = ["mIn2AkSI taGga kudirai vAhan2am"]
+ta = ["mīṉākṣī taṅga kudirai vāhaṉam"]
 +++

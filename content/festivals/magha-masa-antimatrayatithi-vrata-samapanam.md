@@ -1,6 +1,7 @@
 +++
 title = "माघ-मास-अन्तिमत्रयतिथि-व्रत-समापनम्"
 id = "mAgha-mAsa-antimatrayatithi-vrata-samApanam"
+id_display = "māgha-māsa-antimatrayatithi-vrata-samāpanam"
 slug = "magha-masa-antimatrayatithi-vrata-samapanam"
 source_path = "general/lunar_month/tithi/11/15/mAgha-mAsa-antimatrayatithi-vrata-samApanam.toml"
 tags = ["LessCommonFestivals"]

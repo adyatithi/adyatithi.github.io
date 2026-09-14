@@ -1,6 +1,7 @@
 +++
 title = "नारिकेल-पूर्णिमा"
 id = "nArikEla-pUrNimA"
+id_display = "nārikEla-pūrṇimā"
 slug = "narikela-purnima"
 source_path = "general/lunar_month/tithi/05/15/nArikEla-pUrNimA.toml"
 tags = ["DevataPuja"]

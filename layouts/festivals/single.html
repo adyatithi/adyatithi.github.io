@@ -6,7 +6,7 @@
     <div class="wrap festival__banner-inner">
       {{ with .Params.category }}<p class="eyebrow eyebrow--light">{{ delimit . ", " }}</p>{{ end }}
       <h1 class="festival__title">{{ .Title }}</h1>
-      {{ if ne .Params.id .Title }}<p class="festival__id">{{ .Params.id }}</p>{{ end }}
+      {{ if ne .Params.id_display .Title }}<p class="festival__id">{{ .Params.id_display }}</p>{{ end }}
       {{ if .Params.tags }}
       <div class="festival__pills">
         {{ range .Params.tags }}<span class="pill pill--onbanner">{{ . }}</span>{{ end }}
@@ -54,6 +54,7 @@
     <section class="pill-groups">
       {{ range slice
           (dict "label" "Month" "tax" "month" "vals" .Params.month)
+          (dict "label" "Rāśi" "tax" "rashi" "vals" .Params.rashi)
           (dict "label" "Devatā" "tax" "devata" "vals" .Params.devata)
           (dict "label" "Tradition" "tax" "tradition" "vals" .Params.tradition)
           (dict "label" "Tithi" "tax" "tithi" "vals" .Params.tithi)

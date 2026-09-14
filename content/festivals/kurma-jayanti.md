@@ -1,6 +1,7 @@
 +++
 title = "कूर्म-जयन्ती"
 id = "kUrma~jayantI"
+id_display = "kūrma jayantī"
 slug = "kurma-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/03/27/kUrma~jayantI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]

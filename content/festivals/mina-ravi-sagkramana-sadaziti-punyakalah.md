@@ -1,6 +1,7 @@
 +++
 title = "मीन-रवि-सङ्क्रमण-षडशीति-पुण्यकालः"
 id = "mIna-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+id_display = "mīna-ravi-saṅkramaṇa-ṣaḍaśīti-puṇyakālaḥ"
 slug = "mina-ravi-sagkramana-sadaziti-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/mIna-ravi-saGkramaNa-SaDazIti-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

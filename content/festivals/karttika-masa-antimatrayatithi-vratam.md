@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-मास-अन्तिमत्रयतिथि-व्रतम्"
 id = "kArttika-mAsa-antimatrayatithi-vratam"
+id_display = "kārttika-māsa-antimatrayatithi-vratam"
 slug = "karttika-masa-antimatrayatithi-vratam"
 source_path = "general/description_only/kArttika-mAsa-antimatrayatithi-vratam.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "शनि-प्रदोष-व्रतम्"
 id = "zani-pradOSa-vratam"
+id_display = "śani-pradOṣa-vratam"
 slug = "zani-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/zani-pradOSa-vratam.toml"
 tags = ["MonthlyVratam", "PradoshaVratam"]

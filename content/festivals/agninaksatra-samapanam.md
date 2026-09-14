@@ -1,6 +1,7 @@
 +++
 title = "अग्निनक्षत्र-समापनम्"
 id = "agninakSatra-samApanam"
+id_display = "agninakṣatra-samāpanam"
 slug = "agninaksatra-samapanam"
 source_path = "time_focus/nakShatra/description_only/agninakSatra-samApanam.toml"
 tags = ["SpecialPeriodEnd"]

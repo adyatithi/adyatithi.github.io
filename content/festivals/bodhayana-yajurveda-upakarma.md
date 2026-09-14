@@ -1,6 +1,7 @@
 +++
 title = "बोधायन-यजुर्वेद-उपाकर्म"
 id = "bOdhAyana-yajurvEda-upAkarma"
+id_display = "bOdhāyana-yajurvEda-upākarma"
 slug = "bodhayana-yajurveda-upakarma"
 source_path = "general/description_only/bOdhAyana-yajurvEda-upAkarma.toml"
 tags = ["CommonFestivals"]

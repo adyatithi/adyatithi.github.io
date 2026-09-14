@@ -1,6 +1,7 @@
 +++
 title = "शङ्करभगवत्पादस्य कैलासात् पुनरागमनम्"
 id = "zaGkarabhagavatpAdasya-kailAsAt-punarAgamanam"
+id_display = "śaṅkarabhagavatpādasya-kailāsāt-punarāgamanam"
 slug = "zagkarabhagavatpadasya-kailasat-punaragamanam"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/05/zaGkarabhagavatpAdasya-kailAsAt-punarAgamanam.toml"
 tags = ["SpecialPuja"]

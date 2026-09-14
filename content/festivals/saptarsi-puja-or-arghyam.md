@@ -1,6 +1,7 @@
 +++
 title = "सप्तर्षि-पूजा/अर्घ्यम्"
 id = "saptarSi-pUjA_or_arghyam"
+id_display = "saptarṣi-pūjā or arghyam"
 slug = "saptarsi-puja-or-arghyam"
 source_path = "general/lunar_month/tithi/06/20/saptarSi-pUjA_or_arghyam.toml"
 tags = ["SpecialPuja"]

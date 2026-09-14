@@ -1,6 +1,7 @@
 +++
 title = "ऐन्द्री-दुर्गा-पूजा"
 id = "aindrI-durgA-pUjA"
+id_display = "aindrī-durgā-pūjā"
 slug = "aindri-durga-puja"
 source_path = "devatA/shakti/lunar_month/tithi/04/09/aindrI-durgA-pUjA.toml"
 tags = ["SpecialPuja"]

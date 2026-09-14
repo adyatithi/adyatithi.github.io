@@ -1,6 +1,7 @@
 +++
 title = "सायन-विष्णुपदी-पुण्यकालः"
 id = "sAyana-viSNupadI-puNyakAlaH"
+id_display = "sāyana-viṣṇupadī-puṇyakālaḥ"
 slug = "sayana-visnupadi-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/sAyana-viSNupadI-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

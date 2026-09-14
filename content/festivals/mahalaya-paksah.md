@@ -1,6 +1,7 @@
 +++
 title = "महालय-पक्षः"
 id = "mahAlaya-pakSaH"
+id_display = "mahālaya-pakṣaḥ"
 slug = "mahalaya-paksah"
 source_path = "devatA/pitR/description_only/mahAlaya-pakSaH.toml"
 tags = ["SpecialPeriod"]

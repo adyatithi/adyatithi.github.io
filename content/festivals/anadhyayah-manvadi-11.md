@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH~manvAdi~11"
+id_display = "anadhyāyaḥ manvādi 11"
 slug = "anadhyayah-manvadi-11"
 source_path = "time_focus/adhyayana/relative_event/manvAdiH~(dharma-sAvarNiH~[11])/offset__00/anadhyAyaH~manvAdi~11.toml"
 tags = ["Anadhyayana Days"]

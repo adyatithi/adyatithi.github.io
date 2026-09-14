@@ -1,6 +1,7 @@
 +++
 title = "रामेश्वर-दर्शनम्"
 id = "rAmEzvara-darzanam"
+id_display = "rāmEśvara-darśanam"
 slug = "ramezvara-darzanam"
 source_path = "general/relative_event/dazaharA_or_gaGgAvataraNam_or_dazapApaharA~dazamI/offset__00/rAmEzvara-darzanam.toml"
 tags = ["CommonFestivals"]

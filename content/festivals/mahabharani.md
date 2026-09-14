@@ -1,6 +1,7 @@
 +++
 title = "महाभरणी"
 id = "mahAbharaNI"
+id_display = "mahābharaṇī"
 slug = "mahabharani"
 source_path = "devatA/pitR/lunar_month/nakshatra/06/02/mahAbharaNI.toml"
 tags = ["SpecialPuja", "CommonFestivals"]

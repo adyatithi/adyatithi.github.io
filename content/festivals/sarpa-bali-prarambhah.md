@@ -1,6 +1,7 @@
 +++
 title = "सर्प-बलि-प्रारम्भः"
 id = "sarpa-bali-prArambhaH"
+id_display = "sarpa-bali-prārambhaḥ"
 slug = "sarpa-bali-prarambhah"
 source_path = "gRhya/Apastamba/lunar_month/tithi/05/15/sarpa-bali-prArambhaH.toml"
 tags = ["LessCommonFestivals"]

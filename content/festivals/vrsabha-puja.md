@@ -1,6 +1,7 @@
 +++
 title = "वृषभ-पूजा"
 id = "vRSabha-pUjA"
+id_display = "vṛṣabha-pūjā"
 slug = "vrsabha-puja"
 source_path = "general/lunar_month/tithi/05/30/vRSabha-pUjA.toml"
 tags = ["SpecialPuja"]

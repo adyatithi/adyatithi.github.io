@@ -1,6 +1,7 @@
 +++
 title = "महालय-पक्ष-तर्पण-पूर्तिः"
 id = "mahAlaya-pakSa-tarpaNa-pUrtiH"
+id_display = "mahālaya-pakṣa-tarpaṇa-pūrtiḥ"
 slug = "mahalaya-paksa-tarpana-purtih"
 source_path = "devatA/pitR/relative_event/mahAlaya-pakSa-samApanam/offset__00/mahAlaya-pakSa-tarpaNa-pUrtiH.toml"
 tags = ["SpecialPeriodEnd", "CommonFestivals"]

@@ -1,16 +1,17 @@
 +++
-title = "meypporuL nAyan2mAr (5) gurupUjai"
+title = "meypporuḻ nāyaṉmār (5) gurupūjai"
 id = "meypporuL_nAyan2mAr_(5)_gurupUjai"
+id_display = "meypporuḻ nāyaṉmār (5) gurupūjai"
 slug = "meypporul-nayan2mar-5-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/12/meypporuL_nAyan2mAr_(5)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Uttara Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Bhagavan Shiva immediately manifested in front of him and bestowed his blessings
 '''
 
 [names]
-ta = ["meypporuL nAyan2mAr (5) gurupUjai"]
+ta = ["meypporuḻ nāyaṉmār (5) gurupūjai"]
 +++

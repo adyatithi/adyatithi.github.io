@@ -1,16 +1,17 @@
 +++
-title = "mun2aiyaDuvAr nAyan2mAr (52) gurupUjai"
+title = "muṉaiyaḍuvār nāyaṉmār (52) gurupūjai"
 id = "mun2aiyaDuvAr_nAyan2mAr_(52)_gurupUjai"
+id_display = "muṉaiyaḍuvār nāyaṉmār (52) gurupūjai"
 slug = "mun2aiyaduvar-nayan2mar-52-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/08/mun2aiyaDuvAr_nAyan2mAr_(52)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 nakshatra = ["Puṣya"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Puṣya nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Puṣya nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ This Nayanmar, a Vellala from Tiru Nidur in the Chola kingdom, was renowned for 
 '''
 
 [names]
-ta = ["mun2aiyaDuvAr nAyan2mAr (52) gurupUjai"]
+ta = ["muṉaiyaḍuvār nāyaṉmār (52) gurupūjai"]
 +++

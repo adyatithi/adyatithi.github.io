@@ -1,6 +1,7 @@
 +++
 title = "तिन्दुकाष्टमी"
 id = "tindukASTamI"
+id_display = "tindukāṣṭamī"
 slug = "tindukastami"
 source_path = "general/lunar_month/tithi/03/23/tindukASTamI.toml"
 tags = ["LessCommonFestivals"]

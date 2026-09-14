@@ -1,6 +1,7 @@
 +++
 title = "धन्वन्तरि-जयन्ती"
 id = "dhanvantari~jayantI"
+id_display = "dhanvantari jayantī"
 slug = "dhanvantari-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/28/dhanvantari~jayantI.toml"
 tags = ["CommonFestivals"]

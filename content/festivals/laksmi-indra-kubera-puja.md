@@ -1,6 +1,7 @@
 +++
 title = "लक्ष्मी-इन्द्र-कुबेर-पूजा"
 id = "lakSmI-indra-kubEra-pUjA"
+id_display = "lakṣmī-indra-kubEra-pūjā"
 slug = "laksmi-indra-kubera-puja"
 source_path = "general/lunar_month/tithi/07/15/lakSmI-indra-kubEra-pUjA.toml"
 tags = ["SpecialPuja"]

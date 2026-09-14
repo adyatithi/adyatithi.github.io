@@ -1,6 +1,7 @@
 +++
 title = "त्यागराज-आराधना/बहुल-पञ्चमी"
 id = "tyAgarAja-ArAdhanA"
+id_display = "tyāgarāja-ārādhanā"
 slug = "tyagaraja-aradhana"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/10/20/tyAgarAja-ArAdhanA.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

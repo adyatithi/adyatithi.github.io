@@ -1,6 +1,7 @@
 +++
 title = "भानुसप्तमी★"
 id = "bhAnusaptamI★"
+id_display = "bhānusaptamī★"
 slug = "bhanusaptami-1"
 source_path = "time_focus/tithi-vara-combinations/description_only/bhAnusaptamI★.toml"
 tags = ["RareDays", "Combinations"]

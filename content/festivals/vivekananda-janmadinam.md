@@ -1,6 +1,7 @@
 +++
 title = "विवेकानन्द-जन्मदिनम्"
 id = "vivEkAnanda~janmadinam"
+id_display = "vivEkānanda janmadinam"
 slug = "vivekananda-janmadinam"
 source_path = "mahApuruSha/smArta-misc/lunar_month/tithi/10/22/vivEkAnanda~janmadinam.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

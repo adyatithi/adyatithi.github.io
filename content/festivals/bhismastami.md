@@ -1,6 +1,7 @@
 +++
 title = "भीष्माष्टमी"
 id = "bhISmASTamI"
+id_display = "bhīṣmāṣṭamī"
 slug = "bhismastami"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/11/08/bhISmASTamI.toml"
 tags = ["SpecialPuja", "CommonFestivals", "CommonFestivals"]

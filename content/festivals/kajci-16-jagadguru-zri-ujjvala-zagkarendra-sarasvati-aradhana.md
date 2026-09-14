@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १६ जगद्गुरु-श्री-उज्ज्वल-शङ्करेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_16_jagadguru_zrI~ujjvala_zaGkarEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 16 jagadguru śrī ujjvala śaṅkarEndra sarasvatī ārādhanā"
 slug = "kajci-16-jagadguru-zri-ujjvala-zagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/08/kAJcI_16_jagadguru_zrI~ujjvala_zaGkarEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

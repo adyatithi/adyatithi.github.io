@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ५४ जगद्गुरु-श्री-व्यासाचल-महादेवेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_54_jagadguru_zrI~vyAsAcala_mahAdEvEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 54 jagadguru śrī vyāsācala mahādEvEndra sarasvatī ārādhanā"
 slug = "kajci-54-jagadguru-zri-vyasacala-mahadevendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/16/kAJcI_54_jagadguru_zrI~vyAsAcala_mahAdEvEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,16 +1,17 @@
 +++
-title = "er2ipatta nAyan2mAr (8) gurupUjai"
+title = "eṟipatta nāyaṉmār (8) gurupūjai"
 id = "er2ipatta_nAyan2mAr_(8)_gurupUjai"
+id_display = "eṟipatta nāyaṉmār (8) gurupūjai"
 slug = "er2ipatta-nayan2mar-8-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/11/13/er2ipatta_nAyan2mAr_(8)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Māgha"]
+rashi = ["Kumbha"]
 nakshatra = ["Hasta"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Māgha (माघ) māsa, Hasta nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Hasta nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ At this point, divine intervention occurred. A heavenly voice explained that thi
 '''
 
 [names]
-ta = ["er2ipatta nAyan2mAr (8) gurupUjai"]
+ta = ["eṟipatta nāyaṉmār (8) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "एकविंशति-दिवस-गणपति-व्रतम्"
 id = "EkaviMzati-divasa-gaNapati-vratam"
+id_display = "Ekaviṃśati-divasa-gaṇapati-vratam"
 slug = "ekavimzati-divasa-ganapati-vratam"
 source_path = "devatA/gaNapati/description_only/EkaviMzati-divasa-gaNapati-vratam.toml"
 tags = ["SpecialPeriod"]

@@ -1,6 +1,7 @@
 +++
 title = "विषु-पुण्यकालः"
 id = "viSu-puNyakAlaH"
+id_display = "viṣu-puṇyakālaḥ"
 slug = "visu-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/viSu-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

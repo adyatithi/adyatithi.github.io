@@ -1,6 +1,7 @@
 +++
 title = "भीम-चण्डी-जयन्ती"
 id = "bhIma~caNDI~jayantI"
+id_display = "bhīma caṇḍī jayantī"
 slug = "bhima-candi-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/05/17/bhIma~caNDI~jayantI.toml"
 tags = ["OtherJayantis"]

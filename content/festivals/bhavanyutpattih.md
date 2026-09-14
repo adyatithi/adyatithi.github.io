@@ -1,6 +1,7 @@
 +++
 title = "भवान्युत्पत्तिः"
 id = "bhavAnyutpattiH"
+id_display = "bhavānyutpattiḥ"
 slug = "bhavanyutpattih"
 source_path = "general/lunar_month/tithi/01/08/bhavAnyutpattiH.toml"
 tags = ["CommonFestivals"]

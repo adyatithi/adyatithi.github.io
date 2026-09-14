@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-अष्टका-श्राद्धम्"
 id = "mArgazIrSa-aSTakA-zrAddham"
+id_display = "mārgaśīrṣa-aṣṭakā-śrāddham"
 slug = "margazirsa-astaka-zraddham"
 source_path = "devatA/pitR/lunar_month/tithi/09/23/mArgazIrSa-aSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

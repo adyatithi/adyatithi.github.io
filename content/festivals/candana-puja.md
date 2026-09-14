@@ -1,6 +1,7 @@
 +++
 title = "चन्दन-पूजा"
 id = "candana-pUjA"
+id_display = "candana-pūjā"
 slug = "candana-puja"
 source_path = "general/lunar_month/tithi/02/03/candana-pUjA.toml"
 tags = ["LessCommonFestivals"]

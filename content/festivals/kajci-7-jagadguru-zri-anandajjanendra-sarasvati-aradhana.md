@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ७ जगद्गुरु-श्री-आनन्दज्ञानेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_7_jagadguru_zrI~AnandajJAnEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 7 jagadguru śrī ānandajñānEndra sarasvatī ārādhanā"
 slug = "kajci-7-jagadguru-zri-anandajjanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/24/kAJcI_7_jagadguru_zrI~AnandajJAnEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

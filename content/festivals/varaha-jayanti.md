@@ -1,6 +1,7 @@
 +++
 title = "वराह-जयन्ती"
 id = "varAha~jayantI"
+id_display = "varāha jayantī"
 slug = "varaha-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/20/varAha~jayantI.toml"
 tags = ["Dashavataram"]

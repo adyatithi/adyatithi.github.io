@@ -1,6 +1,7 @@
 +++
 title = "चिदम्बरे ध्वजारोहणम्/पञ्चमूर्ति-रथोत्सवः"
 id = "cidambarE_dhvajArOhaNam_or_paJcamUrti_rathOtsavaH"
+id_display = "cidambarE dhvajārOhaṇam or pañcamūrti rathOtsavaḥ"
 slug = "cidambare-dhvajarohanam-or-pajcamurti-rathotsavah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-9/cidambarE_dhvajArOhaNam_or_paJcamUrti_rathOtsavaH.toml"
 tags = ["TamilnaduTempleFestivals"]

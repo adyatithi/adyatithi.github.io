@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची २९ जगद्गुरु-श्री-पूर्णबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_29_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 29 jagadguru śrī pūrṇabOdhEndra sarasvatī ārādhanā"
 slug = "kajci-29-jagadguru-zri-purnabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/11/kAJcI_29_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

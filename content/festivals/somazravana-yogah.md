@@ -1,6 +1,7 @@
 +++
 title = "सोमश्रवण-योगः"
 id = "sOmazravaNa-yOgaH"
+id_display = "sOmaśravaṇa-yOgaḥ"
 slug = "somazravana-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/sOmazravaNa-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

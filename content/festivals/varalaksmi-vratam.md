@@ -1,6 +1,7 @@
 +++
 title = "वरलक्ष्मी-व्रतम्"
 id = "varalakSmI-vratam"
+id_display = "varalakṣmī-vratam"
 slug = "varalaksmi-vratam"
 source_path = "devatA/lakShmI/description_only/varalakSmI-vratam.toml"
 tags = ["CommonFestivals", "SpecialVratam"]

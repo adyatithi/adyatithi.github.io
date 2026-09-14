@@ -1,6 +1,7 @@
 +++
 title = "शाकव्रत-समापनम्"
 id = "zAkavrata-samApanam"
+id_display = "śākavrata-samāpanam"
 slug = "zakavrata-samapanam"
 source_path = "general/lunar_month/tithi/05/12/zAkavrata-samApanam.toml"
 tags = ["VratamEnd", "SpecialPeriodEnd", "CommonFestivals"]

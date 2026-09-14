@@ -1,6 +1,7 @@
 +++
 title = "पौष-यम-तर्पणम्"
 id = "pauSa-yama-tarpaNam"
+id_display = "pauṣa-yama-tarpaṇam"
 slug = "pausa-yama-tarpanam"
 source_path = "devatA/pitR/lunar_month/tithi/10/29/pauSa-yama-tarpaNam.toml"
 tags = ["CommonFestivals"]

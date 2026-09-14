@@ -1,6 +1,7 @@
 +++
 title = "वाराही-नवरात्र-आरम्भः"
 id = "vArAhI-navarAtra-ArambhaH"
+id_display = "vārāhī-navarātra-ārambhaḥ"
 slug = "varahi-navaratra-arambhah"
 source_path = "devatA/shakti/lunar_month/tithi/04/01/vArAhI-navarAtra-ArambhaH.toml"
 tags = ["Navaratri", "SpecialPeriodStart"]

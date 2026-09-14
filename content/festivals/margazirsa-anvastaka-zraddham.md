@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-अन्वष्टका-श्राद्धम्"
 id = "mArgazIrSa-anvaSTakA-zrAddham"
+id_display = "mārgaśīrṣa-anvaṣṭakā-śrāddham"
 slug = "margazirsa-anvastaka-zraddham"
 source_path = "devatA/pitR/relative_event/mArgazIrSa-aSTakA-zrAddham/offset__01/mArgazIrSa-anvaSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

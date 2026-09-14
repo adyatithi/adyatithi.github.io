@@ -1,6 +1,7 @@
 +++
 title = "छिन्नमस्ता-जयन्ती"
 id = "chinnamastA~jayantI"
+id_display = "chinnamastā jayantī"
 slug = "chinnamasta-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/02/14/chinnamastA~jayantI.toml"
 tags = ["Dashamahavidya"]

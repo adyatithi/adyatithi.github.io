@@ -1,6 +1,7 @@
 +++
 title = "भरणी-यमार्चना"
 id = "bharaNI-yamArcanA"
+id_display = "bharaṇī-yamārcanā"
 slug = "bharani-yamarcana"
 source_path = "time_focus/vaara_conditioned/bharaNI-yamArcanA.toml"
 tags = ["RareDays", "Combinations"]

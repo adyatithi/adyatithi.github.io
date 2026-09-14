@@ -1,6 +1,7 @@
 +++
 title = "गुरुवायुपुर-एकादशी"
 id = "guruvAyupura-EkAdazI"
+id_display = "guruvāyupura-Ekādaśī"
 slug = "guruvayupura-ekadazi"
 source_path = "temples/Kerala/description_only/guruvAyupura-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam", "KeralaTempleFestivals"]

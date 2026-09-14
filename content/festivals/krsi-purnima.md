@@ -1,6 +1,7 @@
 +++
 title = "कृषि-पूर्णिमा"
 id = "kRSi-pUrNimA"
+id_display = "kṛṣi-pūrṇimā"
 slug = "krsi-purnima"
 source_path = "general/lunar_month/tithi/03/15/kRSi-pUrNimA.toml"
 tags = ["LessCommonFestivals", "DanamDays"]

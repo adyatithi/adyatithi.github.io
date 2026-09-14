@@ -1,6 +1,7 @@
 +++
 title = "अधिक-मास-आरम्भः"
 id = "adhika-mAsa-ArambhaH"
+id_display = "adhika-māsa-ārambhaḥ"
 slug = "adhika-masa-arambhah"
 source_path = "general/lunar_month/tithi/00/01/adhika-mAsa-ArambhaH.toml"
 tags = ["SpecialFestivals", "SpecialPeriodStart"]

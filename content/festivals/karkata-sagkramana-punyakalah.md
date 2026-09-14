@@ -1,6 +1,7 @@
 +++
 title = "कर्कट-सङ्क्रमण-पुण्यकालः"
 id = "karkaTa-saGkramaNa-puNyakAlaH"
+id_display = "karkaṭa-saṅkramaṇa-puṇyakālaḥ"
 slug = "karkata-sagkramana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/karkaTa-saGkramaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

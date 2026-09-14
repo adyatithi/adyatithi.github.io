@@ -1,16 +1,17 @@
 +++
-title = "tiruJAn2asambandhamUrtti nAyan2mAr (28) gurupUjai"
+title = "tiruñāṉasambandhamūrtti nāyaṉmār (28) gurupūjai"
 id = "tiruJAn2asambandhamUrtti_nAyan2mAr_(28)_gurupUjai"
+id_display = "tiruñāṉasambandhamūrtti nāyaṉmār (28) gurupūjai"
 slug = "tirujan2asambandhamurtti-nayan2mar-28-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/tiruJAn2asambandhamUrtti_nAyan2mAr_(28)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -28,5 +29,5 @@ Sambandar’s life was marked by his profound devotion and the numerous miracles
 '''
 
 [names]
-ta = ["tiruJAn2asambandhamUrtti nAyan2mAr (28) gurupUjai"]
+ta = ["tiruñāṉasambandhamūrtti nāyaṉmār (28) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "तुला-सङ्क्रमण-पुण्यकालः"
 id = "tulA-saGkramaNa-puNyakAlaH"
+id_display = "tulā-saṅkramaṇa-puṇyakālaḥ"
 slug = "tula-sagkramana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/tulA-saGkramaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

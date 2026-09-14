@@ -1,6 +1,7 @@
 +++
 title = "वेङ्कटाचले वसन्तोत्सव-प्रारम्भः"
 id = "vEGkaTAcalE_vasantOtsava-ArambhaH"
+id_display = "vEṅkaṭācalE vasantOtsava-ārambhaḥ"
 slug = "vegkatacale-vasantotsava-arambhah"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_vasantOtsava-samApanam/offset__-2/vEGkaTAcalE_vasantOtsava-ArambhaH.toml"
 tags = ["AndhraTempleFestivals"]

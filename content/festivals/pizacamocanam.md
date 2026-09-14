@@ -1,6 +1,7 @@
 +++
 title = "पिशाचमोचनम्"
 id = "pizAcamOcanam"
+id_display = "piśācamOcanam"
 slug = "pizacamocanam"
 source_path = "time_focus/vaara_conditioned/pizAcamOcanam.toml"
 tags = ["RareDays", "Combinations"]

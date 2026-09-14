@@ -1,6 +1,7 @@
 +++
 title = "माघ-पूर्णिमा"
 id = "mAgha-pUrNimA"
+id_display = "māgha-pūrṇimā"
 slug = "magha-purnima"
 source_path = "general/lunar_month/tithi/11/15/mAgha-pUrNimA.toml"
 tags = ["PurnimaDays", "CommonFestivals"]

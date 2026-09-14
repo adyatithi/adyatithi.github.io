@@ -1,6 +1,7 @@
 +++
 title = "नाग-पञ्चमी"
 id = "nAga-paJcamI"
+id_display = "nāga-pañcamī"
 slug = "naga-pajcami"
 source_path = "devatA/misc-fauna/lunar_month/tithi/05/05/nAga-paJcamI.toml"
 tags = ["SpecialPuja", "PuranaEvents"]

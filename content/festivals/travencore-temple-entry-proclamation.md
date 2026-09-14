@@ -1,12 +1,12 @@
 +++
 title = "तिरुवनन्तपुर-देवायतन-प्रवेश-घोषणा"
 id = "travencore-temple-entry-proclamation"
+id_display = "travencore-temple-entry-proclamation"
 slug = "travencore-temple-entry-proclamation"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/11/12/travencore-temple-entry-proclamation.toml"
 tradition = ["General"]
-month = ["Māgha"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "11/12 (Gregorian)"
+timing_summary = "November 12 (Gregorian calendar)"
 
 description_en = '''
 On this day, Maharaja Chithira Thirunal Balarama Varma of Travancore issued the  Temple Entry Proclamation.

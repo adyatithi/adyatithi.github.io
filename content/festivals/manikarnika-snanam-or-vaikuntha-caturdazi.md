@@ -1,6 +1,7 @@
 +++
 title = "मणिकर्णिका-स्नानम्/वैकुण्ठ-चतुर्दशी"
 id = "maNikarNikA-snAnam_or_vaikuNTha-caturdazI"
+id_display = "maṇikarṇikā-snānam or vaikuṇṭha-caturdaśī"
 slug = "manikarnika-snanam-or-vaikuntha-caturdazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/08/14/maNikarNikA-snAnam_or_vaikuNTha-caturdazI.toml"
 tags = ["SpecialSnanam"]

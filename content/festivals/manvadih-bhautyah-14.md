@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(भौत्यः-[१४])"
 id = "manvAdiH~(bhautyaH~[14])"
+id_display = "manvādiḥ (bhautyaḥ [14])"
 slug = "manvadih-bhautyah-14"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/03/15/manvAdiH~(bhautyaH~[14]).toml"
 tags = ["ManvadiDays"]

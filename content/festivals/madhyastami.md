@@ -1,6 +1,7 @@
 +++
 title = "मध्याष्टमी"
 id = "madhyASTamI"
+id_display = "madhyāṣṭamī"
 slug = "madhyastami"
 source_path = "general/lunar_month/tithi/06/23/madhyASTamI.toml"
 tags = ["CommonFestivals"]

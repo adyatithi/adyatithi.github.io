@@ -1,6 +1,7 @@
 +++
-title = "varagUr ur2iyaDi utsavam"
+title = "varagūr uṟiyaḍi utsavam"
 id = "varagUr_ur2iyaDi_utsavam"
+id_display = "varagūr uṟiyaḍi utsavam"
 slug = "varagur-ur2iyadi-utsavam"
 source_path = "temples/Tamil/relative_event/zrIkRSNajanmASTamI/offset__01/varagUr_ur2iyaDi_utsavam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -13,5 +14,5 @@ The village's principal deity, Sri Venkatesa Perumal, originally installed as Sr
 '''
 
 [names]
-ta = ["varagUr ur2iyaDi utsavam"]
+ta = ["varagūr uṟiyaḍi utsavam"]
 +++

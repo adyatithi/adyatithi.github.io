@@ -1,6 +1,7 @@
 +++
 title = "श्रीरामनवमी"
 id = "zrIrAmanavamI"
+id_display = "śrīrāmanavamī"
 slug = "zriramanavami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/09/zrIrAmanavamI.toml"
 tags = ["Dashavataram", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "महावैशाखी-योगः"
 id = "mahA-vaizAkhI-yOgaH"
+id_display = "mahā-vaiśākhī-yOgaḥ"
 slug = "maha-vaizakhi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-vaizAkhI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

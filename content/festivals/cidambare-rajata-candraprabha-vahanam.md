@@ -1,6 +1,7 @@
 +++
 title = "चिदम्बरे रजत-चन्द्रप्रभ-वाहनम्"
 id = "cidambarE_rajata_candraprabha_vAhanam"
+id_display = "cidambarE rajata candraprabha vāhanam"
 slug = "cidambare-rajata-candraprabha-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-8/cidambarE_rajata_candraprabha_vAhanam.toml"
 tags = ["TamilnaduTempleFestivals"]

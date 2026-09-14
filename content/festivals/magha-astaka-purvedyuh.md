@@ -1,6 +1,7 @@
 +++
 title = "माघ-अष्टका-पूर्वेद्युः"
 id = "mAgha-aSTakA-pUrvEdyuH"
+id_display = "māgha-aṣṭakā-pūrvEdyuḥ"
 slug = "magha-astaka-purvedyuh"
 source_path = "devatA/pitR/relative_event/mAgha-aSTakA-zrAddham/offset__-1/mAgha-aSTakA-pUrvEdyuH.toml"
 tags = ["ShannavatiTarpanaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "चन्द्र-दर्शनम्"
 id = "candra-darzanam"
+id_display = "candra-darśanam"
 slug = "candra-darzanam"
 source_path = "devatA/graha/description_only/candra-darzanam.toml"
 tags = ["ChandraDarshanam"]

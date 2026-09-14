@@ -1,6 +1,7 @@
 +++
 title = "आकाशदीप-समापनम्"
 id = "AkAzadIpa-samApanam"
+id_display = "ākāśadīpa-samāpanam"
 slug = "akazadipa-samapanam"
 source_path = "temples/Tamil/relative_event/kRttikA-maNDala-pArAyaNa-ArambhaH/offset__-1/AkAzadIpa-samApanam.toml"
 tags = ["TamilnaduTempleFestivals"]

@@ -1,16 +1,17 @@
 +++
-title = "kaliya nAyan2mAr (44) gurupUjai"
+title = "kaliya nāyaṉmār (44) gurupūjai"
 id = "kaliya_nAyan2mAr_(44)_gurupUjai"
+id_display = "kaliya nāyaṉmār (44) gurupūjai"
 slug = "kaliya-nayan2mar-44-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/18/kaliya_nAyan2mAr_(44)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Jyeṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Jyeṣṭhā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Jyeṣṭhā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ In his commitment to continue his service to Bhagavan, Kaliya Nayanmar resorted 
 '''
 
 [names]
-ta = ["kaliya nAyan2mAr (44) gurupUjai"]
+ta = ["kaliya nāyaṉmār (44) gurupūjai"]
 +++

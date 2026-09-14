@@ -1,16 +1,17 @@
 +++
-title = "cir2uttoNDa nAyan2mAr (36) gurupUjai"
+title = "ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"
 id = "cir2uttoNDa_nAyan2mAr_(36)_gurupUjai"
+id_display = "ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"
 slug = "cir2uttonda-nayan2mar-36-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/02/cir2uttoNDa_nAyan2mAr_(36)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Bharaṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Bharaṇī nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Bharaṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Siruthondar, determined to fulfill the devotee's request, readily considered his
 '''
 
 [names]
-ta = ["cir2uttoNDa nAyan2mAr (36) gurupUjai"]
+ta = ["ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "त्रिस्पृशा-महाद्वादशी"
 id = "trisprzA~mahAdvAdazI"
+id_display = "trisprśā mahādvādaśī"
 slug = "trisprza-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/trisprzA~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

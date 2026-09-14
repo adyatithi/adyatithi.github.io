@@ -1,6 +1,7 @@
 +++
-title = "kapAlI teppOtsavam 3"
+title = "kapālī teppOtsavam 3"
 id = "kapAlI_teppOtsavam~3"
+id_display = "kapālī teppOtsavam 3"
 slug = "kapali-teppotsavam-3"
 source_path = "temples/Tamil/relative_event/taippUcam/offset__01/kapAlI_teppOtsavam~3.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ Third and concluding day of the teppotsavam (float festival) at the Kapālīśva
 '''
 
 [names]
-ta = ["kapAlI teppOtsavam"]
+ta = ["kapālī teppOtsavam"]
 +++

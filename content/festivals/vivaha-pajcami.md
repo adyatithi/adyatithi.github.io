@@ -1,6 +1,7 @@
 +++
 title = "विवाह-पञ्चमी"
 id = "vivAha-paJcamI"
+id_display = "vivāha-pañcamī"
 slug = "vivaha-pajcami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/09/05/vivAha-paJcamI.toml"
 tags = ["NorthIndiaTempleFestivals"]

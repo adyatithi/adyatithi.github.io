@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH~14"
+id_display = "anadhyāyaḥ 14"
 slug = "anadhyayah-14"
 source_path = "time_focus/adhyayana/lunar_month/tithi/00/14/anadhyAyaH~14.toml"
 tags = ["Anadhyayana Days"]

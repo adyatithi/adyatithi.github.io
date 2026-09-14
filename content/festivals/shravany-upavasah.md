@@ -1,6 +1,7 @@
 +++
 title = "श्रावण्युपवासः प्रायश्चित्तार्थः"
 id = "shrAvaNy-upavAsaH"
+id_display = "shrāvaṇy-upavāsaḥ"
 slug = "shravany-upavasah"
 source_path = "gRhya/Apastamba/lunar_month/tithi/05/15/shrAvaNy-upavAsaH.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "गौरी-व्रतम्"
 id = "gaurI-vratam"
+id_display = "gaurī-vratam"
 slug = "gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/06/18/gaurI-vratam.toml"
 tags = ["SpecialVratam"]

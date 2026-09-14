@@ -1,6 +1,7 @@
 +++
-title = "viSukkan2i"
+title = "viṣukkaṉi"
 id = "viSukkan2i"
+id_display = "viṣukkaṉi"
 slug = "visukkan2i"
 source_path = "tamil/description_only/viSukkan2i.toml"
 tags = ["CommonFestivals", "SunSankranti"]
@@ -11,5 +12,5 @@ To celebrate the new year, first thing in the morning, one sees the various symb
 '''
 
 [names]
-ta = ["viSukkan2i"]
+ta = ["viṣukkaṉi"]
 +++

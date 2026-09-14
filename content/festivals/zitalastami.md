@@ -1,6 +1,7 @@
 +++
 title = "शीतलाष्टमी"
 id = "zItalASTamI"
+id_display = "śītalāṣṭamī"
 slug = "zitalastami"
 source_path = "devatA/shakti/lunar_month/tithi/03/23/zItalASTamI.toml"
 tags = ["LessCommonFestivals"]

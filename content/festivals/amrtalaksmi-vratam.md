@@ -1,6 +1,7 @@
 +++
 title = "अमृतलक्ष्मी-व्रतम्"
 id = "amRtalakSmI-vratam"
+id_display = "amṛtalakṣmī-vratam"
 slug = "amrtalaksmi-vratam"
 source_path = "devatA/lakShmI/lunar_month/tithi/04/02/amRtalakSmI-vratam.toml"
 tags = ["SpecialVratam"]

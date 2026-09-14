@@ -1,6 +1,7 @@
 +++
 title = "बोधायन-कात्यायन-इष्टिः"
 id = "bOdhAyana-kAtyAyana-iSTiH"
+id_display = "bOdhāyana-kātyāyana-iṣṭiḥ"
 slug = "bodhayana-katyayana-istih"
 source_path = "general/description_only/bOdhAyana-kAtyAyana-iSTiH.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

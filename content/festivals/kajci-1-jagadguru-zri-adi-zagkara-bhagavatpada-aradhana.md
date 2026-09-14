@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १ जगद्गुरु-श्री-आदि-शङ्कर-भगवत्पाद-आराधना"
 id = "kAJcI_1_jagadguru_zrI~Adi-zaGkara_bhagavatpAda_ArAdhanA"
+id_display = "kāñcī 1 jagadguru śrī ādi-śaṅkara bhagavatpāda ārādhanā"
 slug = "kajci-1-jagadguru-zri-adi-zagkara-bhagavatpada-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/11/kAJcI_1_jagadguru_zrI~Adi-zaGkara_bhagavatpAda_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]

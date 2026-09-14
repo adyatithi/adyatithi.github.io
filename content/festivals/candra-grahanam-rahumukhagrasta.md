@@ -1,6 +1,7 @@
 +++
-title = "चन्द्र-ग्रहणम्~(राहुग्रस्त)"
+title = "चन्द्र-ग्रहणम् (राहुग्रस्त)"
 id = "candra-grahaNam~(rAhumukhagrasta)"
+id_display = "candra-grahaṇam (rāhumukhagrasta)"
 slug = "candra-grahanam-rahumukhagrasta"
 source_path = "time_focus/Eclipses/description_only/candra-grahaNam~(rAhumukhagrasta).toml"
 tags = ["RareDays", "Eclipses"]
@@ -11,5 +12,5 @@ Lunar eclipse, where the Moon is at the ‘Rahu node’.
 '''
 
 [names]
-sa = ["चन्द्र-ग्रहणम्~(राहुग्रस्त)"]
+sa = ["चन्द्र-ग्रहणम् (राहुग्रस्त)"]
 +++

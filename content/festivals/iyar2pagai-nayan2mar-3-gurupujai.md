@@ -1,16 +1,17 @@
 +++
-title = "iyar2pagai nAyan2mAr (3) gurupUjai"
+title = "iyaṟpagai nāyaṉmār (3) gurupūjai"
 id = "iyar2pagai_nAyan2mAr_(3)_gurupUjai"
+id_display = "iyaṟpagai nāyaṉmār (3) gurupūjai"
 slug = "iyar2pagai-nayan2mar-3-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/09/12/iyar2pagai_nAyan2mAr_(3)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Uttara Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ After reaching the temple of Tiruchaikadu, the Brahmana asked the Nayanmar to le
 '''
 
 [names]
-ta = ["iyar2pagai nAyan2mAr (3) gurupUjai"]
+ta = ["iyaṟpagai nāyaṉmār (3) gurupūjai"]
 +++

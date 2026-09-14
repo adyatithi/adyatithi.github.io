@@ -1,15 +1,16 @@
 +++
-title = "naTarAjar mahAbhiSEkam 2"
+title = "naṭarājar mahābhiṣEkam 2"
 id = "naTarAjar_mahAbhiSEkam~2"
+id_display = "naṭarājar mahābhiṣEkam 2"
 slug = "natarajar-mahabhisekam-2"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/05/14/naTarAjar_mahAbhiSEkam~2.toml"
 tags = ["TamilnaduTempleFestivals"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 tithi = ["Caturdaśī"]
 category = ["Temple Festivals"]
 kaala = "सूर्यास्तमयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Caturdaśī, at सूर्यास्तमयः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Śukla Pakṣa Caturdaśī, at सूर्यास्तमयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
@@ -21,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naTarAjar mahAbhiSEkam"]
+ta = ["naṭarājar mahābhiṣEkam"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "रक्षाबन्धनम्"
 id = "rakSAbandhanam"
+id_display = "rakṣābandhanam"
 slug = "raksabandhanam"
 source_path = "general/lunar_month/tithi/05/15/rakSAbandhanam.toml"
 tags = ["CommonFestivals"]

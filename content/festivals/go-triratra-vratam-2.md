@@ -1,6 +1,7 @@
 +++
 title = "गो-त्रिरात्र-व्रतम्"
 id = "gO-trirAtra-vratam~2"
+id_display = "gO-trirātra-vratam 2"
 slug = "go-triratra-vratam-2"
 source_path = "general/lunar_month/tithi/07/28/gO-trirAtra-vratam~2.toml"
 tags = ["SpecialVratam"]

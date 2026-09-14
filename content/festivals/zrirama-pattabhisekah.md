@@ -1,6 +1,7 @@
 +++
 title = "श्रीराम-पट्टाभिषेकः"
 id = "zrIrAma-paTTAbhiSEkaH"
+id_display = "śrīrāma-paṭṭābhiṣEkaḥ"
 slug = "zrirama-pattabhisekah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/30/zrIrAma-paTTAbhiSEkaH.toml"
 tags = ["PuranaEvents", "CommonFestivals"]

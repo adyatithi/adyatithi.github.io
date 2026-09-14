@@ -1,6 +1,7 @@
 +++
 title = "अर्धनारीश्वर-व्रतम्"
 id = "ardhanArIzvara-vratam"
+id_display = "ardhanārīśvara-vratam"
 slug = "ardhanarizvara-vratam"
 source_path = "devatA/shaiva/lunar_month/tithi/02/15/ardhanArIzvara-vratam.toml"
 tags = ["SpecialVratam"]

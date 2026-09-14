@@ -1,6 +1,7 @@
 +++
 title = "व्यञ्जुली-महाद्वादशी"
 id = "vyaJjulI~mahAdvAdazI"
+id_display = "vyañjulī mahādvādaśī"
 slug = "vyajjuli-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/vyaJjulI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

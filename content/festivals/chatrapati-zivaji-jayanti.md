@@ -1,6 +1,7 @@
 +++
 title = "छत्रपति-शिवाजी-जयन्ती"
 id = "chatrapati-zivAjI~jayantI"
+id_display = "chatrapati-śivājī jayantī"
 slug = "chatrapati-zivaji-jayanti"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/12/18/chatrapati-zivAjI~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

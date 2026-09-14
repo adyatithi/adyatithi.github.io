@@ -1,6 +1,7 @@
 +++
 title = "रामलक्ष्मण-द्वादशी"
 id = "rAmalakSmaNa-dvAdazI"
+id_display = "rāmalakṣmaṇa-dvādaśī"
 slug = "ramalaksmana-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/03/12/rAmalakSmaNa-dvAdazI.toml"
 tags = ["LessCommonFestivals"]

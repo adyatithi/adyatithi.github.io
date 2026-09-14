@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ८ जगद्गुरु-श्री-कैवल्यानन्दयोगेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_8_jagadguru_zrI~kaivalyAnandayOgEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 8 jagadguru śrī kaivalyānandayOgEndra sarasvatī ārādhanā"
 slug = "kajci-8-jagadguru-zri-kaivalyanandayogendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/14/kAJcI_8_jagadguru_zrI~kaivalyAnandayOgEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(उत्तमः-[३])"
 id = "manvAdiH~(uttamaH~[3])"
+id_display = "manvādiḥ (uttamaḥ [3])"
 slug = "manvadih-uttamah-3"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/01/03/manvAdiH~(uttamaH~[3]).toml"
 tags = ["ManvadiDays"]

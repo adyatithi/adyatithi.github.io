@@ -1,6 +1,7 @@
 +++
 title = "शरन्नवरात्र-समापनम्"
 id = "zarannavarAtra-samApanam"
+id_display = "śarannavarātra-samāpanam"
 slug = "zarannavaratra-samapanam"
 source_path = "general/lunar_month/tithi/07/09/zarannavarAtra-samApanam.toml"
 tags = ["Navaratri", "SpecialPeriodEnd", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "नभस्य-मासः"
 id = "nabhasya-mAsaH"
+id_display = "nabhasya-māsaḥ"
 slug = "nabhasya-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/nabhasya-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

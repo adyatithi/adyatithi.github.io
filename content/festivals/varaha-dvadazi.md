@@ -1,6 +1,7 @@
 +++
 title = "वराह-द्वादशी"
 id = "varAha-dvAdazI"
+id_display = "varāha-dvādaśī"
 slug = "varaha-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/11/12/varAha-dvAdazI.toml"
 tags = ["Dashavataram"]

@@ -1,6 +1,7 @@
 +++
-title = "kapAlI teppOtsavam 1"
+title = "kapālī teppOtsavam 1"
 id = "kapAlI_teppOtsavam~1"
+id_display = "kapālī teppOtsavam 1"
 slug = "kapali-teppotsavam-1"
 source_path = "temples/Tamil/relative_event/taippUcam/offset__-1/kapAlI_teppOtsavam~1.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ First day of the teppotsavam (float festival) at the Kapālīśvarar temple, Myl
 '''
 
 [names]
-ta = ["kapAlI teppOtsavam"]
+ta = ["kapālī teppOtsavam"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "शमी-पूजा"
 id = "zamI-pUjA"
+id_display = "śamī-pūjā"
 slug = "zami-puja"
 source_path = "devatA/misc-flora/lunar_month/tithi/07/10/zamI-pUjA.toml"
 tags = ["LessCommonFestivals"]

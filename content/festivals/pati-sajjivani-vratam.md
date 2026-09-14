@@ -1,6 +1,7 @@
 +++
 title = "पति-सञ्जीवनी-व्रतम्"
 id = "pati-saJjIvanI-vratam"
+id_display = "pati-sañjīvanī-vratam"
 slug = "pati-sajjivani-vratam"
 source_path = "general/lunar_month/tithi/04/30/pati-saJjIvanI-vratam.toml"
 tags = ["SpecialVratam"]

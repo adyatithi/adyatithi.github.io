@@ -1,6 +1,7 @@
 +++
 title = "करक-चतुर्थी"
 id = "karaka-caturthI"
+id_display = "karaka-caturthī"
 slug = "karaka-caturthi"
 source_path = "devatA/gaNapati/description_only/karaka-caturthI.toml"
 tags = ["SpecialPuja"]
@@ -14,5 +15,5 @@ Karaka chaturthi vratam --- the famous Karwa Chauth festival is celebrated on th
 
 [names]
 sa = ["करक-चतुर्थी"]
-hi = ["karvA-cauth"]
+hi = ["karvā-cauth"]
 +++

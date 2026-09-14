@@ -1,16 +1,17 @@
 +++
-title = "vir2an2miNDa nAyan2mAr (6) gurupUjai"
+title = "viṟaṉmiṇḍa nāyaṉmār (6) gurupūjai"
 id = "vir2an2miNDa_nAyan2mAr_(6)_gurupUjai"
+id_display = "viṟaṉmiṇḍa nāyaṉmār (6) gurupūjai"
 slug = "vir2an2minda-nayan2mar-6-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/06/vir2an2miNDa_nAyan2mAr_(6)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Ārdrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Ārdrā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Ārdrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Sundarar, recognizing Viralminda Nayanmar's profound devotion and understanding,
 '''
 
 [names]
-ta = ["vir2an2miNDa nAyan2mAr (6) gurupUjai"]
+ta = ["viṟaṉmiṇḍa nāyaṉmār (6) gurupūjai"]
 +++

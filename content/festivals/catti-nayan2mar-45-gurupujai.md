@@ -1,16 +1,17 @@
 +++
-title = "catti nAyan2mAr (45) gurupUjai"
+title = "catti nāyaṉmār (45) gurupūjai"
 id = "catti_nAyan2mAr_(45)_gurupUjai"
+id_display = "catti nāyaṉmār (45) gurupūjai"
 slug = "catti-nayan2mar-45-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/11/catti_nAyan2mAr_(45)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Pūrva Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Pūrva Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Pūrva Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Satti Nayanmar, born into a Vellala family, hailed from Varinjiyur in the Chola 
 '''
 
 [names]
-ta = ["catti nAyan2mAr (45) gurupUjai"]
+ta = ["catti nāyaṉmār (45) gurupūjai"]
 +++

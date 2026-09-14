@@ -1,6 +1,7 @@
 +++
 title = "मित्र-सप्तमी"
 id = "mitra-saptamI"
+id_display = "mitra-saptamī"
 slug = "mitra-saptami"
 source_path = "general/lunar_month/tithi/09/07/mitra-saptamI.toml"
 tags = ["OtherAvataram", "SpecialPuja", "CommonFestivals"]

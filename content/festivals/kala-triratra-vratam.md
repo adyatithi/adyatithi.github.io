@@ -1,6 +1,7 @@
 +++
 title = "काल-त्रिरात्र-व्रतम्"
 id = "kAla-trirAtra-vratam"
+id_display = "kāla-trirātra-vratam"
 slug = "kala-triratra-vratam"
 source_path = "general/lunar_month/tithi/07/08/kAla-trirAtra-vratam.toml"
 tags = ["SpecialVratam"]

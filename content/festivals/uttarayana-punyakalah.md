@@ -1,6 +1,7 @@
 +++
 title = "उत्तरायण-पुण्यकालः"
 id = "uttarAyaNa-puNyakAlaH"
+id_display = "uttarāyaṇa-puṇyakālaḥ"
 slug = "uttarayana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/uttarAyaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

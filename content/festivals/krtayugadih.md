@@ -1,6 +1,7 @@
 +++
 title = "कृतयुगादिः"
 id = "kRtayugAdiH"
+id_display = "kṛtayugādiḥ"
 slug = "krtayugadih"
 source_path = "time_focus/yugAdiH/lunar_month/tithi/02/03/kRtayugAdiH.toml"
 tags = ["YugadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "दौहित्र-प्रतिपत्"
 id = "dauhitra-pratipat"
+id_display = "dauhitra-pratipat"
 slug = "dauhitra-pratipat"
 source_path = "devatA/pitR/lunar_month/tithi/07/01/dauhitra-pratipat.toml"
 tags = ["CommonFestivals"]

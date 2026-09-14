@@ -1,6 +1,7 @@
 +++
 title = "करवीर-व्रतम्"
 id = "karavIra-vratam"
+id_display = "karavīra-vratam"
 slug = "karavira-vratam"
 source_path = "general/lunar_month/tithi/03/01/karavIra-vratam.toml"
 tags = ["SpecialVratam"]

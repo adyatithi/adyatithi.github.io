@@ -1,6 +1,7 @@
 +++
 title = "पौष-मास-समापनम्"
 id = "pauSa-mAsa-samApanam"
+id_display = "pauṣa-māsa-samāpanam"
 slug = "pausa-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/10/30/pauSa-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

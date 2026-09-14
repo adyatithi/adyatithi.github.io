@@ -1,6 +1,7 @@
 +++
 title = "आषाढ-मासः"
 id = "ASADha-mAsaH"
+id_display = "āṣāḍha-māsaḥ"
 slug = "asadha-masah"
 source_path = "time_focus/misc/description_only/ASADha-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

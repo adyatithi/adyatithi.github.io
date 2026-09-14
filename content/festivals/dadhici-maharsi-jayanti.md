@@ -1,6 +1,7 @@
 +++
 title = "दधीचि-महर्षि-जयन्ति"
 id = "dadhIci~maharSi~jayanti"
+id_display = "dadhīci maharṣi jayanti"
 slug = "dadhici-maharsi-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/06/08/dadhIci~maharSi~jayanti.toml"
 tags = ["MahapurushaEvents"]

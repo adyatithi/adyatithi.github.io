@@ -1,6 +1,7 @@
 +++
 title = "महामाघी-योगः"
 id = "mahA-mAghI-yOgaH"
+id_display = "mahā-māghī-yOgaḥ"
 slug = "maha-maghi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-mAghI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

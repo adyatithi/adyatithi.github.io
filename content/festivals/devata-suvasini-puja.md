@@ -1,6 +1,7 @@
 +++
 title = "देवता-सुवासिनी-पूजा"
 id = "dEvatA-suvAsinI-pUjA"
+id_display = "dEvatā-suvāsinī-pūjā"
 slug = "devata-suvasini-puja"
 source_path = "devatA/shakti/lunar_month/tithi/07/04/dEvatA-suvAsinI-pUjA.toml"
 tags = ["SpecialPuja"]

@@ -1,6 +1,7 @@
 +++
 title = "bhOgi"
 id = "bhOgi"
+id_display = "bhOgi"
 slug = "bhogi"
 source_path = "tamil/relative_event/makara-saGkramaNa-puNyakAlaH/offset__-1/bhOgi.toml"
 tags = ["CommonFestivals"]

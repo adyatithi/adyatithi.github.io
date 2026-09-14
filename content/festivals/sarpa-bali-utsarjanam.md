@@ -1,6 +1,7 @@
 +++
 title = "सर्प-बल्युत्सर्जनम्"
 id = "sarpa-bali-utsarjanam"
+id_display = "sarpa-bali-utsarjanam"
 slug = "sarpa-bali-utsarjanam"
 source_path = "gRhya/Apastamba/lunar_month/tithi/09/15/sarpa-bali-utsarjanam.toml"
 tags = ["LessCommonFestivals"]

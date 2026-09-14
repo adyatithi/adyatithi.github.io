@@ -1,16 +1,17 @@
 +++
-title = "naraciGgamun2aiyaraiya nAyan2mAr (41) gurupUjai"
+title = "naraciṅgamuṉaiyaraiya nāyaṉmār (41) gurupūjai"
 id = "naraciGgamun2aiyaraiya_nAyan2mAr_(41)_gurupUjai"
+id_display = "naraciṅgamuṉaiyaraiya nāyaṉmār (41) gurupūjai"
 slug = "naraciggamun2aiyaraiya-nayan2mar-41-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/24/naraciGgamun2aiyaraiya_nAyan2mAr_(41)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Bhādrapada"]
+rashi = ["Kanyā"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Bhādrapada (भाद्रपद) māsa, Śatabhiṣā nakṣatra, at प्रातः"
+timing_summary = "Kanyā (कन्या) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ During one such event, a devotee arrived with his body covered solely in sacred 
 '''
 
 [names]
-ta = ["naraciGgamun2aiyaraiya nAyan2mAr (41) gurupUjai"]
+ta = ["naraciṅgamuṉaiyaraiya nāyaṉmār (41) gurupūjai"]
 +++

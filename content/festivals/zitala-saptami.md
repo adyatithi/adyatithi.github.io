@@ -1,6 +1,7 @@
 +++
 title = "शीतला-सप्तमी"
 id = "zItalA~saptamI"
+id_display = "śītalā saptamī"
 slug = "zitala-saptami"
 source_path = "devatA/shakti/lunar_month/tithi/05/07/zItalA~saptamI.toml"
 tags = ["LessCommonFestivals"]

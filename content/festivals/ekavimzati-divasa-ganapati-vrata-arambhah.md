@@ -1,6 +1,7 @@
 +++
 title = "एकविंशति-दिवस-गणपति-व्रत-आरम्भः"
 id = "EkaviMzati-divasa-gaNapati-vrata-ArambhaH"
+id_display = "Ekaviṃśati-divasa-gaṇapati-vrata-ārambhaḥ"
 slug = "ekavimzati-divasa-ganapati-vrata-arambhah"
 source_path = "devatA/gaNapati/lunar_month/tithi/05/04/EkaviMzati-divasa-gaNapati-vrata-ArambhaH.toml"
 tags = ["SpecialPeriodStart"]

@@ -1,6 +1,7 @@
 +++
-title = "जयन्ती~अष्टमी"
+title = "जयन्ती अष्टमी"
 id = "jayantI~aSTamI"
+id_display = "jayantī aṣṭamī"
 slug = "jayanti-astami"
 source_path = "time_focus/vaara_conditioned/jayantI~aSTamI.toml"
 tags = ["RareDays", "Combinations"]
@@ -23,5 +24,5 @@ description_en = '''
 '''
 
 [names]
-sa = ["जयन्ती~अष्टमी"]
+sa = ["जयन्ती अष्टमी"]
 +++

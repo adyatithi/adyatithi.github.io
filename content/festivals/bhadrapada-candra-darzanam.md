@@ -1,6 +1,7 @@
 +++
 title = "भाद्रपद-चन्द्र-दर्शनम्"
 id = "bhAdrapada-candra-darzanam"
+id_display = "bhādrapada-candra-darśanam"
 slug = "bhadrapada-candra-darzanam"
 source_path = "devatA/graha/description_only/bhAdrapada-candra-darzanam.toml"
 tags = ["ChandraDarshanam"]

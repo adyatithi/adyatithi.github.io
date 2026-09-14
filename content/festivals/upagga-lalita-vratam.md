@@ -1,6 +1,7 @@
 +++
 title = "उपाङ्ग-ललिता-व्रतम्"
 id = "upAGga-lalitA-vratam"
+id_display = "upāṅga-lalitā-vratam"
 slug = "upagga-lalita-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/07/05/upAGga-lalitA-vratam.toml"
 tags = ["SpecialVratam"]

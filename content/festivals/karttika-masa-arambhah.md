@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-मास-आरम्भः"
 id = "kArttika-mAsa-ArambhaH"
+id_display = "kārttika-māsa-ārambhaḥ"
 slug = "karttika-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/08/01/kArttika-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

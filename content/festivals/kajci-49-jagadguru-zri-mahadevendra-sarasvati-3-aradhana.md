@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ४९ जगद्गुरु-श्री-महादेवेन्द्र-सरस्वती-३-आराधना"
 id = "kAJcI_49_jagadguru_zrI~mahAdEvEndra_sarasvatI_3_ArAdhanA"
+id_display = "kāñcī 49 jagadguru śrī mahādEvEndra sarasvatī 3 ārādhanā"
 slug = "kajci-49-jagadguru-zri-mahadevendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/23/kAJcI_49_jagadguru_zrI~mahAdEvEndra_sarasvatI_3_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

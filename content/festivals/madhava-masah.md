@@ -1,6 +1,7 @@
 +++
 title = "माधव-मासः"
 id = "mAdhava-mAsaH"
+id_display = "mādhava-māsaḥ"
 slug = "madhava-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/mAdhava-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

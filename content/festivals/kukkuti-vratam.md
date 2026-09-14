@@ -1,6 +1,7 @@
 +++
 title = "कुक्कुटी-व्रतम्"
 id = "kukkuTI-vratam"
+id_display = "kukkuṭī-vratam"
 slug = "kukkuti-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/06/07/kukkuTI-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "श्री-वासवी-जयन्ती"
 id = "zrI~vAsavI~jayantI"
+id_display = "śrī vāsavī jayantī"
 slug = "zri-vasavi-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/02/10/zrI~vAsavI~jayantI.toml"
 tags = ["OtherJayantis"]

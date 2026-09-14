@@ -1,6 +1,7 @@
 +++
 title = "ज्यैष्ठ-मासः"
 id = "jyaiShTha-mAsaH"
+id_display = "jyaiṣhṭha-māsaḥ"
 slug = "jyaishtha-masah"
 source_path = "time_focus/misc/description_only/jyaiShTha-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

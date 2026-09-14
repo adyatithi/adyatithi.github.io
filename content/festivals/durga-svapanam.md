@@ -1,6 +1,7 @@
 +++
 title = "दुर्गा-स्वापनम्"
 id = "durgA-svApanam"
+id_display = "durgā-svāpanam"
 slug = "durga-svapanam"
 source_path = "devatA/shakti/lunar_month/tithi/03/24/durgA-svApanam.toml"
 tags = ["SpecialPuja"]

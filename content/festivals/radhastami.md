@@ -1,6 +1,7 @@
 +++
 title = "राधाष्टमी"
 id = "rAdhASTamI"
+id_display = "rādhāṣṭamī"
 slug = "radhastami"
 source_path = "devatA/lakShmI/lunar_month/tithi/06/08/rAdhASTamI.toml"
 tags = ["CommonFestivals"]

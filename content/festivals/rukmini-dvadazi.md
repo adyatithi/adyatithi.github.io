@@ -1,6 +1,7 @@
 +++
 title = "रुक्मिणी-द्वादशी"
 id = "rukmiNI-dvAdazI"
+id_display = "rukmiṇī-dvādaśī"
 slug = "rukmini-dvadazi"
 source_path = "devatA/lakShmI/lunar_month/tithi/02/12/rukmiNI-dvAdazI.toml"
 tags = ["OtherJayantis"]

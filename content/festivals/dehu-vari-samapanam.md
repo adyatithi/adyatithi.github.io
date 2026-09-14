@@ -1,6 +1,7 @@
 +++
 title = "देहू-वारी-समापनम्"
 id = "dEhU-vArI-samApanam"
+id_display = "dEhū-vārī-samāpanam"
 slug = "dehu-vari-samapanam"
 source_path = "temples/Maharashtra/relative_event/ASADhI-vArI/offset__00/dEhU-vArI-samApanam.toml"
 tags = ["MaharashtraTempleFestivals"]

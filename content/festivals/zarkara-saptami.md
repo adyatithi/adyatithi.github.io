@@ -1,6 +1,7 @@
 +++
 title = "शर्करा-सप्तमी"
 id = "zarkarA-saptamI"
+id_display = "śarkarā-saptamī"
 slug = "zarkara-saptami"
 source_path = "general/lunar_month/tithi/02/07/zarkarA-saptamI.toml"
 tags = ["SpecialPuja"]

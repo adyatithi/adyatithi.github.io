@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(चाक्षुषः-[६])"
 id = "manvAdiH~(cAkSuSaH~[6])"
+id_display = "manvādiḥ (cākṣuṣaḥ [6])"
 slug = "manvadih-caksusah-6"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/10/11/manvAdiH~(cAkSuSaH~[6]).toml"
 tags = ["ManvadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(धर्म-सावर्णिः-[११])"
 id = "manvAdiH~(dharma-sAvarNiH~[11])"
+id_display = "manvādiḥ (dharma-sāvarṇiḥ [11])"
 slug = "manvadih-dharma-savarnih-11"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/08/15/manvAdiH~(dharma-sAvarNiH~[11]).toml"
 tags = ["ManvadiDays"]

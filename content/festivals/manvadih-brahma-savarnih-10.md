@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(ब्रह्म-सावर्णिः-[१०])"
 id = "manvAdiH~(brahma-sAvarNiH~[10])"
+id_display = "manvādiḥ (brahma-sāvarṇiḥ [10])"
 slug = "manvadih-brahma-savarnih-10"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/04/15/manvAdiH~(brahma-sAvarNiH~[10]).toml"
 tags = ["ManvadiDays"]

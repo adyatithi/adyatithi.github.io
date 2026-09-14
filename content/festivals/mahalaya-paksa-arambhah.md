@@ -1,6 +1,7 @@
 +++
 title = "महालय-पक्ष-आरम्भः"
 id = "mahAlaya-pakSa-ArambhaH"
+id_display = "mahālaya-pakṣa-ārambhaḥ"
 slug = "mahalaya-paksa-arambhah"
 source_path = "devatA/pitR/lunar_month/tithi/06/16/mahAlaya-pakSa-ArambhaH.toml"
 tags = ["SpecialPeriodStart"]

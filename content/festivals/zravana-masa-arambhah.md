@@ -1,6 +1,7 @@
 +++
 title = "श्रावण-मास-आरम्भः"
 id = "zrAvaNa-mAsa-ArambhaH"
+id_display = "śrāvaṇa-māsa-ārambhaḥ"
 slug = "zravana-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/05/01/zrAvaNa-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

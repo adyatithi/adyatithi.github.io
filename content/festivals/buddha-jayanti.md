@@ -1,6 +1,7 @@
 +++
 title = "बुद्ध-जयन्ती"
 id = "buddha~jayantI"
+id_display = "buddha jayantī"
 slug = "buddha-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/10/buddha~jayantI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "समुद्र-मन्थनम्"
 id = "samudra-manthanam"
+id_display = "samudra-manthanam"
 slug = "samudra-manthanam"
 source_path = "general/lunar_month/tithi/01/11/samudra-manthanam.toml"
 tags = ["PuranaEvents", "LessCommonFestivals"]

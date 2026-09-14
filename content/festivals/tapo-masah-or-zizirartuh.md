@@ -1,6 +1,7 @@
 +++
 title = "तपो-मासः/शिशिरऋतुः/उत्तरायणम्"
 id = "tapO-mAsaH_or_ziziraRtuH"
+id_display = "tapO-māsaḥ or śiśiraṛtuḥ"
 slug = "tapo-masah-or-zizirartuh"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/tapO-mAsaH_or_ziziraRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

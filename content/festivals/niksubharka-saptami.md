@@ -1,6 +1,7 @@
 +++
 title = "निक्षुभार्क-सप्तमी"
 id = "nikSubhArka-saptamI"
+id_display = "nikṣubhārka-saptamī"
 slug = "niksubharka-saptami"
 source_path = "general/lunar_month/tithi/11/22/nikSubhArka-saptamI.toml"
 tags = ["SpecialVratam", "LessCommonFestivals"]

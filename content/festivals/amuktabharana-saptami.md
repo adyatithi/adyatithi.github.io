@@ -1,6 +1,7 @@
 +++
 title = "अमुक्ताभरण-सप्तमी"
 id = "amuktAbharaNa-saptamI"
+id_display = "amuktābharaṇa-saptamī"
 slug = "amuktabharana-saptami"
 source_path = "general/lunar_month/tithi/06/07/amuktAbharaNa-saptamI.toml"
 tags = ["LessCommonFestivals"]

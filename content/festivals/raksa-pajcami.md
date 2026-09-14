@@ -1,6 +1,7 @@
 +++
 title = "रक्षा-पञ्चमी"
 id = "rakSA~paJcamI"
+id_display = "rakṣā pañcamī"
 slug = "raksa-pajcami"
 source_path = "general/lunar_month/tithi/05/20/rakSA~paJcamI.toml"
 tags = ["LessCommonFestivals"]

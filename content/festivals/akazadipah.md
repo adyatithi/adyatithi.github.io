@@ -1,6 +1,7 @@
 +++
 title = "आकाशदीपः"
 id = "AkAzadIpaH"
+id_display = "ākāśadīpaḥ"
 slug = "akazadipah"
 source_path = "general/description_only/AkAzadIpaH.toml"
 tags = ["LessCommonFestivals"]

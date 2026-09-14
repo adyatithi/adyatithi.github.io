@@ -1,6 +1,7 @@
 +++
 title = "अन्नपूर्णा-जयन्ती"
 id = "annapUrNA~jayantI"
+id_display = "annapūrṇā jayantī"
 slug = "annapurna-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/09/15/annapUrNA~jayantI.toml"
 tags = ["OtherJayantis", "CommonFestivals"]

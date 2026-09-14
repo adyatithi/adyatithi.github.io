@@ -1,6 +1,7 @@
 +++
 title = "महा-चैत्री-योगः"
 id = "mahA-caitrI-yOgaH"
+id_display = "mahā-caitrī-yOgaḥ"
 slug = "maha-caitri-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-caitrI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

@@ -1,17 +1,18 @@
 +++
-title = "bhUtattAzhvAr tirunakSattiram"
+title = "bhūtattāl̤vār tirunakṣattiram"
 id = "bhUtattAzhvAr_tirunakSattiram"
+id_display = "bhūtattāl̤vār tirunakṣattiram"
 slug = "bhutattazhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/07/23/bhUtattAzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
 tradition = ["Āḻvār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Dhaniṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Dhaniṣṭhā nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Dhaniṣṭhā nakṣatra, at प्रातः"
 
 [names]
-ta = ["bhUtattAzhvAr tirunakSattiram"]
+ta = ["bhūtattāl̤vār tirunakṣattiram"]
 +++

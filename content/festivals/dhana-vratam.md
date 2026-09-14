@@ -1,6 +1,7 @@
 +++
 title = "धन-व्रतम्"
 id = "dhana-vratam"
+id_display = "dhana-vratam"
 slug = "dhana-vratam"
 source_path = "general/lunar_month/tithi/09/01/dhana-vratam.toml"
 tags = ["SpecialVratam"]

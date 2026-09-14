@@ -1,6 +1,7 @@
 +++
 title = "माघ-शतभिषक्-अमावास्या"
 id = "mAgha-zatabhiSak-amAvAsyA"
+id_display = "māgha-śatabhiṣak-amāvāsyā"
 slug = "magha-zatabhisak-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/mAgha-zatabhiSak-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "कृतयुगान्तः"
 id = "kRtayugAntaH"
+id_display = "kṛtayugāntaḥ"
 slug = "krtayugantah"
 source_path = "time_focus/yugAdiH/relative_event/siMha-ravi-saGkramaNa-viSNupadI-puNyakAlaH/offset__00/kRtayugAntaH.toml"
 tags = ["CommonFestivals"]

@@ -1,12 +1,12 @@
 +++
 title = "काशि-विश्वनाथ-मन्दिर-स्थापनम्"
 id = "kAshI-vishvanAtha-mandira-sthApanam"
+id_display = "kāshī-vishvanātha-mandira-sthāpanam"
 slug = "kashi-vishvanatha-mandira-sthapanam"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/02/27/kAshI-vishvanAtha-mandira-sthApanam.toml"
 tradition = ["General"]
-month = ["Vaiśākha"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "2/27 (Gregorian)"
+timing_summary = "February 27 (Gregorian calendar)"
 
 description_en = '''
 In 1585, the shrine of Kashi Vishweshwara established.  

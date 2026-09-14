@@ -1,6 +1,7 @@
 +++
 title = "पुन्नाग-गौरी-व्रतम्"
 id = "punnAga-gaurI-vratam"
+id_display = "punnāga-gaurī-vratam"
 slug = "punnaga-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/03/01/punnAga-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

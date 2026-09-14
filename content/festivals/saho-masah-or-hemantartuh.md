@@ -1,6 +1,7 @@
 +++
 title = "सहो-मासः/हेमन्तऋतुः"
 id = "sahO-mAsaH_or_hEmantaRtuH"
+id_display = "sahO-māsaḥ or hEmantaṛtuḥ"
 slug = "saho-masah-or-hemantartuh"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/sahO-mAsaH_or_hEmantaRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

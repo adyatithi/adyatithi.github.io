@@ -1,17 +1,18 @@
 +++
-title = "AvaNi JAyir2r2ukkizhamai"
+title = "āvaṇi ñāyiṟṟukkil̤amai"
 id = "AvaNi~JAyir2r2ukkizhamai"
+id_display = "āvaṇi ñāyiṟṟukkil̤amai"
 slug = "avani-jayir2r2ukkizhamai"
 source_path = "time_focus/vaara_conditioned/AvaNi~JAyir2r2ukkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 category = ["Calendrical Specials"]
-timing_summary = "Śrāvaṇa (श्रावण) māsa"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal"
 
 description_en = '''
 Do puja to Surya/Suryanamaskaram.
 '''
 
 [names]
-ta = ["AvaNi~JAyir2r2ukkizhamai"]
+ta = ["āvaṇi ñāyiṟṟukkil̤amai"]
 +++

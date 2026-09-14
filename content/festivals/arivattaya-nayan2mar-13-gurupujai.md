@@ -1,16 +1,17 @@
 +++
-title = "arivATTAya nAyan2mAr (13) gurupUjai"
+title = "arivāṭṭāya nāyaṉmār (13) gurupūjai"
 id = "arivATTAya_nAyan2mAr_(13)_gurupUjai"
+id_display = "arivāṭṭāya nāyaṉmār (13) gurupūjai"
 slug = "arivattaya-nayan2mar-13-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/06/arivATTAya_nAyan2mAr_(13)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Ārdrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Ārdrā nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Ārdrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ One day, while weak and emaciated, Thayanar fell while carrying his offering to 
 '''
 
 [names]
-ta = ["arivATTAya nAyan2mAr (13) gurupUjai"]
+ta = ["arivāṭṭāya nāyaṉmār (13) gurupūjai"]
 +++

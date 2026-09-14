@@ -1,6 +1,7 @@
 +++
 title = "वराह-कल्पादिः"
 id = "varAha-kalpAdiH"
+id_display = "varāha-kalpādiḥ"
 slug = "varaha-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/11/13/varAha-kalpAdiH.toml"
 tags = ["KalpadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "चम्पक-द्वादशी"
 id = "campaka-dvAdazI"
+id_display = "campaka-dvādaśī"
 slug = "campaka-dvadazi"
 source_path = "temples/Odisha/lunar_month/tithi/03/12/campaka-dvAdazI.toml"
 tags = ["OdishaTempleFestivals"]

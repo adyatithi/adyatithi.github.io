@@ -1,6 +1,7 @@
 +++
 title = "अलभ्य-नक्षत्र-अमावास्या"
 id = "alabhya-nakSatra-amAvAsyA"
+id_display = "alabhya-nakṣatra-amāvāsyā"
 slug = "alabhya-naksatra-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/alabhya-nakSatra-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

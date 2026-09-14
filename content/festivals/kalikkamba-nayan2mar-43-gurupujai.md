@@ -1,16 +1,17 @@
 +++
-title = "kalikkamba nAyan2mAr (43) gurupUjai"
+title = "kalikkamba nāyaṉmār (43) gurupūjai"
 id = "kalikkamba_nAyan2mAr_(43)_gurupUjai"
+id_display = "kalikkamba nāyaṉmār (43) gurupūjai"
 slug = "kalikkamba-nayan2mar-43-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/27/kalikkamba_nAyan2mAr_(43)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Revatī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Revatī nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Revatī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Perceiving his wife's reluctance as a lack of devotion, the Nayanmar, in a drast
 '''
 
 [names]
-ta = ["kalikkamba nAyan2mAr (43) gurupUjai"]
+ta = ["kalikkamba nāyaṉmār (43) gurupūjai"]
 +++

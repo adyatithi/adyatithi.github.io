@@ -1,6 +1,7 @@
 +++
 title = "सिंह-रवि-सङ्क्रमण-विष्णुपदी-पुण्यकालः"
 id = "siMha-ravi-saGkramaNa-viSNupadI-puNyakAlaH"
+id_display = "siṃha-ravi-saṅkramaṇa-viṣṇupadī-puṇyakālaḥ"
 slug = "simha-ravi-sagkramana-visnupadi-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/siMha-ravi-saGkramaNa-viSNupadI-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

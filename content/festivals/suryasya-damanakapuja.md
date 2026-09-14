@@ -1,6 +1,7 @@
 +++
 title = "सूर्यस्य दमनकपूजा"
 id = "sUryasya~damanakapUjA"
+id_display = "sūryasya damanakapūjā"
 slug = "suryasya-damanakapuja"
 source_path = "devatA/graha/lunar_month/tithi/01/07/sUryasya~damanakapUjA.toml"
 tags = ["LessCommonFestivals"]

@@ -1,12 +1,12 @@
 +++
 title = "विवेकानन्द-भाषणं चिकागोनगरे"
 id = "vivekAnanda-speech"
+id_display = "vivekānanda-speech"
 slug = "vivekananda-speech"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/09/11/vivekAnanda-speech.toml"
 tradition = ["General"]
-month = ["Mārgaśira"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "9/11 (Gregorian)"
+timing_summary = "September 11 (Gregorian calendar)"
 
 description_en = '''
 On this day, Vivekananda gave a brief speech representing India and Hinduism. He was initially nervous, bowed to Saraswati (the Hindu goddess of learning) and began his speech with "Sisters and brothers of America!". At these words, Vivekananda received a two-minute standing ovation from the crowd of seven thousand.

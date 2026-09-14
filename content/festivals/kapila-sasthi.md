@@ -1,6 +1,7 @@
 +++
 title = "कपिल-षष्ठी"
 id = "kapila-SaSThI"
+id_display = "kapila-ṣaṣṭhī"
 slug = "kapila-sasthi"
 source_path = "general/lunar_month/tithi/06/21/kapila-SaSThI.toml"
 tags = ["SpecialPuja"]

@@ -1,6 +1,7 @@
 +++
 title = "तुलसी-जननं-क्षीरसागरतः"
 id = "tulasI-jananaM~kSIrasAgarataH"
+id_display = "tulasī-jananaṃ kṣīrasāgarataḥ"
 slug = "tulasi-jananam-ksirasagaratah"
 source_path = "devatA/misc-flora/lunar_month/tithi/01/12/tulasI-jananaM~kSIrasAgarataH.toml"
 tags = ["LessCommonFestivals", "PuranaEvents"]

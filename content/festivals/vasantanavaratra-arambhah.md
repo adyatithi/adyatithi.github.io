@@ -1,6 +1,7 @@
 +++
 title = "वसन्तनवरात्र-आरम्भः"
 id = "vasantanavarAtra-ArambhaH"
+id_display = "vasantanavarātra-ārambhaḥ"
 slug = "vasantanavaratra-arambhah"
 source_path = "general/lunar_month/tithi/01/01/vasantanavarAtra-ArambhaH.toml"
 tags = ["CommonFestivals", "Navaratri", "SpecialPeriodStart"]

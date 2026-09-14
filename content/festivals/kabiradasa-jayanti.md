@@ -1,6 +1,7 @@
 +++
 title = "कबीरदास-जयन्ती"
 id = "kabIradAsa~jayantI"
+id_display = "kabīradāsa jayantī"
 slug = "kabiradasa-jayanti"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/03/15/kabIradAsa~jayantI.toml"
 tags = ["MahapurushaEvents"]

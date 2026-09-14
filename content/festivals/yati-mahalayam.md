@@ -1,6 +1,7 @@
 +++
 title = "यति-महालयम्"
 id = "yati-mahAlayam"
+id_display = "yati-mahālayam"
 slug = "yati-mahalayam"
 source_path = "devatA/pitR/lunar_month/tithi/06/27/yati-mahAlayam.toml"
 tags = ["SpecialPuja", "CommonFestivals", "CommonFestivals"]

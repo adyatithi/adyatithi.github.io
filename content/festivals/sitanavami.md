@@ -1,6 +1,7 @@
 +++
 title = "सीतानवमी"
 id = "sItAnavamI"
+id_display = "sītānavamī"
 slug = "sitanavami"
 source_path = "devatA/lakShmI/lunar_month/tithi/02/09/sItAnavamI.toml"
 tags = ["CommonFestivals"]

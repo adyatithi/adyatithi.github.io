@@ -1,6 +1,7 @@
 +++
 title = "श्रीकृष्णजन्माष्टमी"
 id = "zrIkRSNajanmASTamI"
+id_display = "śrīkṛṣṇajanmāṣṭamī"
 slug = "zrikrsnajanmastami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/23/zrIkRSNajanmASTamI.toml"
 tags = ["Dashavataram", "CommonFestivals"]

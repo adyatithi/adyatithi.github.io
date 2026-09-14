@@ -1,6 +1,7 @@
 +++
 title = "षडशीति-पुण्यकालः"
 id = "SaDazIti-puNyakAlaH"
+id_display = "ṣaḍaśīti-puṇyakālaḥ"
 slug = "sadaziti-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/SaDazIti-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

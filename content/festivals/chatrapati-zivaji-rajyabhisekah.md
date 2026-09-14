@@ -1,6 +1,7 @@
 +++
 title = "छत्रपति-शिवाजी-राज्याभिषेकः"
 id = "chatrapati~zivAjI~rAjyAbhiSEkaH"
+id_display = "chatrapati śivājī rājyābhiṣEkaḥ"
 slug = "chatrapati-zivaji-rajyabhisekah"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/03/13/chatrapati~zivAjI~rAjyAbhiSEkaH.toml"
 tags = ["MahapurushaEvents"]

@@ -1,16 +1,17 @@
 +++
-title = "tirunIlakaNTha yAzhppANa nAyan2mAr (61) gurupUjai"
+title = "tirunīlakaṇṭha yāl̤ppāṇa nāyaṉmār (61) gurupūjai"
 id = "tirunIlakaNTha_yAzhppANa_nAyan2mAr_(61)_gurupUjai"
+id_display = "tirunīlakaṇṭha yāl̤ppāṇa nāyaṉmār (61) gurupūjai"
 slug = "tirunilakantha-yazhppana-nayan2mar-61-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/tirunIlakaNTha_yAzhppANa_nAyan2mAr_(61)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ His journey with Sambandar and eventual attainment of Liberation is of note: Dur
 '''
 
 [names]
-ta = ["tirunIlakaNTha yAzhppANa nAyan2mAr (61) gurupUjai"]
+ta = ["tirunīlakaṇṭha yāl̤ppāṇa nāyaṉmār (61) gurupūjai"]
 +++

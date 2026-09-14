@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची २२ जगद्गुरु-श्री-परिपूर्णबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 22 jagadguru śrī paripūrṇabOdhEndra sarasvatī ārādhanā"
 slug = "kajci-22-jagadguru-zri-paripurnabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/09/kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

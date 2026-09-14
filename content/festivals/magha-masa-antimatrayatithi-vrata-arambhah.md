@@ -1,6 +1,7 @@
 +++
 title = "माघ-मास-अन्तिमत्रयतिथि-व्रत-आरम्भः"
 id = "mAgha-mAsa-antimatrayatithi-vrata-ArambhaH"
+id_display = "māgha-māsa-antimatrayatithi-vrata-ārambhaḥ"
 slug = "magha-masa-antimatrayatithi-vrata-arambhah"
 source_path = "general/lunar_month/tithi/11/13/mAgha-mAsa-antimatrayatithi-vrata-ArambhaH.toml"
 tags = ["LessCommonFestivals"]

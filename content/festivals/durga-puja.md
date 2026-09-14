@@ -1,6 +1,7 @@
 +++
 title = "दुर्गा-पूजा"
 id = "durgA-pUjA"
+id_display = "durgā-pūjā"
 slug = "durga-puja"
 source_path = "devatA/shakti/lunar_month/tithi/07/10/durgA-pUjA.toml"
 tags = ["CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "फाल्गुन-अन्वष्टका-श्राद्धम्"
 id = "phAlguna-anvaSTakA-zrAddham"
+id_display = "phālguna-anvaṣṭakā-śrāddham"
 slug = "phalguna-anvastaka-zraddham"
 source_path = "devatA/pitR/relative_event/phAlguna-aSTakA-zrAddham/offset__01/phAlguna-anvaSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

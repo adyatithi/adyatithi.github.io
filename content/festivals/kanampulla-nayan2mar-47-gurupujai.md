@@ -1,16 +1,17 @@
 +++
-title = "kaNampulla nAyan2mAr (47) gurupUjai"
+title = "kaṇampulla nāyaṉmār (47) gurupūjai"
 id = "kaNampulla_nAyan2mAr_(47)_gurupUjai"
+id_display = "kaṇampulla nāyaṉmār (47) gurupūjai"
 slug = "kanampulla-nayan2mar-47-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/03/kaNampulla_nAyan2mAr_(47)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Kanampulla Nayanmar, a wealthy resident of Irukkuvelur, was renowned for his pro
 '''
 
 [names]
-ta = ["kaNampulla nAyan2mAr (47) gurupUjai"]
+ta = ["kaṇampulla nāyaṉmār (47) gurupūjai"]
 +++

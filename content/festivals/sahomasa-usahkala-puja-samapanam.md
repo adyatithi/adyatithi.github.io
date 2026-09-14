@@ -1,6 +1,7 @@
 +++
 title = "सहोमास-उषःकाल-पूजा-समापनम्"
 id = "sahOmAsa-uSaHkAla-pUjA-samApanam"
+id_display = "sahOmāsa-uṣaḥkāla-pūjā-samāpanam"
 slug = "sahomasa-usahkala-puja-samapanam"
 source_path = "general/description_only/sahOmAsa-uSaHkAla-pUjA-samApanam.toml"
 tags = ["SpecialPujas", "CommonFestivals", "SpecialPeriodEnd"]

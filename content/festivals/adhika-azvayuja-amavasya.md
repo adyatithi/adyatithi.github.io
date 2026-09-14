@@ -1,6 +1,7 @@
 +++
 title = "आश्वयुज-(अधिक)-अमावास्या"
 id = "adhika-Azvayuja-amAvAsyA"
+id_display = "adhika-āśvayuja-amāvāsyā"
 slug = "adhika-azvayuja-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/adhika-Azvayuja-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

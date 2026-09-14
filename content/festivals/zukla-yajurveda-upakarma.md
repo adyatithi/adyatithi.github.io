@@ -1,6 +1,7 @@
 +++
 title = "शुक्ल-यजुर्वेद-उपाकर्म"
 id = "zukla-yajurvEda-upAkarma"
+id_display = "śukla-yajurvEda-upākarma"
 slug = "zukla-yajurveda-upakarma"
 source_path = "gRhya/general/description_only/zukla-yajurvEda-upAkarma.toml"
 tags = ["CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-मास-समापनम्"
 id = "kArttika-mAsa-samApanam"
+id_display = "kārttika-māsa-samāpanam"
 slug = "karttika-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/08/30/kArttika-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

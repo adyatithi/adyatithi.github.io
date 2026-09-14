@@ -1,6 +1,7 @@
 +++
 title = "धर्मराज-दशमी"
 id = "dharmarAja-dazamI"
+id_display = "dharmarāja-daśamī"
 slug = "dharmaraja-dazami"
 source_path = "general/lunar_month/tithi/01/10/dharmarAja-dazamI.toml"
 tags = ["LessCommonFestivals"]

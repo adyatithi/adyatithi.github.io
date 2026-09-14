@@ -1,6 +1,7 @@
 +++
 title = "कुमार-षष्ठी-व्रतम्"
 id = "kumAra-SaSThI-vratam"
+id_display = "kumāra-ṣaṣṭhī-vratam"
 slug = "kumara-sasthi-vratam"
 source_path = "devatA/kaumAra/description_only/kumAra-SaSThI-vratam.toml"
 tags = ["MonthlyVratam", "ShashthiVratam"]

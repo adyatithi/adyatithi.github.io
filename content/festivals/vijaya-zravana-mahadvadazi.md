@@ -1,6 +1,7 @@
 +++
-title = "विजया~श्रवण-महाद्वादशी"
+title = "विजया श्रवण-महाद्वादशी"
 id = "vijayA~zravaNa-mahAdvAdazI"
+id_display = "vijayā śravaṇa-mahādvādaśī"
 slug = "vijaya-zravana-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/vijayA~zravaNa-mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]
@@ -85,5 +86,5 @@ Shukla Dvadashi tithi, combined with Shravana nakshatra. Jayā, Vijayā, Jayant�
 '''
 
 [names]
-sa = ["विजया~श्रवण-महाद्वादशी"]
+sa = ["विजया श्रवण-महाद्वादशी"]
 +++

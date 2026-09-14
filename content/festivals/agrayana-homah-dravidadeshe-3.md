@@ -1,15 +1,16 @@
 +++
 title = "आग्रयण-होमः द्राविडेषु"
 id = "AgrayaNa~hOmaH~draviDadeshe~3"
+id_display = "āgrayaṇa hOmaḥ draviḍadeshe 3"
 slug = "agrayana-homah-dravidadeshe-3"
 source_path = "gRhya/general/sidereal_solar_month/tithi/08/15/AgrayaNa~hOmaH~draviDadeshe~3.toml"
 tags = ["SpecialPuja"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 tithi = ["Pūrṇimā"]
 category = ["Gṛhya Rites"]
 kaala = "सूर्योदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Pūrṇimā, at सूर्योदयः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at सूर्योदयः"
 "references" = ["Vaidikasri Nov 2017"]
 
 description_en = '''

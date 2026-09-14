@@ -1,16 +1,17 @@
 +++
-title = "caNDEzvara nAyan2mAr (20) gurupUjai"
+title = "caṇḍEśvara nāyaṉmār (20) gurupūjai"
 id = "caNDEzvara_nAyan2mAr_(20)_gurupUjai"
+id_display = "caṇḍEśvara nāyaṉmār (20) gurupūjai"
 slug = "candezvara-nayan2mar-20-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/12/caNDEzvara_nAyan2mAr_(20)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Uttara Phalgunī nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ This act was a divine test of Vichara Sarman's devotion. Bhagavan Shiva, impress
 '''
 
 [names]
-ta = ["caNDEzvara nAyan2mAr (20) gurupUjai"]
+ta = ["caṇḍEśvara nāyaṉmār (20) gurupūjai"]
 +++

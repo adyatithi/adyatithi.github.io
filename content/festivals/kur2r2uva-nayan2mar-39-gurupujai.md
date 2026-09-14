@@ -1,16 +1,17 @@
 +++
-title = "kUr2r2uva nAyan2mAr (39) gurupUjai"
+title = "kūṟṟuva nāyaṉmār (39) gurupūjai"
 id = "kUr2r2uva_nAyan2mAr_(39)_gurupUjai"
+id_display = "kūṟṟuva nāyaṉmār (39) gurupūjai"
 slug = "kur2r2uva-nayan2mar-39-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/06/kUr2r2uva_nAyan2mAr_(39)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Ārdrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Ārdrā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Ārdrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ This Nayanmar, a chieftain from Kalandai, was a fervent devotee of Bhagavan Shiv
 '''
 
 [names]
-ta = ["kUr2r2uva nAyan2mAr (39) gurupUjai"]
+ta = ["kūṟṟuva nāyaṉmār (39) gurupūjai"]
 +++

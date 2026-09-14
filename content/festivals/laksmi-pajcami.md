@@ -1,6 +1,7 @@
 +++
 title = "लक्ष्मी-पञ्चमी"
 id = "lakSmI-paJcamI"
+id_display = "lakṣmī-pañcamī"
 slug = "laksmi-pajcami"
 source_path = "devatA/lakShmI/lunar_month/tithi/01/05/lakSmI-paJcamI.toml"
 tags = ["CommonFestivals"]

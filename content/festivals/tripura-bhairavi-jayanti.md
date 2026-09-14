@@ -1,6 +1,7 @@
 +++
 title = "त्रिपुर-भैरवी-जयन्ती"
 id = "tripura~bhairavI~jayantI"
+id_display = "tripura bhairavī jayantī"
 slug = "tripura-bhairavi-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/09/15/tripura~bhairavI~jayantI.toml"
 tags = ["Dashamahavidya"]

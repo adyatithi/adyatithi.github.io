@@ -1,6 +1,7 @@
 +++
 title = "शिव-शयनोत्सवः"
 id = "ziva-zayanOtsavaH"
+id_display = "śiva-śayanOtsavaḥ"
 slug = "ziva-zayanotsavah"
 source_path = "devatA/shaiva/lunar_month/tithi/04/15/ziva-zayanOtsavaH.toml"
 tags = ["SpecialPuja"]

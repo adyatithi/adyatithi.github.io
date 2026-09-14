@@ -1,6 +1,7 @@
 +++
 title = "शाकव्रत-आरम्भः"
 id = "zAkavrata-ArambhaH"
+id_display = "śākavrata-ārambhaḥ"
 slug = "zakavrata-arambhah"
 source_path = "general/lunar_month/tithi/04/12/zAkavrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart", "CommonFestivals"]

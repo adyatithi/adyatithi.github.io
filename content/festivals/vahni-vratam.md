@@ -1,6 +1,7 @@
 +++
 title = "वह्नि-व्रतम्"
 id = "vahni-vratam"
+id_display = "vahni-vratam"
 slug = "vahni-vratam"
 source_path = "general/lunar_month/tithi/01/30/vahni-vratam.toml"
 tags = ["SpecialVratam"]

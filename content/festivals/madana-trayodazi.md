@@ -1,6 +1,7 @@
 +++
 title = "मदन-त्रयोदशी"
 id = "madana-trayOdazI"
+id_display = "madana-trayOdaśī"
 slug = "madana-trayodazi"
 source_path = "general/lunar_month/tithi/01/13/madana-trayOdazI.toml"
 tags = ["LessCommonFestivals"]

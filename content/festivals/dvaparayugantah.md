@@ -1,6 +1,7 @@
 +++
 title = "द्वापरयुगान्तः"
 id = "dvAparayugAntaH"
+id_display = "dvāparayugāntaḥ"
 slug = "dvaparayugantah"
 source_path = "time_focus/yugAdiH/relative_event/vRSabha-ravi-saGkramaNa-viSNupadI-puNyakAlaH/offset__00/dvAparayugAntaH.toml"
 tags = ["CommonFestivals"]

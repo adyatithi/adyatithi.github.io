@@ -1,6 +1,7 @@
 +++
 title = "रविवार-चतुर्थी"
 id = "ravivAra-caturthI"
+id_display = "ravivāra-caturthī"
 slug = "ravivara-caturthi"
 source_path = "time_focus/tithi-vara-combinations/description_only/ravivAra-caturthI.toml"
 tags = ["RareDays", "Combinations"]

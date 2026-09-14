@@ -1,6 +1,7 @@
 +++
 title = "ग्रहवार्धक्यसमापनम्"
 id = "graha-vArdhakya-samApanam"
+id_display = "graha-vārdhakya-samāpanam"
 slug = "graha-vardhakya-samapanam"
 source_path = "time_focus/graha-maudhya/description_only/graha-vArdhakya-samApanam.toml"
 tags = ["RareDays", "GrahaMaudhya"]

@@ -1,6 +1,7 @@
 +++
 title = "हल-षष्ठी/ललही-छठ"
 id = "hala-SaSThI"
+id_display = "hala-ṣaṣṭhī"
 slug = "hala-sasthi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/21/hala-SaSThI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]

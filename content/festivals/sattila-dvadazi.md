@@ -1,6 +1,7 @@
 +++
 title = "षट्तिला-द्वादशी"
 id = "SaTtilA-dvAdazI"
+id_display = "ṣaṭtilā-dvādaśī"
 slug = "sattila-dvadazi"
 source_path = "general/lunar_month/tithi/10/12/SaTtilA-dvAdazI.toml"
 tags = ["SpecialPuja"]

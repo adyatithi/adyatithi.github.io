@@ -15,6 +15,7 @@ removePathAccents = true
   devata = "devata"
   tradition = "tradition"
   month = "month"
+  rashi = "rashi"
   tithi = "tithi"
   nakshatra = "nakshatra"
   category = "category"

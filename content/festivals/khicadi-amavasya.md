@@ -1,6 +1,7 @@
 +++
 title = "ख्येचिमावस पोष्त/खिचडी-अमावास्या"
 id = "khicaDI-AmAvAsyA"
+id_display = "khicaḍī-āmāvāsyā"
 slug = "khicadi-amavasya"
 source_path = "temples/North/lunar_month/tithi/09/30/khicaDI-AmAvAsyA.toml"
 tags = ["KashmirTempleFestivals"]

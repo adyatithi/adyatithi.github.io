@@ -1,6 +1,7 @@
 +++
 title = "उन्मीलनी-महाद्वादशी"
 id = "unmIlanI~mahAdvAdazI"
+id_display = "unmīlanī mahādvādaśī"
 slug = "unmilani-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/unmIlanI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

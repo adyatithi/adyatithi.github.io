@@ -1,6 +1,7 @@
 +++
 title = "गोपद्म-व्रत-समापनम्"
 id = "gOpadma-vrata-samApanam"
+id_display = "gOpadma-vrata-samāpanam"
 slug = "gopadma-vrata-samapanam"
 source_path = "general/lunar_month/tithi/08/12/gOpadma-vrata-samApanam.toml"
 tags = ["SpecialVratam"]

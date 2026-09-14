@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-मासः"
 id = "vaizAkha-mAsaH"
+id_display = "vaiśākha-māsaḥ"
 slug = "vaizakha-masah"
 source_path = "time_focus/misc/description_only/vaizAkha-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

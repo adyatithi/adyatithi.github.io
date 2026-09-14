@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १७ जगद्गुरु-श्री-सदाशिवेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_17_jagadguru_zrI~sadAzivEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 17 jagadguru śrī sadāśivEndra sarasvatī ārādhanā"
 slug = "kajci-17-jagadguru-zri-sadazivendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/10/kAJcI_17_jagadguru_zrI~sadAzivEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

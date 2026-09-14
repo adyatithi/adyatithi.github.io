@@ -1,6 +1,7 @@
 +++
 title = "पापनाशनी-सप्तमी"
 id = "pApanAzanI~saptamI"
+id_display = "pāpanāśanī saptamī"
 slug = "papanazani-saptami"
 source_path = "general/lunar_month/tithi/05/07/pApanAzanI~saptamI.toml"
 tags = ["LessCommonFestivals"]

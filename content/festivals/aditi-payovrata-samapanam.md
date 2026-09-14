@@ -1,6 +1,7 @@
 +++
 title = "पयोव्रत-समापनम्"
 id = "aditi-payOvrata-samApanam"
+id_display = "aditi-payOvrata-samāpanam"
 slug = "aditi-payovrata-samapanam"
 source_path = "general/lunar_month/tithi/12/12/aditi-payOvrata-samApanam.toml"
 tags = ["VratamEnd", "SpecialPeriodEnd"]

@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH~zakradhvajotthApanam"
+id_display = "anadhyāyaḥ śakradhvajotthāpanam"
 slug = "anadhyayah-zakradhvajotthapanam"
 source_path = "time_focus/adhyayana/relative_event/zakradhvajotthApanam/offset__00/anadhyAyaH~zakradhvajotthApanam.toml"
 tags = ["Anadhyayana Days"]

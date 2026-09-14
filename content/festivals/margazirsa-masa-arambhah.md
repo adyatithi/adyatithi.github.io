@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-मास-आरम्भः"
 id = "mArgazIrSa-mAsa-ArambhaH"
+id_display = "mārgaśīrṣa-māsa-ārambhaḥ"
 slug = "margazirsa-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/09/01/mArgazIrSa-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

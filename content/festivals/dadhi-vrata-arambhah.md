@@ -1,6 +1,7 @@
 +++
 title = "दधि-व्रत-आरम्भः"
 id = "dadhi-vrata-ArambhaH"
+id_display = "dadhi-vrata-ārambhaḥ"
 slug = "dadhi-vrata-arambhah"
 source_path = "general/lunar_month/tithi/05/12/dadhi-vrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart", "CommonFestivals"]

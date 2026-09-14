@@ -1,6 +1,7 @@
 +++
 title = "पयोव्रत-समापनम्"
 id = "payOvrata-samApanam"
+id_display = "payOvrata-samāpanam"
 slug = "payovrata-samapanam"
 source_path = "general/lunar_month/tithi/07/12/payOvrata-samApanam.toml"
 tags = ["VratamStart", "SpecialPeriodStart", "CommonFestivals"]

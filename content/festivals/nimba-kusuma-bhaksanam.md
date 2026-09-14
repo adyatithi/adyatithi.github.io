@@ -1,12 +1,13 @@
 +++
 title = "निम्ब-कुसुम-भक्षणम्"
 id = "nimba-kusuma-bhakSaNam"
+id_display = "nimba-kusuma-bhakṣaṇam"
 slug = "nimba-kusuma-bhaksanam"
 source_path = "general/sidereal_solar_month/day/01/01/nimba-kusuma-bhakSaNam.toml"
 tags = ["LessCommonFestivals"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 category = ["General Observances"]
-timing_summary = "Caitra (चैत्र) māsa"
+timing_summary = "Meṣa (मेष) rāśi, sidereal"
 
 shlokas = '''
 शतायुर्वज्रदेहाय सर्वसम्पत्कराय च।

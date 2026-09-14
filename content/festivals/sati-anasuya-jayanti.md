@@ -1,6 +1,7 @@
 +++
 title = "सती-अनसूया-जयन्ती"
 id = "satI~anasUyA~jayantI"
+id_display = "satī anasūyā jayantī"
 slug = "sati-anasuya-jayanti"
 source_path = "mahApuruSha/general-indic-non-tropical/lunar_month/tithi/02/19/satI~anasUyA~jayantI.toml"
 tags = ["MahapurushaEvents"]

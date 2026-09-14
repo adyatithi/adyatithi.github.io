@@ -1,6 +1,7 @@
 +++
 title = "पाण्डव-(लाभ)-पञ्चमी"
 id = "pANDava~(lAbha)-paJcamI"
+id_display = "pāṇḍava (lābha)-pañcamī"
 slug = "pandava-labha-pajcami"
 source_path = "general/lunar_month/tithi/08/05/pANDava~(lAbha)-paJcamI.toml"
 tags = ["LessCommonFestivals"]

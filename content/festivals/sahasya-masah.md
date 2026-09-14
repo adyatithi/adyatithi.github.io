@@ -1,6 +1,7 @@
 +++
 title = "सहस्य-मासः"
 id = "sahasya-mAsaH"
+id_display = "sahasya-māsaḥ"
 slug = "sahasya-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/sahasya-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

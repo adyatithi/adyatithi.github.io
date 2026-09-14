@@ -1,6 +1,7 @@
 +++
 title = "वैधृति-श्राद्धम्"
 id = "vaidhRti-zrAddham"
+id_display = "vaidhṛti-śrāddham"
 slug = "vaidhrti-zraddham"
 source_path = "devatA/pitR/sidereal_solar_month/yoga/00/27/vaidhRti-zrAddham.toml"
 tags = ["MonthlyShraddhaDays", "ShannavatiTarpanaDays"]

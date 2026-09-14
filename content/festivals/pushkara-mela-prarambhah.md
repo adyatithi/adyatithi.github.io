@@ -1,6 +1,7 @@
 +++
 title = "पुष्कर-मेला-प्रारम्भः"
 id = "puShkara-melA-prArambhaH"
+id_display = "puṣhkara-melā-prārambhaḥ"
 slug = "pushkara-mela-prarambhah"
 source_path = "temples/North/relative_event/puShkara-melA-samAptiH/offset__-8/puShkara-melA-prArambhaH.toml"
 category = ["Temple Festivals"]

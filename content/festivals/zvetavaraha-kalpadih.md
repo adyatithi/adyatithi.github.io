@@ -1,6 +1,7 @@
 +++
 title = "श्वेतवराह-कल्पादिः"
 id = "zvEtavarAha-kalpAdiH"
+id_display = "śvEtavarāha-kalpādiḥ"
 slug = "zvetavaraha-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/01/01/zvEtavarAha-kalpAdiH.toml"
 tags = ["KalpadiDays"]

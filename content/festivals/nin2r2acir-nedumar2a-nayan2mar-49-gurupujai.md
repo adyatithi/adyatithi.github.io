@@ -1,16 +1,17 @@
 +++
-title = "nin2r2acIr neDumAr2a nAyan2mAr (49) gurupUjai"
+title = "niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"
 id = "nin2r2acIr_neDumAr2a_nAyan2mAr_(49)_gurupUjai"
+id_display = "niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"
 slug = "nin2r2acir-nedumar2a-nayan2mar-49-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/02/nin2r2acIr_neDumAr2a_nAyan2mAr_(49)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Bharaṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Bharaṇī nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Bharaṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Following his conversion, the king conquered northern kings at Tirunelveli, spre
 '''
 
 [names]
-ta = ["nin2r2acIr neDumAr2a nAyan2mAr (49) gurupUjai"]
+ta = ["niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"]
 +++

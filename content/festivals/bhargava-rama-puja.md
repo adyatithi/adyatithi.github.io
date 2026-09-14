@@ -1,6 +1,7 @@
 +++
 title = "भार्गव-राम-पूजा"
 id = "bhArgava-rAma-pUjA"
+id_display = "bhārgava-rāma-pūjā"
 slug = "bhargava-rama-puja"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/30/bhArgava-rAma-pUjA.toml"
 tags = ["LessCommonFestivals"]

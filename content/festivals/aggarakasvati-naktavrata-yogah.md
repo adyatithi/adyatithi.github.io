@@ -1,6 +1,7 @@
 +++
 title = "अङ्गारकस्वाती-नक्तव्रत-योगः"
 id = "aGgArakasvAtI-naktavrata-yOgaH"
+id_display = "aṅgārakasvātī-naktavrata-yOgaḥ"
 slug = "aggarakasvati-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/aGgArakasvAtI-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

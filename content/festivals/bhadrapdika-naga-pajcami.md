@@ -1,6 +1,7 @@
 +++
 title = "भाद्रपदिक-नाग-पञ्चमी"
 id = "bhAdrapdika-nAga-paJcamI"
+id_display = "bhādrapdika-nāga-pañcamī"
 slug = "bhadrapdika-naga-pajcami"
 source_path = "devatA/misc-fauna/lunar_month/tithi/06/05/bhAdrapdika-nAga-paJcamI.toml"
 tags = ["SpecialPuja"]

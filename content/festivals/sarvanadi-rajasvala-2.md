@@ -1,13 +1,14 @@
 +++
 title = "सर्वनदी-रजस्वला"
 id = "sarvanadI-rajasvalA~2"
+id_display = "sarvanadī-rajasvalā 2"
 slug = "sarvanadi-rajasvala-2"
 source_path = "devatA/nadI/sidereal_solar_month/day/04/02/sarvanadI-rajasvalA~2.toml"
 tags = ["CommonFestivals"]
 devata = ["Nadī (River)"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 category = ["Devatā Observances"]
-timing_summary = "Āṣāḍha (आषाढ) māsa"
+timing_summary = "Karka (कर्क) rāśi, sidereal"
 
 shlokas = '''
 अत्रिः---

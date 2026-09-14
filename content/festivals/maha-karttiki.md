@@ -1,6 +1,7 @@
 +++
 title = "महा-कार्त्तिकी"
 id = "mahA~kArttikI"
+id_display = "mahā kārttikī"
 slug = "maha-karttiki"
 source_path = "general/lunar_month/nakshatra/08/03/mahA~kArttikI.toml"
 tags = ["CommonFestivals"]

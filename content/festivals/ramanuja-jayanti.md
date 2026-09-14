@@ -1,6 +1,7 @@
 +++
 title = "रामानुज-जयन्ती"
 id = "rAmAnuja~jayantI"
+id_display = "rāmānuja jayantī"
 slug = "ramanuja-jayanti"
 source_path = "mahApuruSha/vaiShNava-misc/lunar_month/tithi/02/06/rAmAnuja~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

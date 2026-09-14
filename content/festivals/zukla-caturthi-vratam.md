@@ -1,6 +1,7 @@
 +++
 title = "शुक्ल-चतुर्थी-व्रतम्"
 id = "zukla-caturthI-vratam"
+id_display = "śukla-caturthī-vratam"
 slug = "zukla-caturthi-vratam"
 source_path = "devatA/gaNapati/lunar_month/tithi/00/04/zukla-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "ShuklaChaturthiVratam"]

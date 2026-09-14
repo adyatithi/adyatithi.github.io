@@ -1,16 +1,17 @@
 +++
-title = "kar2pagAmbAL–kapAlIzvarar tirukkalyANam"
+title = "kaṟpagāmbāḻ–kapālīśvarar tirukkalyāṇam"
 id = "kar2pagAmbAL–kapAlIzvarar_tirukkalyANam"
+id_display = "kaṟpagāmbāḻ–kapālīśvarar tirukkalyāṇam"
 slug = "kar2pagambalkapalizvarar-tirukkalyanam"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/12/15/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 tithi = ["Pūrṇimā"]
 category = ["Temple Festivals"]
 kaala = "चन्द्रोदयः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Śukla Pakṣa Pūrṇimā, at चन्द्रोदयः"
 
 [names]
-ta = ["kar2pagAmbAL–kapAlIzvarar tirukkalyANam"]
+ta = ["kaṟpagāmbāḻ–kapālīśvarar tirukkalyāṇam"]
 +++

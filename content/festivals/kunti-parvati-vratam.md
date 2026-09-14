@@ -1,6 +1,7 @@
 +++
 title = "कुन्ती-(पार्वती)-व्रतम्"
 id = "kuntI~(pArvatI)-vratam"
+id_display = "kuntī (pārvatī)-vratam"
 slug = "kunti-parvati-vratam"
 source_path = "devatA/umA/lunar_month/tithi/07/15/kuntI~(pArvatI)-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-पूर्णिमा-स्नानम्"
 id = "kArttika-pUrNimA-snAnam"
+id_display = "kārttika-pūrṇimā-snānam"
 slug = "karttika-purnima-snanam"
 source_path = "general/lunar_month/tithi/08/15/kArttika-pUrNimA-snAnam.toml"
 tags = ["SpecialSnanam"]

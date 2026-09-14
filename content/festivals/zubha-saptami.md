@@ -1,6 +1,7 @@
 +++
 title = "शुभ-सप्तमी"
 id = "zubha-saptamI"
+id_display = "śubha-saptamī"
 slug = "zubha-saptami"
 source_path = "general/lunar_month/tithi/07/07/zubha-saptamI.toml"
 tags = ["SpecialVratam"]

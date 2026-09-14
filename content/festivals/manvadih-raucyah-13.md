@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(रौच्यः-[१३])"
 id = "manvAdiH~(raucyaH~[13])"
+id_display = "manvādiḥ (raucyaḥ [13])"
 slug = "manvadih-raucyah-13"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/01/15/manvAdiH~(raucyaH~[13]).toml"
 tags = ["ManvadiDays"]

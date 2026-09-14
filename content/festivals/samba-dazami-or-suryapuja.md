@@ -1,6 +1,7 @@
 +++
 title = "साम्ब-दशमी (सूर्यपूजा)"
 id = "sAmba-dazamI_or_sUryapUjA"
+id_display = "sāmba-daśamī or sūryapūjā"
 slug = "samba-dazami-or-suryapuja"
 source_path = "temples/Odisha/lunar_month/tithi/10/10/sAmba-dazamI_or_sUryapUjA.toml"
 tags = ["LessCommonFestivals", "OdishaTempleFestivals"]

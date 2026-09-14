@@ -1,16 +1,17 @@
 +++
-title = "En2AdinAtha nAyan2mAr (9) gurupUjai"
+title = "Eṉādinātha nāyaṉmār (9) gurupūjai"
 id = "En2AdinAtha_nAyan2mAr_(9)_gurupUjai"
+id_display = "Eṉādinātha nāyaṉmār (9) gurupūjai"
 slug = "en2adinatha-nayan2mar-9-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/21/En2AdinAtha_nAyan2mAr_(9)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Bhādrapada"]
+rashi = ["Kanyā"]
 nakshatra = ["Uttara Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Bhādrapada (भाद्रपद) māsa, Uttara Āṣāḍha nakṣatra, at प्रातः"
+timing_summary = "Kanyā (कन्या) rāśi, sidereal, Uttara Āṣāḍha nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Bhagavan Shiva, impressed by Enadinatha's profound devotion and self-sacrifice f
 '''
 
 [names]
-ta = ["En2AdinAtha nAyan2mAr (9) gurupUjai"]
+ta = ["Eṉādinātha nāyaṉmār (9) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "प्रेत-चतुर्दशी"
 id = "prEta-caturdazI"
+id_display = "prEta-caturdaśī"
 slug = "preta-caturdazi"
 source_path = "devatA/pitR/lunar_month/tithi/07/29/prEta-caturdazI.toml"
 tags = ["LessCommonFestivals"]

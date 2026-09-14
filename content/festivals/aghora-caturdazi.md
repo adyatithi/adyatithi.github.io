@@ -1,6 +1,7 @@
 +++
 title = "अघोर-चतुर्दशी"
 id = "aghOra-caturdazI"
+id_display = "aghOra-caturdaśī"
 slug = "aghora-caturdazi"
 source_path = "devatA/shaiva/lunar_month/tithi/05/29/aghOra-caturdazI.toml"
 tags = ["LessCommonFestivals"]

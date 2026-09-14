@@ -1,6 +1,7 @@
 +++
 title = "रङ्ग-पञ्चमी"
 id = "raGga-paJcamI"
+id_display = "raṅga-pañcamī"
 slug = "ragga-pajcami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/12/20/raGga-paJcamI.toml"
 tags = ["LessCommonFestivals"]

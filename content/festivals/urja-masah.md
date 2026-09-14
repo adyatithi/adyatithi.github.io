@@ -1,6 +1,7 @@
 +++
 title = "ऊर्ज-मासः"
 id = "Urja-mAsaH"
+id_display = "ūrja-māsaḥ"
 slug = "urja-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/Urja-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

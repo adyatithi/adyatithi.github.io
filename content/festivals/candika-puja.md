@@ -1,6 +1,7 @@
 +++
 title = "चण्डिका-पूजा"
 id = "caNDikA-pUjA"
+id_display = "caṇḍikā-pūjā"
 slug = "candika-puja"
 source_path = "devatA/shakti/lunar_month/tithi/05/24/caNDikA-pUjA.toml"
 tags = ["SpecialPuja"]

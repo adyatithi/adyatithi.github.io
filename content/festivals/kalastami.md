@@ -1,6 +1,7 @@
 +++
 title = "कालाष्टमी"
 id = "kAlASTamI"
+id_display = "kālāṣṭamī"
 slug = "kalastami"
 source_path = "general/lunar_month/tithi/08/23/kAlASTamI.toml"
 tags = ["LessCommonFestivals"]

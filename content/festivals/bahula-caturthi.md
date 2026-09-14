@@ -1,6 +1,7 @@
 +++
 title = "बहुला-चतुर्थी"
 id = "bahulA~caturthI"
+id_display = "bahulā caturthī"
 slug = "bahula-caturthi"
 source_path = "devatA/shakti/lunar_month/tithi/05/19/bahulA~caturthI.toml"
 tags = ["LessCommonFestivals"]

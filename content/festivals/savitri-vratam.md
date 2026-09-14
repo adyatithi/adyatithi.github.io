@@ -1,6 +1,7 @@
 +++
 title = "सावित्री-व्रतम्"
 id = "sAvitrI-vratam"
+id_display = "sāvitrī-vratam"
 slug = "savitri-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/02/19/sAvitrI-vratam.toml"
 tags = ["SpecialVratam"]

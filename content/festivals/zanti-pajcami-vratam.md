@@ -1,6 +1,7 @@
 +++
 title = "शान्ति-पञ्चमी-व्रतम्"
 id = "zAnti-paJcamI-vratam"
+id_display = "śānti-pañcamī-vratam"
 slug = "zanti-pajcami-vratam"
 source_path = "general/lunar_month/tithi/07/05/zAnti-paJcamI-vratam.toml"
 tags = ["SpecialVratam"]

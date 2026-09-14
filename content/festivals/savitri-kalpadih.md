@@ -1,6 +1,7 @@
 +++
 title = "सावित्री-कल्पादिः"
 id = "sAvitrI-kalpAdiH"
+id_display = "sāvitrī-kalpādiḥ"
 slug = "savitri-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/08/22/sAvitrI-kalpAdiH.toml"
 tags = ["KalpadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "गुरु-अनुराधा-नक्तव्रत-योगः"
 id = "guru-anurAdhA-naktavrata-yOgaH"
+id_display = "guru-anurādhā-naktavrata-yOgaḥ"
 slug = "guru-anuradha-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/guru-anurAdhA-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

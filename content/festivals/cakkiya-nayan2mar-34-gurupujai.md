@@ -1,16 +1,17 @@
 +++
-title = "cAkkiya nAyan2mAr (34) gurupUjai"
+title = "cākkiya nāyaṉmār (34) gurupūjai"
 id = "cAkkiya_nAyan2mAr_(34)_gurupUjai"
+id_display = "cākkiya nāyaṉmār (34) gurupūjai"
 slug = "cakkiya-nayan2mar-34-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/09/20/cAkkiya_nAyan2mAr_(34)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 nakshatra = ["Pūrva Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Pūrva Āṣāḍha nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Pūrva Āṣāḍha nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ On one occasion, just as he was about to eat, he remembered he had not performed
 '''
 
 [names]
-ta = ["cAkkiya nAyan2mAr (34) gurupUjai"]
+ta = ["cākkiya nāyaṉmār (34) gurupūjai"]
 +++

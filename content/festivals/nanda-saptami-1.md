@@ -1,6 +1,7 @@
 +++
 title = "नन्दा-सप्तमी"
 id = "nandA-saptamI~1"
+id_display = "nandā-saptamī 1"
 slug = "nanda-saptami-1"
 source_path = "devatA/shakti/lunar_month/tithi/09/07/nandA-saptamI~1.toml"
 tags = ["SpecialVratam", "LessCommonFestivals"]

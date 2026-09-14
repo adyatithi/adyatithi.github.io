@@ -1,6 +1,7 @@
 +++
 title = "श्री-गोविन्द भगवत्पाद-आराधना"
 id = "zrI~gOvinda_bhagavatpAda_ArAdhanA"
+id_display = "śrī gOvinda bhagavatpāda ārādhanā"
 slug = "zri-govinda-bhagavatpada-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/15/zrI~gOvinda_bhagavatpAda_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

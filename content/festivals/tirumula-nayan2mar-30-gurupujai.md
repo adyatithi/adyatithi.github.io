@@ -1,16 +1,17 @@
 +++
-title = "tirumUla nAyan2mAr (30) gurupUjai"
+title = "tirumūla nāyaṉmār (30) gurupūjai"
 id = "tirumUla_nAyan2mAr_(30)_gurupUjai"
+id_display = "tirumūla nāyaṉmār (30) gurupūjai"
 slug = "tirumula-nayan2mar-30-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/01/tirumUla_nAyan2mAr_(30)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Aśvinī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Aśvinī nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Aśvinī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Unable to retrieve his original body owing to Bhagavan Shiva's Lila, Tirumula Na
 '''
 
 [names]
-ta = ["tirumUla nAyan2mAr (30) gurupUjai"]
+ta = ["tirumūla nāyaṉmār (30) gurupūjai"]
 +++

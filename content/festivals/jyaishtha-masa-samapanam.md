@@ -1,6 +1,7 @@
 +++
 title = "ज्यैष्ठ-मास-समापनम्"
 id = "jyaiShTha-mAsa-samApanam"
+id_display = "jyaiṣhṭha-māsa-samāpanam"
 slug = "jyaishtha-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/03/30/jyaiShTha-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

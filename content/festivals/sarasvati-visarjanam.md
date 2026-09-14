@@ -1,6 +1,7 @@
 +++
 title = "सरस्वती-विसर्जनम्"
 id = "sarasvatI-visarjanam"
+id_display = "sarasvatī-visarjanam"
 slug = "sarasvati-visarjanam"
 source_path = "devatA/shakti/lunar_month/nakshatra/07/21/sarasvatI-visarjanam.toml"
 tags = ["CommonFestivals"]

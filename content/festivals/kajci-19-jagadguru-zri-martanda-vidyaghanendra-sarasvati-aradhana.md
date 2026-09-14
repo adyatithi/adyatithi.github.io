@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १९ जगद्गुरु-श्री-मार्तण्ड-विद्याघनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_19_jagadguru_zrI~mArtaNDa_vidyAghanEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 19 jagadguru śrī mārtaṇḍa vidyāghanEndra sarasvatī ārādhanā"
 slug = "kajci-19-jagadguru-zri-martanda-vidyaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/07/09/kAJcI_19_jagadguru_zrI~mArtaNDa_vidyAghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

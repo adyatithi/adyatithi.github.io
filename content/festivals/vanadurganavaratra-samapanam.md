@@ -1,6 +1,7 @@
 +++
 title = "वनदुर्गानवरात्र-समापनम्"
 id = "vanadurgAnavarAtra-samApanam"
+id_display = "vanadurgānavarātra-samāpanam"
 slug = "vanadurganavaratra-samapanam"
 source_path = "devatA/shakti/lunar_month/tithi/09/09/vanadurgAnavarAtra-samApanam.toml"
 tags = ["Navaratri", "SpecialPeriodEnd"]

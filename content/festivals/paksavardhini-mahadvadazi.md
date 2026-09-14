@@ -1,6 +1,7 @@
 +++
 title = "पक्षवर्धिनी-महाद्वादशी"
 id = "pakSavardhinI~mahAdvAdazI"
+id_display = "pakṣavardhinī mahādvādaśī"
 slug = "paksavardhini-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/pakSavardhinI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

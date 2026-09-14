@@ -1,6 +1,7 @@
 +++
 title = "रम्भा-तृतीया"
 id = "rambhA~tRtIyA"
+id_display = "rambhā tṛtīyā"
 slug = "rambha-trtiya"
 source_path = "general/lunar_month/tithi/03/03/rambhA~tRtIyA.toml"
 tags = ["SpecialVratam"]

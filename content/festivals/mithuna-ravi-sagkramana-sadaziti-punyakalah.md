@@ -1,6 +1,7 @@
 +++
 title = "मिथुन-रवि-सङ्क्रमण-षडशीति-पुण्यकालः"
 id = "mithuna-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+id_display = "mithuna-ravi-saṅkramaṇa-ṣaḍaśīti-puṇyakālaḥ"
 slug = "mithuna-ravi-sagkramana-sadaziti-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/mithuna-ravi-saGkramaNa-SaDazIti-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

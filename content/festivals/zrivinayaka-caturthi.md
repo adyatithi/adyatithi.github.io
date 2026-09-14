@@ -1,6 +1,7 @@
 +++
 title = "श्रीविनायक-चतुर्थी"
 id = "zrIvinAyaka-caturthI"
+id_display = "śrīvināyaka-caturthī"
 slug = "zrivinayaka-caturthi"
 source_path = "devatA/gaNapati/lunar_month/tithi/06/04/zrIvinAyaka-caturthI.toml"
 tags = ["CommonFestivals"]

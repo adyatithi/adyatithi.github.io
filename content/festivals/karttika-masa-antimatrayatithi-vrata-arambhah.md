@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-मास-अन्तिमत्रयतिथि-व्रत-आरम्भः"
 id = "kArttika-mAsa-antimatrayatithi-vrata-ArambhaH"
+id_display = "kārttika-māsa-antimatrayatithi-vrata-ārambhaḥ"
 slug = "karttika-masa-antimatrayatithi-vrata-arambhah"
 source_path = "general/lunar_month/tithi/08/13/kArttika-mAsa-antimatrayatithi-vrata-ArambhaH.toml"
 tags = ["LessCommonFestivals"]

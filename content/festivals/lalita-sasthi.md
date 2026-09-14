@@ -1,6 +1,7 @@
 +++
 title = "ललिता-षष्ठी"
 id = "lalitA-SaSThI"
+id_display = "lalitā-ṣaṣṭhī"
 slug = "lalita-sasthi"
 source_path = "devatA/shakti/lunar_month/tithi/06/06/lalitA-SaSThI.toml"
 tags = ["LessCommonFestivals"]

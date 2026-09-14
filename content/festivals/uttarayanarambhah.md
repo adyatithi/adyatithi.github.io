@@ -1,11 +1,12 @@
 +++
 title = "उत्तरायणारम्भः"
 id = "uttarAyaNArambhaH"
+id_display = "uttarāyaṇārambhaḥ"
 slug = "uttarayanarambhah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/11/01/uttarAyaNArambhaH.toml"
-month = ["Māgha"]
+rashi = ["Kumbha"]
 category = ["Calendrical Specials"]
-timing_summary = "Māgha (माघ) māsa"
+timing_summary = "Kumbha (कुम्भ) rāśi, tropical"
 
 description_en = '''
 Winter solstice.

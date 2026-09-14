@@ -1,6 +1,7 @@
 +++
 title = "भाद्रपद-मास-समापनम्"
 id = "bhAdrapada-mAsa-samApanam"
+id_display = "bhādrapada-māsa-samāpanam"
 slug = "bhadrapada-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/06/30/bhAdrapada-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

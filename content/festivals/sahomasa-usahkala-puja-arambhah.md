@@ -1,6 +1,7 @@
 +++
 title = "सहोमास-उषःकाल-पूजारम्भः"
 id = "sahOmAsa-uSaHkAla-pUjA-ArambhaH"
+id_display = "sahOmāsa-uṣaḥkāla-pūjā-ārambhaḥ"
 slug = "sahomasa-usahkala-puja-arambhah"
 source_path = "general/description_only/sahOmAsa-uSaHkAla-pUjA-ArambhaH.toml"
 tags = ["SpecialPujas", "CommonFestivals", "SpecialPeriodStart"]

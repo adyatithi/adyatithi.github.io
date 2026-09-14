@@ -1,16 +1,17 @@
 +++
-title = "tirunAvukkaracha nAyan2mAr (21) gurupUjai"
+title = "tirunāvukkaracha nāyaṉmār (21) gurupūjai"
 id = "tirunAvukkaracha_nAyan2mAr_(21)_gurupUjai"
+id_display = "tirunāvukkaracha nāyaṉmār (21) gurupūjai"
 slug = "tirunavukkaracha-nayan2mar-21-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/24/tirunAvukkaracha_nAyan2mAr_(21)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Śatabhiṣā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ He met with another great Nayanmar, Tiru Jnanasambandar, and together they worsh
 '''
 
 [names]
-ta = ["tirunAvukkaracha nAyan2mAr (21) gurupUjai"]
+ta = ["tirunāvukkaracha nāyaṉmār (21) gurupūjai"]
 +++

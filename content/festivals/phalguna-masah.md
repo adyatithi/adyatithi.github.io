@@ -1,6 +1,7 @@
 +++
 title = "फाल्गुन-मासः"
 id = "phAlguna-mAsaH"
+id_display = "phālguna-māsaḥ"
 slug = "phalguna-masah"
 source_path = "time_focus/misc/description_only/phAlguna-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

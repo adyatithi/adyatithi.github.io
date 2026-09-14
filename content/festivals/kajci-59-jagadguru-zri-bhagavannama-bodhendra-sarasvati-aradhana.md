@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ५९ जगद्गुरु-श्री-भगवन्नाम-बोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_59_jagadguru_zrI~bhagavannAma_bOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 59 jagadguru śrī bhagavannāma bOdhEndra sarasvatī ārādhanā"
 slug = "kajci-59-jagadguru-zri-bhagavannama-bodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/06/15/kAJcI_59_jagadguru_zrI~bhagavannAma_bOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,16 +1,17 @@
 +++
-title = "Arumukha-nAvalar-gurupUjai"
+title = "ārumukha-nāvalar-gurupūjai"
 id = "Arumukha-nAvalar-gurupUjai"
+id_display = "ārumukha-nāvalar-gurupūjai"
 slug = "arumukha-navalar-gurupujai"
 source_path = "mahApuruSha/general-indic-non-tropical/sidereal_solar_month/nakshatra/08/10/Arumukha-nAvalar-gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["General"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Maghā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Maghā nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Maghā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -25,5 +26,5 @@ In सिंहपुरी, the गुरुपूजा of आऱुमुख-
 '''
 
 [names]
-ta = ["Ar2umukha-nAvalar-gurupUjai"]
+ta = ["āṟumukha-nāvalar-gurupūjai"]
 +++

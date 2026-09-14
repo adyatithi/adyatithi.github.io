@@ -1,6 +1,7 @@
 +++
 title = "द्वापरयुगादिः"
 id = "dvAparayugAdiH"
+id_display = "dvāparayugādiḥ"
 slug = "dvaparayugadih"
 source_path = "time_focus/yugAdiH/lunar_month/tithi/06/28/dvAparayugAdiH.toml"
 tags = ["YugadiDays"]

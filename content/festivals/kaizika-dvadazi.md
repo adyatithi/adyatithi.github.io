@@ -1,6 +1,7 @@
 +++
 title = "कैशिक-द्वादशी"
 id = "kaizika-dvAdazI"
+id_display = "kaiśika-dvādaśī"
 slug = "kaizika-dvadazi"
 source_path = "temples/Tamil/relative_event/kaizika-EkAdazI/offset__01/kaizika-dvAdazI.toml"
 tags = ["TamilnaduTempleFestivals"]

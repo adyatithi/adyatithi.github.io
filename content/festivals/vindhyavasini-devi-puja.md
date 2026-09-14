@@ -1,6 +1,7 @@
 +++
 title = "विन्ध्यावासिनी-देवी-पूजा"
 id = "vindhyAvAsinI-dEvI-pUjA"
+id_display = "vindhyāvāsinī-dEvī-pūjā"
 slug = "vindhyavasini-devi-puja"
 source_path = "devatA/shakti/lunar_month/tithi/03/06/vindhyAvAsinI-dEvI-pUjA.toml"
 tags = ["SpecialPuja"]

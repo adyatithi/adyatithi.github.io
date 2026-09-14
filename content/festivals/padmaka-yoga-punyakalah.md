@@ -1,6 +1,7 @@
 +++
 title = "पद्मक-योग-पुण्यकालः"
 id = "padmaka-yOga-puNyakAlaH"
+id_display = "padmaka-yOga-puṇyakālaḥ"
 slug = "padmaka-yoga-punyakalah"
 source_path = "time_focus/special-tithis/description_only/padmaka-yOga-puNyakAlaH.toml"
 tags = ["RareDays", "Combinations"]

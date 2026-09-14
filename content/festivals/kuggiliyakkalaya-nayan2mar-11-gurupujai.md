@@ -1,16 +1,17 @@
 +++
-title = "kuGgiliyakkalaya nAyan2mAr (11) gurupUjai"
+title = "kuṅgiliyakkalaya nāyaṉmār (11) gurupūjai"
 id = "kuGgiliyakkalaya_nAyan2mAr_(11)_gurupUjai"
+id_display = "kuṅgiliyakkalaya nāyaṉmār (11) gurupūjai"
 slug = "kuggiliyakkalaya-nayan2mar-11-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/19/kuGgiliyakkalaya_nAyan2mAr_(11)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -28,5 +29,5 @@ After spending more time serving Bhagavan Shiva and His devotees, Nayanmar event
 '''
 
 [names]
-ta = ["kuGgiliyakkalaya nAyan2mAr (11) gurupUjai"]
+ta = ["kuṅgiliyakkalaya nāyaṉmār (11) gurupūjai"]
 +++

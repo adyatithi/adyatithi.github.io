@@ -1,6 +1,7 @@
 +++
 title = "माघ-मास-समापनम्"
 id = "mAgha-mAsa-samApanam"
+id_display = "māgha-māsa-samāpanam"
 slug = "magha-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/11/30/mAgha-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

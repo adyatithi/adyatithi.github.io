@@ -1,6 +1,7 @@
 +++
 title = "गोपाष्टमी"
 id = "gOpASTamI"
+id_display = "gOpāṣṭamī"
 slug = "gopastami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/08/08/gOpASTamI.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "महाज्यैष्ठी-योगः"
 id = "mahA-jyaiSThI-yOgaH"
+id_display = "mahā-jyaiṣṭhī-yOgaḥ"
 slug = "maha-jyaisthi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-jyaiSThI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

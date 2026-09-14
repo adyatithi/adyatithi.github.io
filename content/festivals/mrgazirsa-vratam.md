@@ -1,6 +1,7 @@
 +++
 title = "मृगशीर्ष-व्रतम्"
 id = "mRgazIrSa-vratam"
+id_display = "mṛgaśīrṣa-vratam"
 slug = "mrgazirsa-vratam"
 source_path = "general/lunar_month/tithi/04/16/mRgazIrSa-vratam.toml"
 tags = ["SpecialVratam"]

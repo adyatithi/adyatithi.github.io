@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ३९ जगद्गुरु-श्री-सच्चिद्विलासेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_39_jagadguru_zrI~saccidvilAsEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 39 jagadguru śrī saccidvilāsEndra sarasvatī ārādhanā"
 slug = "kajci-39-jagadguru-zri-saccidvilasendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/14/kAJcI_39_jagadguru_zrI~saccidvilAsEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

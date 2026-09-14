@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ६० जगद्गुरु-श्री-अद्वैतात्मप्रकाशेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_60_jagadguru_zrI~advaitAtmaprakAzEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 60 jagadguru śrī advaitātmaprakāśEndra sarasvatī ārādhanā"
 slug = "kajci-60-jagadguru-zri-advaitatmaprakazendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/02/kAJcI_60_jagadguru_zrI~advaitAtmaprakAzEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

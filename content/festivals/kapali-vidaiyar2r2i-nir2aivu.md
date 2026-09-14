@@ -1,6 +1,7 @@
 +++
-title = "kapAlI viDaiyAr2r2i nir2aivu"
+title = "kapālī viḍaiyāṟṟi niṟaivu"
 id = "kapAlI_viDaiyAr2r2i_nir2aivu"
+id_display = "kapālī viḍaiyāṟṟi niṟaivu"
 slug = "kapali-vidaiyar2r2i-nir2aivu"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__11/kapAlI_viDaiyAr2r2i_nir2aivu.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ Conclusion (niṟaivu) of the viḍaiyāṟṟi (valedictory send-off) rites, ma
 '''
 
 [names]
-ta = ["kapAlI viDaiyAr2r2i nir2aivu"]
+ta = ["kapālī viḍaiyāṟṟi niṟaivu"]
 +++

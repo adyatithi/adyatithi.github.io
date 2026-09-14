@@ -1,6 +1,7 @@
 +++
 title = "भौमाश्विनी-योगः"
 id = "bhaumAzvinI-yOgaH"
+id_display = "bhaumāśvinī-yOgaḥ"
 slug = "bhaumazvini-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/bhaumAzvinI-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

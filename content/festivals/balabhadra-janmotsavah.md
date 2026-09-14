@@ -1,6 +1,7 @@
 +++
 title = "बलभद्र-जन्मोत्सवः"
 id = "balabhadra~janmOtsavaH"
+id_display = "balabhadra janmOtsavaḥ"
 slug = "balabhadra-janmotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/15/balabhadra~janmOtsavaH.toml"
 tags = ["Dashavataram", "OdishaTempleFestivals"]

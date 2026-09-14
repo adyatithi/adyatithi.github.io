@@ -1,16 +1,17 @@
 +++
-title = "cir2appuli nAyan2mAr (35) gurupUjai"
+title = "ciṟappuli nāyaṉmār (35) gurupūjai"
 id = "cir2appuli_nAyan2mAr_(35)_gurupUjai"
+id_display = "ciṟappuli nāyaṉmār (35) gurupūjai"
 slug = "cir2appuli-nayan2mar-35-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/20/cir2appuli_nAyan2mAr_(35)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Pūrva Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Pūrva Āṣāḍha nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Pūrva Āṣāḍha nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Sirappuli Nayanmar, a devout Brahmana from Tiruvakur in the Chola kingdom, was d
 '''
 
 [names]
-ta = ["cir2appuli nAyan2mAr (35) gurupUjai"]
+ta = ["ciṟappuli nāyaṉmār (35) gurupūjai"]
 +++

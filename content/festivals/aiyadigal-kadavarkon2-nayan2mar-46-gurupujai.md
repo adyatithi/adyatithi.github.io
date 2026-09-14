@@ -1,16 +1,17 @@
 +++
-title = "aiyaDigaL kADavarkOn2 nAyan2mAr (46) gurupUjai"
+title = "aiyaḍigaḻ kāḍavarkOṉ nāyaṉmār (46) gurupūjai"
 id = "aiyaDigaL_kADavarkOn2_nAyan2mAr_(46)_gurupUjai"
+id_display = "aiyaḍigaḻ kāḍavarkOṉ nāyaṉmār (46) gurupūjai"
 slug = "aiyadigal-kadavarkon2-nayan2mar-46-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/19/aiyaDigaL_kADavarkOn2_nAyan2mAr_(46)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Aiyadigal Kadavarkon Nayanmar was a Pallava king who reigned over Kanchi and pla
 '''
 
 [names]
-ta = ["aiyaDigaL kADavarkOn2 nAyan2mAr (46) gurupUjai"]
+ta = ["aiyaḍigaḻ kāḍavarkOṉ nāyaṉmār (46) gurupūjai"]
 +++

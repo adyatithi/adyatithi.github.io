@@ -1,6 +1,7 @@
 +++
 title = "भद्रा-सप्तमी"
 id = "bhadrA~saptamI"
+id_display = "bhadrā saptamī"
 slug = "bhadra-saptami"
 source_path = "time_focus/tithi-vara-combinations/description_only/bhadrA~saptamI.toml"
 tags = ["RareDays", "Combinations"]

@@ -1,16 +1,17 @@
 +++
 title = "गोविन्द-दामोदर-स्वामिनः जयन्ती"
 id = "gOvinda-dAmOdara-svAmigal-jayantI"
+id_display = "gOvinda-dāmOdara-svāmigal-jayantī"
 slug = "govinda-damodara-svamigal-jayanti"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/nakshatra/11/25/gOvinda-dAmOdara-svAmigal-jayantI.toml"
 tags = ["MahapurushaEvents"]
 tradition = ["Smārta Ācāryas"]
-month = ["Māgha"]
+rashi = ["Kumbha"]
 nakshatra = ["Pūrva Bhādrapadā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Māgha (माघ) māsa, Pūrva Bhādrapadā nakṣatra, at साङ्गवः"
+timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Pūrva Bhādrapadā nakṣatra, at साङ्गवः"
 "references" = ["https://mahaperiyavaa.blog/2016/02/06/sri-angaraitriplicane-periyava-aradhana/"]
 
 description_en = '''

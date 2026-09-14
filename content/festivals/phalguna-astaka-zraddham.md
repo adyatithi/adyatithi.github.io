@@ -1,6 +1,7 @@
 +++
 title = "फाल्गुन-अष्टका-श्राद्धम्"
 id = "phAlguna-aSTakA-zrAddham"
+id_display = "phālguna-aṣṭakā-śrāddham"
 slug = "phalguna-astaka-zraddham"
 source_path = "devatA/pitR/lunar_month/tithi/12/23/phAlguna-aSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

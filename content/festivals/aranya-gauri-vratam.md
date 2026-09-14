@@ -1,6 +1,7 @@
 +++
 title = "आरण्य-गौरी-व्रतम्"
 id = "AraNya-gaurI-vratam"
+id_display = "āraṇya-gaurī-vratam"
 slug = "aranya-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/03/06/AraNya-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

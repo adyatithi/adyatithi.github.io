@@ -1,6 +1,7 @@
 +++
 title = "अग्रसेन-महाराज-जयन्ती"
 id = "agrasEna~mahArAja~jayantI"
+id_display = "agrasEna mahārāja jayantī"
 slug = "agrasena-maharaja-jayanti"
 source_path = "mahApuruSha/general-indic-non-tropical/lunar_month/tithi/07/01/agrasEna~mahArAja~jayantI.toml"
 tags = ["MahapurushaEvents"]

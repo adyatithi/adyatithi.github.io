@@ -1,6 +1,7 @@
 +++
 title = "बुध-जयन्ती"
 id = "budha~jayantI"
+id_display = "budha jayantī"
 slug = "budha-jayanti"
 source_path = "devatA/graha/lunar_month/tithi/02/11/budha~jayantI.toml"
 tags = ["OtherJayantis"]

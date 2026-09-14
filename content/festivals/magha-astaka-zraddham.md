@@ -1,6 +1,7 @@
 +++
 title = "माघ-अष्टका-श्राद्धम्"
 id = "mAgha-aSTakA-zrAddham"
+id_display = "māgha-aṣṭakā-śrāddham"
 slug = "magha-astaka-zraddham"
 source_path = "devatA/pitR/lunar_month/tithi/11/23/mAgha-aSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

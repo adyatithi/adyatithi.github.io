@@ -1,6 +1,7 @@
 +++
 title = "अविधवा-नवमी"
 id = "avidhavA-navamI"
+id_display = "avidhavā-navamī"
 slug = "avidhava-navami"
 source_path = "devatA/pitR/lunar_month/tithi/06/24/avidhavA-navamI.toml"
 tags = ["SpecialPuja", "CommonFestivals"]

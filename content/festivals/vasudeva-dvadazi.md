@@ -1,6 +1,7 @@
 +++
 title = "वासुदेव-द्वादशी"
 id = "vAsudEva-dvAdazI"
+id_display = "vāsudEva-dvādaśī"
 slug = "vasudeva-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/04/12/vAsudEva-dvAdazI.toml"
 tags = ["SpecialVratam"]

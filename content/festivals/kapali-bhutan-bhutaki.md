@@ -1,6 +1,7 @@
 +++
-title = "kapAlI bhUtaN bhUtakI"
+title = "kapālī bhūtaṇ bhūtakī"
 id = "kapAlI_bhUtaN_bhUtakI"
+id_display = "kapālī bhūtaṇ bhūtakī"
 slug = "kapali-bhutan-bhutaki"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-7/kapAlI_bhUtaN_bhUtakI.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ Bhūtaṉ-Bhūtakī procession — a folk vāhana depicting Śiva's gaṇas — 
 '''
 
 [names]
-ta = ["kapAlI bhUtaN bhUtakI"]
+ta = ["kapālī bhūtaṇ bhūtakī"]
 +++

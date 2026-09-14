@@ -1,6 +1,7 @@
 +++
 title = "मङ्गल-व्रतम्"
 id = "maGgala-vratam"
+id_display = "maṅgala-vratam"
 slug = "maggala-vratam"
 source_path = "general/lunar_month/tithi/07/23/maGgala-vratam.toml"
 tags = ["SpecialVratam"]

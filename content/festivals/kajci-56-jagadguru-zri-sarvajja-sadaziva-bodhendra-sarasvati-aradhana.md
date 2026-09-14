@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ५६ जगद्गुरु-श्री-सर्वज्ञ-सदाशिव-बोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_56_jagadguru_zrI~sarvajJa_sadAziva_bOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 56 jagadguru śrī sarvajña sadāśiva bOdhEndra sarasvatī ārādhanā"
 slug = "kajci-56-jagadguru-zri-sarvajja-sadaziva-bodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/23/kAJcI_56_jagadguru_zrI~sarvajJa_sadAziva_bOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

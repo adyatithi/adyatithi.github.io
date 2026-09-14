@@ -1,16 +1,17 @@
 +++
-title = "An2Aya nAyan2mAr (14) gurupUjai"
+title = "āṉāya nāyaṉmār (14) gurupūjai"
 id = "An2Aya_nAyan2mAr_(14)_gurupUjai"
+id_display = "āṉāya nāyaṉmār (14) gurupūjai"
 slug = "an2aya-nayan2mar-14-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/13/An2Aya_nAyan2mAr_(14)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Hasta"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Hasta nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Hasta nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Bhagavan Shiva, deeply moved by Anayar's sincere devotion and the combined power
 '''
 
 [names]
-ta = ["An2Aya nAyan2mAr (14) gurupUjai"]
+ta = ["āṉāya nāyaṉmār (14) gurupūjai"]
 +++

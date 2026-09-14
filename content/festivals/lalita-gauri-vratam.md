@@ -1,6 +1,7 @@
 +++
 title = "ललिता-गौरी-व्रतम्"
 id = "lalitA-gaurI-vratam"
+id_display = "lalitā-gaurī-vratam"
 slug = "lalita-gauri-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/07/18/lalitA-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

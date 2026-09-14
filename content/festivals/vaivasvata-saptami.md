@@ -1,6 +1,7 @@
 +++
 title = "वैवस्वत-सप्तमी"
 id = "vaivasvata-saptamI"
+id_display = "vaivasvata-saptamī"
 slug = "vaivasvata-saptami"
 source_path = "general/lunar_month/tithi/04/07/vaivasvata-saptamI.toml"
 tags = ["SpecialPuja"]

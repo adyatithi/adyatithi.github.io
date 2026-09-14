@@ -1,6 +1,7 @@
 +++
 title = "आश्विन-नाग-पञ्चमी"
 id = "Azvina-nAga-paJcamI"
+id_display = "āśvina-nāga-pañcamī"
 slug = "azvina-naga-pajcami"
 source_path = "devatA/misc-fauna/lunar_month/tithi/07/05/Azvina-nAga-paJcamI.toml"
 tags = ["SpecialPuja"]

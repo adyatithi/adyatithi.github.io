@@ -1,6 +1,7 @@
 +++
 title = "चैत्र-पूर्णिमा"
 id = "caitra-pUrNimA"
+id_display = "caitra-pūrṇimā"
 slug = "caitra-purnima"
 source_path = "general/lunar_month/tithi/01/15/caitra-pUrNimA.toml"
 tags = ["PurnimaDays", "CommonFestivals"]

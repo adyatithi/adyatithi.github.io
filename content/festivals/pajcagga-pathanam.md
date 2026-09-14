@@ -1,6 +1,7 @@
 +++
 title = "पञ्चाङ्ग-पठनम्"
 id = "paJcAGga-paThanam"
+id_display = "pañcāṅga-paṭhanam"
 slug = "pajcagga-pathanam"
 source_path = "time_focus/misc/description_only/paJcAGga-paThanam.toml"
 tags = ["CommonFestivals"]

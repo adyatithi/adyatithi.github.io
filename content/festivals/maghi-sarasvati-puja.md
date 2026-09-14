@@ -1,6 +1,7 @@
 +++
 title = "माघी-सरस्वती-पूजा"
 id = "mAghI~sarasvatI-pUjA"
+id_display = "māghī sarasvatī-pūjā"
 slug = "maghi-sarasvati-puja"
 source_path = "devatA/shakti/lunar_month/tithi/11/05/mAghI~sarasvatI-pUjA.toml"
 tags = ["SpecialPuja"]

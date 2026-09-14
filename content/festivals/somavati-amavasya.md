@@ -1,6 +1,7 @@
 +++
 title = "सोमवती अमावास्या"
 id = "sOmavatI_amAvAsyA"
+id_display = "sOmavatī amāvāsyā"
 slug = "somavati-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/sOmavatI_amAvAsyA.toml"
 tags = ["RareDays", "Combinations", "AmavasyaDays"]

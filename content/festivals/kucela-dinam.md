@@ -1,6 +1,7 @@
 +++
 title = "कुचेल-दिनम्"
 id = "kucEla-dinam"
+id_display = "kucEla-dinam"
 slug = "kucela-dinam"
 source_path = "devatA/vaiShNava/description_only/kucEla-dinam.toml"
 tags = ["PuranaEvents"]

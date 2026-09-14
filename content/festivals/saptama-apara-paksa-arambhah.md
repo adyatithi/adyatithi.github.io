@@ -1,6 +1,7 @@
 +++
 title = "सप्तम-(अपर)-पक्ष-आरम्भः"
 id = "saptama-(apara)-pakSa-ArambhaH"
+id_display = "saptama-(apara)-pakṣa-ārambhaḥ"
 slug = "saptama-apara-paksa-arambhah"
 source_path = "devatA/pitR/description_only/saptama-(apara)-pakSa-ArambhaH.toml"
 tags = ["SpecialPeriodStart"]

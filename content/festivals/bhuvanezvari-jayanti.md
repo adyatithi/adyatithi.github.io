@@ -1,6 +1,7 @@
 +++
 title = "भुवनेश्वरी-जयन्ती"
 id = "bhuvanEzvarI~jayantI"
+id_display = "bhuvanEśvarī jayantī"
 slug = "bhuvanezvari-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/06/12/bhuvanEzvarI~jayantI.toml"
 tags = ["Dashamahavidya"]

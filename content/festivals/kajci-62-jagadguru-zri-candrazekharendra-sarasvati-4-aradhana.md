@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ६२ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-४-आराधना"
 id = "kAJcI_62_jagadguru_zrI~candrazEkharEndra_sarasvatI_4_ArAdhanA"
+id_display = "kāñcī 62 jagadguru śrī candraśEkharEndra sarasvatī 4 ārādhanā"
 slug = "kajci-62-jagadguru-zri-candrazekharendra-sarasvati-4-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/17/kAJcI_62_jagadguru_zrI~candrazEkharEndra_sarasvatI_4_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

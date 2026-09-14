@@ -1,6 +1,7 @@
 +++
 title = "वारुणी-त्रयोदशी"
 id = "vAruNI~trayOdazI"
+id_display = "vāruṇī trayOdaśī"
 slug = "varuni-trayodazi"
 source_path = "time_focus/special-tithis/description_only/vAruNI~trayOdazI.toml"
 tags = ["RareDays", "Combinations"]

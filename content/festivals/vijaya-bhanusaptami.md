@@ -1,6 +1,7 @@
 +++
 title = "विजया-भानुसप्तमी"
 id = "vijayA~bhAnusaptamI"
+id_display = "vijayā bhānusaptamī"
 slug = "vijaya-bhanusaptami"
 source_path = "time_focus/tithi-vara-combinations/description_only/vijayA~bhAnusaptamI.toml"
 tags = ["RareDays", "Combinations"]

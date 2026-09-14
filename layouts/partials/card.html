@@ -2,6 +2,7 @@
 <a class="card"
    href="{{ $p.RelPermalink }}"
    data-month="{{ range $p.Params.month }}{{ . | urlize }} {{ end }}"
+   data-rashi="{{ range $p.Params.rashi }}{{ . | urlize }} {{ end }}"
    data-devata="{{ range $p.Params.devata }}{{ . | urlize }} {{ end }}"
    data-tradition="{{ range $p.Params.tradition }}{{ . | urlize }} {{ end }}"
    data-tithi="{{ range $p.Params.tithi }}{{ . | urlize }} {{ end }}"

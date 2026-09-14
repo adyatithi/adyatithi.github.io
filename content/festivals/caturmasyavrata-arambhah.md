@@ -1,6 +1,7 @@
 +++
 title = "चातुर्मास्यव्रत-आरम्भः"
 id = "cAturmAsyavrata-ArambhaH"
+id_display = "cāturmāsyavrata-ārambhaḥ"
 slug = "caturmasyavrata-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/04/11/cAturmAsyavrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart", "CommonFestivals"]

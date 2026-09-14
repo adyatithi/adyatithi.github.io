@@ -1,6 +1,7 @@
 +++
 title = "सरस्वती-आवाहनम्"
 id = "sarasvatI-AvAhanam"
+id_display = "sarasvatī-āvāhanam"
 slug = "sarasvati-avahanam"
 source_path = "devatA/shakti/lunar_month/nakshatra/07/19/sarasvatI-AvAhanam.toml"
 tags = ["CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "फाल्गुन-मास-समापनम्"
 id = "phAlguna-mAsa-samApanam"
+id_display = "phālguna-māsa-samāpanam"
 slug = "phalguna-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/12/30/phAlguna-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

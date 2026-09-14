@@ -1,16 +1,17 @@
 +++
-title = "mANikkavAcakar gurupUjai"
+title = "māṇikkavācakar gurupūjai"
 id = "mANikkavAcakar_gurupUjai"
+id_display = "māṇikkavācakar gurupūjai"
 slug = "manikkavacakar-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/03/10/mANikkavAcakar_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Maghā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Maghā nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Maghā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Manikkavachakar's life and spiritual journey are commemorated in sculptures at t
 '''
 
 [names]
-ta = ["mANikkavAcakar gurupUjai"]
+ta = ["māṇikkavācakar gurupūjai"]
 +++

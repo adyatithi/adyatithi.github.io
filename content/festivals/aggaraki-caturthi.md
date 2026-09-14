@@ -1,6 +1,7 @@
 +++
-title = "अङ्गारकी~चतुर्थी"
+title = "अङ्गारकी चतुर्थी"
 id = "aGgArakI~caturthI"
+id_display = "aṅgārakī caturthī"
 slug = "aggaraki-caturthi"
 source_path = "time_focus/vaara_conditioned/aGgArakI~caturthI.toml"
 tags = ["RareDays", "Combinations"]
@@ -23,5 +24,5 @@ When `caturthI tithi` occurs on a Tuesday, it is known as `aGgArakI` and is as s
 '''
 
 [names]
-sa = ["अङ्गारकी~चतुर्थी"]
+sa = ["अङ्गारकी चतुर्थी"]
 +++

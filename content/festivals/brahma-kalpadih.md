@@ -1,6 +1,7 @@
 +++
 title = "ब्रह्म-कल्पादिः"
 id = "brahma-kalpAdiH"
+id_display = "brahma-kalpādiḥ"
 slug = "brahma-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/12/18/brahma-kalpAdiH.toml"
 tags = ["KalpadiDays"]

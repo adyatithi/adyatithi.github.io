@@ -1,6 +1,7 @@
 +++
 title = "दशावतार-व्रतम्"
 id = "dazAvatAra-vratam"
+id_display = "daśāvatāra-vratam"
 slug = "dazavatara-vratam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/10/dazAvatAra-vratam.toml"
 tags = ["SpecialVratam", "LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "हय-पूजा"
 id = "haya-pUjA"
+id_display = "haya-pūjā"
 slug = "haya-puja"
 source_path = "devatA/misc-fauna/lunar_month/tithi/01/05/haya-pUjA.toml"
 tags = ["LessCommonFestivals"]

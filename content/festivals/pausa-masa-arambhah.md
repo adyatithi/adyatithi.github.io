@@ -1,6 +1,7 @@
 +++
 title = "पौष-मास-आरम्भः"
 id = "pauSa-mAsa-ArambhaH"
+id_display = "pauṣa-māsa-ārambhaḥ"
 slug = "pausa-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/10/01/pauSa-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

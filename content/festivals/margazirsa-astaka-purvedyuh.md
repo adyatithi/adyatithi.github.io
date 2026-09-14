@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-अष्टका-पूर्वेद्युः"
 id = "mArgazIrSa-aSTakA-pUrvEdyuH"
+id_display = "mārgaśīrṣa-aṣṭakā-pūrvEdyuḥ"
 slug = "margazirsa-astaka-purvedyuh"
 source_path = "devatA/pitR/relative_event/mArgazIrSa-aSTakA-zrAddham/offset__-1/mArgazIrSa-aSTakA-pUrvEdyuH.toml"
 tags = ["ShannavatiTarpanaDays"]

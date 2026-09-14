@@ -1,6 +1,7 @@
 +++
 title = "चिदम्बरे रथोत्सवः"
 id = "cidambarE_rathOtsavaH"
+id_display = "cidambarE rathOtsavaḥ"
 slug = "cidambare-rathotsavah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-1/cidambarE_rathOtsavaH.toml"
 tags = ["TamilnaduTempleFestivals"]

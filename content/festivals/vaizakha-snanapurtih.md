@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-स्नानपूर्तिः"
 id = "vaizAkha-snAnapUrtiH"
+id_display = "vaiśākha-snānapūrtiḥ"
 slug = "vaizakha-snanapurtih"
 source_path = "time_focus/misc/lunar_month/tithi/02/30/vaizAkha-snAnapUrtiH.toml"
 tags = ["SpecialSnanam"]

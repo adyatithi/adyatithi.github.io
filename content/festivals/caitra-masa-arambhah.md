@@ -1,6 +1,7 @@
 +++
 title = "चैत्र-मास-आरम्भः"
 id = "caitra-mAsa-ArambhaH"
+id_display = "caitra-māsa-ārambhaḥ"
 slug = "caitra-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/01/01/caitra-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

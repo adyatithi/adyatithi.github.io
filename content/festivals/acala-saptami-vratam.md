@@ -1,6 +1,7 @@
 +++
 title = "अचला-सप्तमी-व्रतम्"
 id = "acalA~saptamI-vratam"
+id_display = "acalā saptamī-vratam"
 slug = "acala-saptami-vratam"
 source_path = "general/lunar_month/tithi/11/07/acalA~saptamI-vratam.toml"
 tags = ["SpecialVratam"]

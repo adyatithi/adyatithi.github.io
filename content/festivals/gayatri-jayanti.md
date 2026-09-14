@@ -1,6 +1,7 @@
 +++
 title = "गायत्री-जयन्ती"
 id = "gAyatrI~jayantI"
+id_display = "gāyatrī jayantī"
 slug = "gayatri-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/05/15/gAyatrI~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
-title = "kapAlI ar2upattu mUvar"
+title = "kapālī aṟupattu mūvar"
 id = "kapAlI_ar2upattu_mUvar"
+id_display = "kapālī aṟupattu mūvar"
 slug = "kapali-ar2upattu-muvar"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-2/kapAlI_ar2upattu_mUvar.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -19,5 +20,5 @@ The article also highlights several unchanged traditions, like offerings for Siv
 '''
 
 [names]
-ta = ["kapAlI ar2upattu mUvar"]
+ta = ["kapālī aṟupattu mūvar"]
 +++

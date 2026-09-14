@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(तामसः-[४])"
 id = "manvAdiH~(tAmasaH~[4])"
+id_display = "manvādiḥ (tāmasaḥ [4])"
 slug = "manvadih-tamasah-4"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/06/03/manvAdiH~(tAmasaH~[4]).toml"
 tags = ["ManvadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "ललिता-जयन्ती"
 id = "lalitA~jayantI"
+id_display = "lalitā jayantī"
 slug = "lalita-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/11/15/lalitA~jayantI.toml"
 tags = ["CommonFestivals", "Dashamahavidya"]

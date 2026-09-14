@@ -1,16 +1,17 @@
 +++
-title = "kOTpuli nAyan2mAr (57) gurupUjai"
+title = "kOṭpuli nāyaṉmār (57) gurupūjai"
 id = "kOTpuli_nAyan2mAr_(57)_gurupUjai"
+id_display = "kOṭpuli nāyaṉmār (57) gurupūjai"
 slug = "kotpuli-nayan2mar-57-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/18/kOTpuli_nAyan2mAr_(57)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Jyeṣṭhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Jyeṣṭhā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Jyeṣṭhā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Kotpuli Nayanmar, born in a Vellala family, was the Commander-in-Chief for a Cho
 '''
 
 [names]
-ta = ["kOTpuli nAyan2mAr (57) gurupUjai"]
+ta = ["kOṭpuli nāyaṉmār (57) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "शरन्नवरात्रः"
 id = "zarannavarAtraH"
+id_display = "śarannavarātraḥ"
 slug = "zarannavaratrah"
 source_path = "general/description_only/zarannavarAtraH.toml"
 tags = ["Navaratri", "SpecialPeriod", "CommonFestivals"]

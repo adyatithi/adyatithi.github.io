@@ -1,6 +1,7 @@
 +++
 title = "ज्येष्ठाष्टमी"
 id = "jyESThASTamI"
+id_display = "jyEṣṭhāṣṭamī"
 slug = "jyesthastami"
 source_path = "general/lunar_month/tithi/03/08/jyESThASTamI.toml"
 tags = ["LessCommonFestivals"]

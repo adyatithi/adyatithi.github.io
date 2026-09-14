@@ -1,6 +1,7 @@
 +++
 title = "भद्रकाली-जयन्ती"
 id = "bhadrakALI~jayantI"
+id_display = "bhadrakāḻī jayantī"
 slug = "bhadrakali-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/02/26/bhadrakALI~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH-cAturmAsya-prathamA-sAmAnya-niyamAH"
+id_display = "anadhyāyaḥ-cāturmāsya-prathamā-sāmānya-niyamāḥ"
 slug = "anadhyayah-caturmasya-prathama-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-cAturmAsya-prathamA-sAmAnya-niyamAH.toml"
 tags = ["Anadhyayana Days"]

@@ -1,6 +1,7 @@
 +++
 title = "ऋषि-पञ्चमी-व्रतम्"
 id = "RSi-paJcamI-vratam"
+id_display = "ṛṣi-pañcamī-vratam"
 slug = "rsi-pajcami-vratam"
 source_path = "general/lunar_month/tithi/06/05/RSi-paJcamI-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]

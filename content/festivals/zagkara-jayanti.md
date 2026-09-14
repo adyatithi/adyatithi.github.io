@@ -1,6 +1,7 @@
 +++
 title = "शङ्कर-जयन्ती"
 id = "zaGkara~jayantI"
+id_display = "śaṅkara jayantī"
 slug = "zagkara-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/05/zaGkara~jayantI.toml"
 tags = ["CommonFestivals", "AdiShankaraHistory", "MahapurushaEvents"]

@@ -1,6 +1,7 @@
 +++
 title = "अनन्तफल-सप्तमी"
 id = "anantaphala-saptamI"
+id_display = "anantaphala-saptamī"
 slug = "anantaphala-saptami"
 source_path = "general/lunar_month/tithi/06/07/anantaphala-saptamI.toml"
 tags = ["SpecialPuja", "LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "महाजया-सप्तमी"
 id = "mahAjayA~saptamI"
+id_display = "mahājayā saptamī"
 slug = "mahajaya-saptami"
 source_path = "time_focus/special-tithis/description_only/mahAjayA~saptamI.toml"
 tags = ["RareDays", "Combinations"]

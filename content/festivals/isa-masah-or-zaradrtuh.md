@@ -1,6 +1,7 @@
 +++
 title = "इष-मासः/शरदृतुः"
 id = "iSa-mAsaH_or_zaradRtuH"
+id_display = "iṣa-māsaḥ or śaradṛtuḥ"
 slug = "isa-masah-or-zaradrtuh"
 source_path = "time_focus/Rtu/tropical-viSuvAdi/description_only/iSa-mAsaH_or_zaradRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

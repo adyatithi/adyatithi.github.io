@@ -1,6 +1,7 @@
 +++
 title = "हेरम्ब-महागणपति-महासङ्कटहर-चतुर्थी-व्रतम्"
 id = "hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam"
+id_display = "hEramba-mahāgaṇapati-mahāsaṅkaṭahara-caturthī-vratam"
 slug = "heramba-mahaganapati-mahasagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]

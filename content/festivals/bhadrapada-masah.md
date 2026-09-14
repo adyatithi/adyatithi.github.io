@@ -1,6 +1,7 @@
 +++
 title = "भाद्रपद-मासः"
 id = "bhAdrapada-mAsaH"
+id_display = "bhādrapada-māsaḥ"
 slug = "bhadrapada-masah"
 source_path = "time_focus/misc/description_only/bhAdrapada-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

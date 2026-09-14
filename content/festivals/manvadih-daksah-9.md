@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(दक्षः-[९])"
 id = "manvAdiH~(dakSaH~[9])"
+id_display = "manvādiḥ (dakṣaḥ [9])"
 slug = "manvadih-daksah-9"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/05/23/manvAdiH~(dakSaH~[9]).toml"
 tags = ["ManvadiDays"]

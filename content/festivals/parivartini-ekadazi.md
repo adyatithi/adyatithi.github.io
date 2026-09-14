@@ -1,6 +1,7 @@
 +++
 title = "परिवर्तिनी-एकादशी"
 id = "parivartinI-EkAdazI"
+id_display = "parivartinī-Ekādaśī"
 slug = "parivartini-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/parivartinI-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

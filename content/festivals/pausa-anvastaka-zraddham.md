@@ -1,6 +1,7 @@
 +++
 title = "पौष-अन्वष्टका-श्राद्धम्"
 id = "pauSa-anvaSTakA-zrAddham"
+id_display = "pauṣa-anvaṣṭakā-śrāddham"
 slug = "pausa-anvastaka-zraddham"
 source_path = "devatA/pitR/relative_event/pauSa-aSTakA-zrAddham/offset__01/pauSa-anvaSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

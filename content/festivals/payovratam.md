@@ -1,6 +1,7 @@
 +++
 title = "पयोव्रतम्"
 id = "payOvratam"
+id_display = "payOvratam"
 slug = "payovratam"
 source_path = "general/description_only/aditi-payOvratam.toml"
 tags = ["Vratam", "SpecialPeriod"]

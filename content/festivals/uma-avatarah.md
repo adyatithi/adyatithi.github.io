@@ -1,6 +1,7 @@
 +++
 title = "उमा-अवतारः"
 id = "umA-avatAraH"
+id_display = "umā-avatāraḥ"
 slug = "uma-avatarah"
 source_path = "devatA/umA/lunar_month/tithi/03/04/umA-avatAraH.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-अमावास्या"
 id = "vaizAkha-amAvAsyA"
+id_display = "vaiśākha-amāvāsyā"
 slug = "vaizakha-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/vaizAkha-amAvAsyA.toml"
 tags = ["AmavasyaDays"]

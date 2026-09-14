@@ -1,6 +1,7 @@
 +++
 title = "श्रावण-मासः"
 id = "zrAvaNa-mAsaH"
+id_display = "śrāvaṇa-māsaḥ"
 slug = "zravana-masah"
 source_path = "time_focus/misc/description_only/zrAvaNa-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

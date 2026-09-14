@@ -1,6 +1,7 @@
 +++
 title = "विद्यारण्य-स्वामि-आराधना"
 id = "vidyAraNya~svAmI~ArAdhanA"
+id_display = "vidyāraṇya svāmī ārādhanā"
 slug = "vidyaranya-svami-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/13/vidyAraNya~svAmI~ArAdhanA.toml"
 tags = ["MahapurushaEvents"]

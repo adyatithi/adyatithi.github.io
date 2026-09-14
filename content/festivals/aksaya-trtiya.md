@@ -1,6 +1,7 @@
 +++
 title = "अक्षय-तृतीया"
 id = "akSaya-tRtIyA"
+id_display = "akṣaya-tṛtīyā"
 slug = "aksaya-trtiya"
 source_path = "general/lunar_month/tithi/02/03/akSaya-tRtIyA.toml"
 tags = ["CommonFestivals"]

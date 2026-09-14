@@ -1,6 +1,7 @@
 +++
 title = "चातुर्मास्यव्रत-समापनम्"
 id = "cAturmAsyavrata-samApanam"
+id_display = "cāturmāsyavrata-samāpanam"
 slug = "caturmasyavrata-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/08/12/cAturmAsyavrata-samApanam.toml"
 tags = ["SpecialPeriodEnd", "CommonFestivals"]

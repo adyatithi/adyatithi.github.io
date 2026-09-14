@@ -1,6 +1,7 @@
 +++
 title = "पयोव्रत-आरम्भः"
 id = "aditi-payOvrata-ArambhaH"
+id_display = "aditi-payOvrata-ārambhaḥ"
 slug = "aditi-payovrata-arambhah"
 source_path = "general/lunar_month/tithi/12/01/aditi-payOvrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart"]

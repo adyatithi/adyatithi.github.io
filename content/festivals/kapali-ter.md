@@ -1,6 +1,7 @@
 +++
 title = "कपालीश्वरयात्रा"
 id = "kapAlI_tEr"
+id_display = "kapālī tEr"
 slug = "kapali-ter"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-3/kapAlI_tEr.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,6 +12,6 @@ Tēr (temple chariot) festival — the principal car procession of Karpagāmbā�
 '''
 
 [names]
-ta = ["kapAlI tEr"]
+ta = ["kapālī tEr"]
 sa = ["कपालीश्वरयात्रा"]
 +++

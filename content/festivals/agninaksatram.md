@@ -1,6 +1,7 @@
 +++
 title = "अग्निनक्षत्रम्"
 id = "agninakSatram"
+id_display = "agninakṣatram"
 slug = "agninaksatram"
 source_path = "time_focus/nakShatra/description_only/agninakSatram.toml"
 tags = ["SpecialPeriod"]

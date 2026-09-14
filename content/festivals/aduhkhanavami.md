@@ -1,6 +1,7 @@
 +++
 title = "अदुःखनवमी"
 id = "aduHkhanavamI"
+id_display = "aduḥkhanavamī"
 slug = "aduhkhanavami"
 source_path = "general/lunar_month/tithi/06/09/aduHkhanavamI.toml"
 tags = ["LessCommonFestivals"]

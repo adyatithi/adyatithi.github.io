@@ -1,6 +1,7 @@
 +++
 title = "भौमवार-शुक्ल-प्रदोष-व्रतम्"
 id = "bhaumavAra-zukla-pradOSa-vratam"
+id_display = "bhaumavāra-śukla-pradOṣa-vratam"
 slug = "bhaumavara-zukla-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/bhaumavAra-zukla-pradOSa-vratam.toml"
 tags = ["MonthlyVratam", "PradoshaVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "बुधाष्टमी"
 id = "budhASTamI"
+id_display = "budhāṣṭamī"
 slug = "budhastami"
 source_path = "time_focus/tithi-vara-combinations/description_only/budhASTamI.toml"
 tags = ["RareDays", "Combinations"]

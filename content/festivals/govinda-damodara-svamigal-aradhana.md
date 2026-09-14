@@ -1,16 +1,17 @@
 +++
 title = "गोविन्द-दामोदर-स्वामिनः आराधना"
 id = "gOvinda-dAmOdara-svAmigal-ArAdhana"
+id_display = "gOvinda-dāmOdara-svāmigal-ārādhana"
 slug = "govinda-damodara-svamigal-aradhana"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/tithi/10/28/gOvinda-dAmOdara-svAmigal-ArAdhana.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Smārta Ācāryas"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 tithi = ["Trayodaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Pauṣa (पौष) māsa, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Kṛṣṇa Pakṣa Trayodaśī, at अपराह्णः"
 "references" = ["https://mahaperiyavaa.blog/2016/02/06/sri-angaraitriplicane-periyava-aradhana/"]
 
 description_en = '''

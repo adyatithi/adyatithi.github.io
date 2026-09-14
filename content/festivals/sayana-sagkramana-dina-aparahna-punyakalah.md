@@ -1,6 +1,7 @@
 +++
 title = "सायन-सङ्क्रमण-दिन-अपराह्ण-पुण्यकालः"
 id = "sAyana-saGkramaNa-dina-aparAhNa-puNyakAlaH"
+id_display = "sāyana-saṅkramaṇa-dina-aparāhṇa-puṇyakālaḥ"
 slug = "sayana-sagkramana-dina-aparahna-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/sAyana-saGkramaNa-dina-aparAhNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

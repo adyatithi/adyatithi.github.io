@@ -1,6 +1,7 @@
 +++
 title = "गङ्गा-सप्तमी"
 id = "gaGgA-saptamI"
+id_display = "gaṅgā-saptamī"
 slug = "gagga-saptami"
 source_path = "devatA/nadI/lunar_month/tithi/02/07/gaGgA-saptamI.toml"
 tags = ["PuranaEvents", "SpecialPuja", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "हरिवासरः"
 id = "harivAsaraH"
+id_display = "harivāsaraḥ"
 slug = "harivasarah"
 source_path = "time_focus/monthly/ekAdashI/description_only/harivAsaraH.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

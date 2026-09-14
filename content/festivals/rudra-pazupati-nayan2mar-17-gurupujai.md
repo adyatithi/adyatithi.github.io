@@ -1,16 +1,17 @@
 +++
-title = "rudra pazupati nAyan2mAr (17) gurupUjai"
+title = "rudra paśupati nāyaṉmār (17) gurupūjai"
 id = "rudra~pazupati_nAyan2mAr_(17)_gurupUjai"
+id_display = "rudra paśupati nāyaṉmār (17) gurupūjai"
 slug = "rudra-pazupati-nayan2mar-17-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/01/rudra~pazupati_nAyan2mAr_(17)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Bhādrapada"]
+rashi = ["Kanyā"]
 nakshatra = ["Aśvinī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Bhādrapada (भाद्रपद) māsa, Aśvinī nakṣatra, at प्रातः"
+timing_summary = "Kanyā (कन्या) rāśi, sidereal, Aśvinī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ His method of worship included standing neck-deep in water and reciting Sri Rudr
 '''
 
 [names]
-ta = ["rudra~pazupati nAyan2mAr (17) gurupUjai"]
+ta = ["rudra paśupati nāyaṉmār (17) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "द्विदल-व्रत-आरम्भः"
 id = "dvidala-vrata-ArambhaH"
+id_display = "dvidala-vrata-ārambhaḥ"
 slug = "dvidala-vrata-arambhah"
 source_path = "general/lunar_month/tithi/07/12/dvidala-vrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart", "CommonFestivals"]

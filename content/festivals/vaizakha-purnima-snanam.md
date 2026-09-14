@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-पूर्णिमा-स्नानम्"
 id = "vaizAkha-pUrNimA-snAnam"
+id_display = "vaiśākha-pūrṇimā-snānam"
 slug = "vaizakha-purnima-snanam"
 source_path = "general/lunar_month/tithi/02/15/vaizAkha-pUrNimA-snAnam.toml"
 tags = ["SpecialSnanam"]

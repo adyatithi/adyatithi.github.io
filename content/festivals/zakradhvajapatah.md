@@ -1,6 +1,7 @@
 +++
 title = "शक्रध्वजपातः"
 id = "zakradhvajapAtaH"
+id_display = "śakradhvajapātaḥ"
 slug = "zakradhvajapatah"
 source_path = "general/lunar_month/tithi/07/12/zakradhvajapAtaH.toml"
 tags = ["LessCommonFestivals"]

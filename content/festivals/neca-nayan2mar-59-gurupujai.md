@@ -1,16 +1,17 @@
 +++
-title = "nEca nAyan2mAr (59) gurupUjai"
+title = "nEca nāyaṉmār (59) gurupūjai"
 id = "nEca_nAyan2mAr_(59)_gurupUjai"
+id_display = "nEca nāyaṉmār (59) gurupūjai"
 slug = "neca-nayan2mar-59-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/04/nEca_nAyan2mAr_(59)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 nakshatra = ["Rohiṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Rohiṇī nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Rohiṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Nesa Nayanmar's life also exemplifies the profound impact of God's name. Like Si
 '''
 
 [names]
-ta = ["nEca nAyan2mAr (59) gurupUjai"]
+ta = ["nEca nāyaṉmār (59) gurupūjai"]
 +++

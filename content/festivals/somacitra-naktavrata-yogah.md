@@ -1,6 +1,7 @@
 +++
 title = "सोमचित्रा-नक्तव्रत-योगः"
 id = "sOmacitrA-naktavrata-yOgaH"
+id_display = "sOmacitrā-naktavrata-yOgaḥ"
 slug = "somacitra-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/sOmacitrA-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

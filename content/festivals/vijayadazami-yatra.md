@@ -1,6 +1,7 @@
 +++
 title = "विजयदशमी—यात्रा-मुहूर्तः"
 id = "vijayadazamI_yAtrA"
+id_display = "vijayadaśamī yātrā"
 slug = "vijayadazami-yatra"
 source_path = "general/lunar_month/tithi/07/10/vijayadazamI_yAtrA.toml"
 tags = ["CommonFestivals"]

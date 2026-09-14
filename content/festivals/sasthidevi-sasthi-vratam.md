@@ -1,6 +1,7 @@
 +++
 title = "षष्ठीदेवी-षष्ठी-व्रतम्"
 id = "SaSThIdEvI-SaSThI-vratam"
+id_display = "ṣaṣṭhīdEvī-ṣaṣṭhī-vratam"
 slug = "sasthidevi-sasthi-vratam"
 source_path = "devatA/kaumAra/description_only/SaSThIdEvI-SaSThI-vratam.toml"
 tags = ["MonthlyVratam", "ShashthiVratam"]

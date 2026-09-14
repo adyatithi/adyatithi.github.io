@@ -1,6 +1,7 @@
 +++
 title = "चैत्र-मास-समापनम्"
 id = "caitra-mAsa-samApanam"
+id_display = "caitra-māsa-samāpanam"
 slug = "caitra-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/01/30/caitra-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

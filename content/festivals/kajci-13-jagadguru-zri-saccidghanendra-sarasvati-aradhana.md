@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १३ जगद्गुरु-श्री-सच्चिद्घनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_13_jagadguru_zrI~saccidghanEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 13 jagadguru śrī saccidghanEndra sarasvatī ārādhanā"
 slug = "kajci-13-jagadguru-zri-saccidghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/16/kAJcI_13_jagadguru_zrI~saccidghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

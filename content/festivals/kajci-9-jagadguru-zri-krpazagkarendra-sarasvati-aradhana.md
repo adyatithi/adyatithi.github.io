@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ९ जगद्गुरु-श्री-कृपाशङ्करेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_9_jagadguru_zrI~kRpAzaGkarEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 9 jagadguru śrī kṛpāśaṅkarEndra sarasvatī ārādhanā"
 slug = "kajci-9-jagadguru-zri-krpazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/18/kAJcI_9_jagadguru_zrI~kRpAzaGkarEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

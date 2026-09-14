@@ -1,6 +1,7 @@
 +++
 title = "सूर्य-षष्ठी"
 id = "sUrya-SaSThI"
+id_display = "sūrya-ṣaṣṭhī"
 slug = "surya-sasthi"
 source_path = "devatA/graha/lunar_month/tithi/06/06/sUrya-SaSThI.toml"
 tags = ["SpecialPuja"]

@@ -1,16 +1,17 @@
 +++
-title = "ceruttuNai nAyan2mAr (54) gurupUjai"
+title = "ceruttuṇai nāyaṉmār (54) gurupūjai"
 id = "ceruttuNai_nAyan2mAr_(54)_gurupUjai"
+id_display = "ceruttuṇai nāyaṉmār (54) gurupūjai"
 slug = "ceruttunai-nayan2mar-54-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/08/ceruttuNai_nAyan2mAr_(54)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 nakshatra = ["Puṣya"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Puṣya nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Puṣya nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Alarmed by his queen's cries, King Kazharsinga rushed to the scene. Upon underst
 '''
 
 [names]
-ta = ["ceruttuNai nAyan2mAr (54) gurupUjai"]
+ta = ["ceruttuṇai nāyaṉmār (54) gurupūjai"]
 +++

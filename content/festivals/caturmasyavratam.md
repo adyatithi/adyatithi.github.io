@@ -1,6 +1,7 @@
 +++
 title = "चातुर्मास्यव्रतम्"
 id = "cAturmAsyavratam"
+id_display = "cāturmāsyavratam"
 slug = "caturmasyavratam"
 source_path = "time_focus/misc/description_only/cAturmAsyavratam.toml"
 tags = ["Vratam", "SpecialPeriod", "CommonFestivals"]

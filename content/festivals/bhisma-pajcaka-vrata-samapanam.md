@@ -1,6 +1,7 @@
 +++
 title = "भीष्म-पञ्चक-व्रत-समापनम्"
 id = "bhISma-paJcaka-vrata-samApanam"
+id_display = "bhīṣma-pañcaka-vrata-samāpanam"
 slug = "bhisma-pajcaka-vrata-samapanam"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/08/15/bhISma-paJcaka-vrata-samApanam.toml"
 tags = ["LessCommonFestivals"]

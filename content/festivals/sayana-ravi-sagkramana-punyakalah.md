@@ -1,6 +1,7 @@
 +++
 title = "सायन-रवि-सङ्क्रमण-पुण्यकालः"
 id = "sAyana-ravi-saGkramaNa-puNyakAlaH"
+id_display = "sāyana-ravi-saṅkramaṇa-puṇyakālaḥ"
 slug = "sayana-ravi-sagkramana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/sAyana-ravi-saGkramaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

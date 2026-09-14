@@ -1,6 +1,7 @@
 +++
-title = "सुखा~अङ्गारकी~चतुर्थी"
+title = "सुखा अङ्गारकी चतुर्थी"
 id = "sukhA~aGgArakI~caturthI"
+id_display = "sukhā aṅgārakī caturthī"
 slug = "sukha-aggaraki-caturthi"
 source_path = "time_focus/vaara_conditioned/sukhA~aGgArakI~caturthI.toml"
 tags = ["RareDays", "Combinations"]
@@ -130,5 +131,5 @@ description_en = '''
 '''
 
 [names]
-sa = ["सुखा~अङ्गारकी~चतुर्थी"]
+sa = ["सुखा अङ्गारकी चतुर्थी"]
 +++

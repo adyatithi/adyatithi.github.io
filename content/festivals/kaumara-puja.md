@@ -1,6 +1,7 @@
 +++
 title = "कौमार-पूजा"
 id = "kaumAra-pUjA"
+id_display = "kaumāra-pūjā"
 slug = "kaumara-puja"
 source_path = "devatA/kaumAra/lunar_month/tithi/05/24/kaumAra-pUjA.toml"
 tags = ["SpecialPuja"]

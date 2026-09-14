@@ -1,6 +1,7 @@
 +++
 title = "चातुर्मास्य-द्वितीया"
 id = "cAturmAsya-dvitIyA~2"
+id_display = "cāturmāsya-dvitīyā 2"
 slug = "caturmasya-dvitiya-2"
 source_path = "devatA/pitR/lunar_month/tithi/08/17/cAturmAsya-dvitIyA~2.toml"
 tags = ["LessCommonFestivals"]

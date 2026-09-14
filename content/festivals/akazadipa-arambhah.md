@@ -1,12 +1,13 @@
 +++
 title = "आकाशदीप-आरम्भः"
 id = "AkAzadIpa-ArambhaH"
+id_display = "ākāśadīpa-ārambhaḥ"
 slug = "akazadipa-arambhah"
 source_path = "general/sidereal_solar_month/day/07/01/AkAzadIpa-ArambhaH.toml"
 tags = ["LessCommonFestivals"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 category = ["General Observances"]
-timing_summary = "Āśvina (आश्विन) māsa"
+timing_summary = "Tulā (तुला) rāśi, sidereal"
 
 shlokas = '''
 तुलायां  तिलतैलेन  सायङ्काले  समागते।

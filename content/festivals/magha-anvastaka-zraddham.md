@@ -1,6 +1,7 @@
 +++
 title = "माघ-अन्वष्टका-श्राद्धम्"
 id = "mAgha-anvaSTakA-zrAddham"
+id_display = "māgha-anvaṣṭakā-śrāddham"
 slug = "magha-anvastaka-zraddham"
 source_path = "devatA/pitR/relative_event/mAgha-aSTakA-zrAddham/offset__01/mAgha-anvaSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

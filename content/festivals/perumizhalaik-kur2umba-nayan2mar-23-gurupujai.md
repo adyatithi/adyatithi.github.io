@@ -1,16 +1,17 @@
 +++
-title = "perumizhalaik kur2umba nAyan2mAr (23) gurupUjai"
+title = "perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
 id = "perumizhalaik_kur2umba_nAyan2mAr_(23)_gurupUjai"
+id_display = "perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
 slug = "perumizhalaik-kur2umba-nayan2mar-23-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/14/perumizhalaik_kur2umba_nAyan2mAr_(23)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Citrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Citrā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Citrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ When Sundarar was about to leave the mortal world and attain his place in Shiva'
 '''
 
 [names]
-ta = ["perumizhalaik kur2umba nAyan2mAr (23) gurupUjai"]
+ta = ["perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "विष्णुपदी-पुण्यकालः"
 id = "viSNupadI-puNyakAlaH"
+id_display = "viṣṇupadī-puṇyakālaḥ"
 slug = "visnupadi-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/viSNupadI-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

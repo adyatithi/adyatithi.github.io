@@ -1,6 +1,7 @@
 +++
 title = "वसन्त-पञ्चमी/श्री-पञ्चमी/मदन-पञ्चमी"
 id = "vasanta-zrI-paJcamI"
+id_display = "vasanta-śrī-pañcamī"
 slug = "vasanta-zri-pajcami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/11/05/vasanta-zrI-paJcamI.toml"
 tags = ["SpecialPuja"]

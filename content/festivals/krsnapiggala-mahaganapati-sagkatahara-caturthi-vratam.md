@@ -1,6 +1,7 @@
 +++
 title = "कृष्णपिङ्गल-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्"
 id = "kRSNapiGgala-mahAgaNapati-saGkaTahara-caturthI-vratam"
+id_display = "kṛṣṇapiṅgala-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "krsnapiggala-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/kRSNapiGgala-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]

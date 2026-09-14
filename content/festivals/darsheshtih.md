@@ -1,6 +1,7 @@
 +++
 title = "दर्शेष्टिः"
 id = "darsheShTiH"
+id_display = "darsheṣhṭiḥ"
 slug = "darsheshtih"
 source_path = "gRhya/general/description_only/darsheShTiH.toml"
 tags = ["MonthlyFestivals"]

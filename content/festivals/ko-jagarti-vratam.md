@@ -1,6 +1,7 @@
 +++
 title = "को-जागर्ति-व्रतम्"
 id = "kO-jAgarti-vratam"
+id_display = "kO-jāgarti-vratam"
 slug = "ko-jagarti-vratam"
 source_path = "general/lunar_month/tithi/07/15/kO-jAgarti-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]

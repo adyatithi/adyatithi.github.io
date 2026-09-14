@@ -1,16 +1,17 @@
 +++
-title = "icaiJAn2iyAr nAyan2mAr (63) gurupUjai"
+title = "icaiñāṉiyār nāyaṉmār (63) gurupūjai"
 id = "icaiJAn2iyAr_nAyan2mAr_(63)_gurupUjai"
+id_display = "icaiñāṉiyār nāyaṉmār (63) gurupūjai"
 slug = "icaijan2iyar-nayan2mar-63-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/14/icaiJAn2iyAr_nAyan2mAr_(63)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Citrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Citrā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Citrā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ The child's striking beauty caught the attention of Narasinga Munaiyar, the loca
 '''
 
 [names]
-ta = ["icaiJAn2iyAr nAyan2mAr (63) gurupUjai"]
+ta = ["icaiñāṉiyār nāyaṉmār (63) gurupūjai"]
 +++

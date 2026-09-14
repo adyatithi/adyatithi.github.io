@@ -1,6 +1,7 @@
 +++
 title = "भद्रकाली-व्रतम्"
 id = "bhadrakALI-vratam"
+id_display = "bhadrakāḻī-vratam"
 slug = "bhadrakali-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/07/09/bhadrakALI-vratam.toml"
 tags = ["SpecialVratam"]

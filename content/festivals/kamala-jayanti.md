@@ -1,6 +1,7 @@
 +++
 title = "कमला-जयन्ती"
 id = "kamalA~jayantI"
+id_display = "kamalā jayantī"
 slug = "kamala-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/09/30/kamalA~jayantI.toml"
 tags = ["Dashamahavidya"]

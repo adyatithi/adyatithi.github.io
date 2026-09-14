@@ -1,6 +1,7 @@
 +++
 title = "विकट-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्"
 id = "vikaTa-mahAgaNapati-saGkaTahara-caturthI-vratam"
+id_display = "vikaṭa-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "vikata-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/vikaTa-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]

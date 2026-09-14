@@ -1,6 +1,7 @@
 +++
 title = "पूर्णिमा-पूजा"
 id = "pUrNimA~pUjA"
+id_display = "pūrṇimā pūjā"
 slug = "purnima-puja"
 source_path = "devatA/shakti/lunar_month/tithi/00/15/pUrNimA~pUjA.toml"
 tags = ["MonthlyFestivals"]

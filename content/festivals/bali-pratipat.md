@@ -1,6 +1,7 @@
 +++
 title = "बलि-प्रतिपत्"
 id = "bali_pratipat"
+id_display = "bali pratipat"
 slug = "bali-pratipat"
 source_path = "general/lunar_month/tithi/08/01/bali_pratipat.toml"
 tags = ["CommonFestivals"]

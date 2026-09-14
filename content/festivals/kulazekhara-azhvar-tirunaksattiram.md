@@ -1,17 +1,18 @@
 +++
-title = "kulazEkhara AzhvAr tirunakSattiram"
+title = "kulaśEkhara āl̤vār tirunakṣattiram"
 id = "kulazEkhara_AzhvAr_tirunakSattiram"
+id_display = "kulaśEkhara āl̤vār tirunakṣattiram"
 slug = "kulazekhara-azhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/11/07/kulazEkhara_AzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
 tradition = ["Āḻvār"]
-month = ["Māgha"]
+rashi = ["Kumbha"]
 nakshatra = ["Punarvasu"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Māgha (माघ) māsa, Punarvasu nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Punarvasu nakṣatra, at प्रातः"
 
 [names]
-ta = ["kulazEkhara AzhvAr tirunakSattiram"]
+ta = ["kulaśEkhara āl̤vār tirunakṣattiram"]
 +++

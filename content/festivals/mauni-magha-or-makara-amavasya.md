@@ -1,6 +1,7 @@
 +++
 title = "मौनि (माघ/मकर) अमावास्या"
 id = "mauni_(mAgha_or_makara)_amAvAsyA"
+id_display = "mauni (māgha or makara) amāvāsyā"
 slug = "mauni-magha-or-makara-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/mauni_(mAgha_or_makara)_amAvAsyA.toml"
 tags = ["AmavasyaDays"]

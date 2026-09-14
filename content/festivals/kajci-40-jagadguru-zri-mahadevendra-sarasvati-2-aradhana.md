@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ४० जगद्गुरु-श्री-महादेवेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_40_jagadguru_zrI~mahAdEvEndra_sarasvatI_2_ArAdhanA"
+id_display = "kāñcī 40 jagadguru śrī mahādEvEndra sarasvatī 2 ārādhanā"
 slug = "kajci-40-jagadguru-zri-mahadevendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/06/kAJcI_40_jagadguru_zrI~mahAdEvEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

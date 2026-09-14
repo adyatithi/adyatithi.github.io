@@ -1,17 +1,18 @@
 +++
-title = "periyAzhvAr tirunakSattiram"
+title = "periyāl̤vār tirunakṣattiram"
 id = "periyAzhvAr_tirunakSattiram"
+id_display = "periyāl̤vār tirunakṣattiram"
 slug = "periyazhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/03/15/periyAzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
 tradition = ["Āḻvār"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Svātī nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 
 [names]
-ta = ["periyAzhvAr tirunakSattiram"]
+ta = ["periyāl̤vār tirunakṣattiram"]
 +++

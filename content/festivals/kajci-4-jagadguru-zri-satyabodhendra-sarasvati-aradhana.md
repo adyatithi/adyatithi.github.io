@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ४ जगद्गुरु-श्री-सत्यबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_4_jagadguru_zrI~satyabOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 4 jagadguru śrī satyabOdhEndra sarasvatī ārādhanā"
 slug = "kajci-4-jagadguru-zri-satyabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/23/kAJcI_4_jagadguru_zrI~satyabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

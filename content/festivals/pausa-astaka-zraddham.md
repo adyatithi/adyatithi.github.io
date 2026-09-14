@@ -1,6 +1,7 @@
 +++
 title = "पौष-अष्टका-श्राद्धम्"
 id = "pauSa-aSTakA-zrAddham"
+id_display = "pauṣa-aṣṭakā-śrāddham"
 slug = "pausa-astaka-zraddham"
 source_path = "devatA/pitR/lunar_month/tithi/10/23/pauSa-aSTakA-zrAddham.toml"
 tags = ["ShannavatiTarpanaDays"]

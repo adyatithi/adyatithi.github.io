@@ -1,6 +1,7 @@
 +++
 title = "कृष्णाङ्गारक-चतुर्दशी-पुण्यकालः/यम-तर्पणम्"
 id = "kRSNAGgAraka-caturdazI-puNyakAlaH_or_yamatarpaNam"
+id_display = "kṛṣṇāṅgāraka-caturdaśī-puṇyakālaḥ or yamatarpaṇam"
 slug = "krsnaggaraka-caturdazi-punyakalah-or-yamatarpanam"
 source_path = "time_focus/vaara_conditioned/kRSNAGgAraka-caturdazI-puNyakAlaH_or_yamatarpaNam.toml"
 tags = ["RareDays", "Combinations"]

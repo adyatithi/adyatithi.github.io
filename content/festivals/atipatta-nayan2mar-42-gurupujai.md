@@ -1,16 +1,17 @@
 +++
-title = "atipatta nAyan2mAr (42) gurupUjai"
+title = "atipatta nāyaṉmār (42) gurupūjai"
 id = "atipatta_nAyan2mAr_(42)_gurupUjai"
+id_display = "atipatta nāyaṉmār (42) gurupūjai"
 slug = "atipatta-nayan2mar-42-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/09/atipatta_nAyan2mAr_(42)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 nakshatra = ["Āśleṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Āśleṣā nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Āśleṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Moved by his steadfast devotion, Bhagavan Shiva manifested before the humble, un
 '''
 
 [names]
-ta = ["atipatta nAyan2mAr (42) gurupUjai"]
+ta = ["atipatta nāyaṉmār (42) gurupūjai"]
 +++

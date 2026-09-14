@@ -1,6 +1,7 @@
 +++
 title = "कपालि-वृषभ-वाहनम्"
 id = "kapAlI_riSabha_vAhan2am"
+id_display = "kapālī riṣabha vāhaṉam"
 slug = "kapali-risabha-vahan2am"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-5/kapAlI_riSabha_vAhan2am.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,6 +12,6 @@ The Rishabha Vahanam festival is also part of the larger Panguni Utsavam at the 
 '''
 
 [names]
-ta = ["kapAlI riSabha vAhan2am"]
+ta = ["kapālī riṣabha vāhaṉam"]
 sa = ["कपालि-वृषभ-वाहनम्"]
 +++

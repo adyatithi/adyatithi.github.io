@@ -1,6 +1,7 @@
 +++
 title = "मार्गशीर्ष-मासः"
 id = "mArgazIrSa-mAsaH"
+id_display = "mārgaśīrṣa-māsaḥ"
 slug = "margazirsa-masah"
 source_path = "time_focus/misc/description_only/mArgazIrSa-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

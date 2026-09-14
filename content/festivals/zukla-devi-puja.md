@@ -1,6 +1,7 @@
 +++
 title = "शुक्ल-देवी-पूजा"
 id = "zukla-dEvI-pUjA"
+id_display = "śukla-dEvī-pūjā"
 slug = "zukla-devi-puja"
 source_path = "devatA/shakti/lunar_month/tithi/03/09/zukla-dEvI-pUjA.toml"
 tags = ["SpecialPuja"]

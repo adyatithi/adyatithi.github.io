@@ -1,6 +1,7 @@
 +++
 title = "श्यामलानवरात्र-आरम्भः"
 id = "zyAmaLAnavarAtra-ArambhaH"
+id_display = "śyāmaḻānavarātra-ārambhaḥ"
 slug = "zyamalanavaratra-arambhah"
 source_path = "devatA/shakti/lunar_month/tithi/11/01/zyAmaLAnavarAtra-ArambhaH.toml"
 tags = ["Navaratri", "SpecialPeriodStart"]

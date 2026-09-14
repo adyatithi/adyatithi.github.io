@@ -1,16 +1,17 @@
 +++
-title = "iLaiyAn2kuDi mAr2a nAyan2mAr (4) gurupUjai"
+title = "iḻaiyāṉkuḍi māṟa nāyaṉmār (4) gurupūjai"
 id = "iLaiyAn2kuDi_mAr2a_nAyan2mAr_(4)_gurupUjai"
+id_display = "iḻaiyāṉkuḍi māṟa nāyaṉmār (4) gurupūjai"
 slug = "ilaiyan2kudi-mar2a-nayan2mar-4-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/10/iLaiyAn2kuDi_mAr2a_nAyan2mAr_(4)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 nakshatra = ["Maghā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Maghā nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Maghā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ One rainy day, with no food at home, Nayanmar and his wife were visited by a Shi
 '''
 
 [names]
-ta = ["iLaiyAn2kuDi mAr2a nAyan2mAr (4) gurupUjai"]
+ta = ["iḻaiyāṉkuḍi māṟa nāyaṉmār (4) gurupūjai"]
 +++

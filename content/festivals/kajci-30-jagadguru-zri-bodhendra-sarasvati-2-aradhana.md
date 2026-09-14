@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ३० जगद्गुरु-श्री-बोधेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_30_jagadguru_zrI~bOdhEndra_sarasvatI_2_ArAdhanA"
+id_display = "kāñcī 30 jagadguru śrī bOdhEndra sarasvatī 2 ārādhanā"
 slug = "kajci-30-jagadguru-zri-bodhendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/19/kAJcI_30_jagadguru_zrI~bOdhEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

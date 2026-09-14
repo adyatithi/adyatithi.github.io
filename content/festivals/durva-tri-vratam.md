@@ -1,6 +1,7 @@
 +++
 title = "दूर्व-त्रि-व्रतम्"
 id = "dUrva-tri-vratam"
+id_display = "dūrva-tri-vratam"
 slug = "durva-tri-vratam"
 source_path = "general/lunar_month/tithi/06/13/dUrva-tri-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "ग्रहणसामान्यनियमाः"
 id = "grahaNa-sAmAnya-niyamAH"
+id_display = "grahaṇa-sāmānya-niyamāḥ"
 slug = "grahana-samanya-niyamah"
 source_path = "time_focus/Eclipses/description_only/grahaNa-sAmAnya-niyamAH.toml"
 tags = ["RareDays", "Eclipses"]

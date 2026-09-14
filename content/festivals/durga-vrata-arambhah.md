@@ -1,6 +1,7 @@
 +++
 title = "दुर्गा-व्रत-आरम्भः"
 id = "durgA-vrata-ArambhaH"
+id_display = "durgā-vrata-ārambhaḥ"
 slug = "durga-vrata-arambhah"
 source_path = "devatA/shakti/lunar_month/tithi/05/08/durgA-vrata-ArambhaH.toml"
 tags = ["VratamStart", "SpecialPeriodStart"]

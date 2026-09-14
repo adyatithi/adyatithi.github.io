@@ -1,6 +1,7 @@
 +++
 title = "पूर्णिमा-व्रतम्"
 id = "pUrNimA~vratam"
+id_display = "pūrṇimā vratam"
 slug = "purnima-vratam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/00/15/pUrNimA~vratam.toml"
 tags = ["MonthlyFestivals"]

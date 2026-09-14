@@ -1,6 +1,7 @@
 +++
 title = "परशुराम-द्वादशी"
 id = "parazurAma-dvAdazI"
+id_display = "paraśurāma-dvādaśī"
 slug = "parazurama-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/12/parazurAma-dvAdazI.toml"
 tags = ["SpecialVratam"]

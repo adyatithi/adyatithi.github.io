@@ -1,16 +1,17 @@
 +++
-title = "EyarkOn2 kalikkAma nAyan2mAr (29) gurupUjai"
+title = "EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"
 id = "EyarkOn2_kalikkAma_nAyan2mAr_(29)_gurupUjai"
+id_display = "EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"
 slug = "eyarkon2-kalikkama-nayan2mar-29-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/03/27/EyarkOn2_kalikkAma_nAyan2mAr_(29)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Revatī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Revatī nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Revatī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Upon Sundaramurthi's arrival, Kalikama Nayanmar had already ended his life. This
 '''
 
 [names]
-ta = ["EyarkOn2 kalikkAma nAyan2mAr (29) gurupUjai"]
+ta = ["EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"]
 +++

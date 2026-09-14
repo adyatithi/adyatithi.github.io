@@ -1,12 +1,12 @@
 +++
 title = "वन-रक्षक-वैष्णव-हत्या"
 id = "vana-raxaka-vaiShNava-hatyA"
+id_display = "vana-raxaka-vaiṣhṇava-hatyā"
 slug = "vana-raxaka-vaishnava-hatya"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/09/11/vana-raxaka-vaiShNava-hatyA.toml"
 tradition = ["General"]
-month = ["Mārgaśira"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Mārgaśira (मार्गशिर) māsa"
+timing_summary = "September 11 (Julian calendar)"
 
 description_en = '''
 On roughly this day, several biShnoi-s died protecting khejri trees from the king's men. The king came, apologized and turned the village into a sanctuary.

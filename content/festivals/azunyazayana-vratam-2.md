@@ -1,6 +1,7 @@
 +++
 title = "अशून्यशयन-व्रतम्"
 id = "azUnyazayana-vratam~2"
+id_display = "aśūnyaśayana-vratam 2"
 slug = "azunyazayana-vratam-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/17/azUnyazayana-vratam~2.toml"
 tags = ["SpecialVratam"]

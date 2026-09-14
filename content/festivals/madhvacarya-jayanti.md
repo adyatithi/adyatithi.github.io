@@ -1,6 +1,7 @@
 +++
 title = "मध्वाचार्य-जयन्ती"
 id = "madhvAcArya~jayantI"
+id_display = "madhvācārya jayantī"
 slug = "madhvacarya-jayanti"
 source_path = "mahApuruSha/mAdhva-misc/lunar_month/tithi/07/10/madhvAcArya~jayantI.toml"
 tags = ["MahapurushaEvents"]

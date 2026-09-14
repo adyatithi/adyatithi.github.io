@@ -1,6 +1,7 @@
 +++
 title = "अव्यङ्ग-सप्तमी"
 id = "avyaGga-saptamI"
+id_display = "avyaṅga-saptamī"
 slug = "avyagga-saptami"
 source_path = "general/lunar_month/tithi/05/07/avyaGga-saptamI.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "मध्व-नवमी"
 id = "madhva-navamI"
+id_display = "madhva-navamī"
 slug = "madhva-navami"
 source_path = "mahApuruSha/mAdhva-misc/lunar_month/tithi/11/09/madhva-navamI.toml"
 tags = ["MahapurushaEvents"]

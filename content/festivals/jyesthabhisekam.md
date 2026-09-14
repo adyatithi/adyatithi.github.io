@@ -1,15 +1,16 @@
 +++
 title = "ज्येष्ठाभिषेकः"
 id = "jyESThAbhiSEkam"
+id_display = "jyEṣṭhābhiṣEkam"
 slug = "jyesthabhisekam"
 source_path = "devatA/vaiShNava/sidereal_solar_month/nakshatra/03/18/jyESThAbhiSEkam.toml"
 devata = ["Vaiṣṇava"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Jyeṣṭhā"]
 category = ["Devatā Observances"]
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Jyeṣṭhā nakṣatra"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Jyeṣṭhā nakṣatra"
 
 [names]
-ta = ["jyESThAbhiSEkam"]
+ta = ["jyEṣṭhābhiṣEkam"]
 sa = ["ज्येष्ठाभिषेकः"]
 +++

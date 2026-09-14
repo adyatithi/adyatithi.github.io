@@ -1,6 +1,7 @@
 +++
 title = "ग्रहवार्धक्यप्रारम्भः"
 id = "graha-vArdhakya-prArambhaH"
+id_display = "graha-vārdhakya-prārambhaḥ"
 slug = "graha-vardhakya-prarambhah"
 source_path = "time_focus/graha-maudhya/description_only/graha-vArdhakya-prArambhaH.toml"
 tags = ["RareDays", "GrahaMaudhya"]

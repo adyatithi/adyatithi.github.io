@@ -1,6 +1,7 @@
 +++
 title = "पार्थिव-कल्पादिः"
 id = "pArthiva-kalpAdiH"
+id_display = "pārthiva-kalpādiḥ"
 slug = "parthiva-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/02/18/pArthiva-kalpAdiH.toml"
 tags = ["KalpadiDays"]

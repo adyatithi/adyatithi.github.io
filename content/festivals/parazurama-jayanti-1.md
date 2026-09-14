@@ -1,6 +1,7 @@
 +++
 title = "परशुराम-जयन्ती"
 id = "parazurAma~jayantI~1"
+id_display = "paraśurāma jayantī 1"
 slug = "parazurama-jayanti-1"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/03/parazurAma~jayantI~1.toml"
 tags = ["Dashavataram", "MajorFestivals"]

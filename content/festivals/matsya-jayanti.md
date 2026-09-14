@@ -1,6 +1,7 @@
 +++
 title = "मत्स्य-जयन्ती"
 id = "matsya~jayantI"
+id_display = "matsya jayantī"
 slug = "matsya-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/28/matsya~jayantI.toml"
 tags = ["Dashavataram"]

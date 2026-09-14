@@ -1,16 +1,17 @@
 +++
 title = "कामाक्षी-आविर्भावः"
 id = "kAmAkSI-AvirbhAvaH"
+id_display = "kāmākṣī-āvirbhāvaḥ"
 slug = "kamaksi-avirbhavah"
 source_path = "devatA/shakti/sidereal_solar_month/nakshatra/07/11/kAmAkSI-AvirbhAvaH.toml"
 tags = ["CommonFestivals"]
 devata = ["Śākta"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Pūrva Phalgunī"]
 category = ["Devatā Observances"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Pūrva Phalgunī nakṣatra, at साङ्गवः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Pūrva Phalgunī nakṣatra, at साङ्गवः"
 
 shlokas = '''
 कान्ता काम-दुघा करीन्द्र-गमना कामारि-वामाङ्क-गा

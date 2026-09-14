@@ -1,6 +1,7 @@
 +++
 title = "धनुर्मास-उषःकाल-पूजा-समापनम्"
 id = "dhanurmAsa-uSaHkAla-pUjA-samApanam"
+id_display = "dhanurmāsa-uṣaḥkāla-pūjā-samāpanam"
 slug = "dhanurmasa-usahkala-puja-samapanam"
 source_path = "general/description_only/dhanurmAsa-uSaHkAla-pUjA-samApanam.toml"
 tags = ["SpecialPujas", "CommonFestivals", "SpecialPeriodEnd"]

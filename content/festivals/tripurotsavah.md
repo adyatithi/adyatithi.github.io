@@ -1,6 +1,7 @@
 +++
 title = "त्रिपुरोत्सवः"
 id = "tripurOtsavaH"
+id_display = "tripurOtsavaḥ"
 slug = "tripurotsavah"
 source_path = "general/lunar_month/tithi/08/15/tripurOtsavaH.toml"
 tags = ["CommonFestivals"]

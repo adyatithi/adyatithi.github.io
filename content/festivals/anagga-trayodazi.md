@@ -1,6 +1,7 @@
 +++
 title = "अनङ्ग-त्रयोदशी"
 id = "anaGga-trayOdazI"
+id_display = "anaṅga-trayOdaśī"
 slug = "anagga-trayodazi"
 source_path = "general/lunar_month/tithi/05/13/anaGga-trayOdazI.toml"
 tags = ["LessCommonFestivals"]

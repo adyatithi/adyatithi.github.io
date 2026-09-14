@@ -1,16 +1,17 @@
 +++
-title = "daNDiyaDigaL nAyan2mAr (31) gurupUjai"
+title = "daṇḍiyaḍigaḻ nāyaṉmār (31) gurupūjai"
 id = "daNDiyaDigaL_nAyan2mAr_(31)_gurupUjai"
+id_display = "daṇḍiyaḍigaḻ nāyaṉmār (31) gurupūjai"
 slug = "dandiyadigal-nayan2mar-31-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/24/daNDiyaDigaL_nAyan2mAr_(31)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Phālguna"]
+rashi = ["Mīna"]
 nakshatra = ["Śatabhiṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Phālguna (फाल्गुन) māsa, Śatabhiṣā nakṣatra, at प्रातः"
+timing_summary = "Mīna (मीन) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Heartbroken, Adigal sought solace in the temple, where Bhagavan appeared in his 
 '''
 
 [names]
-ta = ["daNDiyaDigaL nAyan2mAr (31) gurupUjai"]
+ta = ["daṇḍiyaḍigaḻ nāyaṉmār (31) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(रैवतः-[५])"
 id = "manvAdiH~(raivataH~[5])"
+id_display = "manvādiḥ (raivataḥ [5])"
 slug = "manvadih-raivatah-5"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/12/30/manvAdiH~(raivataH~[5]).toml"
 tags = ["ManvadiDays"]

@@ -1,6 +1,7 @@
 +++
 title = "★रविवार-महाशिवरात्रिः"
 id = "★ravivAra-mahAzivarAtriH"
+id_display = "★ravivāra-mahāśivarātriḥ"
 slug = "ravivara-mahazivaratrih-1"
 source_path = "devatA/shaiva/description_only/★ravivAra-mahAzivarAtriH.toml"
 tags = ["CommonFestivals"]

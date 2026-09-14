@@ -1,6 +1,7 @@
 +++
 title = "गङ्गा-स्नानम्"
 id = "gaGgA-snAnam"
+id_display = "gaṅgā-snānam"
 slug = "gagga-snanam"
 source_path = "devatA/nadI/lunar_month/tithi/01/29/gaGgA-snAnam.toml"
 tags = ["LessCommonFestivals"]

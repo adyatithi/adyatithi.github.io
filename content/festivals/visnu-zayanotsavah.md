@@ -1,6 +1,7 @@
 +++
 title = "विष्णु-शयनोत्सवः"
 id = "viSNu-zayanOtsavaH"
+id_display = "viṣṇu-śayanOtsavaḥ"
 slug = "visnu-zayanotsavah"
 source_path = "devatA/vaiShNava/relative_event/zAkavrata-ArambhaH/offset__-1/viSNu-zayanOtsavaH.toml"
 tags = ["CommonFestivals"]

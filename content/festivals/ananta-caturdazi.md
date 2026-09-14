@@ -1,6 +1,7 @@
 +++
 title = "अनन्त-चतुर्दशी"
 id = "ananta-caturdazI"
+id_display = "ananta-caturdaśī"
 slug = "ananta-caturdazi"
 source_path = "general/lunar_month/tithi/06/14/ananta-caturdazI.toml"
 tags = ["CommonFestivals", "SpecialPuja"]

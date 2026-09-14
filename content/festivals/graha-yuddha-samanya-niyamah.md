@@ -1,6 +1,7 @@
 +++
 title = "ग्रहयुद्धसामान्यनियमाः"
 id = "graha-yuddha-sAmAnya-niyamAH"
+id_display = "graha-yuddha-sāmānya-niyamāḥ"
 slug = "graha-yuddha-samanya-niyamah"
 source_path = "time_focus/graha-yuddha/description_only/graha-yuddha-sAmAnya-niyamAH.toml"
 tags = ["RareDays", "GrahaYuddha"]

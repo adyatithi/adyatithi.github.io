@@ -1,6 +1,7 @@
 +++
 title = "सूर्यग्रहणवर्णनम्"
 id = "sUrya-grahaNa-varNanam"
+id_display = "sūrya-grahaṇa-varṇanam"
 slug = "surya-grahana-varnanam"
 source_path = "time_focus/Eclipses/description_only/sUrya-grahaNa-varNanam.toml"
 tags = ["RareDays", "Eclipses"]

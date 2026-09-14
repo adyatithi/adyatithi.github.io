@@ -1,6 +1,7 @@
 +++
-title = "अक्षय-तृतीया~(अलभ्यम्–बुध-रोहिणी)"
+title = "अक्षय-तृतीया (अलभ्यम्–बुध-रोहिणी)"
 id = "akSaya-tRtIyA~(alabhyam–budha-rOhiNI)"
+id_display = "akṣaya-tṛtīyā (alabhyam–budha-rOhiṇī)"
 slug = "aksaya-trtiya-alabhyambudha-rohini"
 source_path = "general/description_only/akSaya-tRtIyA~(alabhyam–budha-rOhiNI).toml"
 tags = ["CommonFestivals"]
@@ -83,5 +84,5 @@ Daanam of Dadhyodanam, Vyanjanam, Chatram, Paduka, Udaka Kumbham, Mangos, Jackfr
 '''
 
 [names]
-sa = ["अक्षय-तृतीया~(अलभ्यम्–बुध-रोहिणी)"]
+sa = ["अक्षय-तृतीया (अलभ्यम्–बुध-रोहिणी)"]
 +++

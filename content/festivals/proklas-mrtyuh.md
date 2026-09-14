@@ -1,12 +1,12 @@
 +++
 title = "प्रोक्लस्-मृत्युः"
 id = "proklas-mRtyuH"
+id_display = "proklas-mṛtyuḥ"
 slug = "proklas-mrtyuh"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/04/17/proklas-mRtyuH.toml"
 tradition = ["General"]
-month = ["Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "Āṣāḍha (आषाढ) māsa"
+timing_summary = "April 17 (Julian calendar)"
 
 description_en = '''
 The yavana polytheist sage died in Athens on this date in 485 CE. Proclus died aged 73, and was buried near Mount Lycabettus in a tomb. It is reported that he was writing 700 lines each day.

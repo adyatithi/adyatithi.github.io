@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची २३ जगद्गुरु-श्री-सच्चित्सुखेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_23_jagadguru_zrI~saccitsukhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 23 jagadguru śrī saccitsukhEndra sarasvatī ārādhanā"
 slug = "kajci-23-jagadguru-zri-saccitsukhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/07/kAJcI_23_jagadguru_zrI~saccitsukhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

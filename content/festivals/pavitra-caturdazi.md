@@ -1,6 +1,7 @@
 +++
 title = "पवित्र-चतुर्दशी"
 id = "pavitra-caturdazI"
+id_display = "pavitra-caturdaśī"
 slug = "pavitra-caturdazi"
 source_path = "general/lunar_month/tithi/04/14/pavitra-caturdazI.toml"
 tags = ["SpecialVratam"]

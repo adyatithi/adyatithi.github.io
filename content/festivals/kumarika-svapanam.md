@@ -1,6 +1,7 @@
 +++
 title = "कुमारिका-स्वपनम्"
 id = "kumArikA-svapanam"
+id_display = "kumārikā-svapanam"
 slug = "kumarika-svapanam"
 source_path = "devatA/umA/lunar_month/tithi/06/06/kumArikA-svapanam.toml"
 tags = ["LessCommonFestivals"]

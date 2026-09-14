@@ -1,15 +1,16 @@
 +++
-title = "naTarAjar mahAbhiSEkam 3"
+title = "naṭarājar mahābhiṣEkam 3"
 id = "naTarAjar_mahAbhiSEkam~3"
+id_display = "naṭarājar mahābhiṣEkam 3"
 slug = "natarajar-mahabhisekam-3"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/06/14/naTarAjar_mahAbhiSEkam~3.toml"
 tags = ["TamilnaduTempleFestivals"]
-month = ["Bhādrapada"]
+rashi = ["Kanyā"]
 tithi = ["Caturdaśī"]
 category = ["Temple Festivals"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Caturdaśī, at प्राक्तनारुणोदयः"
+timing_summary = "Kanyā (कन्या) rāśi, sidereal, Śukla Pakṣa Caturdaśī, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
@@ -21,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naTarAjar mahAbhiSEkam"]
+ta = ["naṭarājar mahābhiṣEkam"]
 +++

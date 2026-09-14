@@ -1,6 +1,7 @@
 +++
 title = "द्वादश-सप्तमी"
 id = "dvAdaza-saptamI"
+id_display = "dvādaśa-saptamī"
 slug = "dvadaza-saptami"
 source_path = "general/lunar_month/tithi/05/07/dvAdaza-saptamI.toml"
 tags = ["SpecialPuja"]

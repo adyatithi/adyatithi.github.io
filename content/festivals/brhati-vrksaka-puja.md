@@ -1,6 +1,7 @@
 +++
 title = "बृहती-वृक्षक-पूजा"
 id = "bRhatI-vRkSaka-pUjA"
+id_display = "bṛhatī-vṛkṣaka-pūjā"
 slug = "brhati-vrksaka-puja"
 source_path = "general/lunar_month/tithi/05/17/bRhatI-vRkSaka-pUjA.toml"
 tags = ["SpecialPuja"]

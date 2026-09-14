@@ -1,6 +1,7 @@
 +++
 title = "माघ-मासः"
 id = "mAgha-mAsaH"
+id_display = "māgha-māsaḥ"
 slug = "magha-masah"
 source_path = "time_focus/misc/description_only/mAgha-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

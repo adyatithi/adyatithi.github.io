@@ -1,6 +1,7 @@
 +++
 title = "अश्वशिरो-देव-पूजा"
 id = "azvazirO-dEva-pUjA"
+id_display = "aśvaśirO-dEva-pūjā"
 slug = "azvaziro-deva-puja"
 source_path = "general/lunar_month/tithi/06/30/azvazirO-dEva-pUjA.toml"
 tags = ["DevataPuja"]

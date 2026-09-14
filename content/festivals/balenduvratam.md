@@ -1,6 +1,7 @@
 +++
 title = "बालेन्दुव्रतम्"
 id = "bAlenduvratam"
+id_display = "bālenduvratam"
 slug = "balenduvratam"
 source_path = "devatA/graha/lunar_month/tithi/01/02/bAlenduvratam.toml"
 tags = ["LessCommonFestivals"]

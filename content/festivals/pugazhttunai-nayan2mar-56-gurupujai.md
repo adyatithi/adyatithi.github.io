@@ -1,16 +1,17 @@
 +++
-title = "pugazhttuNai nAyan2mAr (56) gurupUjai"
+title = "pugal̤ttuṇai nāyaṉmār (56) gurupūjai"
 id = "pugazhttuNai_nAyan2mAr_(56)_gurupUjai"
+id_display = "pugal̤ttuṇai nāyaṉmār (56) gurupūjai"
 slug = "pugazhttunai-nayan2mar-56-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/03/09/pugazhttuNai_nAyan2mAr_(56)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Jyeṣṭha"]
+rashi = ["Mithuna"]
 nakshatra = ["Āśleṣā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Āśleṣā nakṣatra, at प्रातः"
+timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Āśleṣā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ He is depicted with folded hands (Anjali mudra) and sometimes holding a pot of w
 '''
 
 [names]
-ta = ["pugazhttuNai nAyan2mAr (56) gurupUjai"]
+ta = ["pugal̤ttuṇai nāyaṉmār (56) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "युगादिः/चान्द्रमान-संवत्सरारम्भः"
 id = "yugAdiH"
+id_display = "yugādiḥ"
 slug = "yugadih"
 source_path = "time_focus/yugAdiH/lunar_month/tithi/01/01/yugAdiH.toml"
 tags = ["Yugadi", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "पूर्ण-स्थालीपाकः"
 id = "sthAlIpAkaH_16"
+id_display = "sthālīpākaḥ 16"
 slug = "sthalipakah-16"
 source_path = "gRhya/general/description_only/sthAlIpAkaH_16.toml"
 tags = ["MonthlyFestivals"]

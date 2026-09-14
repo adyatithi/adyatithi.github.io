@@ -1,6 +1,7 @@
 +++
 title = "ऋग्वेद-उपाकर्म"
 id = "RgvEda-upAkarma"
+id_display = "ṛgvEda-upākarma"
 slug = "rgveda-upakarma"
 source_path = "gRhya/general/description_only/RgvEda-upAkarma.toml"
 tags = ["CommonFestivals"]

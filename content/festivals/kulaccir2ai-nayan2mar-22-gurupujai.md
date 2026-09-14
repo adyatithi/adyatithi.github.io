@@ -1,16 +1,17 @@
 +++
-title = "kulaccir2ai nAyan2mAr (22) gurupUjai"
+title = "kulacciṟai nāyaṉmār (22) gurupūjai"
 id = "kulaccir2ai_nAyan2mAr_(22)_gurupUjai"
+id_display = "kulacciṟai nāyaṉmār (22) gurupūjai"
 slug = "kulaccir2ai-nayan2mar-22-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/17/kulaccir2ai_nAyan2mAr_(22)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Śrāvaṇa"]
+rashi = ["Siṃha"]
 nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Śrāvaṇa (श्रावण) māsa, Anurādhā nakṣatra, at प्रातः"
+timing_summary = "Siṃha (सिंह) rāśi, sidereal, Anurādhā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ After serving the Shiva Bhaktas for many years, Kulacchirai Nayanmar eventually 
 '''
 
 [names]
-ta = ["kulaccir2ai nAyan2mAr (22) gurupUjai"]
+ta = ["kulacciṟai nāyaṉmār (22) gurupūjai"]
 +++

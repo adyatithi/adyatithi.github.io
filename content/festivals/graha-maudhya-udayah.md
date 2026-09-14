@@ -1,6 +1,7 @@
 +++
 title = "ग्रहोदयः"
 id = "graha-mauDhya-udayaH"
+id_display = "graha-mauḍhya-udayaḥ"
 slug = "graha-maudhya-udayah"
 source_path = "time_focus/graha-maudhya/description_only/graha-mauDhya-udayaH.toml"
 tags = ["RareDays", "GrahaMaudhya"]

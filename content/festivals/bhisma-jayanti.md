@@ -1,6 +1,7 @@
 +++
 title = "भीष्म-जयन्ती"
 id = "bhISma~jayantI"
+id_display = "bhīṣma jayantī"
 slug = "bhisma-jayanti"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/10/24/bhISma~jayantI.toml"
 tags = ["MahapurushaEvents"]

@@ -16,6 +16,31 @@ import sys
 import tomllib
 from pathlib import Path
 
+from indic_transliteration import sanscript
+
+DEVANAGARI_RE = re.compile(r"[ऀ-ॿ]")
+
+
+def to_iast(text: str) -> str:
+    """Convert Harvard-Kyoto-scheme text to IAST.
+
+    Source ids and some name languages (ta, hi, ...) are stored in HK ASCII
+    per adyatithi convention. Devanagari text (sa names, shlokas) is passed
+    through untouched — running it through the HK transliterator would
+    misinterpret the unicode codepoints.
+    """
+    if not text or DEVANAGARI_RE.search(text):
+        return text
+    return sanscript.transliterate(text, sanscript.HK, sanscript.IAST)
+
+
+def clean_name(text: str) -> str:
+    """IAST-transliterate (if applicable) and strip the '~' / '_' compound-
+    word joiners used throughout the source data (in both Devanagari and HK
+    fields) — a display artifact, not meant to be shown to readers."""
+    return re.sub(r"[~_]+", " ", to_iast(text)).strip()
+
+
 SITE_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DATA_DIR = Path(
     "/home/karthik/GitHub/jyotisha/jyotisha/panchaanga/temporal/festival/data"
@@ -83,12 +108,32 @@ TRADITION_META = {
     "general-indic-non-tropical": "General",
 }
 
+
+# month_type == "lunar_month": Sanskrit lunar (candra) months, Caitra-start.
 MONTHS = {
     1: ("Caitra", "चैत्र"), 2: ("Vaiśākha", "वैशाख"), 3: ("Jyeṣṭha", "ज्येष्ठ"),
     4: ("Āṣāḍha", "आषाढ"), 5: ("Śrāvaṇa", "श्रावण"), 6: ("Bhādrapada", "भाद्रपद"),
     7: ("Āśvina", "आश्विन"), 8: ("Kārtika", "कार्तिक"), 9: ("Mārgaśira", "मार्गशिर"),
     10: ("Pauṣa", "पौष"), 11: ("Māgha", "माघ"), 12: ("Phālguna", "फाल्गुन"),
 }
+
+# month_type in {"sidereal_solar_month", "tropical", "solar_month"}: solar
+# months / rāśi, Meṣa-start. Distinct from the lunar months above — e.g.
+# tiruvaNNAmalai dIpam (Kārthigai Dīpam) is sidereal_solar_month 8 = Vṛścika,
+# NOT the lunar month Kārtika, even though the English names look similar.
+RASHIS = {
+    1: ("Meṣa", "मेष"), 2: ("Vṛṣabha", "वृषभ"), 3: ("Mithuna", "मिथुन"),
+    4: ("Karka", "कर्क"), 5: ("Siṃha", "सिंह"), 6: ("Kanyā", "कन्या"),
+    7: ("Tulā", "तुला"), 8: ("Vṛścika", "वृश्चिक"), 9: ("Dhanu", "धनु"),
+    10: ("Makara", "मकर"), 11: ("Kumbha", "कुम्भ"), 12: ("Mīna", "मीन"),
+}
+
+# month_type in {"gregorian", "julian"}: plain calendar months, unrelated to
+# any Hindu calendrical unit — kept out of the month/rashi taxonomies.
+GREGORIAN_MONTHS = [
+    "January", "February", "March", "April", "May", "June", "July",
+    "August", "September", "October", "November", "December",
+]
 
 TITHI_SHUKLA = [
     "Pratipat", "Dvitīyā", "Tṛtīyā", "Caturthī", "Pañcamī", "Ṣaṣṭhī", "Saptamī",
@@ -202,24 +247,53 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
         "tags": doc.get("tags", []),
         "shlokas": (doc.get("shlokas") or "").strip(),
         "description_en": ((doc.get("description") or {}).get("en") or "").strip(),
-        "names": {k: v for k, v in (doc.get("names") or {}).items() if v},
+        "names": {
+            k: [clean_name(x) for x in v]
+            for k, v in (doc.get("names") or {}).items()
+            if v
+        },
         "references": doc.get("references_secondary", []),
     }
 
     timing = doc.get("timing") or {}
+    month_type = timing.get("month_type")
     month_num = timing.get("month_number")
     anga_type = timing.get("anga_type")
     anga_number = timing.get("anga_number")
 
     record["month"] = []
+    record["rashi"] = []
     record["tithi"] = []
     record["nakshatra"] = []
     record["timing_summary_parts"] = []
 
-    if isinstance(month_num, int) and month_num in MONTHS:
+    if month_type == "lunar_month" and isinstance(month_num, int) and month_num in MONTHS:
         iast, deva = MONTHS[month_num]
         record["month"] = [iast]
         record["timing_summary_parts"].append(f"{iast} ({deva}) māsa")
+    elif (
+        month_type in ("sidereal_solar_month", "tropical", "solar_month")
+        and isinstance(month_num, int)
+        and month_num in RASHIS
+    ):
+        iast, deva = RASHIS[month_num]
+        record["rashi"] = [iast]
+        qualifier = "tropical" if month_type == "tropical" else "sidereal"
+        record["timing_summary_parts"].append(f"{iast} ({deva}) rāśi, {qualifier}")
+    elif (
+        month_type in ("gregorian", "julian")
+        and isinstance(month_num, int)
+        and 1 <= month_num <= 12
+    ):
+        # Plain calendar date, not a Hindu calendrical unit: goes into the
+        # timing summary text only, not the month/rashi taxonomies.
+        mname = GREGORIAN_MONTHS[month_num - 1]
+        cal_label = "Julian calendar" if month_type == "julian" else "Gregorian calendar"
+        if anga_type == "day" and isinstance(anga_number, int):
+            record["timing_summary_parts"].append(f"{mname} {anga_number} ({cal_label})")
+            anga_type = None  # already consumed above; skip the anga block below
+        else:
+            record["timing_summary_parts"].append(f"{mname} ({cal_label})")
 
     if anga_type == "tithi" and isinstance(anga_number, int):
         name, paksha = tithi_name(anga_number)
@@ -235,22 +309,18 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
         record["timing_summary_parts"].append(f"at {timing['kaala']}")
     if timing.get("priority"):
         record["priority"] = timing["priority"]
-    if timing.get("month_type") == "gregorian":
-        record["timing_summary_parts"] = [
-            f"{timing.get('month_number')}/{timing.get('anga_number')} (Gregorian)"
-        ]
 
     # devata: immediate child folder under devatA/
     record["devata"] = []
     if root == "devatA" and len(parts) > 2:
         key = parts[1]
-        record["devata"] = [DEVATA_META.get(key, key)]
+        record["devata"] = [DEVATA_META.get(key, to_iast(key))]
 
     # tradition: immediate child folder under mahApuruSha/
     record["tradition"] = []
     if root == "mahApuruSha" and len(parts) > 2:
         key = parts[1]
-        record["tradition"] = [TRADITION_META.get(key, key)]
+        record["tradition"] = [TRADITION_META.get(key, to_iast(key))]
 
     cat_name, _ = CATEGORY_META.get(root, (root, ""))
     record["category"] = [cat_name]
@@ -315,15 +385,18 @@ def build(data_dir: Path, limit: int | None):
         else:
             used_slugs[slug] = 0
 
+        id_display = clean_name(rec["id"])
+
         title = None
         if rec["names"].get("sa"):
             title = rec["names"]["sa"][0]
         if not title:
-            title = re.sub(r"[~_]+", " ", rec["id"])
+            title = id_display
 
         lines = ["+++"]
         lines.append(f"title = {toml_str(title)}")
         lines.append(f'id = {toml_str(rec["id"])}')
+        lines.append(f"id_display = {toml_str(id_display)}")
         lines.append(f"slug = {toml_str(slug)}")
         lines.append(f'source_path = {toml_str(rec["source_path"])}')
         if rec["tags"]:
@@ -334,6 +407,8 @@ def build(data_dir: Path, limit: int | None):
             lines.append(f'tradition = {toml_list(rec["tradition"])}')
         if rec["month"]:
             lines.append(f'month = {toml_list(rec["month"])}')
+        if rec["rashi"]:
+            lines.append(f'rashi = {toml_list(rec["rashi"])}')
         if rec["tithi"]:
             lines.append(f'tithi = {toml_list(rec["tithi"])}')
         if rec["nakshatra"]:

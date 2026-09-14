@@ -1,15 +1,16 @@
 +++
-title = "naTarAjar cittirai ONam mahAbhiSEkam"
+title = "naṭarājar cittirai Oṇam mahābhiṣEkam"
 id = "naTarAjar_cittirai_ONam_mahAbhiSEkam"
+id_display = "naṭarājar cittirai Oṇam mahābhiṣEkam"
 slug = "natarajar-cittirai-onam-mahabhisekam"
 source_path = "temples/Tamil/sidereal_solar_month/nakshatra/01/22/naTarAjar_cittirai_ONam_mahAbhiSEkam.toml"
 tags = ["TamilnaduTempleFestivals"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Śravaṇa"]
 category = ["Temple Festivals"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Śravaṇa nakṣatra, at साङ्गवः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Śravaṇa nakṣatra, at साङ्गवः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं जटाधरं पार्वति-वामभागम्।
@@ -21,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naTarAjar cittirai ONam mahAbhiSEkam"]
+ta = ["naṭarājar cittirai Oṇam mahābhiṣEkam"]
 +++

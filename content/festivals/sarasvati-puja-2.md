@@ -1,6 +1,7 @@
 +++
 title = "सरस्वती-पूजा"
 id = "sarasvatI-pUjA~2"
+id_display = "sarasvatī-pūjā 2"
 slug = "sarasvati-puja-2"
 source_path = "devatA/shakti/lunar_month/nakshatra/07/20/sarasvatI-pUjA~2.toml"
 tags = ["CommonFestivals"]

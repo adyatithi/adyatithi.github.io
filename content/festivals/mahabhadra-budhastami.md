@@ -1,6 +1,7 @@
 +++
-title = "महाभद्रा~बुधाष्टमी"
+title = "महाभद्रा बुधाष्टमी"
 id = "mahAbhadrA~budhASTamI"
+id_display = "mahābhadrā budhāṣṭamī"
 slug = "mahabhadra-budhastami"
 source_path = "time_focus/tithi-vara-combinations/description_only/mahAbhadrA~budhASTamI.toml"
 tags = ["RareDays", "Combinations"]
@@ -29,5 +30,5 @@ description_en = '''
 '''
 
 [names]
-sa = ["महाभद्रा~बुधाष्टमी"]
+sa = ["महाभद्रा बुधाष्टमी"]
 +++

@@ -1,17 +1,18 @@
 +++
-title = "madhurakavi AzhvAr tirunakSattiram"
+title = "madhurakavi āl̤vār tirunakṣattiram"
 id = "madhurakavi_AzhvAr_tirunakSattiram"
+id_display = "madhurakavi āl̤vār tirunakṣattiram"
 slug = "madhurakavi-azhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/01/14/madhurakavi_AzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
 tradition = ["Āḻvār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Citrā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Citrā nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Citrā nakṣatra, at प्रातः"
 
 [names]
-ta = ["madhurakavi AzhvAr tirunakSattiram"]
+ta = ["madhurakavi āl̤vār tirunakṣattiram"]
 +++

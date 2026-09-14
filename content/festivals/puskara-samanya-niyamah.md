@@ -1,6 +1,7 @@
 +++
 title = "पुष्करसामान्यनियमाः"
 id = "puSkara-sAmAnya-niyamAH"
+id_display = "puṣkara-sāmānya-niyamāḥ"
 slug = "puskara-samanya-niyamah"
 source_path = "time_focus/puShkara/description_only/puSkara-sAmAnya-niyamAH.toml"
 tags = ["RareDays", "Pushkara"]

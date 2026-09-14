@@ -1,6 +1,7 @@
 +++
 title = "मकर-सङ्क्रमण-पुण्यकालः"
 id = "makara-saGkramaNa-puNyakAlaH"
+id_display = "makara-saṅkramaṇa-puṇyakālaḥ"
 slug = "makara-sagkramana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/makara-saGkramaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

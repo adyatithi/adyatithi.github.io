@@ -1,6 +1,7 @@
 +++
 title = "चित्रगुप्त-व्रतम्"
 id = "citragupta-vratam"
+id_display = "citragupta-vratam"
 slug = "citragupta-vratam"
 source_path = "general/lunar_month/tithi/01/15/citragupta-vratam.toml"
 tags = ["CommonFestivals", "SpecialVratam"]

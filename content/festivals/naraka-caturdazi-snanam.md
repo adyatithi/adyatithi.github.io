@@ -1,6 +1,7 @@
 +++
 title = "नरक-चतुर्दशी-स्नानम्"
 id = "naraka-caturdazI-snAnam"
+id_display = "naraka-caturdaśī-snānam"
 slug = "naraka-caturdazi-snanam"
 source_path = "general/lunar_month/tithi/07/29/naraka-caturdazI-snAnam.toml"
 tags = ["CommonFestivals"]

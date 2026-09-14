@@ -1,6 +1,7 @@
 +++
 title = "गोधूमा-नवमी"
 id = "gOdhUmA~navamI"
+id_display = "gOdhūmā navamī"
 slug = "godhuma-navami"
 source_path = "general/lunar_month/tithi/06/09/gOdhUmA~navamI.toml"
 tags = ["LessCommonFestivals"]

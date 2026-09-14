@@ -1,6 +1,7 @@
 +++
 title = "कलियुगान्तः"
 id = "kaliyugAntaH"
+id_display = "kaliyugāntaḥ"
 slug = "kaliyugantah"
 source_path = "time_focus/yugAdiH/relative_event/kumbha-ravi-saGkramaNa-viSNupadI-puNyakAlaH/offset__00/kaliyugAntaH.toml"
 tags = ["CommonFestivals"]

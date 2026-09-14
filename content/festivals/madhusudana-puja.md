@@ -1,6 +1,7 @@
 +++
 title = "मधुसूदन-पूजा"
 id = "madhusUdana-pUjA"
+id_display = "madhusūdana-pūjā"
 slug = "madhusudana-puja"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/12/madhusUdana-pUjA.toml"
 tags = ["SpecialVratam"]

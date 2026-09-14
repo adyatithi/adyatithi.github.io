@@ -1,6 +1,7 @@
 +++
 title = "वसन्तनवरात्रः"
 id = "vasantanavarAtraH"
+id_display = "vasantanavarātraḥ"
 slug = "vasantanavaratrah"
 source_path = "general/description_only/vasantanavarAtraH.toml"
 tags = ["CommonFestivals", "Navaratri", "SpecialPeriod"]

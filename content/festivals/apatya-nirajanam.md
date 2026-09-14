@@ -1,6 +1,7 @@
 +++
 title = "अपत्य-नीराजनम्"
 id = "apatya-nIrAjanam"
+id_display = "apatya-nīrājanam"
 slug = "apatya-nirajanam"
 source_path = "general/lunar_month/tithi/07/15/apatya-nIrAjanam.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-मास-समापनम्"
 id = "vaizAkha-mAsa-samApanam"
+id_display = "vaiśākha-māsa-samāpanam"
 slug = "vaizakha-masa-samapanam"
 source_path = "time_focus/misc/lunar_month/tithi/02/30/vaizAkha-mAsa-samApanam.toml"
 tags = ["SpecialDays", "SpecialPeriodEnd"]

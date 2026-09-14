@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ५० जगद्गुरु-श्री-चन्द्रचूडेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_50_jagadguru_zrI~candracUDEndra_sarasvatI_2_ArAdhanA"
+id_display = "kāñcī 50 jagadguru śrī candracūḍEndra sarasvatī 2 ārādhanā"
 slug = "kajci-50-jagadguru-zri-candracudendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/06/kAJcI_50_jagadguru_zrI~candracUDEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

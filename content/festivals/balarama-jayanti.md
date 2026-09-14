@@ -1,6 +1,7 @@
 +++
 title = "बलराम-जयन्ती (द्रविड-सम्प्रदायः)"
 id = "balarAma~jayantI"
+id_display = "balarāma jayantī"
 slug = "balarama-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/03/balarAma~jayantI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]

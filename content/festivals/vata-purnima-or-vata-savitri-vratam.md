@@ -1,6 +1,7 @@
 +++
 title = "वट-पूर्णिमा/वट-सावित्री-व्रतम्"
 id = "vaTa-pUrNimA_or_vaTa-sAvitrI-vratam"
+id_display = "vaṭa-pūrṇimā or vaṭa-sāvitrī-vratam"
 slug = "vata-purnima-or-vata-savitri-vratam"
 source_path = "devatA/misc-flora/lunar_month/tithi/03/15/vaTa-pUrNimA_or_vaTa-sAvitrI-vratam.toml"
 tags = ["SpecialVratam"]

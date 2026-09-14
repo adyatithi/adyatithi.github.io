@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ५८ जगद्गुरु-श्री-आत्मबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_58_jagadguru_zrI~AtmabOdhEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 58 jagadguru śrī ātmabOdhEndra sarasvatī ārādhanā"
 slug = "kajci-58-jagadguru-zri-atmabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/23/kAJcI_58_jagadguru_zrI~AtmabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

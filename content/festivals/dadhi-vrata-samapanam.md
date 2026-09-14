@@ -1,6 +1,7 @@
 +++
 title = "दधि-व्रत-समापनम्"
 id = "dadhi-vrata-samApanam"
+id_display = "dadhi-vrata-samāpanam"
 slug = "dadhi-vrata-samapanam"
 source_path = "general/lunar_month/tithi/06/12/dadhi-vrata-samApanam.toml"
 tags = ["VratamEnd", "SpecialPeriodEnd", "CommonFestivals"]

@@ -1,16 +1,17 @@
 +++
-title = "pUcalAr nAyan2mAr (58) gurupUjai"
+title = "pūcalār nāyaṉmār (58) gurupūjai"
 id = "pUcalAr_nAyan2mAr_(58)_gurupUjai"
+id_display = "pūcalār nāyaṉmār (58) gurupūjai"
 slug = "pucalar-nayan2mar-58-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/17/pUcalAr_nAyan2mAr_(58)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Anurādhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Anurādhā nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Anurādhā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Historically, Pusalar is dated to the 8th century CE, contemporary to King Rajas
 '''
 
 [names]
-ta = ["pUcalAr nAyan2mAr (58) gurupUjai"]
+ta = ["pūcalār nāyaṉmār (58) gurupūjai"]
 +++

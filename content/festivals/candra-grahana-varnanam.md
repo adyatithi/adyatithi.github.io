@@ -1,6 +1,7 @@
 +++
 title = "चन्द्रग्रहणवर्णनम्"
 id = "candra-grahaNa-varNanam"
+id_display = "candra-grahaṇa-varṇanam"
 slug = "candra-grahana-varnanam"
 source_path = "time_focus/Eclipses/description_only/candra-grahaNa-varNanam.toml"
 tags = ["RareDays", "Eclipses"]

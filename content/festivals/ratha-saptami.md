@@ -1,6 +1,7 @@
 +++
 title = "रथ-सप्तमी"
 id = "ratha-saptamI"
+id_display = "ratha-saptamī"
 slug = "ratha-saptami"
 source_path = "devatA/graha/lunar_month/tithi/11/07/ratha-saptamI.toml"
 tags = ["SpecialPuja", "MahapurushaEvents", "CommonFestivals"]

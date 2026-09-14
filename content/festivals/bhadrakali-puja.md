@@ -1,6 +1,7 @@
 +++
 title = "भद्रकाली-पूजा"
 id = "bhadrakALI-pUjA"
+id_display = "bhadrakāḻī-pūjā"
 slug = "bhadrakali-puja"
 source_path = "devatA/shakti/lunar_month/tithi/07/08/bhadrakALI-pUjA.toml"
 tags = ["LessCommonFestivals"]

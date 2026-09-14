@@ -1,6 +1,7 @@
 +++
 title = "कूष्माण्ड-दशमी"
 id = "kUSmANDa-dazamI"
+id_display = "kūṣmāṇḍa-daśamī"
 slug = "kusmanda-dazami"
 source_path = "general/lunar_month/tithi/07/10/kUSmANDa-dazamI.toml"
 tags = ["LessCommonFestivals"]

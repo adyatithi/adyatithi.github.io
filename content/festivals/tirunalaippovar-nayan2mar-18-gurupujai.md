@@ -1,16 +1,17 @@
 +++
-title = "tirunALaippOvAr nAyan2mAr (18) gurupUjai"
+title = "tirunāḻaippOvār nāyaṉmār (18) gurupūjai"
 id = "tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai"
+id_display = "tirunāḻaippOvār nāyaṉmār (18) gurupūjai"
 slug = "tirunalaippovar-nayan2mar-18-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/04/tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Bhādrapada"]
+rashi = ["Kanyā"]
 nakshatra = ["Rohiṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Bhādrapada (भाद्रपद) māsa, Rohiṇī nakṣatra, at प्रातः"
+timing_summary = "Kanyā (कन्या) rāśi, sidereal, Rohiṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -30,5 +31,5 @@ Nandanar's story is a powerful testament to the transformative power of devotion
 '''
 
 [names]
-ta = ["tirunALaippOvAr nAyan2mAr (18) gurupUjai"]
+ta = ["tirunāḻaippOvār nāyaṉmār (18) gurupūjai"]
 +++

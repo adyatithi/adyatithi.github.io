@@ -1,6 +1,7 @@
 +++
 title = "हरितालिका-व्रतम्"
 id = "haritAlikA-vratam"
+id_display = "haritālikā-vratam"
 slug = "haritalika-vratam"
 source_path = "general/lunar_month/tithi/06/03/haritAlikA-vratam.toml"
 tags = ["SpecialVratam"]

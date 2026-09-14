@@ -1,6 +1,7 @@
 +++
 title = "शरत्-पूर्णिमा/नवान्न-पूर्णिमा"
 id = "zarat-pUrNimA"
+id_display = "śarat-pūrṇimā"
 slug = "zarat-purnima"
 source_path = "general/lunar_month/tithi/07/15/zarat-pUrNimA.toml"
 tags = ["PurnimaDays", "CommonFestivals"]

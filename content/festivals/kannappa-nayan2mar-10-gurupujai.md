@@ -1,16 +1,17 @@
 +++
-title = "kaNNappa nAyan2mAr (10) gurupUjai"
+title = "kaṇṇappa nāyaṉmār (10) gurupūjai"
 id = "kaNNappa_nAyan2mAr_(10)_gurupUjai"
+id_display = "kaṇṇappa nāyaṉmār (10) gurupūjai"
 slug = "kannappa-nayan2mar-10-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/05/kaNNappa_nAyan2mAr_(10)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Mṛgaśira"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Mṛgaśira nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Mṛgaśira nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 shlokas = '''
@@ -38,5 +39,5 @@ The story also carries a deeper, symbolic meaning. Tinnanar's journey represents
 '''
 
 [names]
-ta = ["kaNNappa nAyan2mAr (10) gurupUjai"]
+ta = ["kaṇṇappa nāyaṉmār (10) gurupūjai"]
 +++

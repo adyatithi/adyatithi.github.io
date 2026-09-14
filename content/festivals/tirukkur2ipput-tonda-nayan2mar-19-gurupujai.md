@@ -1,16 +1,17 @@
 +++
-title = "tirukkur2ipput toNDa nAyan2mAr (19) gurupUjai"
+title = "tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"
 id = "tirukkur2ipput_toNDa_nAyan2mAr_(19)_gurupUjai"
+id_display = "tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"
 slug = "tirukkur2ipput-tonda-nayan2mar-19-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/15/tirukkur2ipput_toNDa_nAyan2mAr_(19)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Caitra"]
+rashi = ["Meṣa"]
 nakshatra = ["Svātī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Caitra (चैत्र) māsa, Svātī nakṣatra, at प्रातः"
+timing_summary = "Meṣa (मेष) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Moved by his sincere devotion, Bhagavan Shiva revealed Himself to Tiruthondar, c
 '''
 
 [names]
-ta = ["tirukkur2ipput toNDa nAyan2mAr (19) gurupUjai"]
+ta = ["tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"]
 +++

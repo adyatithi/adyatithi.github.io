@@ -1,6 +1,7 @@
 +++
 title = "माघ-स्नानपूर्तिः"
 id = "mAgha-snAnapUrtiH"
+id_display = "māgha-snānapūrtiḥ"
 slug = "magha-snanapurtih"
 source_path = "time_focus/misc/lunar_month/tithi/11/30/mAgha-snAnapUrtiH.toml"
 tags = ["SpecialSnanam"]

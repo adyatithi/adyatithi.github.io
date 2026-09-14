@@ -1,6 +1,7 @@
 +++
 title = "आषाढ-पूर्णिमा-स्नानम्"
 id = "ASADha-pUrNimA-snAnam"
+id_display = "āṣāḍha-pūrṇimā-snānam"
 slug = "asadha-purnima-snanam"
 source_path = "general/lunar_month/tithi/04/15/ASADha-pUrNimA-snAnam.toml"
 tags = ["SpecialSnanam"]

@@ -1,6 +1,7 @@
 +++
 title = "सौरमान-संवत्सरारम्भः"
 id = "sauramAna-saMvatsarArambhaH"
+id_display = "sauramāna-saṃvatsarārambhaḥ"
 slug = "sauramana-samvatsararambhah"
 source_path = "time_focus/sankrAnti/description_only/sauramAna-saMvatsarArambhaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

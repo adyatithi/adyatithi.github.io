@@ -1,6 +1,7 @@
 +++
 title = "जीवपुत्रिकाष्टमी/जीमूतवाहन-पूजा"
 id = "jIvaputrikASTamI"
+id_display = "jīvaputrikāṣṭamī"
 slug = "jivaputrikastami"
 source_path = "general/lunar_month/tithi/06/23/jIvaputrikASTamI.toml"
 tags = ["LessCommonFestivals"]

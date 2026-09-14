@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH-zakradhvaja-sAmAnya-niyamAH"
+id_display = "anadhyāyaḥ-śakradhvaja-sāmānya-niyamāḥ"
 slug = "anadhyayah-zakradhvaja-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-zakradhvaja-sAmAnya-niyamAH.toml"
 tags = ["Anadhyayana Days"]

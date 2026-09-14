@@ -1,6 +1,7 @@
 +++
 title = "दत्तात्रेय-जयन्ती"
 id = "dattAtrEya~jayantI"
+id_display = "dattātrEya jayantī"
 slug = "dattatreya-jayanti"
 source_path = "general/lunar_month/tithi/09/15/dattAtrEya~jayantI.toml"
 tags = ["OtherAvatarams", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "महापौषी-योगः"
 id = "mahA-pauSI-yOgaH"
+id_display = "mahā-pauṣī-yOgaḥ"
 slug = "maha-pausi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-pauSI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

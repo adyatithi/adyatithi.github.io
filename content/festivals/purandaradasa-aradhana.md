@@ -1,6 +1,7 @@
 +++
 title = "पुरन्दरदास-आराधना"
 id = "purandaradAsa-ArAdhanA"
+id_display = "purandaradāsa-ārādhanā"
 slug = "purandaradasa-aradhana"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/11/30/purandaradAsa-ArAdhanA.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

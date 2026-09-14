@@ -1,6 +1,7 @@
 +++
 title = "वेङ्कटाचले पूर्णिमा-गरुड-सेवा"
 id = "vEGkaTAcalE_pUrNimA~garuDa-sEvA"
+id_display = "vEṅkaṭācalE pūrṇimā garuḍa-sEvā"
 slug = "vegkatacale-purnima-garuda-seva"
 source_path = "temples/venkaTAchala/lunar_month/tithi/00/15/vEGkaTAcalE_pUrNimA~garuDa-sEvA.toml"
 tags = ["AndhraTempleFestivals"]

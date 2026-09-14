@@ -1,6 +1,7 @@
 +++
 title = "ललिता-पञ्चमी"
 id = "lalitA-paJcamI"
+id_display = "lalitā-pañcamī"
 slug = "lalita-pajcami"
 source_path = "devatA/shakti/lunar_month/tithi/07/05/lalitA-paJcamI.toml"
 tags = ["CommonFestivals"]

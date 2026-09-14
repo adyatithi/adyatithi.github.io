@@ -1,6 +1,7 @@
 +++
 title = "सुजन्मप्राप्ति-व्रतम्"
 id = "sujanmaprApti-vratam"
+id_display = "sujanmaprāpti-vratam"
 slug = "sujanmaprapti-vratam"
 source_path = "general/lunar_month/tithi/06/30/sujanmaprApti-vratam.toml"
 tags = ["SpecialVratam"]

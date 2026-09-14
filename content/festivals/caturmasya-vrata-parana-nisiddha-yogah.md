@@ -1,6 +1,7 @@
 +++
 title = "चातुर्मास्य-व्रत-पारण-निषिद्ध-योगः"
 id = "cAturmAsya-vrata-pAraNa-niSiddha-yOgaH"
+id_display = "cāturmāsya-vrata-pāraṇa-niṣiddha-yOgaḥ"
 slug = "caturmasya-vrata-parana-nisiddha-yogah"
 source_path = "time_focus/yoga_intersections/cAturmAsya-vrata-pAraNa-niSiddha-yOgaH.toml"
 tags = ["CommonFestivals"]

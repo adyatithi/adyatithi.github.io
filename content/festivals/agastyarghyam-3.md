@@ -1,6 +1,7 @@
 +++
 title = "अगस्त्यार्घ्यम्"
 id = "agastyArghyam~3"
+id_display = "agastyārghyam 3"
 slug = "agastyarghyam-3"
 source_path = "mahApuruSha/RShi/relative_event/kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH/offset__-2/agastyArghyam~3.toml"
 tags = ["OtherFestivals"]

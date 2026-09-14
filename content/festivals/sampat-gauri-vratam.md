@@ -1,6 +1,7 @@
 +++
 title = "सम्पत्-गौरी-व्रतम्"
 id = "sampat-gaurI-vratam"
+id_display = "sampat-gaurī-vratam"
 slug = "sampat-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/02/15/sampat-gaurI-vratam.toml"
 tags = ["LessCommonFestivals"]

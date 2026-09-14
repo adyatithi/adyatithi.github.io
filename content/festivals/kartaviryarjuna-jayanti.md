@@ -1,6 +1,7 @@
 +++
 title = "कार्तवीर्यार्जुन-जयन्ती"
 id = "kArtavIryArjuna~jayantI"
+id_display = "kārtavīryārjuna jayantī"
 slug = "kartaviryarjuna-jayanti"
 source_path = "general/lunar_month/tithi/08/08/kArtavIryArjuna~jayantI.toml"
 tags = ["OtherJayantis"]

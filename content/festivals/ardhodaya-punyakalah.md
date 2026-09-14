@@ -1,6 +1,7 @@
 +++
 title = "अर्धोदय-पुण्यकालः"
 id = "ardhOdaya-puNyakAlaH"
+id_display = "ardhOdaya-puṇyakālaḥ"
 slug = "ardhodaya-punyakalah"
 source_path = "time_focus/special-tithis/description_only/ardhOdaya-puNyakAlaH.toml"
 tags = ["RareDays", "Combinations"]

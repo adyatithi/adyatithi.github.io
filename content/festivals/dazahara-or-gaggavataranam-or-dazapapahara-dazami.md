@@ -1,6 +1,7 @@
 +++
 title = "दशहरा/गङ्गावतरणम्/दशपापहरा-दशमी"
 id = "dazaharA_or_gaGgAvataraNam_or_dazapApaharA~dazamI"
+id_display = "daśaharā or gaṅgāvataraṇam or daśapāpaharā daśamī"
 slug = "dazahara-or-gaggavataranam-or-dazapapahara-dazami"
 source_path = "general/lunar_month/tithi/03/10/dazaharA_or_gaGgAvataraNam_or_dazapApaharA~dazamI.toml"
 tags = ["OtherJayantis", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "दमनक-चतुर्दशी"
 id = "damanaka-caturdazI"
+id_display = "damanaka-caturdaśī"
 slug = "damanaka-caturdazi"
 source_path = "temples/Odisha/lunar_month/tithi/01/14/damanaka-caturdazI.toml"
 tags = ["OdishaTempleFestivals"]

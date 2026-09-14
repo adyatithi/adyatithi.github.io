@@ -1,6 +1,7 @@
 +++
 title = "भीष्म-द्वादशी"
 id = "bhISma-dvAdazI"
+id_display = "bhīṣma-dvādaśī"
 slug = "bhisma-dvadazi"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/11/12/bhISma-dvAdazI.toml"
 tags = ["SpecialPuja"]

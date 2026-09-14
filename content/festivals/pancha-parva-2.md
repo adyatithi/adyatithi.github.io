@@ -1,6 +1,7 @@
 +++
 title = "पञ्च-पर्व-पूजा (पूर्णिमा)"
 id = "pancha-parva-2"
+id_display = "pancha-parva-2"
 slug = "pancha-parva-2"
 source_path = "devatA/devIparva/lunar_month/tithi/00/15/pancha-parva-2.toml"
 tags = ["Pancha Parva"]

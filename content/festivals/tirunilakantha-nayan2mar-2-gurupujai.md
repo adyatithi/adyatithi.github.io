@@ -1,16 +1,17 @@
 +++
-title = "tirunIlakaNTha nAyan2mAr (2) gurupUjai"
+title = "tirunīlakaṇṭha nāyaṉmār (2) gurupūjai"
 id = "tirunIlakaNTha_nAyan2mAr_(2)_gurupUjai"
+id_display = "tirunīlakaṇṭha nāyaṉmār (2) gurupūjai"
 slug = "tirunilakantha-nayan2mar-2-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/16/tirunIlakaNTha_nAyan2mAr_(2)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Pauṣa"]
+rashi = ["Makara"]
 nakshatra = ["Viśākhā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Pauṣa (पौष) māsa, Viśākhā nakṣatra, at प्रातः"
+timing_summary = "Makara (मकर) rāśi, sidereal, Viśākhā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -28,5 +29,5 @@ At the court, Neelakanta revealed their secret of celibacy. As they held the end
 '''
 
 [names]
-ta = ["tirunIlakaNTha nAyan2mAr (2) gurupUjai"]
+ta = ["tirunīlakaṇṭha nāyaṉmār (2) gurupūjai"]
 +++

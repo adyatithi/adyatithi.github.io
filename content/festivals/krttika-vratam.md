@@ -1,6 +1,7 @@
 +++
 title = "कृत्तिका-व्रतम्"
 id = "kRttikA-vratam"
+id_display = "kṛttikā-vratam"
 slug = "krttika-vratam"
 source_path = "devatA/kaumAra/sidereal_solar_month/nakshatra/00/03/kRttikA-vratam.toml"
 tags = ["SpecialVratam"]

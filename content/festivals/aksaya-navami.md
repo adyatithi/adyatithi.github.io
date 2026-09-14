@@ -1,6 +1,7 @@
 +++
 title = "अक्षया/कूष्माण्ड-नवमी"
 id = "akSayA~navamI"
+id_display = "akṣayā navamī"
 slug = "aksaya-navami"
 source_path = "general/lunar_month/tithi/08/09/akSayA~navamI.toml"
 tags = ["LessCommonFestivals"]

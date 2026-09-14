@@ -1,6 +1,7 @@
 +++
 title = "पराशर-महर्षि-जयन्ती"
 id = "parAzara~maharSi~jayantI"
+id_display = "parāśara maharṣi jayantī"
 slug = "parazara-maharsi-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/02/01/parAzara~maharSi~jayantI.toml"
 tags = ["MahapurushaEvents"]

@@ -1,6 +1,7 @@
 +++
 title = "धनुर्मास-उषःकाल-पूजारम्भः"
 id = "dhanurmAsa-uSaHkAla-pUjA-ArambhaH"
+id_display = "dhanurmāsa-uṣaḥkāla-pūjā-ārambhaḥ"
 slug = "dhanurmasa-usahkala-puja-arambhah"
 source_path = "general/description_only/dhanurmAsa-uSaHkAla-pUjA-ArambhaH.toml"
 tags = ["SpecialPujas", "CommonFestivals", "SpecialPeriodStart"]

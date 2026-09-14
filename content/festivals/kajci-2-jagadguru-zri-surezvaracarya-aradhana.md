@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची २ जगद्गुरु-श्री-सुरेश्वराचार्य-आराधना"
 id = "kAJcI_2_jagadguru_zrI~surEzvarAcArya_ArAdhanA"
+id_display = "kāñcī 2 jagadguru śrī surEśvarācārya ārādhanā"
 slug = "kajci-2-jagadguru-zri-surezvaracarya-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/12/kAJcI_2_jagadguru_zrI~surEzvarAcArya_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

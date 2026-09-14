@@ -1,6 +1,7 @@
 +++
 title = "सर्प-पूजा"
 id = "sarpa-pUjA"
+id_display = "sarpa-pūjā"
 slug = "sarpa-puja"
 source_path = "devatA/misc-fauna/lunar_month/tithi/11/05/sarpa-pUjA.toml"
 tags = ["SpecialPuja", "PuranaEvents"]

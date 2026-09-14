@@ -1,6 +1,7 @@
 +++
 title = "गङ्गावतरणम्"
 id = "gaGgAvataraNam"
+id_display = "gaṅgāvataraṇam"
 slug = "gaggavataranam"
 source_path = "devatA/nadI/lunar_month/tithi/07/10/gaGgAvataraNam.toml"
 tags = ["PuranaEvents"]

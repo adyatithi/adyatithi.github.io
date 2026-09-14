@@ -1,6 +1,7 @@
 +++
 title = "श्रीराम-वनवास-गमनम्"
 id = "zrIrAma-vanavAsa-gamanam"
+id_display = "śrīrāma-vanavāsa-gamanam"
 slug = "zrirama-vanavasa-gamanam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/11/05/zrIrAma-vanavAsa-gamanam.toml"
 tags = ["PuranaEvents"]

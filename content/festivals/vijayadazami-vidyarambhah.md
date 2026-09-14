@@ -1,6 +1,7 @@
 +++
 title = "विजयदशमी—विद्यारम्भः"
 id = "vijayadazamI_vidyArambhaH"
+id_display = "vijayadaśamī vidyārambhaḥ"
 slug = "vijayadazami-vidyarambhah"
 source_path = "general/lunar_month/tithi/07/10/vijayadazamI_vidyArambhaH.toml"
 tags = ["CommonFestivals"]

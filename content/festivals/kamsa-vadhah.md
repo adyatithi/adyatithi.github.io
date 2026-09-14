@@ -1,6 +1,7 @@
 +++
 title = "कंस-वधः"
 id = "kaMsa-vadhaH"
+id_display = "kaṃsa-vadhaḥ"
 slug = "kamsa-vadhah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/08/10/kaMsa-vadhaH.toml"
 tags = ["PuranaEvents", "CommonFestivals"]

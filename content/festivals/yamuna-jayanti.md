@@ -1,6 +1,7 @@
 +++
 title = "यमुना-जयन्ती"
 id = "yamunA~jayantI"
+id_display = "yamunā jayantī"
 slug = "yamuna-jayanti"
 source_path = "devatA/nadI/lunar_month/tithi/01/06/yamunA~jayantI.toml"
 tags = ["CommonFestivals"]

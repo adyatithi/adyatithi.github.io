@@ -1,6 +1,7 @@
 +++
 title = "प्रलय-कल्पादिः"
 id = "pralaya-kalpAdiH"
+id_display = "pralaya-kalpādiḥ"
 slug = "pralaya-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/09/09/pralaya-kalpAdiH.toml"
 tags = ["KalpadiDays"]

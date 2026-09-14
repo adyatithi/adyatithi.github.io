@@ -1,6 +1,7 @@
 +++
 title = "आषाढी-वारी"
 id = "ASADhI-vArI"
+id_display = "āṣāḍhī-vārī"
 slug = "asadhi-vari"
 source_path = "temples/Maharashtra/description_only/ASADhI-vArI.toml"
 tags = ["MaharashtraTempleFestivals"]

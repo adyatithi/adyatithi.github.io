@@ -1,6 +1,7 @@
 +++
 title = "व्यतीपात-श्राद्धम्"
 id = "vyatIpAta-zrAddham"
+id_display = "vyatīpāta-śrāddham"
 slug = "vyatipata-zraddham"
 source_path = "devatA/pitR/sidereal_solar_month/yoga/00/17/vyatIpAta-zrAddham.toml"
 tags = ["MonthlyShraddhaDays", "ShannavatiTarpanaDays"]

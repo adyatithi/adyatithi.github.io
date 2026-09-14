@@ -1,16 +1,17 @@
 +++
-title = "vAyilAr nAyan2mAr (51) gurupUjai"
+title = "vāyilār nāyaṉmār (51) gurupūjai"
 id = "vAyilAr_nAyan2mAr_(51)_gurupUjai"
+id_display = "vāyilār nāyaṉmār (51) gurupūjai"
 slug = "vayilar-nayan2mar-51-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/09/27/vAyilAr_nAyan2mAr_(51)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 nakshatra = ["Revatī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Revatī nakṣatra, at प्रातः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Revatī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ This Nayanmar, a Vellala from Mylapore, was a fervent devotee of Bhagavan Shiva.
 '''
 
 [names]
-ta = ["vAyilAr nAyan2mAr (51) gurupUjai"]
+ta = ["vāyilār nāyaṉmār (51) gurupūjai"]
 +++

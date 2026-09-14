@@ -1,6 +1,7 @@
 +++
 title = "अङ्गारक-जयन्ती"
 id = "aGgAraka~jayantI"
+id_display = "aṅgāraka jayantī"
 slug = "aggaraka-jayanti"
 source_path = "devatA/graha/lunar_month/tithi/06/02/aGgAraka~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
 title = "शुचि-मासः"
 id = "zuci-mAsaH"
+id_display = "śuci-māsaḥ"
 slug = "zuci-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/zuci-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "महाधनुर्व्यतीपात-श्राद्धम्"
 id = "mahAdhanurvyatIpAta-zrAddham"
+id_display = "mahādhanurvyatīpāta-śrāddham"
 slug = "mahadhanurvyatipata-zraddham"
 source_path = "devatA/pitR/description_only/mahAdhanurvyatIpAta-zrAddham.toml"
 tags = ["ShraddhaDays"]

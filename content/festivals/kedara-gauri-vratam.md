@@ -1,6 +1,7 @@
 +++
 title = "केदार-गौरी-व्रतम्"
 id = "kEdAra-gaurI-vratam"
+id_display = "kEdāra-gaurī-vratam"
 slug = "kedara-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/07/30/kEdAra-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

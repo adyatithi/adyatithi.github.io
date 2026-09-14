@@ -1,6 +1,7 @@
 +++
 title = "व्याघ्र-द्वादशी"
 id = "vyAghra-dvAdazI"
+id_display = "vyāghra-dvādaśī"
 slug = "vyaghra-dvadazi"
 source_path = "general/lunar_month/tithi/07/27/vyAghra-dvAdazI.toml"
 tags = ["LessCommonFestivals"]

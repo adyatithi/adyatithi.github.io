@@ -1,6 +1,7 @@
 +++
 title = "चिदम्बरे भिक्षाटन-स्वर्णरथः"
 id = "cidambarE_bhikSATana_svarNarathaH"
+id_display = "cidambarE bhikṣāṭana svarṇarathaḥ"
 slug = "cidambare-bhiksatana-svarnarathah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-2/cidambarE_bhikSATana_svarNarathaH.toml"
 tags = ["TamilnaduTempleFestivals"]

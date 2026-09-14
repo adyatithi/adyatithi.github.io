@@ -1,6 +1,7 @@
 +++
 title = "दर्श-स्थालीपाकः"
 id = "sthAlIpAkaH_1"
+id_display = "sthālīpākaḥ 1"
 slug = "sthalipakah-1"
 source_path = "gRhya/general/description_only/sthAlIpAkaH_1.toml"
 tags = ["MonthlyFestivals"]

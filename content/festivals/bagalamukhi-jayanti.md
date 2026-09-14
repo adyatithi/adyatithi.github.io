@@ -1,6 +1,7 @@
 +++
 title = "बगलामुखी-जयन्ती"
 id = "bagalAmukhI~jayantI"
+id_display = "bagalāmukhī jayantī"
 slug = "bagalamukhi-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/02/04/bagalAmukhI~jayantI.toml"
 tags = ["Dashamahavidya", "LessCommonFestivals"]

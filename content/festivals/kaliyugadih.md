@@ -1,6 +1,7 @@
 +++
 title = "कलियुगादिः"
 id = "kaliyugAdiH"
+id_display = "kaliyugādiḥ"
 slug = "kaliyugadih"
 source_path = "time_focus/yugAdiH/lunar_month/tithi/11/30/kaliyugAdiH.toml"
 tags = ["YugadiDays"]

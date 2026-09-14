@@ -1,16 +1,17 @@
 +++
-title = "naminandiyaDigaL nAyan2mAr (27) gurupUjai"
+title = "naminandiyaḍigaḻ nāyaṉmār (27) gurupūjai"
 id = "naminandiyaDigaL_nAyan2mAr_(27)_gurupUjai"
+id_display = "naminandiyaḍigaḻ nāyaṉmār (27) gurupūjai"
 slug = "naminandiyadigal-nayan2mar-27-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/08/naminandiyaDigaL_nAyan2mAr_(27)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Puṣya"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Puṣya nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Puṣya nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -24,5 +25,5 @@ Settling in Tiruvarur, Nandi Adigal devoted himself to serving Bhagavan and His 
 '''
 
 [names]
-ta = ["naminandiyaDigaL nAyan2mAr (27) gurupUjai"]
+ta = ["naminandiyaḍigaḻ nāyaṉmār (27) gurupūjai"]
 +++

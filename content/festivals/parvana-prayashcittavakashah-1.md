@@ -1,6 +1,7 @@
 +++
 title = "पार्वण-प्रायश्चित्तावकाशः दर्शे"
 id = "pArvaNa-prAyashcittAvakAshaH_1"
+id_display = "pārvaṇa-prāyashcittāvakāshaḥ 1"
 slug = "parvana-prayashcittavakashah-1"
 source_path = "gRhya/Apastamba/lunar_month/tithi/00/01/pArvaNa-prAyashcittAvakAshaH_1.toml"
 tags = ["MonthlyFestivals"]

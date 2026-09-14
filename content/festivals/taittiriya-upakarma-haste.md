@@ -1,6 +1,7 @@
 +++
 title = "तैत्तिरीय-उपाकर्म हस्ते"
 id = "taittirIya-upAkarma_haste"
+id_display = "taittirīya-upākarma haste"
 slug = "taittiriya-upakarma-haste"
 source_path = "gRhya/Apastamba/lunar_month/nakshatra/05/13/taittirIya-upAkarma_haste.toml"
 tags = ["CommonFestivals"]

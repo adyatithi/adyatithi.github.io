@@ -1,17 +1,18 @@
 +++
-title = "kArttigai JAyir2r2ukkizhamai"
+title = "kārttigai ñāyiṟṟukkil̤amai"
 id = "kArttigai~JAyir2r2ukkizhamai"
+id_display = "kārttigai ñāyiṟṟukkil̤amai"
 slug = "karttigai-jayir2r2ukkizhamai"
 source_path = "time_focus/vaara_conditioned/kArttigai~JAyir2r2ukkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 category = ["Calendrical Specials"]
-timing_summary = "Kārtika (कार्तिक) māsa"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal"
 
 description_en = '''
 Do puja to Surya/Suryanamaskaram.
 '''
 
 [names]
-ta = ["kArttigai~JAyir2r2ukkizhamai"]
+ta = ["kārttigai ñāyiṟṟukkil̤amai"]
 +++

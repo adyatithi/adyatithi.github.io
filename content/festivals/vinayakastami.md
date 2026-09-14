@@ -1,6 +1,7 @@
 +++
 title = "विनायकाष्टमी"
 id = "vinAyakASTamI"
+id_display = "vināyakāṣṭamī"
 slug = "vinayakastami"
 source_path = "devatA/gaNapati/lunar_month/tithi/03/23/vinAyakASTamI.toml"
 tags = ["LessCommonFestivals"]

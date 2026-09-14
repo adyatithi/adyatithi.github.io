@@ -1,6 +1,7 @@
 +++
 title = "(भाद्रपद) महालय अमावास्या"
 id = "(bhAdrapada)_mahAlaya_amAvAsyA"
+id_display = "(bhādrapada) mahālaya amāvāsyā"
 slug = "bhadrapada-mahalaya-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/(bhAdrapada)_mahAlaya_amAvAsyA.toml"
 tags = ["AmavasyaDays", "ShannavatiTarpanaDays"]

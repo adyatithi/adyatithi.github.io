@@ -1,6 +1,7 @@
 +++
 title = "अनन्त-पद्मनाभ-व्रतम्"
 id = "ananta-padmanAbha-vratam"
+id_display = "ananta-padmanābha-vratam"
 slug = "ananta-padmanabha-vratam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/14/ananta-padmanAbha-vratam.toml"
 tags = ["SpecialPuja"]

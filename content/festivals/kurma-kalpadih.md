@@ -1,6 +1,7 @@
 +++
 title = "कूर्म-कल्पादिः"
 id = "kUrma-kalpAdiH"
+id_display = "kūrma-kalpādiḥ"
 slug = "kurma-kalpadih"
 source_path = "time_focus/kalpAdiH/lunar_month/tithi/01/05/kUrma-kalpAdiH.toml"
 tags = ["KalpadiDays"]

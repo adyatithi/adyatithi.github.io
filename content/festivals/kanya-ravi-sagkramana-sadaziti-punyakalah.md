@@ -1,6 +1,7 @@
 +++
 title = "कन्या-रवि-सङ्क्रमण-षडशीति-पुण्यकालः"
 id = "kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH"
+id_display = "kanyā-ravi-saṅkramaṇa-ṣaḍaśīti-puṇyakālaḥ"
 slug = "kanya-ravi-sagkramana-sadaziti-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "नरसिंह-द्वादशी"
 id = "narasiMha-dvAdazI"
+id_display = "narasiṃha-dvādaśī"
 slug = "narasimha-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/12/12/narasiMha-dvAdazI.toml"
 tags = ["SpecialVratam"]

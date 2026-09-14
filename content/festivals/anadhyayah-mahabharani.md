@@ -1,6 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH~mahAbharaNI"
+id_display = "anadhyāyaḥ mahābharaṇī"
 slug = "anadhyayah-mahabharani"
 source_path = "time_focus/adhyayana/relative_event/mahAbharaNI/offset__00/anadhyAyaH~mahAbharaNI.toml"
 tags = ["Anadhyayana Days"]

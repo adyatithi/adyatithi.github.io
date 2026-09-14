@@ -1,11 +1,12 @@
 +++
 title = "विषुवदिनम्"
 id = "viSuva-dinam"
+id_display = "viṣuva-dinam"
 slug = "visuva-dinam"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/02/01/viSuva-dinam.toml"
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 category = ["Calendrical Specials"]
-timing_summary = "Vaiśākha (वैशाख) māsa"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, tropical"
 
 description_en = '''
 Vernal equinox

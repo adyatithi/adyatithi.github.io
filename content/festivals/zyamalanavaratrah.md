@@ -1,6 +1,7 @@
 +++
 title = "श्यामलानवरात्रः"
 id = "zyAmaLAnavarAtraH"
+id_display = "śyāmaḻānavarātraḥ"
 slug = "zyamalanavaratrah"
 source_path = "devatA/shakti/description_only/zyAmaLAnavarAtraH.toml"
 tags = ["Navaratri", "SpecialPeriod"]

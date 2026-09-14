@@ -1,6 +1,7 @@
 +++
 title = "श्री-हनूमत्-जयन्ती"
 id = "zrI~hanUmat~jayantI~2"
+id_display = "śrī hanūmat jayantī 2"
 slug = "zri-hanumat-jayanti-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/15/zrI~hanUmat~jayantI~2.toml"
 tags = ["LessCommonFestivals"]

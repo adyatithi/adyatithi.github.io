@@ -1,6 +1,7 @@
 +++
 title = "मासशिवरात्रिः"
 id = "mAsazivarAtriH"
+id_display = "māsaśivarātriḥ"
 slug = "masazivaratrih"
 source_path = "devatA/shaiva/lunar_month/tithi/00/29/mAsazivarAtriH.toml"
 tags = ["MonthlyFestivals"]

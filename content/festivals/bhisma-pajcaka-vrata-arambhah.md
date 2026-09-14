@@ -1,6 +1,7 @@
 +++
 title = "भीष्म-पञ्चक-व्रत-आरम्भः"
 id = "bhISma-paJcaka-vrata-ArambhaH"
+id_display = "bhīṣma-pañcaka-vrata-ārambhaḥ"
 slug = "bhisma-pajcaka-vrata-arambhah"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/08/11/bhISma-paJcaka-vrata-ArambhaH.toml"
 tags = ["LessCommonFestivals"]

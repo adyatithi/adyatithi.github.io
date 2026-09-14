@@ -1,16 +1,17 @@
 +++
-title = "kAri nAyan2mAr (48) gurupUjai"
+title = "kāri nāyaṉmār (48) gurupūjai"
 id = "kAri_nAyan2mAr_(48)_gurupUjai"
+id_display = "kāri nāyaṉmār (48) gurupūjai"
 slug = "kari-nayan2mar-48-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/11/20/kAri_nAyan2mAr_(48)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Māgha"]
+rashi = ["Kumbha"]
 nakshatra = ["Pūrva Āṣāḍha"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Māgha (माघ) māsa, Pūrva Āṣāḍha nakṣatra, at प्रातः"
+timing_summary = "Kumbha (कुम्भ) rāśi, sidereal, Pūrva Āṣāḍha nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -20,5 +21,5 @@ Kari Nayanmar, the 48th of the Nayanmars, hailed from Tirukadavur, and was a lea
 '''
 
 [names]
-ta = ["kAri nAyan2mAr (48) gurupUjai"]
+ta = ["kāri nāyaṉmār (48) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "शस्त्रहतचतुर्दशी"
 id = "zastrahatacaturdazI"
+id_display = "śastrahatacaturdaśī"
 slug = "zastrahatacaturdazi"
 source_path = "devatA/pitR/lunar_month/tithi/06/29/zastrahatacaturdazI.toml"
 tags = ["ShannavatiTarpanaDays"]

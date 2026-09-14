@@ -1,16 +1,17 @@
 +++
-title = "mUrkkha nAyan2mAr (32) gurupUjai"
+title = "mūrkkha nāyaṉmār (32) gurupūjai"
 id = "mUrkkha_nAyan2mAr_(32)_gurupUjai"
+id_display = "mūrkkha nāyaṉmār (32) gurupūjai"
 slug = "murkkha-nayan2mar-32-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/19/mUrkkha_nAyan2mAr_(32)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Kārtika"]
+rashi = ["Vṛścika"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Kārtika (कार्तिक) māsa, Mūla nakṣatra, at प्रातः"
+timing_summary = "Vṛścika (वृश्चिक) rāśi, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Faced with financial depletion, he adopted an unconventional method. He engaged 
 '''
 
 [names]
-ta = ["mUrkkha nAyan2mAr (32) gurupUjai"]
+ta = ["mūrkkha nāyaṉmār (32) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "भीष्म-पञ्चक-व्रतम्"
 id = "bhISma-paJcaka-vratam"
+id_display = "bhīṣma-pañcaka-vratam"
 slug = "bhisma-pajcaka-vratam"
 source_path = "general/description_only/bhISma-paJcaka-vratam.toml"
 tags = ["LessCommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "आश्विन-मास-आरम्भः"
 id = "Azvina-mAsa-ArambhaH"
+id_display = "āśvina-māsa-ārambhaḥ"
 slug = "azvina-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/07/01/Azvina-mAsa-ArambhaH.toml"
 tags = ["SpecialDays", "SpecialPeriodStart"]

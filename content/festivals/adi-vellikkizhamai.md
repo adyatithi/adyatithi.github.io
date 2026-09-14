@@ -1,17 +1,18 @@
 +++
-title = "ADi veLLikkizhamai"
+title = "āḍi veḻḻikkil̤amai"
 id = "ADi~veLLikkizhamai"
+id_display = "āḍi veḻḻikkil̤amai"
 slug = "adi-vellikkizhamai"
 source_path = "time_focus/vaara_conditioned/ADi~veLLikkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 category = ["Calendrical Specials"]
-timing_summary = "Āṣāḍha (आषाढ) māsa"
+timing_summary = "Karka (कर्क) rāśi, sidereal"
 
 description_en = '''
 Very widely celebrated in Tamil Nadu temples, Fridays in the month of `ADi` are special for propitiating Shakti Devi.
 '''
 
 [names]
-ta = ["ADi~veLLikkizhamai"]
+ta = ["āḍi veḻḻikkil̤amai"]
 +++

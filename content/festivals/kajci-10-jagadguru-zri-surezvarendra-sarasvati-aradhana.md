@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची १० जगद्गुरु-श्री-सुरेश्वरेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_10_jagadguru_zrI~surEzvarEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 10 jagadguru śrī surEśvarEndra sarasvatī ārādhanā"
 slug = "kajci-10-jagadguru-zri-surezvarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/15/kAJcI_10_jagadguru_zrI~surEzvarEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "महाशिवरात्रिः"
 id = "mahAzivarAtriH"
+id_display = "mahāśivarātriḥ"
 slug = "mahazivaratrih"
 source_path = "devatA/shaiva/lunar_month/tithi/11/29/mahAzivarAtriH.toml"
 tags = ["CommonFestivals"]

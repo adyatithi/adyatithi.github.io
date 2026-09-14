@@ -1,6 +1,7 @@
 +++
 title = "सूरदास-जयन्ती"
 id = "sUradAsa~jayantI"
+id_display = "sūradāsa jayantī"
 slug = "suradasa-jayanti"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/02/05/sUradAsa~jayantI.toml"
 tags = ["MahapurushaEvents"]

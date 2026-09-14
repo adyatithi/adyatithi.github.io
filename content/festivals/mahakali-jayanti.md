@@ -1,6 +1,7 @@
 +++
 title = "महाकाली-जयन्ती"
 id = "mahAkAlI~jayantI"
+id_display = "mahākālī jayantī"
 slug = "mahakali-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/06/23/mahAkAlI~jayantI.toml"
 tags = ["Dashamahavidya"]

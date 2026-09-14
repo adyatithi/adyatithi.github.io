@@ -1,6 +1,7 @@
 +++
 title = "अजा-एकादशी"
 id = "ajA-EkAdazI"
+id_display = "ajā-Ekādaśī"
 slug = "aja-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/ajA-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

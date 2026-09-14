@@ -1,6 +1,7 @@
 +++
 title = "बलराम-जयन्ती"
 id = "balarAma~jayantI~2"
+id_display = "balarāma jayantī 2"
 slug = "balarama-jayanti-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/06/balarAma~jayantI~2.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]

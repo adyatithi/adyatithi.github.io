@@ -1,6 +1,7 @@
 +++
 title = "राज-मातङ्गी-जयन्ती"
 id = "rAja-mAtaGgI~jayantI"
+id_display = "rāja-mātaṅgī jayantī"
 slug = "raja-mataggi-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/02/03/rAja-mAtaGgI~jayantI.toml"
 tags = ["Dashamahavidya", "LessCommonFestivals"]

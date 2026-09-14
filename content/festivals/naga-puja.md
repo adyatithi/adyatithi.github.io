@@ -1,6 +1,7 @@
 +++
 title = "नाग-पूजा"
 id = "nAga-pUjA"
+id_display = "nāga-pūjā"
 slug = "naga-puja"
 source_path = "devatA/misc-fauna/lunar_month/tithi/06/20/nAga-pUjA.toml"
 tags = ["SpecialPuja"]

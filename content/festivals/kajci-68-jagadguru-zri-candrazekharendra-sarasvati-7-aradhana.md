@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-आराधना"
 id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_ArAdhanA"
+id_display = "kāñcī 68 jagadguru śrī candraśEkharEndra sarasvatī 7 ārādhanā"
 slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/27/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]

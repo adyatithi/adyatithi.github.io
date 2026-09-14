@@ -1,6 +1,7 @@
 +++
 title = "त्यागराज-जन्मदिनम्"
 id = "tyAgarAja~janmadinam"
+id_display = "tyāgarāja janmadinam"
 slug = "tyagaraja-janmadinam"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/02/07/tyAgarAja~janmadinam.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

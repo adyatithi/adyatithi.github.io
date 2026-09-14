@@ -1,6 +1,7 @@
 +++
 title = "विश्वरूप-यात्रा"
 id = "vizvarUpa-yAtrA"
+id_display = "viśvarūpa-yātrā"
 slug = "vizvarupa-yatra"
 source_path = "general/lunar_month/tithi/06/15/vizvarUpa-yAtrA.toml"
 tags = ["CommonFestivals"]

@@ -1,6 +1,7 @@
 +++
 title = "भृगुवार-सुब्रह्मण्य-व्रतम्"
 id = "bhRguvAra-subrahmaNya-vratam"
+id_display = "bhṛguvāra-subrahmaṇya-vratam"
 slug = "bhrguvara-subrahmanya-vratam"
 source_path = "devatA/kaumAra/description_only/bhRguvAra-subrahmaNya-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,6 +1,7 @@
 +++
 title = "नृसिंह-जयन्ती"
 id = "nRsiMha~jayantI"
+id_display = "nṛsiṃha jayantī"
 slug = "nrsimha-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/14/nRsiMha~jayantI.toml"
 tags = ["Dashavataram", "CommonFestivals"]

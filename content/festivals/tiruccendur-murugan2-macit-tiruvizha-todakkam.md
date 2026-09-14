@@ -1,6 +1,7 @@
 +++
-title = "tiruccendUr murugan2 mAcit tiruvizhA toDakkam"
+title = "tiruccendūr murugaṉ mācit tiruvil̤ā toḍakkam"
 id = "tiruccendUr_murugan2_mAcit_tiruvizhA_toDakkam"
+id_display = "tiruccendūr murugaṉ mācit tiruvil̤ā toḍakkam"
 slug = "tiruccendur-murugan2-macit-tiruvizha-todakkam"
 source_path = "temples/Tamil/relative_event/tiruccendUr_mAcit_tiruvizhA_nir2aivu/offset__-11/tiruccendUr_murugan2_mAcit_tiruvizhA_toDakkam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +12,5 @@ The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the 
 '''
 
 [names]
-ta = ["tiruccendUr murugan2 mAcit tiruvizhA toDakkam"]
+ta = ["tiruccendūr murugaṉ mācit tiruvil̤ā toḍakkam"]
 +++

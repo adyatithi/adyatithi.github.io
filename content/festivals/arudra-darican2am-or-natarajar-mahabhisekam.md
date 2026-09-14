@@ -1,15 +1,16 @@
 +++
 title = "आर्द्रादर्शनम्"
 id = "ArudrA~darican2am_or_naTarAjar_mahAbhiSEkam"
+id_display = "ārudrā daricaṉam or naṭarājar mahābhiṣEkam"
 slug = "arudra-darican2am-or-natarajar-mahabhisekam"
 source_path = "devatA/shaiva/sidereal_solar_month/nakshatra/09/06/ArudrA~darican2am_or_naTarAjar_mahAbhiSEkam.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]
 devata = ["Śaiva"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 nakshatra = ["Ārdrā"]
 category = ["Devatā Observances"]
 kaala = "प्राक्तनारुणोदयः"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Ārdrā nakṣatra, at प्राक्तनारुणोदयः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Ārdrā nakṣatra, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 कृपासमुद्रं सुमुखं त्रिनेत्रं सदाशिवं रुद्रमनन्तरूपम्।
@@ -25,6 +26,6 @@ Visit Chidambaram to have darshan of Nataraja, or pray to Nataraja
 '''
 
 [names]
-ta = ["ArudrA~darican2am/naTarAjar mahAbhiSEkam"]
+ta = ["ārudrā daricaṉam/naṭarājar mahābhiṣEkam"]
 sa = ["आर्द्रादर्शनम्"]
 +++

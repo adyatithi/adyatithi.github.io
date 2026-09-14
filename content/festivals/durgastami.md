@@ -1,6 +1,7 @@
 +++
 title = "दुर्गाष्टमी"
 id = "durgASTamI"
+id_display = "durgāṣṭamī"
 slug = "durgastami"
 source_path = "devatA/shakti/lunar_month/tithi/07/08/durgASTamI.toml"
 tags = ["CommonFestivals"]

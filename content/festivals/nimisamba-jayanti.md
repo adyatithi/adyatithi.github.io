@@ -1,6 +1,7 @@
 +++
 title = "निमिषाम्बा-जयन्ती"
 id = "nimiSAmbA~jayantI"
+id_display = "nimiṣāmbā jayantī"
 slug = "nimisamba-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/02/10/nimiSAmbA~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,6 +1,7 @@
 +++
 title = "कौमुदी-उत्सवः"
 id = "kaumudI-utsavaH"
+id_display = "kaumudī-utsavaḥ"
 slug = "kaumudi-utsavah"
 source_path = "general/lunar_month/tithi/07/15/kaumudI-utsavaH.toml"
 tags = ["LessCommonFestivals"]

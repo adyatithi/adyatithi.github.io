@@ -1,6 +1,7 @@
 +++
 title = "दूर्वाष्टमी"
 id = "dUrvASTamI"
+id_display = "dūrvāṣṭamī"
 slug = "durvastami"
 source_path = "general/lunar_month/tithi/06/08/dUrvASTamI.toml"
 tags = ["LessCommonFestivals"]

@@ -1,14 +1,15 @@
 +++
 title = "महाधनुर्व्यतीपात-स्नानम्"
 id = "mahAdhanurvyatIpAta-snAnam"
+id_display = "mahādhanurvyatīpāta-snānam"
 slug = "mahadhanurvyatipata-snanam"
 source_path = "time_focus/misc/sidereal_solar_month/yoga/09/17/mahAdhanurvyatIpAta-snAnam.toml"
 tags = ["SpecialSnanam"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 category = ["Calendrical Specials"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "puurvaviddha"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, at प्राक्तनारुणोदयः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, at प्राक्तनारुणोदयः"
 
 shlokas = '''
 पुष्ये च जन्मनक्षत्रे व्यतीपाते च वैधृतौ।

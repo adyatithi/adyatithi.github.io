@@ -1,16 +1,17 @@
 +++
-title = "mUrtti nAyan2mAr (15) gurupUjai"
+title = "mūrtti nāyaṉmār (15) gurupūjai"
 id = "mUrtti_nAyan2mAr_(15)_gurupUjai"
+id_display = "mūrtti nāyaṉmār (15) gurupūjai"
 slug = "murtti-nayan2mar-15-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/03/mUrtti_nAyan2mAr_(15)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āṣāḍha"]
+rashi = ["Karka"]
 nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āṣāḍha (आषाढ) māsa, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Karka (कर्क) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -26,5 +27,5 @@ Murthi Nayanmar's rule was marked by justice and wisdom. He remained a devout fo
 '''
 
 [names]
-ta = ["mUrtti nAyan2mAr (15) gurupUjai"]
+ta = ["mūrtti nāyaṉmār (15) gurupūjai"]
 +++

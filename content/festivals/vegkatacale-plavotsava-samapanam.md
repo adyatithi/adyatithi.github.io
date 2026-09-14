@@ -1,6 +1,7 @@
 +++
 title = "वेङ्कटाचले प्लवोत्सव-समापनम्"
 id = "vEGkaTAcalE_plavOtsava-samApanam"
+id_display = "vEṅkaṭācalE plavOtsava-samāpanam"
 slug = "vegkatacale-plavotsava-samapanam"
 source_path = "temples/venkaTAchala/lunar_month/tithi/12/15/vEGkaTAcalE_plavOtsava-samApanam.toml"
 tags = ["AndhraTempleFestivals"]

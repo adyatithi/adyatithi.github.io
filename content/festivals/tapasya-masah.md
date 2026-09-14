@@ -1,6 +1,7 @@
 +++
 title = "तपस्य-मासः"
 id = "tapasya-mAsaH"
+id_display = "tapasya-māsaḥ"
 slug = "tapasya-masah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/tapasya-mAsaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

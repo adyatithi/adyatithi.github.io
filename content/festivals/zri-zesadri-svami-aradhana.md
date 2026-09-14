@@ -1,16 +1,17 @@
 +++
 title = "श्री-शेषाद्रि-स्वामि-आराधना"
 id = "zrI~zESAdri-svAmI~ArAdhanA"
+id_display = "śrī śEṣādri-svāmī ārādhanā"
 slug = "zri-zesadri-svami-aradhana"
 source_path = "mahApuruSha/general-indic-non-tropical/solar_month/tithi/09/24/zrI~zESAdri-svAmI~ArAdhanA.toml"
 tags = ["MahapurushaEvents"]
 tradition = ["General"]
-month = ["Mārgaśira"]
+rashi = ["Dhanu"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
-timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
+timing_summary = "Dhanu (धनु) rāśi, sidereal, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
 
 shlokas = '''
 करुणासागरं शान्तम् अरुणाचलवासिनम्।

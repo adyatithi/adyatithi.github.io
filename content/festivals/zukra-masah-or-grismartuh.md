@@ -1,6 +1,7 @@
 +++
 title = "शुक्र-मासः/ग्रीष्मऋतुः"
 id = "zukra-mAsaH_or_grISmaRtuH"
+id_display = "śukra-māsaḥ or grīṣmaṛtuḥ"
 slug = "zukra-masah-or-grismartuh"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/zukra-mAsaH_or_grISmaRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

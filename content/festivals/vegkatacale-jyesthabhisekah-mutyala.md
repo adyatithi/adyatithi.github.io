@@ -1,6 +1,7 @@
 +++
 title = "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (मुत्यल-कवचम्)"
 id = "vEGkaTAcalE_jyESThAbhiSEkaH_(mutyala)"
+id_display = "vEṅkaṭācalE jyEṣṭhābhiṣEkaḥ (mutyala)"
 slug = "vegkatacale-jyesthabhisekah-mutyala"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)/offset__-1/vEGkaTAcalE_jyESThAbhiSEkaH_(mutyala).toml"
 tags = ["AndhraTempleFestivals"]

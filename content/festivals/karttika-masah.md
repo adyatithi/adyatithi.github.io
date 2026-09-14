@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिक-मासः"
 id = "kArttika-mAsaH"
+id_display = "kārttika-māsaḥ"
 slug = "karttika-masah"
 source_path = "time_focus/misc/description_only/kArttika-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

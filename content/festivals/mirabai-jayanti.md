@@ -1,6 +1,7 @@
 +++
 title = "मीराबाई-जयन्ती"
 id = "mIrAbAI~jayantI"
+id_display = "mīrābāī jayantī"
 slug = "mirabai-jayanti"
 source_path = "mahApuruSha/sangIta-kRt/lunar_month/tithi/07/15/mIrAbAI~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

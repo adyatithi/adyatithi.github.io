@@ -1,6 +1,7 @@
 +++
 title = "तुलसीदास-जयन्ती"
 id = "tulasIdAsa~jayantI"
+id_display = "tulasīdāsa jayantī"
 slug = "tulasidasa-jayanti"
 source_path = "mahApuruSha/vaiShNava-misc/lunar_month/tithi/05/07/tulasIdAsa~jayantI.toml"
 tags = ["MahapurushaEvents"]

@@ -1,6 +1,7 @@
 +++
 title = "कजरी-तृतीया"
 id = "kajarI~tRtIyA"
+id_display = "kajarī tṛtīyā"
 slug = "kajari-trtiya"
 source_path = "general/lunar_month/tithi/06/18/kajarI~tRtIyA.toml"
 tags = ["SpecialVratam"]

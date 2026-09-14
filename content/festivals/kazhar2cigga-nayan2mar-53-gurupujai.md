@@ -1,16 +1,17 @@
 +++
-title = "kazhar2ciGga nAyan2mAr (53) gurupUjai"
+title = "kal̤aṟciṅga nāyaṉmār (53) gurupūjai"
 id = "kazhar2ciGga_nAyan2mAr_(53)_gurupUjai"
+id_display = "kal̤aṟciṅga nāyaṉmār (53) gurupūjai"
 slug = "kazhar2cigga-nayan2mar-53-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/02/kazhar2ciGga_nAyan2mAr_(53)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Vaiśākha"]
+rashi = ["Vṛṣabha"]
 nakshatra = ["Bharaṇī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Vaiśākha (वैशाख) māsa, Bharaṇī nakṣatra, at प्रातः"
+timing_summary = "Vṛṣabha (वृषभ) rāśi, sidereal, Bharaṇī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Alarmed by his queen's cries, King Kazharsinga rushed to the scene. Upon underst
 '''
 
 [names]
-ta = ["kazhar2ciGga nAyan2mAr (53) gurupUjai"]
+ta = ["kal̤aṟciṅga nāyaṉmār (53) gurupūjai"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "महालक्ष्मी-व्रतम्"
 id = "mahAlakSmI-vratam"
+id_display = "mahālakṣmī-vratam"
 slug = "mahalaksmi-vratam"
 source_path = "devatA/lakShmI/lunar_month/tithi/07/23/mahAlakSmI-vratam.toml"
 tags = ["SpecialVratam"]

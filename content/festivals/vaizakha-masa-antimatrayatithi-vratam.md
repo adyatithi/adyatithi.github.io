@@ -1,6 +1,7 @@
 +++
 title = "वैशाख-मास-अन्तिमत्रयतिथि-व्रतम्"
 id = "vaizAkha-mAsa-antimatrayatithi-vratam"
+id_display = "vaiśākha-māsa-antimatrayatithi-vratam"
 slug = "vaizakha-masa-antimatrayatithi-vratam"
 source_path = "general/description_only/vaizAkha-mAsa-antimatrayatithi-vratam.toml"
 tags = ["LessCommonFestivals"]

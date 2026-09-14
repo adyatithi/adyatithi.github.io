@@ -1,6 +1,7 @@
 +++
 title = "अनन्त-द्वादशी"
 id = "ananta-dvAdazI"
+id_display = "ananta-dvādaśī"
 slug = "ananta-dvadazi"
 source_path = "general/lunar_month/tithi/06/12/ananta-dvAdazI.toml"
 tags = ["SpecialPuja"]

@@ -1,6 +1,7 @@
 +++
 title = "स्कन्दषष्ठी-व्रतम्"
 id = "skandaSaSThI-vratam"
+id_display = "skandaṣaṣṭhī-vratam"
 slug = "skandasasthi-vratam"
 source_path = "devatA/kaumAra/description_only/skandaSaSThI-vratam.toml"
 tags = ["MonthlyVratam", "ShashthiVratam"]

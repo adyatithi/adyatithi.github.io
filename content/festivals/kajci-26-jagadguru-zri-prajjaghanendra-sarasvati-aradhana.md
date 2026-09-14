@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची २६ जगद्गुरु-श्री-प्रज्ञाघनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_26_jagadguru_zrI~prajJAghanEndra_sarasvatI_ArAdhanA"
+id_display = "kāñcī 26 jagadguru śrī prajñāghanEndra sarasvatī ārādhanā"
 slug = "kajci-26-jagadguru-zri-prajjaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/08/kAJcI_26_jagadguru_zrI~prajJAghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,6 +1,7 @@
 +++
 title = "सुब्रह्मण्य-षष्ठी-व्रतम्"
 id = "subrahmaNya-SaSThI-vratam"
+id_display = "subrahmaṇya-ṣaṣṭhī-vratam"
 slug = "subrahmanya-sasthi-vratam"
 source_path = "devatA/kaumAra/description_only/subrahmaNya-SaSThI-vratam.toml"
 tags = ["MonthlyVratam", "ShashthiVratam"]

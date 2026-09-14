@@ -1,6 +1,7 @@
 +++
 title = "गृहदेवी-पूजा"
 id = "gRhadEvI-pUjA"
+id_display = "gṛhadEvī-pūjā"
 slug = "grhadevi-puja"
 source_path = "devatA/shakti/lunar_month/tithi/07/01/gRhadEvI-pUjA.toml"
 tags = ["LessCommonFestivals"]

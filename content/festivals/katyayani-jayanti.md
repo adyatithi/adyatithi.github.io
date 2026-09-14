@@ -1,6 +1,7 @@
 +++
 title = "कात्यायनी-जयन्ती"
 id = "kAtyAyanI~jayantI"
+id_display = "kātyāyanī jayantī"
 slug = "katyayani-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/06/29/kAtyAyanI~jayantI.toml"
 tags = ["OtherJayantis"]

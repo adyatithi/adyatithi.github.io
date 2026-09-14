@@ -1,6 +1,7 @@
 +++
 title = "याज्ञवल्क्य-जयन्ती"
 id = "yAjJavalkya~jayantI"
+id_display = "yājñavalkya jayantī"
 slug = "yajjavalkya-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/08/12/yAjJavalkya~jayantI.toml"
 tags = ["MahapurushaEvents"]

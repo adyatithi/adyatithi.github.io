@@ -1,6 +1,7 @@
 +++
 title = "महिषघ्नी-पूजा"
 id = "mahiSaghnI-pUjA"
+id_display = "mahiṣaghnī-pūjā"
 slug = "mahisaghni-puja"
 source_path = "general/lunar_month/tithi/04/08/mahiSaghnI-pUjA.toml"
 tags = ["SpecialPuja"]

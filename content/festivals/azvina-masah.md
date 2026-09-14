@@ -1,6 +1,7 @@
 +++
 title = "आश्विन-मासः"
 id = "Azvina-mAsaH"
+id_display = "āśvina-māsaḥ"
 slug = "azvina-masah"
 source_path = "time_focus/misc/description_only/Azvina-mAsaH.toml"
 tags = ["SpecialDays", "SpecialPeriod"]

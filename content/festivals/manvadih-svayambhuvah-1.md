@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(स्वायम्भुवः-[१])"
 id = "manvAdiH~(svAyambhuvaH~[1])"
+id_display = "manvādiḥ (svāyambhuvaḥ [1])"
 slug = "manvadih-svayambhuvah-1"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/07/09/manvAdiH~(svAyambhuvaH~[1]).toml"
 tags = ["ManvadiDays"]

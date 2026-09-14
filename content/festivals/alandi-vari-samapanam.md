@@ -1,6 +1,7 @@
 +++
 title = "आळन्दी-वारी-समापनम्"
 id = "ALandI-vArI-samApanam"
+id_display = "āḻandī-vārī-samāpanam"
 slug = "alandi-vari-samapanam"
 source_path = "temples/Maharashtra/relative_event/ASADhI-vArI/offset__00/ALandI-vArI-samApanam.toml"
 tags = ["MaharashtraTempleFestivals"]

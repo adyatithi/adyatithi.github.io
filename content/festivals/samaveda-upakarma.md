@@ -1,6 +1,7 @@
 +++
 title = "सामवेद-उपाकर्म"
 id = "sAmavEda-upAkarma"
+id_display = "sāmavEda-upākarma"
 slug = "samaveda-upakarma"
 source_path = "gRhya/general/description_only/sAmavEda-upAkarma.toml"
 tags = ["CommonFestivals"]

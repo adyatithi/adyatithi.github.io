@@ -1,6 +1,7 @@
 +++
 title = "मन्वादिः-(रुद्र-सावर्णिः-[१२])"
 id = "manvAdiH~(rudra-sAvarNiH~[12])"
+id_display = "manvādiḥ (rudra-sāvarṇiḥ [12])"
 slug = "manvadih-rudra-savarnih-12"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/12/15/manvAdiH~(rudra-sAvarNiH~[12]).toml"
 tags = ["ManvadiDays"]

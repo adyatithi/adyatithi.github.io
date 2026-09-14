@@ -1,16 +1,17 @@
 +++
-title = "iDaGkazhi nAyan2mAr (55) gurupUjai"
+title = "iḍaṅkal̤i nāyaṉmār (55) gurupūjai"
 id = "iDaGkazhi_nAyan2mAr_(55)_gurupUjai"
+id_display = "iḍaṅkal̤i nāyaṉmār (55) gurupūjai"
 slug = "idagkazhi-nayan2mar-55-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/03/iDaGkazhi_nAyan2mAr_(55)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
 tradition = ["Nāyanmār"]
-month = ["Āśvina"]
+rashi = ["Tulā"]
 nakshatra = ["Kṛttikā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
-timing_summary = "Āśvina (आश्विन) māsa, Kṛttikā nakṣatra, at प्रातः"
+timing_summary = "Tulā (तुला) rāśi, sidereal, Kṛttikā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
 
 description_en = '''
@@ -22,5 +23,5 @@ Upon learning that the devotee's intention was to serve Bhagavan Shiva's followe
 '''
 
 [names]
-ta = ["iDaGkazhi nAyan2mAr (55) gurupUjai"]
+ta = ["iḍaṅkal̤i nāyaṉmār (55) gurupūjai"]
 +++

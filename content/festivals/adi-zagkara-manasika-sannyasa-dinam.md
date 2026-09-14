@@ -1,6 +1,7 @@
 +++
 title = "आदि-शङ्कर मानसिक-सन्न्यास-दिनम्"
 id = "Adi-zaGkara_mAnasika-sannyAsa-dinam"
+id_display = "ādi-śaṅkara mānasika-sannyāsa-dinam"
 slug = "adi-zagkara-manasika-sannyasa-dinam"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/11/Adi-zaGkara_mAnasika-sannyAsa-dinam.toml"
 tags = ["AdiShankaraHistory"]

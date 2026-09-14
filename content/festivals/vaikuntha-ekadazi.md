@@ -1,6 +1,7 @@
 +++
 title = "वैकुण्ठ-एकादशी"
 id = "vaikuNTha-EkAdazI"
+id_display = "vaikuṇṭha-Ekādaśī"
 slug = "vaikuntha-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/vaikuNTha-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

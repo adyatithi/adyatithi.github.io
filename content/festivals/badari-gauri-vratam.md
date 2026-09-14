@@ -1,6 +1,7 @@
 +++
 title = "बदरी-गौरी-व्रतम्"
 id = "badarI-gaurI-vratam"
+id_display = "badarī-gaurī-vratam"
 slug = "badari-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/09/04/badarI-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

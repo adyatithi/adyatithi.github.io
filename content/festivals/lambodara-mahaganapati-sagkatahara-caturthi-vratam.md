@@ -1,6 +1,7 @@
 +++
 title = "लम्बोदर-महागणपति-सङ्कटहर-चतुर्थी-व्रतम्"
 id = "lambOdara-mahAgaNapati-saGkaTahara-caturthI-vratam"
+id_display = "lambOdara-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "lambodara-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/lambOdara-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
 tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]

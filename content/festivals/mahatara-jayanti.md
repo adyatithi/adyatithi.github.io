@@ -1,6 +1,7 @@
 +++
 title = "महातारा-जयन्ती"
 id = "mahAtArA~jayantI"
+id_display = "mahātārā jayantī"
 slug = "mahatara-jayanti"
 source_path = "devatA/dashamahAvidyA/lunar_month/tithi/01/04/mahAtArA~jayantI.toml"
 tags = ["Dashamahavidya"]

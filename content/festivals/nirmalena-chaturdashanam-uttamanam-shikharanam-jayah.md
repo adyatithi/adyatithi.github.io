@@ -1,12 +1,12 @@
 +++
 title = "निर्मलेन चतुर्दशानाम् उत्तमानां शिखराणां जयः"
 id = "nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH"
+id_display = "nirmalena chaturdashānām uttamānāṃ shikharāṇāṃ jayaḥ"
 slug = "nirmalena-chaturdashanam-uttamanam-shikharanam-jayah"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/10/29/nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH.toml"
 tradition = ["General"]
-month = ["Pauṣa"]
 category = ["Mahāpuruṣa Observances"]
-timing_summary = "10/29 (Gregorian)"
+timing_summary = "October 29 (Gregorian calendar)"
 
 description_en = '''
 On this day, Nirmal Purja climbed all 14 eight-thousanders (mountain peaks above 8,000 metres or 26,000 feet) in a record time of six months and six days with the aid of bottled oxygen.

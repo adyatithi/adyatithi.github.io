@@ -1,6 +1,7 @@
 +++
 title = "काञ्ची ४२ जगद्गुरु-श्री-ब्रह्मानन्दघनेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_42_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_2_ArAdhanA"
+id_display = "kāñcī 42 jagadguru śrī brahmānandaghanEndra sarasvatī 2 ārādhanā"
 slug = "kajci-42-jagadguru-zri-brahmanandaghanendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/23/kAJcI_42_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]
