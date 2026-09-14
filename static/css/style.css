@@ -216,6 +216,11 @@ h1, h2, h3 { font-family: var(--font-display); margin: 0 0 0.4em; color: var(--r
 .site-footer__inner { text-align: center; font-size: 0.85rem; color: var(--ink-soft); }
 .site-footer a { color: var(--rust-dark); }
 
+/* Facet filtering (filter.js) hides pills/rows via the native `hidden`
+   attribute -- these class rules would otherwise outrank the UA's
+   [hidden]{display:none} at equal specificity. */
+.pill[hidden], .filter-bar__row[hidden] { display: none; }
+
 @media (max-width: 640px) {
   .filter-bar__label { width: 100%; }
   .names-grid__row { grid-template-columns: 1fr; }
