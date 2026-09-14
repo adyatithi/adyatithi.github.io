@@ -1,7 +1,7 @@
 +++
 title = "तुलसी-विवाहोत्सवः"
 id = "tulasI-vivAhOtsavaH"
-id_display = "tulasī-vivāhOtsavaḥ"
+id_display = "tulasī-vivāhotsavaḥ"
 slug = "tulasi-vivahotsavah"
 source_path = "devatA/misc-flora/description_only/tulasI-vivAhOtsavaH.toml"
 tags = ["CommonFestivals"]

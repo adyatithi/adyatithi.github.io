@@ -1,7 +1,7 @@
 +++
 title = "भृगुरेवती-योगः"
 id = "bhRgurEvatI-yOgaH"
-id_display = "bhṛgurEvatī-yOgaḥ"
+id_display = "bhṛgurevatī-yogaḥ"
 slug = "bhrgurevati-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/bhRgurEvatI-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

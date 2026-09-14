@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ४५ जगद्गुरु-श्री-परमशिवेन्द्र-सरस्वती-१-आराधना"
 id = "kAJcI_45_jagadguru_zrI~paramazivEndra_sarasvatI_1_ArAdhanA"
-id_display = "kāñcī 45 jagadguru śrī paramaśivEndra sarasvatī 1 ārādhanā"
+id_display = "kāñcī 45 jagadguru śrī paramaśivendra sarasvatī 1 ārādhanā"
 slug = "kajci-45-jagadguru-zri-paramazivendra-sarasvati-1-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/07/07/kAJcI_45_jagadguru_zrI~paramazivEndra_sarasvatI_1_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

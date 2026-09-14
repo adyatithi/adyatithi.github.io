@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-आश्रम-स्वीकार-दिनम्"
 id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_Azrama-svIkAra-dinam"
-id_display = "kāñcī 68 jagadguru śrī candraśEkharEndra sarasvatī 7 āśrama-svīkāra-dinam"
+id_display = "kāñcī 68 jagadguru śrī candraśekharendra sarasvatī 7 āśrama-svīkāra-dinam"
 slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-azrama-svikara-dinam"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/11/26/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_Azrama-svIkAra-dinam.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

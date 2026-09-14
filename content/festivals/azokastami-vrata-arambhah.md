@@ -1,7 +1,7 @@
 +++
 title = "अशोकाष्टमी-व्रत-आरम्भः"
 id = "azOkASTamI-vrata-ArambhaH"
-id_display = "aśOkāṣṭamī-vrata-ārambhaḥ"
+id_display = "aśokāṣṭamī-vrata-ārambhaḥ"
 slug = "azokastami-vrata-arambhah"
 source_path = "general/lunar_month/tithi/06/23/azOkASTamI-vrata-ArambhaH.toml"
 tags = ["SpecialVratam", "VratamStart", "SpecialPeriodStart"]

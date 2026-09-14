@@ -1,7 +1,7 @@
 +++
 title = "शयन-एकादशी"
 id = "zayana-EkAdazI"
-id_display = "śayana-Ekādaśī"
+id_display = "śayana-ekādaśī"
 slug = "zayana-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/zayana-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

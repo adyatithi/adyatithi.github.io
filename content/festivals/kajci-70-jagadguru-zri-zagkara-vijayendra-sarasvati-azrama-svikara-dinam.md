@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ७० जगद्गुरु-श्री-शङ्कर-विजयेन्द्र-सरस्वती-आश्रम-स्वीकार-दिनम्"
 id = "kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_Azrama-svIkAra-dinam"
-id_display = "kāñcī 70 jagadguru śrī śaṅkara vijayEndra sarasvatī āśrama-svīkāra-dinam"
+id_display = "kāñcī 70 jagadguru śrī śaṅkara vijayendra sarasvatī āśrama-svīkāra-dinam"
 slug = "kajci-70-jagadguru-zri-zagkara-vijayendra-sarasvati-azrama-svikara-dinam"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/02/19/kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_Azrama-svIkAra-dinam.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

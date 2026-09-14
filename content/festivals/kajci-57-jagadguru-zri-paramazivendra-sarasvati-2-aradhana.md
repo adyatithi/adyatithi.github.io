@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ५७ जगद्गुरु-श्री-परमशिवेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_57_jagadguru_zrI~paramazivEndra_sarasvatI_2_ArAdhanA"
-id_display = "kāñcī 57 jagadguru śrī paramaśivEndra sarasvatī 2 ārādhanā"
+id_display = "kāñcī 57 jagadguru śrī paramaśivendra sarasvatī 2 ārādhanā"
 slug = "kajci-57-jagadguru-zri-paramazivendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/10/kAJcI_57_jagadguru_zrI~paramazivEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
 title = "कपालीश्वर-ध्वजारोहणम्"
 id = "kapAlI_dhvajArOhaNam"
-id_display = "kapālī dhvajārOhaṇam"
+id_display = "kapālī dhvajārohaṇam"
 slug = "kapali-dhvajarohanam"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-9/kapAlI_dhvajArOhaNam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,6 +12,6 @@ Dhvajārohaṇam (ceremonial flag-hoisting) marking the commencement of the Kap�
 '''
 
 [names]
-ta = ["kapālī dvajārOhaṇam"]
+ta = ["kapālī dvajārohaṇam"]
 sa = ["कपालीश्वर-ध्वजारोहणम्"]
 +++

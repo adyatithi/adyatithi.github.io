@@ -31,7 +31,11 @@ def to_iast(text: str) -> str:
     """
     if not text or DEVANAGARI_RE.search(text):
         return text
-    return sanscript.transliterate(text, sanscript.HK, sanscript.IAST)
+    # jyotisha's id/name generator uses its own HK_DRAVIDIAN scheme, an
+    # extended HK that distinguishes short/long e & o (capital E/O = dirgha
+    # e/o) for Dravidian-language names — plain HK doesn't know this
+    # convention and leaves stray capital E/O untransliterated.
+    return sanscript.transliterate(text, sanscript.roman.HK_DRAVIDIAN, sanscript.IAST)
 
 
 def clean_name(text: str) -> str:

@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची १२ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_12_jagadguru_zrI~candrazEkharEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 12 jagadguru śrī candraśEkharEndra sarasvatī ārādhanā"
+id_display = "kāñcī 12 jagadguru śrī candraśekharendra sarasvatī ārādhanā"
 slug = "kajci-12-jagadguru-zri-candrazekharendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/09/kAJcI_12_jagadguru_zrI~candrazEkharEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
 title = "राजराज-चोऴ-दानोत्सवः"
 id = "rAjarAja-cOza-dAnotsavaH"
-id_display = "rājarāja-cOśa-dānotsavaḥ"
+id_display = "rājarāja-cośa-dānòtsavaḥ"
 slug = "rajaraja-coza-danotsavah"
 source_path = "mahApuruSha/xatra/sidereal_solar_month/nakshatra/07/24/rAjarAja-cOza-dAnotsavaH.toml"
 tradition = ["Kings & Dynasties"]

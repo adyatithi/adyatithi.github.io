@@ -1,7 +1,7 @@
 +++
 title = "झूलेलाल-जयन्ती"
 id = "jhUlElAla~jayantI"
-id_display = "jhūlElāla jayantī"
+id_display = "jhūlelāla jayantī"
 slug = "jhulelala-jayanti"
 source_path = "mahApuruSha/general-indic-non-tropical/lunar_month/tithi/01/02/jhUlElAla~jayantI.toml"
 tags = ["OtherJayantis"]

@@ -1,7 +1,7 @@
 +++
 title = "महा-आषाढी-योगः"
 id = "mahA-ASADhI-yOgaH"
-id_display = "mahā-āṣāḍhī-yOgaḥ"
+id_display = "mahā-āṣāḍhī-yogaḥ"
 slug = "maha-asadhi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-ASADhI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

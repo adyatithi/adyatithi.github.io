@@ -1,7 +1,7 @@
 +++
-title = "tirunāḻaippOvār nāyaṉmār (18) gurupūjai"
+title = "tirunāḻaippovār nāyaṉmār (18) gurupūjai"
 id = "tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai"
-id_display = "tirunāḻaippOvār nāyaṉmār (18) gurupūjai"
+id_display = "tirunāḻaippovār nāyaṉmār (18) gurupūjai"
 slug = "tirunalaippovar-nayan2mar-18-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/04/tirunALaippOvAr_nAyan2mAr_(18)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -31,5 +31,5 @@ Nandanar's story is a powerful testament to the transformative power of devotion
 '''
 
 [names]
-ta = ["tirunāḻaippOvār nāyaṉmār (18) gurupūjai"]
+ta = ["tirunāḻaippovār nāyaṉmār (18) gurupūjai"]
 +++

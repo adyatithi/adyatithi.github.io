@@ -1,7 +1,7 @@
 +++
 title = "बुधानुराधा-योगः"
 id = "budhAnurAdhA-yOgaH"
-id_display = "budhānurādhā-yOgaḥ"
+id_display = "budhānurādhā-yogaḥ"
 slug = "budhanuradha-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/budhAnurAdhA-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

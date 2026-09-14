@@ -1,7 +1,7 @@
 +++
-title = "tai veḻḻikkil̤amai"
+title = "tai vèḻḻikkil̤amai"
 id = "tai~veLLikkizhamai"
-id_display = "tai veḻḻikkil̤amai"
+id_display = "tai vèḻḻikkil̤amai"
 slug = "tai-vellikkizhamai"
 source_path = "time_focus/vaara_conditioned/tai~veLLikkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
@@ -14,5 +14,5 @@ Very widely celebrated in Tamil Nadu temples, Fridays in the month of `tai` are 
 '''
 
 [names]
-ta = ["tai veḻḻikkil̤amai"]
+ta = ["tai vèḻḻikkil̤amai"]
 +++

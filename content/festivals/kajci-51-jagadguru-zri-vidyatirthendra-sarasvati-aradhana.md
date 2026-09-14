@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ५१ जगद्गुरु-श्री-विद्यातीर्थेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_51_jagadguru_zrI~vidyAtIrthEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 51 jagadguru śrī vidyātīrthEndra sarasvatī ārādhanā"
+id_display = "kāñcī 51 jagadguru śrī vidyātīrthendra sarasvatī ārādhanā"
 slug = "kajci-51-jagadguru-zri-vidyatirthendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/16/kAJcI_51_jagadguru_zrI~vidyAtIrthEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

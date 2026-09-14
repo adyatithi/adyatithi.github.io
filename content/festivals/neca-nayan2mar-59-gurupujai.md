@@ -1,7 +1,7 @@
 +++
-title = "nEca nāyaṉmār (59) gurupūjai"
+title = "neca nāyaṉmār (59) gurupūjai"
 id = "nEca_nAyan2mAr_(59)_gurupUjai"
-id_display = "nEca nāyaṉmār (59) gurupūjai"
+id_display = "neca nāyaṉmār (59) gurupūjai"
 slug = "neca-nayan2mar-59-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/12/04/nEca_nAyan2mAr_(59)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -23,5 +23,5 @@ Nesa Nayanmar's life also exemplifies the profound impact of God's name. Like Si
 '''
 
 [names]
-ta = ["nEca nāyaṉmār (59) gurupūjai"]
+ta = ["neca nāyaṉmār (59) gurupūjai"]
 +++

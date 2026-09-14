@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ५३ जगद्गुरु-श्री-पूर्णानन्द-सदाशिवेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_53_jagadguru_zrI~pUrNAnanda_sadAzivEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 53 jagadguru śrī pūrṇānanda sadāśivEndra sarasvatī ārādhanā"
+id_display = "kāñcī 53 jagadguru śrī pūrṇānanda sadāśivendra sarasvatī ārādhanā"
 slug = "kajci-53-jagadguru-zri-purnananda-sadazivendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/10/kAJcI_53_jagadguru_zrI~pUrNAnanda_sadAzivEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
 title = "मन्वादिः-(स्वारोचिषः-[२])"
 id = "manvAdiH~(svArOciSaH~[2])"
-id_display = "manvādiḥ (svārOciṣaḥ [2])"
+id_display = "manvādiḥ (svārociṣaḥ [2])"
 slug = "manvadih-svarocisah-2"
 source_path = "time_focus/manvAdiH/lunar_month/tithi/08/12/manvAdiH~(svArOciSaH~[2]).toml"
 tags = ["ManvadiDays"]

@@ -1,7 +1,7 @@
 +++
-title = "tiruccendūr murugaṉ mācit tiruvil̤ā 7m nāḻ"
+title = "tiruccèndūr murugaṉ mācit tiruvil̤ā 7m nāḻ"
 id = "tiruccendUr_murugan2_mAcit_tiruvizhA_7m_nAL"
-id_display = "tiruccendūr murugaṉ mācit tiruvil̤ā 7m nāḻ"
+id_display = "tiruccèndūr murugaṉ mācit tiruvil̤ā 7m nāḻ"
 slug = "tiruccendur-murugan2-macit-tiruvizha-7m-nal"
 source_path = "temples/Tamil/relative_event/tiruccendUr_mAcit_tiruvizhA_nir2aivu/offset__-5/tiruccendUr_murugan2_mAcit_tiruvizhA_7m_nAL.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,5 +12,5 @@ The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the 
 '''
 
 [names]
-ta = ["tiruccendūr murugaṉ mācit tiruvil̤ā ##7##m nāḻ—urugu caṭṭac cEvai/cigappu cātti alaṅkāram"]
+ta = ["tiruccèndūr murugaṉ mācit tiruvil̤ā ##7##m nāḻ—urugu caṭṭac cevai/cigappu cātti alaṅkāram"]
 +++

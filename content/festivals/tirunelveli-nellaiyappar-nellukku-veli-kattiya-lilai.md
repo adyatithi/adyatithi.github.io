@@ -1,7 +1,7 @@
 +++
-title = "tirunelvEli nellaiyappar nellukku vEli kaṭṭiya līlai"
+title = "tirunèlveli nèllaiyappar nèllukku veli kaṭṭiya līlai"
 id = "tirunelvEli_nellaiyappar_nellukku_vEli_kaTTiya_lIlai"
-id_display = "tirunelvEli nellaiyappar nellukku vEli kaṭṭiya līlai"
+id_display = "tirunèlveli nèllaiyappar nèllukku veli kaṭṭiya līlai"
 slug = "tirunelveli-nellaiyappar-nellukku-veli-kattiya-lilai"
 source_path = "temples/Tamil/sidereal_solar_month/nakshatra/10/01/tirunelvEli_nellaiyappar_nellukku_vEli_kaTTiya_lIlai.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -19,5 +19,5 @@ This miracle led to the town being named Tirunelveli, meaning “the place where
 '''
 
 [names]
-ta = ["tirunelvEli nellaiyappar nellukku vEli kaṭṭiya līlai"]
+ta = ["tirunèlveli nèllaiyappar nèllukku veli kaṭṭiya līlai"]
 +++

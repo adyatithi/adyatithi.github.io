@@ -1,7 +1,7 @@
 +++
 title = "चिदम्बरे रजत-ऋषभ-वाहनम्"
 id = "cidambarE_rajata_RSabha_vAhanam"
-id_display = "cidambarE rajata ṛṣabha vāhanam"
+id_display = "cidambare rajata ṛṣabha vāhanam"
 slug = "cidambare-rajata-rsabha-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-5/cidambarE_rajata_RSabha_vAhanam.toml"
 tags = ["TamilnaduTempleFestivals"]

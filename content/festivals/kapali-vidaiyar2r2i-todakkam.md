@@ -1,7 +1,7 @@
 +++
-title = "kapālī viḍaiyāṟṟi toḍakkam"
+title = "kapālī viḍaiyāṟṟi tòḍakkam"
 id = "kapAlI_viDaiyAr2r2i_toDakkam"
-id_display = "kapālī viḍaiyāṟṟi toḍakkam"
+id_display = "kapālī viḍaiyāṟṟi tòḍakkam"
 slug = "kapali-vidaiyar2r2i-todakkam"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__01/kapAlI_viDaiyAr2r2i_toDakkam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,5 +12,5 @@ Commencement (toḍakkam) of the viḍaiyāṟṟi (valedictory send-off) rites 
 '''
 
 [names]
-ta = ["kapālī viḍaiyāṟṟi toḍakkam"]
+ta = ["kapālī viḍaiyāṟṟi tòḍakkam"]
 +++

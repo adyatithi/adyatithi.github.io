@@ -1,7 +1,7 @@
 +++
 title = "श्री-शेषाद्रि-स्वामि-आराधना"
 id = "zrI~zESAdri-svAmI~ArAdhanA"
-id_display = "śrī śEṣādri-svāmī ārādhanā"
+id_display = "śrī śeṣādri-svāmī ārādhanā"
 slug = "zri-zesadri-svami-aradhana"
 source_path = "mahApuruSha/general-indic-non-tropical/solar_month/tithi/09/24/zrI~zESAdri-svAmI~ArAdhanA.toml"
 tags = ["MahapurushaEvents"]

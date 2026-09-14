@@ -1,7 +1,7 @@
 +++
 title = "महाकार्तिकी-योगः"
 id = "mahA-kArtikI-yOgaH"
-id_display = "mahā-kārtikī-yOgaḥ"
+id_display = "mahā-kārtikī-yogaḥ"
 slug = "maha-kartiki-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-kArtikI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

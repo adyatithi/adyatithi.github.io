@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६८ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-७-जयन्ती"
 id = "kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI"
-id_display = "kāñcī 68 jagadguru śrī candraśEkharEndra sarasvatī 7 jayantī"
+id_display = "kāñcī 68 jagadguru śrī candraśekharendra sarasvatī 7 jayantī"
 slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/02/17/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

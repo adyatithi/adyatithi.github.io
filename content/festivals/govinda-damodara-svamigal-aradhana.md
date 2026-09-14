@@ -1,7 +1,7 @@
 +++
 title = "गोविन्द-दामोदर-स्वामिनः आराधना"
 id = "gOvinda-dAmOdara-svAmigal-ArAdhana"
-id_display = "gOvinda-dāmOdara-svāmigal-ārādhana"
+id_display = "govinda-dāmodara-svāmigal-ārādhana"
 slug = "govinda-damodara-svamigal-aradhana"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/tithi/10/28/gOvinda-dAmOdara-svAmigal-ArAdhana.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ३४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA"
-id_display = "kāñcī 34 jagadguru śrī candraśEkharEndra sarasvatī 2 ārādhanā"
+id_display = "kāñcī 34 jagadguru śrī candraśekharendra sarasvatī 2 ārādhanā"
 slug = "kajci-34-jagadguru-zri-candrazekharendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/30/kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "āḍip perukku"
+title = "āḍip pèrukku"
 id = "ADip~perukku"
-id_display = "āḍip perukku"
+id_display = "āḍip pèrukku"
 slug = "adip-perukku"
 source_path = "temples/Tamil/sidereal_solar_month/day/04/18/ADip~perukku.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]
@@ -14,5 +14,5 @@ Offer naivedyam of citrAnnam
 '''
 
 [names]
-ta = ["āḍip perukku"]
+ta = ["āḍip pèrukku"]
 +++

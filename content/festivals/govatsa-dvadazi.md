@@ -1,7 +1,7 @@
 +++
 title = "गोवत्स-द्वादशी"
 id = "gOvatsa-dvAdazI"
-id_display = "gOvatsa-dvādaśī"
+id_display = "govatsa-dvādaśī"
 slug = "govatsa-dvadazi"
 source_path = "devatA/misc-fauna/lunar_month/tithi/07/27/gOvatsa-dvAdazI.toml"
 tags = ["SpecialVratam", "CommonFestivals"]

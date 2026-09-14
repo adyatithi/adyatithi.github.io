@@ -1,7 +1,7 @@
 +++
 title = "नृसिंह-दोलोत्सवः"
 id = "nRsiMha-dOlOtsavaH"
-id_display = "nṛsiṃha-dOlOtsavaḥ"
+id_display = "nṛsiṃha-dolotsavaḥ"
 slug = "nrsimha-dolotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/14/nRsiMha-dOlOtsavaH.toml"
 tags = ["LessCommonFestivals"]

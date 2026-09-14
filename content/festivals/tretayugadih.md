@@ -1,7 +1,7 @@
 +++
 title = "त्रेतायुगादिः"
 id = "trEtAyugAdiH"
-id_display = "trEtāyugādiḥ"
+id_display = "tretāyugādiḥ"
 slug = "tretayugadih"
 source_path = "time_focus/yugAdiH/lunar_month/tithi/08/09/trEtAyugAdiH.toml"
 tags = ["YugadiDays"]

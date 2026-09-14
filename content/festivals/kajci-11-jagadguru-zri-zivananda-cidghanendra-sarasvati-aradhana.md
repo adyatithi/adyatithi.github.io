@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ११ जगद्गुरु-श्री-शिवानन्द-चिद्घनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_11_jagadguru_zrI~zivAnanda_cidghanEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 11 jagadguru śrī śivānanda cidghanEndra sarasvatī ārādhanā"
+id_display = "kāñcī 11 jagadguru śrī śivānanda cidghanendra sarasvatī ārādhanā"
 slug = "kajci-11-jagadguru-zri-zivananda-cidghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/10/kAJcI_11_jagadguru_zrI~zivAnanda_cidghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

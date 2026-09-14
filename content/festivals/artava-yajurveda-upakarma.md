@@ -1,7 +1,7 @@
 +++
 title = "आर्तव-यजुर्वेद-उपाकर्म"
 id = "Artava-yajurvEda-upAkarma"
-id_display = "ārtava-yajurvEda-upākarma"
+id_display = "ārtava-yajurveda-upākarma"
 slug = "artava-yajurveda-upakarma"
 source_path = "gRhya/Apastamba_seasonal/tropical/tithi/05/15/Artava-yajurvEda-upAkarma.toml"
 tags = ["CommonFestivals"]

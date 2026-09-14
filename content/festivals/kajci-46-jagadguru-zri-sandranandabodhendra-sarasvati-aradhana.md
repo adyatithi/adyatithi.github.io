@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ४६ जगद्गुरु-श्री-सान्द्रानन्दबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_46_jagadguru_zrI~sAndrAnandabOdhEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 46 jagadguru śrī sāndrānandabOdhEndra sarasvatī ārādhanā"
+id_display = "kāñcī 46 jagadguru śrī sāndrānandabodhendra sarasvatī ārādhanā"
 slug = "kajci-46-jagadguru-zri-sandranandabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/30/kAJcI_46_jagadguru_zrI~sAndrAnandabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "tiruccendūr mācit tiruvil̤ā niṟaivu"
+title = "tiruccèndūr mācit tiruvil̤ā niṟaivu"
 id = "tiruccendUr_mAcit_tiruvizhA_nir2aivu"
-id_display = "tiruccendūr mācit tiruvil̤ā niṟaivu"
+id_display = "tiruccèndūr mācit tiruvil̤ā niṟaivu"
 slug = "tiruccendur-macit-tiruvizha-nir2aivu"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/11/15/tiruccendUr_mAcit_tiruvizhA_nir2aivu.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -15,5 +15,5 @@ The Tiruchendur Brahmotsavam of Masi each year is very special, wherein all the 
 '''
 
 [names]
-ta = ["tiruccendūr mācit tiruvil̤ā niṟaivu"]
+ta = ["tiruccèndūr mācit tiruvil̤ā niṟaivu"]
 +++

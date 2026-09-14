@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ३५ जगद्गुरु-श्री-चित्सुखेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_35_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 35 jagadguru śrī citsukhEndra sarasvatī ārādhanā"
+id_display = "kāñcī 35 jagadguru śrī citsukhendra sarasvatī ārādhanā"
 slug = "kajci-35-jagadguru-zri-citsukhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/06/kAJcI_35_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

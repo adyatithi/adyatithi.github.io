@@ -1,7 +1,7 @@
 +++
 title = "चिदम्बरे कैलास-वाहनम्"
 id = "cidambarE_kailAsa_vAhanam"
-id_display = "cidambarE kailāsa vāhanam"
+id_display = "cidambare kailāsa vāhanam"
 slug = "cidambare-kailasa-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-3/cidambarE_kailAsa_vAhanam.toml"
 tags = ["TamilnaduTempleFestivals"]

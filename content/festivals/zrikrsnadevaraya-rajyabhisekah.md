@@ -1,7 +1,7 @@
 +++
 title = "श्रीकृष्णदेवराय-राज्याभिषेकः"
 id = "zrIkRSNadEvarAya-rAjyAbhiSEkaH"
-id_display = "śrīkṛṣṇadEvarāya-rājyābhiṣEkaḥ"
+id_display = "śrīkṛṣṇadevarāya-rājyābhiṣekaḥ"
 slug = "zrikrsnadevaraya-rajyabhisekah"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/05/23/zrIkRSNadEvarAya-rAjyAbhiSEkaH.toml"
 tags = ["MahapurushaEvents"]

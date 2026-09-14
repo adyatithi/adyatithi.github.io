@@ -1,7 +1,7 @@
 +++
 title = "होलि"
 id = "hOli"
-id_display = "hOli"
+id_display = "holi"
 slug = "holi"
 source_path = "general/relative_event/hOlikA-pUrNimA/offset__01/hOli.toml"
 tags = ["CommonFestivals"]

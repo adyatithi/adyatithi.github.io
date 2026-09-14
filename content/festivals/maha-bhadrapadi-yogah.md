@@ -1,7 +1,7 @@
 +++
 title = "महाभाद्रपदी-योगः"
 id = "mahA-bhAdrapadI-yOgaH"
-id_display = "mahā-bhādrapadī-yOgaḥ"
+id_display = "mahā-bhādrapadī-yogaḥ"
 slug = "maha-bhadrapadi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-bhAdrapadI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

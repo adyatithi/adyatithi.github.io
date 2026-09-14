@@ -1,7 +1,7 @@
 +++
 title = "उपेन्द्र-नवमी"
 id = "upEndra-navamI"
-id_display = "upEndra-navamī"
+id_display = "upendra-navamī"
 slug = "upendra-navami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/04/09/upEndra-navamI.toml"
 tags = ["LessCommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "महाफाल्गुनी-योगः"
 id = "mahA-phAlgunI-yOgaH"
-id_display = "mahā-phālgunī-yOgaḥ"
+id_display = "mahā-phālgunī-yogaḥ"
 slug = "maha-phalguni-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-phAlgunI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

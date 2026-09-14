@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची २० जगद्गुरु-श्री-मूकशङ्करेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_20_jagadguru_zrI~mUkazaGkarEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 20 jagadguru śrī mūkaśaṅkarEndra sarasvatī ārādhanā"
+id_display = "kāñcī 20 jagadguru śrī mūkaśaṅkarendra sarasvatī ārādhanā"
 slug = "kajci-20-jagadguru-zri-mukazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/15/kAJcI_20_jagadguru_zrI~mUkazaGkarEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

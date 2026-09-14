@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ४४ जगद्गुरु-श्री-पूर्णबोधेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_44_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_2_ArAdhanA"
-id_display = "kāñcī 44 jagadguru śrī pūrṇabOdhEndra sarasvatī 2 ārādhanā"
+id_display = "kāñcī 44 jagadguru śrī pūrṇabodhendra sarasvatī 2 ārādhanā"
 slug = "kajci-44-jagadguru-zri-purnabodhendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/06/28/kAJcI_44_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

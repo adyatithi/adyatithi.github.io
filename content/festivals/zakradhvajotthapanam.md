@@ -1,7 +1,7 @@
 +++
 title = "शक्रध्वजोत्थापनम्"
 id = "zakradhvajotthApanam"
-id_display = "śakradhvajotthāpanam"
+id_display = "śakradhvajòtthāpanam"
 slug = "zakradhvajotthapanam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/12/zakradhvajotthApanam.toml"
 tags = ["LessCommonFestivals"]

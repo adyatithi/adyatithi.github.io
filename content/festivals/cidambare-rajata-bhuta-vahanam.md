@@ -1,7 +1,7 @@
 +++
 title = "चिदम्बरे रजत-भूत-वाहनम्"
 id = "cidambarE_rajata_bhUta_vAhanam"
-id_display = "cidambarE rajata bhūta vāhanam"
+id_display = "cidambare rajata bhūta vāhanam"
 slug = "cidambare-rajata-bhuta-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-6/cidambarE_rajata_bhUta_vAhanam.toml"
 tags = ["TamilnaduTempleFestivals"]

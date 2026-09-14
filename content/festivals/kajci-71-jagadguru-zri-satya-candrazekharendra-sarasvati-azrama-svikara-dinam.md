@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ७१ जगद्गुरु-श्री-सत्य-चन्द्रशेखरेन्द्र-सरस्वती-आश्रम-स्वीकार-दिनम्"
 id = "kAJcI_71_jagadguru_zrI~satya_candrazEkharEndra_sarasvatI_Azrama-svIkAra-dinam"
-id_display = "kāñcī 71 jagadguru śrī satya candraśEkharEndra sarasvatī āśrama-svīkāra-dinam"
+id_display = "kāñcī 71 jagadguru śrī satya candraśekharendra sarasvatī āśrama-svīkāra-dinam"
 slug = "kajci-71-jagadguru-zri-satya-candrazekharendra-sarasvati-azrama-svikara-dinam"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/01/04/kAJcI_71_jagadguru_zrI~satya_candrazEkharEndra_sarasvatI_Azrama-svIkAra-dinam.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

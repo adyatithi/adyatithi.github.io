@@ -1,7 +1,7 @@
 +++
 title = "अपरा-एकादशी"
 id = "aparA-EkAdazI"
-id_display = "aparā-Ekādaśī"
+id_display = "aparā-ekādaśī"
 slug = "apara-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/aparA-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

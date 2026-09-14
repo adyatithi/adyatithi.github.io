@@ -1,7 +1,7 @@
 +++
 title = "होलिका-पूर्णिमा"
 id = "hOlikA-pUrNimA"
-id_display = "hOlikā-pūrṇimā"
+id_display = "holikā-pūrṇimā"
 slug = "holika-purnima"
 source_path = "general/lunar_month/tithi/12/15/hOlikA-pUrNimA.toml"
 tags = ["SpecialPuja", "CommonFestivals"]

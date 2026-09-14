@@ -1,7 +1,7 @@
 +++
-title = "ceruttuṇai nāyaṉmār (54) gurupūjai"
+title = "cèruttuṇai nāyaṉmār (54) gurupūjai"
 id = "ceruttuNai_nAyan2mAr_(54)_gurupUjai"
-id_display = "ceruttuṇai nāyaṉmār (54) gurupūjai"
+id_display = "cèruttuṇai nāyaṉmār (54) gurupūjai"
 slug = "ceruttunai-nayan2mar-54-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/05/08/ceruttuNai_nAyan2mAr_(54)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -23,5 +23,5 @@ Alarmed by his queen's cries, King Kazharsinga rushed to the scene. Upon underst
 '''
 
 [names]
-ta = ["ceruttuṇai nāyaṉmār (54) gurupūjai"]
+ta = ["cèruttuṇai nāyaṉmār (54) gurupūjai"]
 +++

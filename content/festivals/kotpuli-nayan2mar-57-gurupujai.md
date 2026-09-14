@@ -1,7 +1,7 @@
 +++
-title = "kOṭpuli nāyaṉmār (57) gurupūjai"
+title = "koṭpuli nāyaṉmār (57) gurupūjai"
 id = "kOTpuli_nAyan2mAr_(57)_gurupUjai"
-id_display = "kOṭpuli nāyaṉmār (57) gurupūjai"
+id_display = "koṭpuli nāyaṉmār (57) gurupūjai"
 slug = "kotpuli-nayan2mar-57-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/18/kOTpuli_nAyan2mAr_(57)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -21,5 +21,5 @@ Kotpuli Nayanmar, born in a Vellala family, was the Commander-in-Chief for a Cho
 '''
 
 [names]
-ta = ["kOṭpuli nāyaṉmār (57) gurupūjai"]
+ta = ["koṭpuli nāyaṉmār (57) gurupūjai"]
 +++

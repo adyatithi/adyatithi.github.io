@@ -1,7 +1,7 @@
 +++
-title = "kal̤aṟiṟṟaṟivār or cEramāṉ perumāḻ nāyaṉmār (37) gurupūjai"
+title = "kal̤aṟiṟṟaṟivār òr ceramāṉ pèrumāḻ nāyaṉmār (37) gurupūjai"
 id = "kazhar2ir2r2ar2ivAr_or_cEramAn2_perumAL_nAyan2mAr_(37)_gurupUjai"
-id_display = "kal̤aṟiṟṟaṟivār or cEramāṉ perumāḻ nāyaṉmār (37) gurupūjai"
+id_display = "kal̤aṟiṟṟaṟivār òr ceramāṉ pèrumāḻ nāyaṉmār (37) gurupūjai"
 slug = "kazhar2ir2r2ar2ivar-or-ceraman2-perumal-nayan2mar-37-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/15/kazhar2ir2r2ar2ivAr_or_cEramAn2_perumAL_nAyan2mAr_(37)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ In Tiruvarur, Cheraman finally met and befriended Sundarar. Together, they trave
 '''
 
 [names]
-ta = ["kal̤aṟiṟṟaṟivār/cEramāṉ perumāḻ nāyaṉmār (37) gurupūjai"]
+ta = ["kal̤aṟiṟṟaṟivār/ceramāṉ pèrumāḻ nāyaṉmār (37) gurupūjai"]
 +++

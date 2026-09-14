@@ -1,7 +1,7 @@
 +++
 title = "भीमसेन-जयन्ती"
 id = "bhImasEna~jayantI"
-id_display = "bhīmasEna jayantī"
+id_display = "bhīmasena jayantī"
 slug = "bhimasena-jayanti"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/07/24/bhImasEna~jayantI.toml"
 tags = ["PuranaEvents"]

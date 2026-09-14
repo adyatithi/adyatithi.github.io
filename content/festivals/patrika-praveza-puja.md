@@ -1,7 +1,7 @@
 +++
 title = "पत्रिका-प्रवेश-पूजा"
 id = "patrikA-pravEza-pUjA"
-id_display = "patrikā-pravEśa-pūjā"
+id_display = "patrikā-praveśa-pūjā"
 slug = "patrika-praveza-puja"
 source_path = "general/lunar_month/tithi/07/07/patrikA-pravEza-pUjA.toml"
 tags = ["SpecialPuja"]

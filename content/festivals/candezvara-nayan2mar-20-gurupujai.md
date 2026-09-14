@@ -1,7 +1,7 @@
 +++
-title = "caṇḍEśvara nāyaṉmār (20) gurupūjai"
+title = "caṇḍeśvara nāyaṉmār (20) gurupūjai"
 id = "caNDEzvara_nAyan2mAr_(20)_gurupUjai"
-id_display = "caṇḍEśvara nāyaṉmār (20) gurupūjai"
+id_display = "caṇḍeśvara nāyaṉmār (20) gurupūjai"
 slug = "candezvara-nayan2mar-20-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/10/12/caNDEzvara_nAyan2mAr_(20)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ This act was a divine test of Vichara Sarman's devotion. Bhagavan Shiva, impress
 '''
 
 [names]
-ta = ["caṇḍEśvara nāyaṉmār (20) gurupūjai"]
+ta = ["caṇḍeśvara nāyaṉmār (20) gurupūjai"]
 +++

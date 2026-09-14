@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले ज्येष्ठ-अभिद्येयकाभिषेकः (वज्र-कवचम्)"
 id = "vEGkaTAcalE_jyESThAbhiSEkaH_(vajra)"
-id_display = "vEṅkaṭācalE jyEṣṭhābhiṣEkaḥ (vajra)"
+id_display = "veṅkaṭācale jyeṣṭhābhiṣekaḥ (vajra)"
 slug = "vegkatacale-jyesthabhisekah-vajra"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)/offset__-2/vEGkaTAcalE_jyESThAbhiSEkaH_(vajra).toml"
 tags = ["AndhraTempleFestivals"]

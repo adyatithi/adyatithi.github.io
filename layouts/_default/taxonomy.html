@@ -1,8 +1,13 @@
 {{ define "main" }}
 {{ $pages := .Pages }}
+{{ $singularLabels := dict
+    "tag" "Tag" "devata" "Devatā" "tradition" "Tradition"
+    "month" "Lunar Month" "rashi" "Solar Month"
+    "tithi" "Tithi" "nakshatra" "Nakṣatra" "category" "Category"
+}}
 <section class="page-header">
   <div class="wrap">
-    <p class="eyebrow">{{ .Data.Singular | title }}</p>
+    <p class="eyebrow">{{ index $singularLabels .Data.Singular | default (.Data.Singular | title) }}</p>
     <h1>{{ .Title }}</h1>
     <p class="muted">{{ len $pages }} festival{{ if ne (len $pages) 1 }}s{{ end }} found.</p>
   </div>

@@ -1,7 +1,7 @@
 +++
 title = "तुला-कावेरी-स्नान-आरम्भः"
 id = "tulA-kAvErI-snAna-ArambhaH"
-id_display = "tulā-kāvErī-snāna-ārambhaḥ"
+id_display = "tulā-kāverī-snāna-ārambhaḥ"
 slug = "tula-kaveri-snana-arambhah"
 source_path = "devatA/nadI/sidereal_solar_month/day/07/01/tulA-kAvErI-snAna-ArambhaH.toml"
 devata = ["Nadī (River)"]

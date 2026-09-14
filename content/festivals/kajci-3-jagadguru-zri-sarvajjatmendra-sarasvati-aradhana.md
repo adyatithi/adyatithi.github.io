@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ३ जगद्गुरु-श्री-सर्वज्ञात्मेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_3_jagadguru_zrI~sarvajJAtmEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 3 jagadguru śrī sarvajñātmEndra sarasvatī ārādhanā"
+id_display = "kāñcī 3 jagadguru śrī sarvajñātmendra sarasvatī ārādhanā"
 slug = "kajci-3-jagadguru-zri-sarvajjatmendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/29/kAJcI_3_jagadguru_zrI~sarvajJAtmEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

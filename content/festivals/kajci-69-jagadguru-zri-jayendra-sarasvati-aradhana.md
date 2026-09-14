@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६९ जगद्गुरु-श्री-जयेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 69 jagadguru śrī jayEndra sarasvatī ārādhanā"
+id_display = "kāñcī 69 jagadguru śrī jayendra sarasvatī ārādhanā"
 slug = "kajci-69-jagadguru-zri-jayendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/12/13/kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]

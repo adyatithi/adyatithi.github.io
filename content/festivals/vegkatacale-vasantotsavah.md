@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले वसन्तोत्सवः"
 id = "vEGkaTAcalE_vasantOtsavaH"
-id_display = "vEṅkaṭācalE vasantOtsavaḥ"
+id_display = "veṅkaṭācale vasantotsavaḥ"
 slug = "vegkatacale-vasantotsavah"
 source_path = "temples/venkaTAchala/description_only/vEGkaTAcalE_vasantOtsavaH.toml"
 tags = ["AndhraTempleFestivals"]

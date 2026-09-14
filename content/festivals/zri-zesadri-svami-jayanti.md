@@ -1,7 +1,7 @@
 +++
 title = "श्री-शेषाद्रि-स्वामि-जयन्ती"
 id = "zrI~zESAdri-svAmI~jayantI"
-id_display = "śrī śEṣādri-svāmī jayantī"
+id_display = "śrī śeṣādri-svāmī jayantī"
 slug = "zri-zesadri-svami-jayanti"
 source_path = "mahApuruSha/general-indic-non-tropical/sidereal_solar_month/nakshatra/10/13/zrI~zESAdri-svAmI~jayantI.toml"
 tags = ["MahapurushaEvents"]

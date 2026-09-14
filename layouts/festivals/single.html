@@ -53,8 +53,8 @@
 
     <section class="pill-groups">
       {{ range slice
-          (dict "label" "Month" "tax" "month" "vals" .Params.month)
-          (dict "label" "Rāśi" "tax" "rashi" "vals" .Params.rashi)
+          (dict "label" "Lunar Month" "tax" "month" "vals" .Params.month)
+          (dict "label" "Solar Month" "tax" "rashi" "vals" .Params.rashi)
           (dict "label" "Devatā" "tax" "devata" "vals" .Params.devata)
           (dict "label" "Tradition" "tax" "tradition" "vals" .Params.tradition)
           (dict "label" "Tithi" "tax" "tithi" "vals" .Params.tithi)

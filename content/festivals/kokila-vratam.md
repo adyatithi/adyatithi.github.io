@@ -1,7 +1,7 @@
 +++
 title = "कोकिला-व्रतम्"
 id = "kOkilA-vratam"
-id_display = "kOkilā-vratam"
+id_display = "kokilā-vratam"
 slug = "kokila-vratam"
 source_path = "general/lunar_month/tithi/04/15/kOkilA-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,7 +1,7 @@
 +++
 title = "सेङ्गालिपुरम्-मुत्तण्णावाळ्-आराधना"
 id = "sEGgAlipuram~muttaNNAvAL~ArAdhanA"
-id_display = "sEṅgālipuram muttaṇṇāvāḻ ārādhanā"
+id_display = "seṅgālipuram muttaṇṇāvāḻ ārādhanā"
 slug = "seggalipuram-muttannaval-aradhana"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/tithi/10/27/sEGgAlipuram~muttaNNAvAL~ArAdhanA.toml"
 tags = ["MahapurushaEvents"]

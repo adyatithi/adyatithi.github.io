@@ -1,7 +1,7 @@
 +++
 title = "ज्येष्ठाभिषेकः"
 id = "jyESThAbhiSEkam"
-id_display = "jyEṣṭhābhiṣEkam"
+id_display = "jyeṣṭhābhiṣekam"
 slug = "jyesthabhisekam"
 source_path = "devatA/vaiShNava/sidereal_solar_month/nakshatra/03/18/jyESThAbhiSEkam.toml"
 devata = ["Vaiṣṇava"]
@@ -11,6 +11,6 @@ category = ["Devatā Observances"]
 timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Jyeṣṭhā nakṣatra"
 
 [names]
-ta = ["jyEṣṭhābhiṣEkam"]
+ta = ["jyeṣṭhābhiṣekam"]
 sa = ["ज्येष्ठाभिषेकः"]
 +++

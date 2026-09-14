@@ -1,7 +1,7 @@
 +++
 title = "दुर्गन्ध-दौर्भाग्य-नाशक-त्रयोदशी"
 id = "durgandha-daurbhAgya-nAzaka-trayOdazI"
-id_display = "durgandha-daurbhāgya-nāśaka-trayOdaśī"
+id_display = "durgandha-daurbhāgya-nāśaka-trayodaśī"
 slug = "durgandha-daurbhagya-nazaka-trayodazi"
 source_path = "general/lunar_month/tithi/03/13/durgandha-daurbhAgya-nAzaka-trayOdazI.toml"
 tags = ["LessCommonFestivals"]

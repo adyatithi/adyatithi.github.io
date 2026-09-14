@@ -1,7 +1,7 @@
 +++
 title = "उमा-महेश्वर-व्रतम्"
 id = "umA-mahEzvara-vratam"
-id_display = "umā-mahEśvara-vratam"
+id_display = "umā-maheśvara-vratam"
 slug = "uma-mahezvara-vratam"
 source_path = "devatA/umA/lunar_month/tithi/06/15/umA-mahEzvara-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]

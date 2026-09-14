@@ -1,7 +1,7 @@
 +++
 title = "कटदानोत्सवः"
 id = "kaTadAnOtsavaH"
-id_display = "kaṭadānOtsavaḥ"
+id_display = "kaṭadānotsavaḥ"
 slug = "katadanotsavah"
 source_path = "general/lunar_month/tithi/06/11/kaTadAnOtsavaH.toml"
 tags = ["DanamDays"]

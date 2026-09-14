@@ -1,7 +1,7 @@
 +++
 title = "शुक्रवार-शुक्ल-प्रदोष-व्रतम्"
 id = "zukravAra-zukla-pradOSa-vratam"
-id_display = "śukravāra-śukla-pradOṣa-vratam"
+id_display = "śukravāra-śukla-pradoṣa-vratam"
 slug = "zukravara-zukla-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/zukravAra-zukla-pradOSa-vratam.toml"
 tags = ["MonthlyVratam", "PradoshaVratam"]

@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची २८ जगद्गुरु-श्री-महादेवेन्द्र-सरस्वती-१-आराधना"
 id = "kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA"
-id_display = "kāñcī 28 jagadguru śrī mahādEvEndra sarasvatī 1 ārādhanā"
+id_display = "kāñcī 28 jagadguru śrī mahādevendra sarasvatī 1 ārādhanā"
 slug = "kajci-28-jagadguru-zri-mahadevendra-sarasvati-1-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/25/kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "tiruccendūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—tEr"
+title = "tiruccèndūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—ter"
 id = "tiruccendUr_murugan2_AvaNit_tiruvizhA_##10##m_nAL—tEr"
-id_display = "tiruccendūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—tEr"
+id_display = "tiruccèndūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—ter"
 slug = "tiruccendur-murugan2-avanit-tiruvizha-10m-nalter"
 source_path = "temples/Tamil/relative_event/tiruccendUr_AvaNit_tiruvizhA_nir2aivu/offset__-2/tiruccendUr_murugan2_AvaNit_tiruvizhA_##10##m_nAL—tEr.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,5 +12,5 @@ The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is
 '''
 
 [names]
-ta = ["tiruccendūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—tEr"]
+ta = ["tiruccèndūr murugaṉ āvaṇit tiruvil̤ā ##10##m nāḻ—ter"]
 +++

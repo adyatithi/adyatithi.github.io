@@ -1,7 +1,7 @@
 +++
 title = "गुरुपुष्य-योगः"
 id = "gurupuSya-yOgaH"
-id_display = "gurupuṣya-yOgaḥ"
+id_display = "gurupuṣya-yogaḥ"
 slug = "gurupusya-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/gurupuSya-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

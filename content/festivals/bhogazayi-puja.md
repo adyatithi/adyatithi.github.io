@@ -1,7 +1,7 @@
 +++
 title = "भोगशायि-पूजा"
 id = "bhOgazAyi-pUjA"
-id_display = "bhOgaśāyi-pūjā"
+id_display = "bhogaśāyi-pūjā"
 slug = "bhogazayi-puja"
 source_path = "general/lunar_month/tithi/03/30/bhOgazAyi-pUjA.toml"
 tags = ["SpecialPuja"]

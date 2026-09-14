@@ -1,7 +1,7 @@
 +++
 title = "आग्रयण-होमः द्राविडेषु"
 id = "AgrayaNa~hOmaH~draviDadeshe~2"
-id_display = "āgrayaṇa hOmaḥ draviḍadeshe 2"
+id_display = "āgrayaṇa homaḥ draviḍadèshè 2"
 slug = "agrayana-homah-dravidadeshe-2"
 source_path = "gRhya/general/sidereal_solar_month/tithi/07/30/AgrayaNa~hOmaH~draviDadeshe~2.toml"
 tags = ["SpecialPuja"]

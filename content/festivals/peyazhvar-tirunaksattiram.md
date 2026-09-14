@@ -1,7 +1,7 @@
 +++
-title = "pEyāl̤vār tirunakṣattiram"
+title = "peyāl̤vār tirunakṣattiram"
 id = "pEyAzhvAr_tirunakSattiram"
-id_display = "pEyāl̤vār tirunakṣattiram"
+id_display = "peyāl̤vār tirunakṣattiram"
 slug = "peyazhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/07/24/pEyAzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
@@ -14,5 +14,5 @@ priority_rule = "paraviddha"
 timing_summary = "Tulā (तुला) rāśi, sidereal, Śatabhiṣā nakṣatra, at प्रातः"
 
 [names]
-ta = ["pEyāl̤vār tirunakṣattiram"]
+ta = ["peyāl̤vār tirunakṣattiram"]
 +++

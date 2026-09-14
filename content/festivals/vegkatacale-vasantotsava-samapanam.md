@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले वसन्तोत्सव-समापनम्"
 id = "vEGkaTAcalE_vasantOtsava-samApanam"
-id_display = "vEṅkaṭācalE vasantOtsava-samāpanam"
+id_display = "veṅkaṭācale vasantotsava-samāpanam"
 slug = "vegkatacale-vasantotsava-samapanam"
 source_path = "temples/venkaTAchala/lunar_month/tithi/01/15/vEGkaTAcalE_vasantOtsava-samApanam.toml"
 tags = ["AndhraTempleFestivals"]

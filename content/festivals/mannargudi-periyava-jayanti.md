@@ -1,7 +1,7 @@
 +++
 title = "ब्रह्मश्री-त्यागराज-मखी-जयन्ती"
 id = "mannArgudI_periyavA_jayantI"
-id_display = "mannārgudī periyavā jayantī"
+id_display = "mannārgudī pèriyavā jayantī"
 slug = "mannargudi-periyava-jayanti"
 source_path = "mahApuruSha/general-indic-non-tropical/sidereal_solar_month/nakshatra/02/22/mannArgudI_periyavA_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
@@ -18,6 +18,6 @@ Raju Sastrigal, or Brahmashri Tyāgarāja Makhi, popularly known as ‘Mannargud
 '''
 
 [names]
-ta = ["mannārgudī periyavā jayantī"]
+ta = ["mannārgudī pèriyavā jayantī"]
 sa = ["ब्रह्मश्री-त्यागराज-मखी-जयन्ती"]
 +++

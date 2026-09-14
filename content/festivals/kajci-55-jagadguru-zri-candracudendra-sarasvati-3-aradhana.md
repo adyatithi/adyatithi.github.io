@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ५५ जगद्गुरु-श्री-चन्द्रचूडेन्द्र-सरस्वती-३-आराधना"
 id = "kAJcI_55_jagadguru_zrI~candracUDEndra_sarasvatI_3_ArAdhanA"
-id_display = "kāñcī 55 jagadguru śrī candracūḍEndra sarasvatī 3 ārādhanā"
+id_display = "kāñcī 55 jagadguru śrī candracūḍendra sarasvatī 3 ārādhanā"
 slug = "kajci-55-jagadguru-zri-candracudendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/11/kAJcI_55_jagadguru_zrI~candracUDEndra_sarasvatI_3_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

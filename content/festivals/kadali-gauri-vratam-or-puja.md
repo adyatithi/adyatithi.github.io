@@ -1,7 +1,7 @@
 +++
 title = "कदली-गौरी-व्रतम्/पूजा"
 id = "kadalI-gaurI-vratam_or_pUjA"
-id_display = "kadalī-gaurī-vratam or pūjā"
+id_display = "kadalī-gaurī-vratam òr pūjā"
 slug = "kadali-gauri-vratam-or-puja"
 source_path = "devatA/umA/lunar_month/tithi/03/04/kadalI-gaurI-vratam_or_pUjA.toml"
 tags = ["LessCommonFestivals"]

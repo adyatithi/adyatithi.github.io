@@ -1,7 +1,7 @@
 +++
 title = "पातार्क-योगः"
 id = "pAtArka-yOgaH"
-id_display = "pātārka-yOgaḥ"
+id_display = "pātārka-yogaḥ"
 slug = "patarka-yogah"
 source_path = "time_focus/misc_combinations/description_only/pAtArka-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

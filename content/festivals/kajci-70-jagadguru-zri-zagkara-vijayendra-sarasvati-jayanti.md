@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ७० जगद्गुरु-श्री-शङ्कर-विजयेन्द्र-सरस्वती-जयन्ती"
 id = "kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_jayantI"
-id_display = "kāñcī 70 jagadguru śrī śaṅkara vijayEndra sarasvatī jayantī"
+id_display = "kāñcī 70 jagadguru śrī śaṅkara vijayendra sarasvatī jayantī"
 slug = "kajci-70-jagadguru-zri-zagkara-vijayendra-sarasvati-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/11/21/kAJcI_70_jagadguru_zrI~zaGkara_vijayEndra_sarasvatI_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

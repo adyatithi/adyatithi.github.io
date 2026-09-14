@@ -1,7 +1,7 @@
 +++
 title = "निर्मलेन  केतु-गिरि-जयः"
 id = "nirmalena_k2-jayaH"
-id_display = "nirmalena k2-jayaḥ"
+id_display = "nirmalèna k2-jayaḥ"
 slug = "nirmalena-k2-jayah"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/01/16/nirmalena_k2-jayaH.toml"
 tradition = ["General"]

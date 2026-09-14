@@ -1,7 +1,7 @@
 +++
 title = "गोविन्द-महाद्वादशी"
 id = "gOvinda~mahAdvAdazI"
-id_display = "gOvinda mahādvādaśī"
+id_display = "govinda mahādvādaśī"
 slug = "govinda-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/gOvinda~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]

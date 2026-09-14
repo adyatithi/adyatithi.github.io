@@ -1,7 +1,7 @@
 +++
-title = "kaṉup poṅgal"
+title = "kaṉup pòṅgal"
 id = "kan2up~poGgal"
-id_display = "kaṉup poṅgal"
+id_display = "kaṉup pòṅgal"
 slug = "kan2up-poggal"
 source_path = "tamil/relative_event/makara-saGkramaNa-puNyakAlaH/offset__01/kan2up~poGgal.toml"
 tags = ["CommonFestivals"]
@@ -12,5 +12,5 @@ Kanu Pongal is observed on the morning after Thai Pongal, the day of Makara Sa�
 '''
 
 [names]
-ta = ["kaṉup poṅgal"]
+ta = ["kaṉup pòṅgal"]
 +++

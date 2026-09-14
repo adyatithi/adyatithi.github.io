@@ -1,7 +1,7 @@
 +++
 title = "देवसेना-पञ्चमी"
 id = "dEvasEnA~paJcamI"
-id_display = "dEvasEnā pañcamī"
+id_display = "devasenā pañcamī"
 slug = "devasena-pajcami"
 source_path = "general/lunar_month/tithi/08/05/dEvasEnA~paJcamI.toml"
 tags = ["LessCommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६३ जगद्गुरु-श्री-महादेवेन्द्र-सरस्वती-५-आराधना"
 id = "kAJcI_63_jagadguru_zrI~mahAdEvEndra_sarasvatI_5_ArAdhanA"
-id_display = "kāñcī 63 jagadguru śrī mahādEvEndra sarasvatī 5 ārādhanā"
+id_display = "kāñcī 63 jagadguru śrī mahādevendra sarasvatī 5 ārādhanā"
 slug = "kajci-63-jagadguru-zri-mahadevendra-sarasvati-5-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/12/kAJcI_63_jagadguru_zrI~mahAdEvEndra_sarasvatI_5_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

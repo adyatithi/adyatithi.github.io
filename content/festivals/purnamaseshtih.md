@@ -1,7 +1,7 @@
 +++
 title = "पूर्णमासेष्टिः"
 id = "pUrNamAseShTiH"
-id_display = "pūrṇamāseṣhṭiḥ"
+id_display = "pūrṇamāsèṣhṭiḥ"
 slug = "purnamaseshtih"
 source_path = "gRhya/general/description_only/pUrNamAseShTiH.toml"
 tags = ["MonthlyFestivals"]

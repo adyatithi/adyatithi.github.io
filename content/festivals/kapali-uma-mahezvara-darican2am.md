@@ -1,7 +1,7 @@
 +++
 title = "उमा-कपालीश्वर-दर्शनम्"
 id = "kapAlI_umA-mahEzvara_darican2am"
-id_display = "kapālī umā-mahEśvara daricaṉam"
+id_display = "kapālī umā-maheśvara daricaṉam"
 slug = "kapali-uma-mahezvara-darican2am"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__01/kapAlI_umA-mahEzvara_darican2am.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -12,6 +12,6 @@ Umā-Maheśvara darśanam, when Karpagāmbāḷ and Kapālīśvarar are presente
 '''
 
 [names]
-ta = ["kapālī umā-mahEśvara daricaṉam"]
+ta = ["kapālī umā-maheśvara daricaṉam"]
 sa = ["उमा-कपालीश्वर-दर्शनम्"]
 +++

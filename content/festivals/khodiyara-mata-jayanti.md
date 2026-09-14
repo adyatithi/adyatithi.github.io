@@ -1,7 +1,7 @@
 +++
 title = "खोडियार-माता-जयन्ती"
 id = "khODiyAra~mAtA~jayantI"
-id_display = "khOḍiyāra mātā jayantī"
+id_display = "khoḍiyāra mātā jayantī"
 slug = "khodiyara-mata-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/11/08/khODiyAra~mAtA~jayantI.toml"
 tags = ["OtherJayantis"]

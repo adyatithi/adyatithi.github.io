@@ -1,7 +1,7 @@
 +++
 title = "चित्रा-पूर्णिमा/चित्रगुप्त-पूजा"
 id = "citrA~pUrNimA_or_citragupta~pUjai"
-id_display = "citrā pūrṇimā or citragupta pūjai"
+id_display = "citrā pūrṇimā òr citragupta pūjai"
 slug = "citra-purnima-or-citragupta-pujai"
 source_path = "general/sidereal_solar_month/tithi/01/15/citrA~pUrNimA_or_citragupta~pUjai.toml"
 tags = ["PurnimaDays", "CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "मार्कण्डेय-जयन्ती"
 id = "mArkaNDEya~jayantI"
-id_display = "mārkaṇḍEya jayantī"
+id_display = "mārkaṇḍeya jayantī"
 slug = "markandeya-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/11/04/mArkaNDEya~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

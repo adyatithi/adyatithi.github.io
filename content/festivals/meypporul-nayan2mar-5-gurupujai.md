@@ -1,7 +1,7 @@
 +++
-title = "meypporuḻ nāyaṉmār (5) gurupūjai"
+title = "mèyppòruḻ nāyaṉmār (5) gurupūjai"
 id = "meypporuL_nAyan2mAr_(5)_gurupUjai"
-id_display = "meypporuḻ nāyaṉmār (5) gurupūjai"
+id_display = "mèyppòruḻ nāyaṉmār (5) gurupūjai"
 slug = "meypporul-nayan2mar-5-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/12/meypporuL_nAyan2mAr_(5)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -25,5 +25,5 @@ Bhagavan Shiva immediately manifested in front of him and bestowed his blessings
 '''
 
 [names]
-ta = ["meypporuḻ nāyaṉmār (5) gurupūjai"]
+ta = ["mèyppòruḻ nāyaṉmār (5) gurupūjai"]
 +++

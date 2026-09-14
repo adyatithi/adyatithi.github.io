@@ -1,7 +1,7 @@
 +++
 title = "त्रिपुष्कर-योगः"
 id = "tripuSkara-yOgaH~2"
-id_display = "tripuṣkara-yOgaḥ 2"
+id_display = "tripuṣkara-yogaḥ 2"
 slug = "tripuskara-yogah-2"
 source_path = "time_focus/yoga_intersections/tripuSkara-yOgaH~2.toml"
 tags = ["RareDays", "Combinations"]

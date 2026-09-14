@@ -1,7 +1,7 @@
 +++
-title = "eṟipatta nāyaṉmār (8) gurupūjai"
+title = "èṟipatta nāyaṉmār (8) gurupūjai"
 id = "er2ipatta_nAyan2mAr_(8)_gurupUjai"
-id_display = "eṟipatta nāyaṉmār (8) gurupūjai"
+id_display = "èṟipatta nāyaṉmār (8) gurupūjai"
 slug = "er2ipatta-nayan2mar-8-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/11/13/er2ipatta_nAyan2mAr_(8)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ At this point, divine intervention occurred. A heavenly voice explained that thi
 '''
 
 [names]
-ta = ["eṟipatta nāyaṉmār (8) gurupūjai"]
+ta = ["èṟipatta nāyaṉmār (8) gurupūjai"]
 +++

@@ -1,7 +1,7 @@
 +++
-title = "sOmāsimāra nāyaṉmār (33) gurupūjai"
+title = "somāsimāra nāyaṉmār (33) gurupūjai"
 id = "sOmAsimAra_nAyan2mAr_(33)_gurupUjai"
-id_display = "sOmāsimāra nāyaṉmār (33) gurupūjai"
+id_display = "somāsimāra nāyaṉmār (33) gurupūjai"
 slug = "somasimara-nayan2mar-33-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/09/sOmAsimAra_nAyan2mAr_(33)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -23,5 +23,5 @@ Additionally, his devotion to his Guru, Sundaramurthi Nayanmar, was profound. He
 '''
 
 [names]
-ta = ["sOmāsimāra nāyaṉmār (33) gurupūjai"]
+ta = ["somāsimāra nāyaṉmār (33) gurupūjai"]
 +++

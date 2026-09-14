@@ -1,7 +1,7 @@
 +++
 title = "महा-अन्नाभिषेकः"
 id = "mahA~annAbhiSEkaH"
-id_display = "mahā annābhiṣEkaḥ"
+id_display = "mahā annābhiṣekaḥ"
 slug = "maha-annabhisekah"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/07/15/mahA~annAbhiSEkaH.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "शृङ्गेरी ३५ जगद्गुरु-श्री-अभिनव विद्यातीर्थ महास्वामी-आराधना"
 id = "zRGgErI_35_jagadguru_zrI~abhinava_vidyAtIrtha_mahAsvAmI_ArAdhanA"
-id_display = "śṛṅgErī 35 jagadguru śrī abhinava vidyātīrtha mahāsvāmī ārādhanā"
+id_display = "śṛṅgerī 35 jagadguru śrī abhinava vidyātīrtha mahāsvāmī ārādhanā"
 slug = "zrggeri-35-jagadguru-zri-abhinava-vidyatirtha-mahasvami-aradhana"
 source_path = "mahApuruSha/zRGgErI-maTha/lunar_month/tithi/06/22/zRGgErI_35_jagadguru_zrI~abhinava_vidyAtIrtha_mahAsvAmI_ArAdhanA.toml"
 tags = ["MahapurushaEvents", "SringeriAradhanaDays"]

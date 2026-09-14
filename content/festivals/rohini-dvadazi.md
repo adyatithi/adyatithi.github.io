@@ -1,7 +1,7 @@
 +++
 title = "रोहिणी-द्वादशी"
 id = "rOhiNI~dvAdazI"
-id_display = "rOhiṇī dvādaśī"
+id_display = "rohiṇī dvādaśī"
 slug = "rohini-dvadazi"
 source_path = "general/lunar_month/tithi/05/27/rOhiNI~dvAdazI.toml"
 tags = ["LessCommonFestivals"]

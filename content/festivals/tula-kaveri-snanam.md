@@ -1,7 +1,7 @@
 +++
 title = "तुला-कावेरी-स्नानम्"
 id = "tulA-kAvErI-snAnam"
-id_display = "tulā-kāvErī-snānam"
+id_display = "tulā-kāverī-snānam"
 slug = "tula-kaveri-snanam"
 source_path = "devatA/nadI/description_only/tulA-kAvErI-snAnam.toml"
 tags = ["TamilnaduTempleFestivals", "SpecialPeriod"]

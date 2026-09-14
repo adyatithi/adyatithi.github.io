@@ -1,7 +1,7 @@
 +++
 title = "नभो-मासः/वर्षऋतुः/दक्षिणायनम्"
 id = "nabhO-mAsaH_or_varSaRtuH"
-id_display = "nabhO-māsaḥ or varṣaṛtuḥ"
+id_display = "nabho-māsaḥ òr varṣaṛtuḥ"
 slug = "nabho-masah-or-varsartuh"
 source_path = "time_focus/Rtu/tropical-ayanAdi/description_only/nabhO-mAsaH_or_varSaRtuH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

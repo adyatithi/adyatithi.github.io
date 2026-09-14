@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले प्लवोत्सवः"
 id = "vEGkaTAcalE_plavOtsavaH~3"
-id_display = "vEṅkaṭācalE plavOtsavaḥ 3"
+id_display = "veṅkaṭācale plavotsavaḥ 3"
 slug = "vegkatacale-plavotsavah-3"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_plavOtsava-samApanam/offset__-2/vEGkaTAcalE_plavOtsavaH~3.toml"
 tags = ["AndhraTempleFestivals"]

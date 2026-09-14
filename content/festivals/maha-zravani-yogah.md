@@ -1,7 +1,7 @@
 +++
 title = "महाश्रावणी-योगः"
 id = "mahA-zrAvaNI-yOgaH"
-id_display = "mahā-śrāvaṇī-yOgaḥ"
+id_display = "mahā-śrāvaṇī-yogaḥ"
 slug = "maha-zravani-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-zrAvaNI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

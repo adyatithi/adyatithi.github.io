@@ -1,7 +1,7 @@
 +++
-title = "tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"
+title = "tirukkuṟipput tòṇḍa nāyaṉmār (19) gurupūjai"
 id = "tirukkur2ipput_toNDa_nAyan2mAr_(19)_gurupUjai"
-id_display = "tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"
+id_display = "tirukkuṟipput tòṇḍa nāyaṉmār (19) gurupūjai"
 slug = "tirukkur2ipput-tonda-nayan2mar-19-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/15/tirukkur2ipput_toNDa_nAyan2mAr_(19)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ Moved by his sincere devotion, Bhagavan Shiva revealed Himself to Tiruthondar, c
 '''
 
 [names]
-ta = ["tirukkuṟipput toṇḍa nāyaṉmār (19) gurupūjai"]
+ta = ["tirukkuṟipput tòṇḍa nāyaṉmār (19) gurupūjai"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "शृङ्गेरी ३४ जगद्गुरु-श्री-चन्द्रशेखर भारती-३ जयन्ती"
 id = "zRGgErI_34_jagadguru_zrI~candrazEkhara_bhAratI~3_jayantI"
-id_display = "śṛṅgErī 34 jagadguru śrī candraśEkhara bhāratī 3 jayantī"
+id_display = "śṛṅgerī 34 jagadguru śrī candraśekhara bhāratī 3 jayantī"
 slug = "zrggeri-34-jagadguru-zri-candrazekhara-bharati-3-jayanti"
 source_path = "mahApuruSha/zRGgErI-maTha/lunar_month/tithi/07/26/zRGgErI_34_jagadguru_zrI~candrazEkhara_bhAratI~3_jayantI.toml"
 tags = ["MahapurushaEvents"]

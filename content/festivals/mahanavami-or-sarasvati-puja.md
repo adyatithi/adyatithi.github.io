@@ -1,7 +1,7 @@
 +++
 title = "महानवमी/सरस्वती-पूजा"
 id = "mahAnavamI_or_sarasvatI-pUjA"
-id_display = "mahānavamī or sarasvatī-pūjā"
+id_display = "mahānavamī òr sarasvatī-pūjā"
 slug = "mahanavami-or-sarasvati-puja"
 source_path = "general/lunar_month/tithi/07/09/mahAnavamI_or_sarasvatI-pUjA.toml"
 tags = ["CommonFestivals"]

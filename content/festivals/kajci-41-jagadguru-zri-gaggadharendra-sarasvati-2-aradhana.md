@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ४१ जगद्गुरु-श्री-गङ्गाधरेन्द्र-सरस्वती-२-आराधना"
 id = "kAJcI_41_jagadguru_zrI~gaGgAdharEndra_sarasvatI_2_ArAdhanA"
-id_display = "kāñcī 41 jagadguru śrī gaṅgādharEndra sarasvatī 2 ārādhanā"
+id_display = "kāñcī 41 jagadguru śrī gaṅgādharendra sarasvatī 2 ārādhanā"
 slug = "kajci-41-jagadguru-zri-gaggadharendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/01/kAJcI_41_jagadguru_zrI~gaGgAdharEndra_sarasvatI_2_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "āḍi veḻḻikkil̤amai"
+title = "āḍi vèḻḻikkil̤amai"
 id = "ADi~veLLikkizhamai"
-id_display = "āḍi veḻḻikkil̤amai"
+id_display = "āḍi vèḻḻikkil̤amai"
 slug = "adi-vellikkizhamai"
 source_path = "time_focus/vaara_conditioned/ADi~veLLikkizhamai.toml"
 tags = ["MonthWeekdayFestivals"]
@@ -14,5 +14,5 @@ Very widely celebrated in Tamil Nadu temples, Fridays in the month of `ADi` are 
 '''
 
 [names]
-ta = ["āḍi veḻḻikkil̤amai"]
+ta = ["āḍi vèḻḻikkil̤amai"]
 +++

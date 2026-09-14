@@ -1,7 +1,7 @@
 +++
 title = "पौष-अष्टका-पूर्वेद्युः"
 id = "pauSa-aSTakA-pUrvEdyuH"
-id_display = "pauṣa-aṣṭakā-pūrvEdyuḥ"
+id_display = "pauṣa-aṣṭakā-pūrvedyuḥ"
 slug = "pausa-astaka-purvedyuh"
 source_path = "devatA/pitR/relative_event/pauSa-aSTakA-zrAddham/offset__-1/pauSa-aSTakA-pUrvEdyuH.toml"
 tags = ["ShannavatiTarpanaDays"]

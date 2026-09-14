@@ -1,7 +1,7 @@
 +++
 title = "चामुण्डेश्वरी-जयन्ती"
 id = "cAmuNDEzvarI~jayantI"
-id_display = "cāmuṇḍEśvarī jayantī"
+id_display = "cāmuṇḍeśvarī jayantī"
 slug = "camundezvari-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/04/22/cAmuNDEzvarI~jayantI.toml"
 tags = ["OtherJayantis"]

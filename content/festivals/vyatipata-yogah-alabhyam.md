@@ -1,7 +1,7 @@
 +++
 title = "व्यतीपात-योगः (अलभ्यम्)"
 id = "vyatIpAta-yOgaH_(alabhyam)"
-id_display = "vyatīpāta-yOgaḥ (alabhyam)"
+id_display = "vyatīpāta-yogaḥ (alabhyam)"
 slug = "vyatipata-yogah-alabhyam"
 source_path = "time_focus/monthly/amAvAsyA/description_only/vyatIpAta-yOgaH_(alabhyam).toml"
 tags = ["RareDays", "Combinations", "AmavasyaDays"]

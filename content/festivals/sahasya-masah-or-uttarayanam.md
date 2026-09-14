@@ -1,7 +1,7 @@
 +++
 title = "सहस्य-मासः/उत्तरायणम्"
 id = "sahasya-mAsaH_or_uttarAyaNam"
-id_display = "sahasya-māsaḥ or uttarāyaṇam"
+id_display = "sahasya-māsaḥ òr uttarāyaṇam"
 slug = "sahasya-masah-or-uttarayanam"
 source_path = "time_focus/Rtu/tropical-viSuvAdi/description_only/sahasya-mAsaH_or_uttarAyaNam.toml"
 tags = ["SunSankranti", "CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "अलर्मेल्मङ्गापुरे प्लवोत्सवः"
 id = "alarmElmaGgApurE_plavOtsavaH"
-id_display = "alarmElmaṅgāpurE plavOtsavaḥ"
+id_display = "alarmelmaṅgāpure plavotsavaḥ"
 slug = "alarmelmaggapure-plavotsavah"
 source_path = "temples/Andhra/description_only/alarmElmaGgApurE_plavOtsavaH.toml"
 tags = ["AndhraTempleFestivals"]

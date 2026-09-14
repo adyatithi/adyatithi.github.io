@@ -1,7 +1,7 @@
 +++
 title = "महादेवाष्टमी"
 id = "mahAdEvASTamI"
-id_display = "mahādEvāṣṭamī"
+id_display = "mahādevāṣṭamī"
 slug = "mahadevastami"
 source_path = "temples/Kerala/lunar_month/tithi/08/23/mahAdEvASTamI.toml"
 tags = ["KeralaTempleFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "प्रोक्लस्-जन्म"
 id = "proklas-janma"
-id_display = "proklas-janma"
+id_display = "pròklas-janma"
 slug = "proklas-janma"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/02/08/proklas-janma.toml"
 tradition = ["General"]

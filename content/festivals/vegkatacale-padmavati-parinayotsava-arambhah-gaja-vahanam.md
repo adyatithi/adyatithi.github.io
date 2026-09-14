@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले पद्मावती-परिणयोत्सव-प्रारम्भः (गज-वाहनम्)"
 id = "vEGkaTAcalE_padmAvatI-pariNayOtsava-ArambhaH_(gaja-vAhanam)"
-id_display = "vEṅkaṭācalE padmāvatī-pariṇayOtsava-ārambhaḥ (gaja-vāhanam)"
+id_display = "veṅkaṭācale padmāvatī-pariṇayotsava-ārambhaḥ (gaja-vāhanam)"
 slug = "vegkatacale-padmavati-parinayotsava-arambhah-gaja-vahanam"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)/offset__-1/vEGkaTAcalE_padmAvatI-pariNayOtsava-ArambhaH_(gaja-vAhanam).toml"
 tags = ["AndhraTempleFestivals"]

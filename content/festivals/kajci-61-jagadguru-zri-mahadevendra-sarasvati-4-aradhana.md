@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६१ जगद्गुरु-श्री-महादेवेन्द्र-सरस्वती-४-आराधना"
 id = "kAJcI_61_jagadguru_zrI~mahAdEvEndra_sarasvatI_4_ArAdhanA"
-id_display = "kāñcī 61 jagadguru śrī mahādEvEndra sarasvatī 4 ārādhanā"
+id_display = "kāñcī 61 jagadguru śrī mahādevendra sarasvatī 4 ārādhanā"
 slug = "kajci-61-jagadguru-zri-mahadevendra-sarasvati-4-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/09/kAJcI_61_jagadguru_zrI~mahAdEvEndra_sarasvatI_4_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

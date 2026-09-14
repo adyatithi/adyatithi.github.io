@@ -1,7 +1,7 @@
 +++
 title = "महामार्गशीर्षी-योगः"
 id = "mahA-mArgazIrSI-yOgaH"
-id_display = "mahā-mārgaśīrṣī-yOgaḥ"
+id_display = "mahā-mārgaśīrṣī-yogaḥ"
 slug = "maha-margazirsi-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-mArgazIrSI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

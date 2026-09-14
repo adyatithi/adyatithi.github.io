@@ -1,7 +1,7 @@
 +++
 title = "महेश-नवमी"
 id = "mahEza-navamI"
-id_display = "mahEśa-navamī"
+id_display = "maheśa-navamī"
 slug = "maheza-navami"
 source_path = "devatA/shaiva/lunar_month/tithi/03/09/mahEza-navamI.toml"
 tags = ["LessCommonFestivals"]

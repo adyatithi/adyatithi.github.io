@@ -1,7 +1,7 @@
 +++
 title = "पार्वतीश्वरयोरान्दोलनव्रतम्"
 id = "pArvatIzvarayOrAndalanavratam"
-id_display = "pārvatīśvarayOrāndalanavratam"
+id_display = "pārvatīśvarayorāndalanavratam"
 slug = "parvatizvarayorandalanavratam"
 source_path = "devatA/shaiva/lunar_month/tithi/01/03/pArvatIzvarayOrAndalanavratam.toml"
 tags = ["LessCommonFestivals"]

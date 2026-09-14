@@ -1,7 +1,7 @@
 +++
-title = "tirunelvEli nellaiyappar patra dīpa tiruvil̤ā"
+title = "tirunèlveli nèllaiyappar patra dīpa tiruvil̤ā"
 id = "tirunelvEli_nellaiyappar_patra_dIpa_tiruvizhA"
-id_display = "tirunelvEli nellaiyappar patra dīpa tiruvil̤ā"
+id_display = "tirunèlveli nèllaiyappar patra dīpa tiruvil̤ā"
 slug = "tirunelveli-nellaiyappar-patra-dipa-tiruvizha"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/10/30/tirunelvEli_nellaiyappar_patra_dIpa_tiruvizhA.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -11,5 +11,5 @@ category = ["Temple Festivals"]
 timing_summary = "Makara (मकर) rāśi, sidereal, Kṛṣṇa Pakṣa Amāvāsyā"
 
 [names]
-ta = ["tirunelvEli nellaiyappar patra dīpa tiruvil̤ā"]
+ta = ["tirunèlveli nèllaiyappar patra dīpa tiruvil̤ā"]
 +++

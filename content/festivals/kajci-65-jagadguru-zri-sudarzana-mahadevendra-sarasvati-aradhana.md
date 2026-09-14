@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६५ जगद्गुरु-श्री-सुदर्शन-महादेवेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_65_jagadguru_zrI~sudarzana_mahAdEvEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 65 jagadguru śrī sudarśana mahādEvEndra sarasvatī ārādhanā"
+id_display = "kāñcī 65 jagadguru śrī sudarśana mahādevendra sarasvatī ārādhanā"
 slug = "kajci-65-jagadguru-zri-sudarzana-mahadevendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/12/30/kAJcI_65_jagadguru_zrI~sudarzana_mahAdEvEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "naṭarājar cittirai Oṇam mahābhiṣEkam"
+title = "naṭarājar cittirai oṇam mahābhiṣekam"
 id = "naTarAjar_cittirai_ONam_mahAbhiSEkam"
-id_display = "naṭarājar cittirai Oṇam mahābhiṣEkam"
+id_display = "naṭarājar cittirai oṇam mahābhiṣekam"
 slug = "natarajar-cittirai-onam-mahabhisekam"
 source_path = "temples/Tamil/sidereal_solar_month/nakshatra/01/22/naTarAjar_cittirai_ONam_mahAbhiSEkam.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -22,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naṭarājar cittirai Oṇam mahābhiṣEkam"]
+ta = ["naṭarājar cittirai oṇam mahābhiṣekam"]
 +++

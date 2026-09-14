@@ -1,7 +1,7 @@
 +++
-title = "EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"
+title = "eyarkoṉ kalikkāma nāyaṉmār (29) gurupūjai"
 id = "EyarkOn2_kalikkAma_nAyan2mAr_(29)_gurupUjai"
-id_display = "EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"
+id_display = "eyarkoṉ kalikkāma nāyaṉmār (29) gurupūjai"
 slug = "eyarkon2-kalikkama-nayan2mar-29-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/03/27/EyarkOn2_kalikkAma_nAyan2mAr_(29)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -25,5 +25,5 @@ Upon Sundaramurthi's arrival, Kalikama Nayanmar had already ended his life. This
 '''
 
 [names]
-ta = ["EyarkOṉ kalikkāma nāyaṉmār (29) gurupūjai"]
+ta = ["eyarkoṉ kalikkāma nāyaṉmār (29) gurupūjai"]
 +++

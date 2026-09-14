@@ -1,7 +1,7 @@
 +++
 title = "सावित्री-व्रतम्"
 id = "kAraDaiyAn2_nOn2bu"
-id_display = "kāraḍaiyāṉ nOṉbu"
+id_display = "kāraḍaiyāṉ noṉbu"
 slug = "karadaiyan2-non2bu"
 source_path = "tamil/description_only/kAraDaiyAn2_nOn2bu.toml"
 tags = ["CommonFestivalsTamilnadu"]
@@ -20,5 +20,5 @@ Generally in orthodox Tamil families, the married women fast till the vrata time
 
 [names]
 sa = ["सावित्री-व्रतम्"]
-ta = ["kāraḍaiyāṉ nOṉbu", "caraḍu-paṇḍigai"]
+ta = ["kāraḍaiyāṉ noṉbu", "caraḍu-paṇḍigai"]
 +++

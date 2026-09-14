@@ -1,7 +1,7 @@
 +++
 title = "शृङ्गेरी ३२ जगद्गुरु-श्री-नृसिंह भारती-आराधना"
 id = "zRGgErI_32_jagadguru_zrI~nRsiMha_bhAratI_ArAdhanA"
-id_display = "śṛṅgErī 32 jagadguru śrī nṛsiṃha bhāratī ārādhanā"
+id_display = "śṛṅgerī 32 jagadguru śrī nṛsiṃha bhāratī ārādhanā"
 slug = "zrggeri-32-jagadguru-zri-nrsimha-bharati-aradhana"
 source_path = "mahApuruSha/zRGgErI-maTha/lunar_month/tithi/03/02/zRGgErI_32_jagadguru_zrI~nRsiMha_bhAratI_ArAdhanA.toml"
 tags = ["MahapurushaEvents", "SringeriAradhanaDays"]

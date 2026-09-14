@@ -1,7 +1,7 @@
 +++
 title = "यम/भ्रातृ-द्वितीया"
 id = "yama_or_bhrAtR-dvitIyA"
-id_display = "yama or bhrātṛ-dvitīyā"
+id_display = "yama òr bhrātṛ-dvitīyā"
 slug = "yama-or-bhratr-dvitiya"
 source_path = "general/lunar_month/tithi/08/02/yama_or_bhrAtR-dvitIyA.toml"
 tags = ["CommonFestivals"]

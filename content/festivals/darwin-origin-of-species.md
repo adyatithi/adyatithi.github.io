@@ -1,7 +1,7 @@
 +++
 title = "डार्विन-विकास-वाद-ग्रन्थ-प्रकाशनम्"
 id = "darwin_origin-of-species"
-id_display = "darwin origin-of-species"
+id_display = "darwin òrigin-òf-spèciès"
 slug = "darwin-origin-of-species"
 source_path = "mahApuruSha/sci-tech/gregorian/day/11/24/darwin_origin-of-species.toml"
 tradition = ["Science & Technology"]

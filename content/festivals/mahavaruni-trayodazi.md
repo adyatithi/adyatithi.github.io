@@ -1,7 +1,7 @@
 +++
 title = "महावारुणी-त्रयोदशी"
 id = "mahAvAruNI~trayOdazI"
-id_display = "mahāvāruṇī trayOdaśī"
+id_display = "mahāvāruṇī trayodaśī"
 slug = "mahavaruni-trayodazi"
 source_path = "time_focus/special-tithis/description_only/mahAvAruNI~trayOdazI.toml"
 tags = ["RareDays", "Combinations"]

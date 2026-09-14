@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६९ जगद्गुरु-श्री-जयेन्द्र-सरस्वती-जयन्ती"
 id = "kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_jayantI"
-id_display = "kāñcī 69 jagadguru śrī jayEndra sarasvatī jayantī"
+id_display = "kāñcī 69 jagadguru śrī jayendra sarasvatī jayantī"
 slug = "kajci-69-jagadguru-zri-jayendra-sarasvati-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/sidereal_solar_month/nakshatra/04/23/kAJcI_69_jagadguru_zrI~jayEndra_sarasvatI_jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

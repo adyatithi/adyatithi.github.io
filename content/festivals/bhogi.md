@@ -1,7 +1,7 @@
 +++
-title = "bhOgi"
+title = "bhogi"
 id = "bhOgi"
-id_display = "bhOgi"
+id_display = "bhogi"
 slug = "bhogi"
 source_path = "tamil/relative_event/makara-saGkramaNa-puNyakAlaH/offset__-1/bhOgi.toml"
 tags = ["CommonFestivals"]
@@ -12,5 +12,5 @@ Bhogi, the first day of the Tamil Poṅgal festival, observed on the day before 
 '''
 
 [names]
-ta = ["bhOgi"]
+ta = ["bhogi"]
 +++

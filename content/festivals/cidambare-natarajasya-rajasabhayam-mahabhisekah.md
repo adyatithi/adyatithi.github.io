@@ -1,7 +1,7 @@
 +++
 title = "चिदम्बरे नटराजस्य राजसभायां महाभिषेकः"
 id = "cidambarE_naTarAjasya_rAjasabhAyAM_mahAbhiSEkaH"
-id_display = "cidambarE naṭarājasya rājasabhāyāṃ mahābhiṣEkaḥ"
+id_display = "cidambare naṭarājasya rājasabhāyāṃ mahābhiṣekaḥ"
 slug = "cidambare-natarajasya-rajasabhayam-mahabhisekah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__00/cidambarE_naTarAjasya_rAjasabhAyAM_mahAbhiSEkaH.toml"
 tags = ["TamilnaduTempleFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ३१ जगद्गुरु-श्री-ब्रह्मानन्दघनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_31_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 31 jagadguru śrī brahmānandaghanEndra sarasvatī ārādhanā"
+id_display = "kāñcī 31 jagadguru śrī brahmānandaghanendra sarasvatī ārādhanā"
 slug = "kajci-31-jagadguru-zri-brahmanandaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/12/kAJcI_31_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

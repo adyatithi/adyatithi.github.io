@@ -1,7 +1,7 @@
 +++
 title = "श्रीकृष्णदोलोत्सवः"
 id = "zrIkRSNadOlOtsavaH"
-id_display = "śrīkṛṣṇadOlOtsavaḥ"
+id_display = "śrīkṛṣṇadolotsavaḥ"
 slug = "zrikrsnadolotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/11/zrIkRSNadOlOtsavaH.toml"
 tags = ["LessCommonFestivals"]

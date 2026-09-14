@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची १४ जगद्गुरु-श्री-विद्याघनेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_14_jagadguru_zrI~vidyAghanEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 14 jagadguru śrī vidyāghanEndra sarasvatī ārādhanā"
+id_display = "kāñcī 14 jagadguru śrī vidyāghanendra sarasvatī ārādhanā"
 slug = "kajci-14-jagadguru-zri-vidyaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/30/kAJcI_14_jagadguru_zrI~vidyAghanEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

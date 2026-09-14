@@ -1,7 +1,7 @@
 +++
-title = "ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"
+title = "ciṟuttòṇḍa nāyaṉmār (36) gurupūjai"
 id = "cir2uttoNDa_nAyan2mAr_(36)_gurupUjai"
-id_display = "ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"
+id_display = "ciṟuttòṇḍa nāyaṉmār (36) gurupūjai"
 slug = "cir2uttonda-nayan2mar-36-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/01/02/cir2uttoNDa_nAyan2mAr_(36)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ Siruthondar, determined to fulfill the devotee's request, readily considered his
 '''
 
 [names]
-ta = ["ciṟuttoṇḍa nāyaṉmār (36) gurupūjai"]
+ta = ["ciṟuttòṇḍa nāyaṉmār (36) gurupūjai"]
 +++

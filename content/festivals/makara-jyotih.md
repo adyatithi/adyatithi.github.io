@@ -1,7 +1,7 @@
 +++
 title = "मकर-ज्योतिः"
 id = "makara-jyOtiH"
-id_display = "makara-jyOtiḥ"
+id_display = "makara-jyotiḥ"
 slug = "makara-jyotih"
 source_path = "temples/Kerala/sidereal_solar_month/day/10/01/makara-jyOtiH.toml"
 tags = ["KeralaTempleFestivals", "CommonFestivals"]

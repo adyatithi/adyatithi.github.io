@@ -1,7 +1,7 @@
 +++
 title = "गजेन्द्र-मोक्षः"
 id = "gajEndra-mOkSaH~1"
-id_display = "gajEndra-mOkṣaḥ 1"
+id_display = "gajendra-mokṣaḥ 1"
 slug = "gajendra-moksah-1"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/15/gajEndra-mOkSaH~1.toml"
 tags = ["PuranaEvents", "CommonFestivals"]

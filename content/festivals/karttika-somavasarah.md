@@ -1,7 +1,7 @@
 +++
 title = "कार्त्तिक-सोमवासरः"
 id = "kArttika~sOmavAsaraH"
-id_display = "kārttika sOmavāsaraḥ"
+id_display = "kārttika somavāsaraḥ"
 slug = "karttika-somavasarah"
 source_path = "time_focus/vaara_conditioned/kArttika~sOmavAsaraH.toml"
 tags = ["MonthWeekdayFestivals"]

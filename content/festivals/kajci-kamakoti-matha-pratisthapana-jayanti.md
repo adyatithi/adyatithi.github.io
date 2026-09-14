@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची-कामकोटि-मठ-प्रतिष्ठापन-जयन्ती"
 id = "kAJcI_kAmakOTi-maTha-pratiSThApana~jayantI"
-id_display = "kāñcī kāmakOṭi-maṭha-pratiṣṭhāpana jayantī"
+id_display = "kāñcī kāmakoṭi-maṭha-pratiṣṭhāpana jayantī"
 slug = "kajci-kamakoti-matha-pratisthapana-jayanti"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/15/kAJcI_kAmakOTi-maTha-pratiSThApana~jayantI.toml"
 tags = ["AdiShankaraHistory", "CommonFestivals"]

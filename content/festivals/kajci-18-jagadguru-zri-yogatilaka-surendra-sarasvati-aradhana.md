@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची १८ जगद्गुरु-श्री-योगतिलक-सुरेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_18_jagadguru_zrI~yOgatilaka_surEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 18 jagadguru śrī yOgatilaka surEndra sarasvatī ārādhanā"
+id_display = "kāñcī 18 jagadguru śrī yogatilaka surendra sarasvatī ārādhanā"
 slug = "kajci-18-jagadguru-zri-yogatilaka-surendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/01/kAJcI_18_jagadguru_zrI~yOgatilaka_surEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

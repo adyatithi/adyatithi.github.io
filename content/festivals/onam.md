@@ -1,7 +1,7 @@
 +++
-title = "Oṇam"
+title = "oṇam"
 id = "ONam"
-id_display = "Oṇam"
+id_display = "oṇam"
 slug = "onam"
 source_path = "tamil/sidereal_solar_month/nakshatra/05/22/ONam.toml"
 tags = ["CommonFestivals"]
@@ -13,5 +13,5 @@ priority_rule = "paraviddha"
 timing_summary = "Siṃha (सिंह) rāśi, sidereal, Śravaṇa nakṣatra, at प्रातः"
 
 [names]
-ta = ["Oṇam"]
+ta = ["oṇam"]
 +++

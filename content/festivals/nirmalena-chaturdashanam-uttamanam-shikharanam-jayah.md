@@ -1,7 +1,7 @@
 +++
 title = "निर्मलेन चतुर्दशानाम् उत्तमानां शिखराणां जयः"
 id = "nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH"
-id_display = "nirmalena chaturdashānām uttamānāṃ shikharāṇāṃ jayaḥ"
+id_display = "nirmalèna chaturdashānām uttamānāṃ shikharāṇāṃ jayaḥ"
 slug = "nirmalena-chaturdashanam-uttamanam-shikharanam-jayah"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/10/29/nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH.toml"
 tradition = ["General"]

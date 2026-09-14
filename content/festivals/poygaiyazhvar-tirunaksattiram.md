@@ -1,7 +1,7 @@
 +++
-title = "poygaiyāl̤vār tirunakṣattiram"
+title = "pòygaiyāl̤vār tirunakṣattiram"
 id = "poygaiyAzhvAr_tirunakSattiram"
-id_display = "poygaiyāl̤vār tirunakṣattiram"
+id_display = "pòygaiyāl̤vār tirunakṣattiram"
 slug = "poygaiyazhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/07/22/poygaiyAzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
@@ -14,5 +14,5 @@ priority_rule = "paraviddha"
 timing_summary = "Tulā (तुला) rāśi, sidereal, Śravaṇa nakṣatra, at प्रातः"
 
 [names]
-ta = ["poygaiyāl̤vār tirunakṣattiram"]
+ta = ["pòygaiyāl̤vār tirunakṣattiram"]
 +++

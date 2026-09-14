@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६४ जगद्गुरु-श्री-चन्द्रशेखरेन्द्र-सरस्वती-५-आराधना"
 id = "kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA"
-id_display = "kāñcī 64 jagadguru śrī candraśEkharEndra sarasvatī 5 ārādhanā"
+id_display = "kāñcī 64 jagadguru śrī candraśekharendra sarasvatī 5 ārādhanā"
 slug = "kajci-64-jagadguru-zri-candrazekharendra-sarasvati-5-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/16/kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

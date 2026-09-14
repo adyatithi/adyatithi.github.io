@@ -8,8 +8,8 @@
   </div>
 
   {{ $groups := slice
-      (dict "key" "month" "label" "Month" "tax" .Site.Taxonomies.month)
-      (dict "key" "rashi" "label" "Rāśi" "tax" .Site.Taxonomies.rashi)
+      (dict "key" "month" "label" "Lunar Month" "tax" .Site.Taxonomies.month)
+      (dict "key" "rashi" "label" "Solar Month" "tax" .Site.Taxonomies.rashi)
       (dict "key" "devata" "label" "Devatā" "tax" .Site.Taxonomies.devata)
       (dict "key" "tradition" "label" "Tradition" "tax" .Site.Taxonomies.tradition)
       (dict "key" "tithi" "label" "Tithi" "tax" .Site.Taxonomies.tithi)

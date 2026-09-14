@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ६ जगद्गुरु-श्री-शुद्धानन्देन्द्र-सरस्वती-आराधना"
 id = "kAJcI_6_jagadguru_zrI~zuddhAnandEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 6 jagadguru śrī śuddhānandEndra sarasvatī ārādhanā"
+id_display = "kāñcī 6 jagadguru śrī śuddhānandendra sarasvatī ārādhanā"
 slug = "kajci-6-jagadguru-zri-zuddhanandendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/06/kAJcI_6_jagadguru_zrI~zuddhAnandEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

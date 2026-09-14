@@ -1,7 +1,7 @@
 +++
 title = "मेष-सङ्क्रमण-पुण्यकालः"
 id = "mESa-saGkramaNa-puNyakAlaH"
-id_display = "mEṣa-saṅkramaṇa-puṇyakālaḥ"
+id_display = "meṣa-saṅkramaṇa-puṇyakālaḥ"
 slug = "mesa-sagkramana-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/mESa-saGkramaNa-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]

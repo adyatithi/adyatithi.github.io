@@ -1,7 +1,7 @@
 +++
-title = "perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
+title = "pèrumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
 id = "perumizhalaik_kur2umba_nAyan2mAr_(23)_gurupUjai"
-id_display = "perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
+id_display = "pèrumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"
 slug = "perumizhalaik-kur2umba-nayan2mar-23-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/14/perumizhalaik_kur2umba_nAyan2mAr_(23)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -23,5 +23,5 @@ When Sundarar was about to leave the mortal world and attain his place in Shiva'
 '''
 
 [names]
-ta = ["perumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"]
+ta = ["pèrumil̤alaik kuṟumba nāyaṉmār (23) gurupūjai"]
 +++

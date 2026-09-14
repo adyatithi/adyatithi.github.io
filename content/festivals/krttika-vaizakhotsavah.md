@@ -1,7 +1,7 @@
 +++
 title = "कृत्तिकावैषाखोत्सवः"
 id = "kRttikA-vaizAkhOtsavaH"
-id_display = "kṛttikā-vaiśākhOtsavaḥ"
+id_display = "kṛttikā-vaiśākhotsavaḥ"
 slug = "krttika-vaizakhotsavah"
 source_path = "devatA/kaumAra/sidereal_solar_month/nakshatra/02/16/kRttikA-vaizAkhOtsavaH.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "त्रेतायुगान्तः"
 id = "trEtAyugAntaH"
-id_display = "trEtāyugāntaḥ"
+id_display = "tretāyugāntaḥ"
 slug = "tretayugantah"
 source_path = "time_focus/yugAdiH/relative_event/vRzcika-ravi-saGkramaNa-viSNupadI-puNyakAlaH/offset__00/trEtAyugAntaH.toml"
 tags = ["CommonFestivals"]

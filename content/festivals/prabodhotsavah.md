@@ -1,7 +1,7 @@
 +++
 title = "प्रबोधोत्सवः"
 id = "prabOdhOtsavaH"
-id_display = "prabOdhOtsavaḥ"
+id_display = "prabodhotsavaḥ"
 slug = "prabodhotsavah"
 source_path = "general/lunar_month/tithi/08/12/prabOdhOtsavaH.toml"
 tags = ["CommonFestivals"]

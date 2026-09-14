@@ -1,7 +1,7 @@
 +++
 title = "यशोदा-जयन्ती"
 id = "yazOdA~jayantI"
-id_display = "yaśOdā jayantī"
+id_display = "yaśodā jayantī"
 slug = "yazoda-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/11/21/yazOdA~jayantI.toml"
 tags = ["OtherJayantis", "CommonFestivals"]

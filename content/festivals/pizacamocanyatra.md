@@ -1,7 +1,7 @@
 +++
 title = "पिशाचमोचनयात्रा"
 id = "pizAcamOcanyAtrA"
-id_display = "piśācamOcanyātrā"
+id_display = "piśācamocanyātrā"
 slug = "pizacamocanyatra"
 source_path = "temples/North/lunar_month/tithi/09/14/pizAcamOcanyAtrA.toml"
 tags = ["Temple Festivals"]

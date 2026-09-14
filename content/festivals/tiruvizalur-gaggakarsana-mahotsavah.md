@@ -1,7 +1,7 @@
 +++
 title = "तिरुविशलूर् गङ्गाकर्षण-महोत्सवः"
 id = "tiruvizalUr_gaGgAkarSaNa-mahOtsavaH"
-id_display = "tiruviśalūr gaṅgākarṣaṇa-mahOtsavaḥ"
+id_display = "tiruviśalūr gaṅgākarṣaṇa-mahotsavaḥ"
 slug = "tiruvizalur-gaggakarsana-mahotsavah"
 source_path = "temples/Tamil/description_only/tiruvizalUr_gaGgAkarSaNa-mahOtsavaH.toml"
 tags = ["MahapurushaEvents", "TamilnaduTempleFestivals"]

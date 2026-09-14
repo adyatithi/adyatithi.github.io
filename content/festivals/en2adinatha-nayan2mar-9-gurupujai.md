@@ -1,7 +1,7 @@
 +++
-title = "Eṉādinātha nāyaṉmār (9) gurupūjai"
+title = "eṉādinātha nāyaṉmār (9) gurupūjai"
 id = "En2AdinAtha_nAyan2mAr_(9)_gurupUjai"
-id_display = "Eṉādinātha nāyaṉmār (9) gurupūjai"
+id_display = "eṉādinātha nāyaṉmār (9) gurupūjai"
 slug = "en2adinatha-nayan2mar-9-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/06/21/En2AdinAtha_nAyan2mAr_(9)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -27,5 +27,5 @@ Bhagavan Shiva, impressed by Enadinatha's profound devotion and self-sacrifice f
 '''
 
 [names]
-ta = ["Eṉādinātha nāyaṉmār (9) gurupūjai"]
+ta = ["eṉādinātha nāyaṉmār (9) gurupūjai"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "अक्षय-तृतीया (अलभ्यम्–बुध-रोहिणी)"
 id = "akSaya-tRtIyA~(alabhyam–budha-rOhiNI)"
-id_display = "akṣaya-tṛtīyā (alabhyam–budha-rOhiṇī)"
+id_display = "akṣaya-tṛtīyā (alabhyam–budha-rohiṇī)"
 slug = "aksaya-trtiya-alabhyambudha-rohini"
 source_path = "general/description_only/akSaya-tRtIyA~(alabhyam–budha-rOhiNI).toml"
 tags = ["CommonFestivals"]

@@ -1,7 +1,7 @@
 +++
 title = "महा-आश्वयुजी-योगः"
 id = "mahA-AzvayujI-yOgaH"
-id_display = "mahā-āśvayujī-yOgaḥ"
+id_display = "mahā-āśvayujī-yogaḥ"
 slug = "maha-azvayuji-yogah"
 source_path = "time_focus/special-tithis/description_only/mahA-AzvayujI-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

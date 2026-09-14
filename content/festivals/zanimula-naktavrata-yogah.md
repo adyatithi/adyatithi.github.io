@@ -1,7 +1,7 @@
 +++
 title = "शनिमूला-नक्तव्रत-योगः"
 id = "zanimUlA-naktavrata-yOgaH"
-id_display = "śanimūlā-naktavrata-yOgaḥ"
+id_display = "śanimūlā-naktavrata-yogaḥ"
 slug = "zanimula-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/zanimUlA-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

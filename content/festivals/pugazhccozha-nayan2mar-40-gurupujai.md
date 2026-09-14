@@ -1,7 +1,7 @@
 +++
-title = "pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"
+title = "pugal̤ccol̤a nāyaṉmār (40) gurupūjai"
 id = "pugazhccOzha_nAyan2mAr_(40)_gurupUjai"
-id_display = "pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"
+id_display = "pugal̤ccol̤a nāyaṉmār (40) gurupūjai"
 slug = "pugazhccozha-nayan2mar-40-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/04/03/pugazhccOzha_nAyan2mAr_(40)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -25,5 +25,5 @@ Among these heads, the king shockingly discovered one that bore the distinctive 
 '''
 
 [names]
-ta = ["pugal̤ccOl̤a nāyaṉmār (40) gurupūjai"]
+ta = ["pugal̤ccol̤a nāyaṉmār (40) gurupūjai"]
 +++

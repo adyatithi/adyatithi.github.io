@@ -1,7 +1,7 @@
 +++
 title = "विवेकानन्द-भाषणं चिकागोनगरे"
 id = "vivekAnanda-speech"
-id_display = "vivekānanda-speech"
+id_display = "vivèkānanda-spèèch"
 slug = "vivekananda-speech"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/09/11/vivekAnanda-speech.toml"
 tradition = ["General"]

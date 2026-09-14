@@ -1,7 +1,7 @@
 +++
 title = "महामाघोत्सवः"
 id = "mahAmaghOtsavaH"
-id_display = "mahāmaghOtsavaḥ"
+id_display = "mahāmaghotsavaḥ"
 slug = "mahamaghotsavah"
 source_path = "time_focus/special-tithis/description_only/mahAmaghOtsavaH.toml"
 tags = ["RareDays", "TamilnaduTempleFestivals", "Combinations"]

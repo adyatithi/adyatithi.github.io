@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ४८ जगद्गुरु-श्री-अद्वैतानन्दबोधेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_48_jagadguru_zrI~advaitAnandabOdhEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 48 jagadguru śrī advaitānandabOdhEndra sarasvatī ārādhanā"
+id_display = "kāñcī 48 jagadguru śrī advaitānandabodhendra sarasvatī ārādhanā"
 slug = "kajci-48-jagadguru-zri-advaitanandabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/10/kAJcI_48_jagadguru_zrI~advaitAnandabOdhEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

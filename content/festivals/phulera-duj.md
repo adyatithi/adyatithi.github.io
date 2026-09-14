@@ -1,7 +1,7 @@
 +++
 title = "फूलेरा-दूज्"
 id = "phUlErA~dUj"
-id_display = "phūlErā dūj"
+id_display = "phūlerā dūj"
 slug = "phulera-duj"
 source_path = "temples/North/lunar_month/tithi/12/02/phUlErA~dUj.toml"
 tags = ["UttarPradeshTempleFestivals"]

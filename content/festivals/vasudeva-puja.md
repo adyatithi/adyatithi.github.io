@@ -1,7 +1,7 @@
 +++
 title = "वसुदेव-पूजा"
 id = "vasudEva-pUjA"
-id_display = "vasudEva-pūjā"
+id_display = "vasudeva-pūjā"
 slug = "vasudeva-puja"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/27/vasudEva-pUjA.toml"
 tags = ["LessCommonFestivals"]

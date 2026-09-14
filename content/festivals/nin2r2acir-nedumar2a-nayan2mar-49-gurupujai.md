@@ -1,7 +1,7 @@
 +++
-title = "niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"
+title = "niṉṟacīr nèḍumāṟa nāyaṉmār (49) gurupūjai"
 id = "nin2r2acIr_neDumAr2a_nAyan2mAr_(49)_gurupUjai"
-id_display = "niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"
+id_display = "niṉṟacīr nèḍumāṟa nāyaṉmār (49) gurupūjai"
 slug = "nin2r2acir-nedumar2a-nayan2mar-49-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/07/02/nin2r2acIr_neDumAr2a_nAyan2mAr_(49)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -25,5 +25,5 @@ Following his conversion, the king conquered northern kings at Tirunelveli, spre
 '''
 
 [names]
-ta = ["niṉṟacīr neḍumāṟa nāyaṉmār (49) gurupūjai"]
+ta = ["niṉṟacīr nèḍumāṟa nāyaṉmār (49) gurupūjai"]
 +++

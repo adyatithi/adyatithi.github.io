@@ -1,7 +1,7 @@
 +++
 title = "पुष्कर-मेला-समाप्तिः"
 id = "puShkara-melA-samAptiH"
-id_display = "puṣhkara-melā-samāptiḥ"
+id_display = "puṣhkara-mèlā-samāptiḥ"
 slug = "pushkara-mela-samaptih"
 source_path = "temples/North/lunar_month/tithi/08/15/puShkara-melA-samAptiH.toml"
 month = ["Kārtika"]

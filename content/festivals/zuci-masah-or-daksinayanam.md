@@ -1,7 +1,7 @@
 +++
 title = "शुचि-मासः/दक्षिणायनम्"
 id = "zuci-mAsaH_or_dakSiNAyanam"
-id_display = "śuci-māsaḥ or dakṣiṇāyanam"
+id_display = "śuci-māsaḥ òr dakṣiṇāyanam"
 slug = "zuci-masah-or-daksinayanam"
 source_path = "time_focus/Rtu/tropical-viSuvAdi/description_only/zuci-mAsaH_or_dakSiNAyanam.toml"
 tags = ["SunSankranti", "CommonFestivals"]

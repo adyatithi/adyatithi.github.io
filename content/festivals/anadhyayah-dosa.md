@@ -1,7 +1,7 @@
 +++
 title = "अनध्यायः"
 id = "anadhyAyaH~dOSa"
-id_display = "anadhyāyaḥ dOṣa"
+id_display = "anadhyāyaḥ doṣa"
 slug = "anadhyayah-dosa"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~dOSa.toml"
 tags = ["Anadhyayana Days"]

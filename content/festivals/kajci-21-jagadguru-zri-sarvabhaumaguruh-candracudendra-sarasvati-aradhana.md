@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची २१ जगद्गुरु-श्री-सार्वभौमगुरुः-चन्द्रचूडेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_21_jagadguru_zrI~sArvabhaumaguruH_candracUDEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 21 jagadguru śrī sārvabhaumaguruḥ candracūḍEndra sarasvatī ārādhanā"
+id_display = "kāñcī 21 jagadguru śrī sārvabhaumaguruḥ candracūḍendra sarasvatī ārādhanā"
 slug = "kajci-21-jagadguru-zri-sarvabhaumaguruh-candracudendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/23/kAJcI_21_jagadguru_zrI~sArvabhaumaguruH_candracUDEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

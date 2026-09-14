@@ -1,7 +1,7 @@
 +++
 title = "भृगुज्येष्ठ-नक्तव्रत-योगः"
 id = "bhRgujyESTha-naktavrata-yOgaH"
-id_display = "bhṛgujyEṣṭha-naktavrata-yOgaḥ"
+id_display = "bhṛgujyeṣṭha-naktavrata-yogaḥ"
 slug = "bhrgujyestha-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/bhRgujyESTha-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

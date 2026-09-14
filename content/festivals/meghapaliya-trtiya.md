@@ -1,7 +1,7 @@
 +++
 title = "मेघपालीय-तृतीया"
 id = "mEghapAlIya-tRtIyA"
-id_display = "mEghapālīya-tṛtīyā"
+id_display = "meghapālīya-tṛtīyā"
 slug = "meghapaliya-trtiya"
 source_path = "general/lunar_month/tithi/07/03/mEghapAlIya-tRtIyA.toml"
 tags = ["LessCommonFestivals"]

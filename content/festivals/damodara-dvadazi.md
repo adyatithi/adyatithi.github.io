@@ -1,7 +1,7 @@
 +++
 title = "दामोदर-द्वादशी"
 id = "dAmOdara-dvAdazI"
-id_display = "dāmOdara-dvādaśī"
+id_display = "dāmodara-dvādaśī"
 slug = "damodara-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/12/dAmOdara-dvAdazI.toml"
 tags = ["SpecialPuja"]

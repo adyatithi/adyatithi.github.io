@@ -1,7 +1,7 @@
 +++
 title = "दमनक-चोरी-उत्सवः"
 id = "damanaka-cOrI-utsavaH"
-id_display = "damanaka-cOrī-utsavaḥ"
+id_display = "damanaka-corī-utsavaḥ"
 slug = "damanaka-cori-utsavah"
 source_path = "temples/Odisha/lunar_month/tithi/01/13/damanaka-cOrI-utsavaH.toml"
 tags = ["OdishaTempleFestivals"]

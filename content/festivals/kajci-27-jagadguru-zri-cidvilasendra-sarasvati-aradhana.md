@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची २७ जगद्गुरु-श्री-चिद्विलासेन्द्र-सरस्वती-आराधना"
 id = "kAJcI_27_jagadguru_zrI~cidvilAsEndra_sarasvatI_ArAdhanA"
-id_display = "kāñcī 27 jagadguru śrī cidvilāsEndra sarasvatī ārādhanā"
+id_display = "kāñcī 27 jagadguru śrī cidvilāsendra sarasvatī ārādhanā"
 slug = "kajci-27-jagadguru-zri-cidvilasendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/01/kAJcI_27_jagadguru_zrI~cidvilAsEndra_sarasvatI_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

@@ -1,7 +1,7 @@
 +++
-title = "garbhOṭṭam-ārambham"
+title = "garbhoṭṭam-ārambham"
 id = "garbhOTTam-Arambham"
-id_display = "garbhOṭṭam-ārambham"
+id_display = "garbhoṭṭam-ārambham"
 slug = "garbhottam-arambham"
 source_path = "tamil/description_only/garbhOTTam-Arambham.toml"
 tags = ["LessCommonFestivals"]
@@ -12,5 +12,5 @@ The generation of clouds during this period is correlated with the prevalence of
 '''
 
 [names]
-ta = ["garbhOṭṭam ārambham"]
+ta = ["garbhoṭṭam ārambham"]
 +++

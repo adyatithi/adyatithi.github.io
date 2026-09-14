@@ -1,7 +1,7 @@
 +++
 title = "तिरुवनन्तपुर-देवायतन-प्रवेश-घोषणा"
 id = "travencore-temple-entry-proclamation"
-id_display = "travencore-temple-entry-proclamation"
+id_display = "travèncòrè-tèmplè-èntry-pròclamatiòn"
 slug = "travencore-temple-entry-proclamation"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/11/12/travencore-temple-entry-proclamation.toml"
 tradition = ["General"]

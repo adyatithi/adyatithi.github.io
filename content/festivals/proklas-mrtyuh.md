@@ -1,7 +1,7 @@
 +++
 title = "प्रोक्लस्-मृत्युः"
 id = "proklas-mRtyuH"
-id_display = "proklas-mṛtyuḥ"
+id_display = "pròklas-mṛtyuḥ"
 slug = "proklas-mrtyuh"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/04/17/proklas-mRtyuH.toml"
 tradition = ["General"]

@@ -1,7 +1,7 @@
 +++
 title = "तुलसी-विवाहोत्सव-आरम्भः"
 id = "tulasI-vivAhOtsava-ArambhaH"
-id_display = "tulasī-vivāhOtsava-ārambhaḥ"
+id_display = "tulasī-vivāhotsava-ārambhaḥ"
 slug = "tulasi-vivahotsava-arambhah"
 source_path = "devatA/misc-flora/lunar_month/tithi/08/09/tulasI-vivAhOtsava-ArambhaH.toml"
 tags = ["LessCommonFestivals"]

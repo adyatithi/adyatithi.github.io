@@ -1,7 +1,7 @@
 +++
 title = "मनोरथ-द्वितीया"
 id = "manOratha-dvitIyA"
-id_display = "manOratha-dvitīyā"
+id_display = "manoratha-dvitīyā"
 slug = "manoratha-dvitiya"
 source_path = "general/lunar_month/tithi/05/02/manOratha-dvitIyA.toml"
 tags = ["LessCommonFestivals", "SpecialPuja"]

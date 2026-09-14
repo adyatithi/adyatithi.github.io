@@ -1,8 +1,13 @@
 {{ define "main" }}
+{{ $pluralLabels := dict
+    "tag" "Tags" "devata" "Devatās" "tradition" "Traditions"
+    "month" "Lunar Months" "rashi" "Solar Months"
+    "tithi" "Tithis" "nakshatra" "Nakṣatras" "category" "Categories"
+}}
 <section class="page-header">
   <div class="wrap">
     <p class="eyebrow">Browse by</p>
-    <h1>{{ .Title }}</h1>
+    <h1>{{ index $pluralLabels .Data.Plural | default .Title }}</h1>
   </div>
 </section>
 <section class="wrap">

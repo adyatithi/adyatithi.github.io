@@ -1,7 +1,7 @@
 +++
-title = "māci cevvāy"
+title = "māci cèvvāy"
 id = "mAci~cevvAy"
-id_display = "māci cevvāy"
+id_display = "māci cèvvāy"
 slug = "maci-cevvay"
 source_path = "time_focus/vaara_conditioned/mAci~cevvAy.toml"
 tags = ["MonthWeekdayFestivals"]
@@ -14,5 +14,5 @@ Do `upavAsam` (at least do not take salt) and pray to Bhagavan Shiva (Vaidyanath
 '''
 
 [names]
-ta = ["māci cevvāy"]
+ta = ["māci cèvvāy"]
 +++

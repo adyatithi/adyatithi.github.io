@@ -1,7 +1,7 @@
 +++
-title = "tiruccendūr āvaṇit tiruvil̤ā niṟaivu"
+title = "tiruccèndūr āvaṇit tiruvil̤ā niṟaivu"
 id = "tiruccendUr_AvaNit_tiruvizhA_nir2aivu"
-id_display = "tiruccendūr āvaṇit tiruvil̤ā niṟaivu"
+id_display = "tiruccèndūr āvaṇit tiruvil̤ā niṟaivu"
 slug = "tiruccendur-avanit-tiruvizha-nir2aivu"
 source_path = "temples/Tamil/sidereal_solar_month/nakshatra/05/16/tiruccendUr_AvaNit_tiruvizhA_nir2aivu.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -17,5 +17,5 @@ The Tiruchendur Brahmotsavam of Avani each year is very special. The festival is
 '''
 
 [names]
-ta = ["tiruccendūr āvaṇit tiruvil̤ā niṟaivu"]
+ta = ["tiruccèndūr āvaṇit tiruvil̤ā niṟaivu"]
 +++

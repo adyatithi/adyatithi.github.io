@@ -1,7 +1,7 @@
 +++
 title = "वितस्तोत्सवः"
 id = "vitastOtsavaH"
-id_display = "vitastOtsavaḥ"
+id_display = "vitastotsavaḥ"
 slug = "vitastotsavah"
 source_path = "devatA/nadI/lunar_month/tithi/06/10/vitastOtsavaH.toml"
 tags = ["SpecialSnanam"]

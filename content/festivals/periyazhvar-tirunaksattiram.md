@@ -1,7 +1,7 @@
 +++
-title = "periyāl̤vār tirunakṣattiram"
+title = "pèriyāl̤vār tirunakṣattiram"
 id = "periyAzhvAr_tirunakSattiram"
-id_display = "periyāl̤vār tirunakṣattiram"
+id_display = "pèriyāl̤vār tirunakṣattiram"
 slug = "periyazhvar-tirunaksattiram"
 source_path = "mahApuruSha/ALvAr/sidereal_solar_month/nakshatra/03/15/periyAzhvAr_tirunakSattiram.toml"
 tags = ["MahapurushaEvents", "AzhwarJayanti"]
@@ -14,5 +14,5 @@ priority_rule = "paraviddha"
 timing_summary = "Mithuna (मिथुन) rāśi, sidereal, Svātī nakṣatra, at प्रातः"
 
 [names]
-ta = ["periyāl̤vār tirunakṣattiram"]
+ta = ["pèriyāl̤vār tirunakṣattiram"]
 +++

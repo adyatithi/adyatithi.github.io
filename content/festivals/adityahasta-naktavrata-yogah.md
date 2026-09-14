@@ -1,7 +1,7 @@
 +++
 title = "आदित्यहस्त-नक्त-व्रत-योगः"
 id = "Adityahasta-naktavrata-yOgaH"
-id_display = "ādityahasta-naktavrata-yOgaḥ"
+id_display = "ādityahasta-naktavrata-yogaḥ"
 slug = "adityahasta-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/Adityahasta-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

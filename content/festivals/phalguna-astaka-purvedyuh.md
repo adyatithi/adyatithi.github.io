@@ -1,7 +1,7 @@
 +++
 title = "फाल्गुन-अष्टका-पूर्वेद्युः"
 id = "phAlguna-aSTakA-pUrvEdyuH"
-id_display = "phālguna-aṣṭakā-pūrvEdyuḥ"
+id_display = "phālguna-aṣṭakā-pūrvedyuḥ"
 slug = "phalguna-astaka-purvedyuh"
 source_path = "devatA/pitR/relative_event/phAlguna-aSTakA-zrAddham/offset__-1/phAlguna-aSTakA-pUrvEdyuH.toml"
 tags = ["ShannavatiTarpanaDays"]

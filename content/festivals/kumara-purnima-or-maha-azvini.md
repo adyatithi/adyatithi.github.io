@@ -1,7 +1,7 @@
 +++
 title = "कुमार-पूर्णिमा/महा-अश्विनी"
 id = "kumAra-pUrNimA_or_mahA-azvinI"
-id_display = "kumāra-pūrṇimā or mahā-aśvinī"
+id_display = "kumāra-pūrṇimā òr mahā-aśvinī"
 slug = "kumara-purnima-or-maha-azvini"
 source_path = "devatA/kaumAra/lunar_month/tithi/07/15/kumAra-pUrNimA_or_mahA-azvinI.toml"
 tags = ["PurnimaDays"]

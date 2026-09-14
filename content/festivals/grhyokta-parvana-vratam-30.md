@@ -1,7 +1,7 @@
 +++
 title = "पार्वणव्रतम् अमावास्यायाम् (गृह्योक्तमानम्)"
 id = "gRhyokta-pArvaNa-vratam_30"
-id_display = "gṛhyokta-pārvaṇa-vratam 30"
+id_display = "gṛhyòkta-pārvaṇa-vratam 30"
 slug = "grhyokta-parvana-vratam-30"
 source_path = "gRhya/Apastamba_seasonal/relative_event/gRhyokta-sthAlIpAkaH_1/offset__-1/gRhyokta-pArvaNa-vratam_30.toml"
 category = ["Gṛhya Rites"]

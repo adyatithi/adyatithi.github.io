@@ -1,7 +1,7 @@
 +++
 title = "एकादशीसामान्यनियमाः"
 id = "EkAdazI-sAmAnya-niyamAH"
-id_display = "Ekādaśī-sāmānya-niyamāḥ"
+id_display = "ekādaśī-sāmānya-niyamāḥ"
 slug = "ekadazi-samanya-niyamah"
 source_path = "time_focus/monthly/ekAdashI/description_only/EkAdazI-sAmAnya-niyamAH.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

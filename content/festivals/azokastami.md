@@ -1,7 +1,7 @@
 +++
 title = "अशोकाष्टमी"
 id = "azOkASTamI"
-id_display = "aśOkāṣṭamī"
+id_display = "aśokāṣṭamī"
 slug = "azokastami"
 source_path = "general/lunar_month/tithi/01/08/azOkASTamI.toml"
 tags = ["LessCommonFestivals"]

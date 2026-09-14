@@ -1,7 +1,7 @@
 +++
 title = "पाण्डव-निर्जला-एकादशी"
 id = "pANDava-nirjalA-EkAdazI"
-id_display = "pāṇḍava-nirjalā-Ekādaśī"
+id_display = "pāṇḍava-nirjalā-ekādaśī"
 slug = "pandava-nirjala-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/pANDava-nirjalA-EkAdazI.toml"
 tags = ["MonthlyVratam", "EkadashiVratam"]

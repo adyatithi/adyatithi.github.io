@@ -1,7 +1,7 @@
 +++
 title = "गुरु-पूर्णिमा/व्यास-पूजा"
 id = "guru-pUrNimA_or_vyAsa-pUjA"
-id_display = "guru-pūrṇimā or vyāsa-pūjā"
+id_display = "guru-pūrṇimā òr vyāsa-pūjā"
 slug = "guru-purnima-or-vyasa-puja"
 source_path = "general/lunar_month/tithi/04/15/guru-pUrNimA_or_vyAsa-pUjA.toml"
 tags = ["PurnimaDays", "SpecialPuja", "CommonFestivals"]

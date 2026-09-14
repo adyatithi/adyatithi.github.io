@@ -1,7 +1,7 @@
 +++
 title = "श्रीनिवासमङ्गापुरे साक्षात्कार-वैभवोत्सव-समापनम्"
 id = "zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsava-samApanam"
-id_display = "śrīnivāsamaṅgāpurE sākṣātkāra-vaibhavOtsava-samāpanam"
+id_display = "śrīnivāsamaṅgāpure sākṣātkāra-vaibhavotsava-samāpanam"
 slug = "zrinivasamaggapure-saksatkara-vaibhavotsava-samapanam"
 source_path = "temples/Andhra/relative_event/zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsavaH/offset__01/zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsava-samApanam.toml"
 tags = ["AndhraTempleFestivals"]

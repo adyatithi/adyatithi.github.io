@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले पद्मावती-परिणयोत्सव-समापनम् (गरुड-वाहनम्)"
 id = "vEGkaTAcalE_padmAvatI-pariNayOtsava-samApanam_(garuDa-vAhanam)"
-id_display = "vEṅkaṭācalE padmāvatī-pariṇayOtsava-samāpanam (garuḍa-vāhanam)"
+id_display = "veṅkaṭācale padmāvatī-pariṇayotsava-samāpanam (garuḍa-vāhanam)"
 slug = "vegkatacale-padmavati-parinayotsava-samapanam-garuda-vahanam"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)/offset__01/vEGkaTAcalE_padmAvatI-pariNayOtsava-samApanam_(garuDa-vAhanam).toml"
 tags = ["AndhraTempleFestivals"]

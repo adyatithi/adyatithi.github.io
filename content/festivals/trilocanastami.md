@@ -1,7 +1,7 @@
 +++
 title = "त्रिलोचनाष्टमी"
 id = "trilOcanASTamI"
-id_display = "trilOcanāṣṭamī"
+id_display = "trilocanāṣṭamī"
 slug = "trilocanastami"
 source_path = "devatA/shakti/lunar_month/tithi/03/23/trilOcanASTamI.toml"
 tags = ["SpecialPuja"]

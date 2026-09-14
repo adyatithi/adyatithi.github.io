@@ -1,7 +1,7 @@
 +++
 title = "विष्णु-दमनकोत्सवः"
 id = "viSNu-damanakOtsavaH"
-id_display = "viṣṇu-damanakOtsavaḥ"
+id_display = "viṣṇu-damanakotsavaḥ"
 slug = "visnu-damanakotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/12/viSNu-damanakOtsavaH.toml"
 tags = ["LessCommonFestivals"]

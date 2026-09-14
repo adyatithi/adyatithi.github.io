@@ -1,7 +1,7 @@
 +++
 title = "वाजपेयफल-स्नान-योगः"
 id = "vAjapEyaphala-snAna-yOgaH"
-id_display = "vājapEyaphala-snāna-yOgaḥ"
+id_display = "vājapeyaphala-snāna-yogaḥ"
 slug = "vajapeyaphala-snana-yogah"
 source_path = "time_focus/vaara_conditioned/vAjapEyaphala-snAna-yOgaH.toml"
 tags = ["RareDays", "Combinations"]

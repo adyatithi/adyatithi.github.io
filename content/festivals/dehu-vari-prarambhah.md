@@ -1,7 +1,7 @@
 +++
 title = "देहू-वारी-प्रारम्भः"
 id = "dEhU-vArI-prArambhaH"
-id_display = "dEhū-vārī-prārambhaḥ"
+id_display = "dehū-vārī-prārambhaḥ"
 slug = "dehu-vari-prarambhah"
 source_path = "temples/Maharashtra/lunar_month/tithi/03/22/dEhU-vArI-prArambhaH.toml"
 tags = ["MaharashtraTempleFestivals"]

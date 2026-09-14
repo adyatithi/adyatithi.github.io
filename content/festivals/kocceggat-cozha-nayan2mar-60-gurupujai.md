@@ -1,7 +1,7 @@
 +++
-title = "kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"
+title = "kòccèṅgaṭ col̤a nāyaṉmār (60) gurupūjai"
 id = "kocceGgaT_cOzha_nAyan2mAr_(60)_gurupUjai"
-id_display = "kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"
+id_display = "kòccèṅgaṭ col̤a nāyaṉmār (60) gurupūjai"
 slug = "kocceggat-cozha-nayan2mar-60-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/11/24/kocceGgaT_cOzha_nAyan2mAr_(60)_gurupUjai.toml"
 tags = ["NayanmarGurupujai"]
@@ -25,5 +25,5 @@ As king, Kochengat Cholan became a great patron of Shaivism. He constructed a te
 '''
 
 [names]
-ta = ["kocceṅgaṭ cOl̤a nāyaṉmār (60) gurupūjai"]
+ta = ["kòccèṅgaṭ col̤a nāyaṉmār (60) gurupūjai"]
 +++

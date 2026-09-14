@@ -1,7 +1,7 @@
 +++
 title = "धन-त्रयोदशी"
 id = "dhana-trayOdazI"
-id_display = "dhana-trayOdaśī"
+id_display = "dhana-trayodaśī"
 slug = "dhana-trayodazi"
 source_path = "general/lunar_month/tithi/07/28/dhana-trayOdazI.toml"
 tags = ["CommonFestivals"]

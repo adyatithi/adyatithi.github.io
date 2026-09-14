@@ -1,7 +1,7 @@
 +++
 title = "तिलपद्म-द्वादशी/तिलोत्पत्ति"
 id = "tilapadma-dvAdazI_or_tilOtpatti"
-id_display = "tilapadma-dvādaśī or tilOtpatti"
+id_display = "tilapadma-dvādaśī òr tilotpatti"
 slug = "tilapadma-dvadazi-or-tilotpatti"
 source_path = "general/lunar_month/tithi/11/12/tilapadma-dvAdazI_or_tilOtpatti.toml"
 tags = ["SpecialPuja"]

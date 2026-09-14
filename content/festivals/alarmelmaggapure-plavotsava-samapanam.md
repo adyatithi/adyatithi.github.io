@@ -1,7 +1,7 @@
 +++
 title = "अलर्मेल्मङ्गापुरे प्लवोत्सव-समापनम्"
 id = "alarmElmaGgApurE_plavOtsava-samApanam"
-id_display = "alarmElmaṅgāpurE plavOtsava-samāpanam"
+id_display = "alarmelmaṅgāpure plavotsava-samāpanam"
 slug = "alarmelmaggapure-plavotsava-samapanam"
 source_path = "temples/Andhra/lunar_month/tithi/03/15/alarmElmaGgApurE_plavOtsava-samApanam.toml"
 tags = ["AndhraTempleFestivals"]

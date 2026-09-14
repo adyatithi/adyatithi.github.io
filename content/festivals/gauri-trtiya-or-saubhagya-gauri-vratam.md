@@ -1,7 +1,7 @@
 +++
 title = "गौरी-तृतीया/सौभाग्य-गौरी-व्रतम्"
 id = "gaurI~tRtIyA_or_saubhAgya-gaurI-vratam"
-id_display = "gaurī tṛtīyā or saubhāgya-gaurī-vratam"
+id_display = "gaurī tṛtīyā òr saubhāgya-gaurī-vratam"
 slug = "gauri-trtiya-or-saubhagya-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/01/03/gaurI~tRtIyA_or_saubhAgya-gaurI-vratam.toml"
 tags = ["SpecialVratam", "DeviPuja"]

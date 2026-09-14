@@ -1,7 +1,7 @@
 +++
-title = "naṭarājar mahābhiṣEkam 3"
+title = "naṭarājar mahābhiṣekam 3"
 id = "naTarAjar_mahAbhiSEkam~3"
-id_display = "naṭarājar mahābhiṣEkam 3"
+id_display = "naṭarājar mahābhiṣekam 3"
 slug = "natarajar-mahabhisekam-3"
 source_path = "temples/Tamil/sidereal_solar_month/tithi/06/14/naTarAjar_mahAbhiSEkam~3.toml"
 tags = ["TamilnaduTempleFestivals"]
@@ -22,5 +22,5 @@ shlokas = '''
 '''
 
 [names]
-ta = ["naṭarājar mahābhiṣEkam"]
+ta = ["naṭarājar mahābhiṣekam"]
 +++

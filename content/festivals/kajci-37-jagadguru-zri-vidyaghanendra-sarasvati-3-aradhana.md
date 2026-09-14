@@ -1,7 +1,7 @@
 +++
 title = "काञ्ची ३७ जगद्गुरु-श्री-विद्याघनेन्द्र-सरस्वती-३-आराधना"
 id = "kAJcI_37_jagadguru_zrI~vidyAghanEndra_sarasvatI_3_ArAdhanA"
-id_display = "kāñcī 37 jagadguru śrī vidyāghanEndra sarasvatī 3 ārādhanā"
+id_display = "kāñcī 37 jagadguru śrī vidyāghanendra sarasvatī 3 ārādhanā"
 slug = "kajci-37-jagadguru-zri-vidyaghanendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/17/kAJcI_37_jagadguru_zrI~vidyAghanEndra_sarasvatI_3_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays"]

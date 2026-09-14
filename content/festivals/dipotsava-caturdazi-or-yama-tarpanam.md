@@ -1,7 +1,7 @@
 +++
 title = "दीपोत्सव-चतुर्दशी/यम-तर्पणम्"
 id = "dIpOtsava-caturdazI_or_yama-tarpaNam"
-id_display = "dīpOtsava-caturdaśī or yama-tarpaṇam"
+id_display = "dīpotsava-caturdaśī òr yama-tarpaṇam"
 slug = "dipotsava-caturdazi-or-yama-tarpanam"
 source_path = "general/lunar_month/tithi/07/29/dIpOtsava-caturdazI_or_yama-tarpaNam.toml"
 tags = ["CommonFestivals"]

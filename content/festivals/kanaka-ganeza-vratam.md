@@ -1,7 +1,7 @@
 +++
 title = "कनक-गणेश-व्रतम्"
 id = "kanaka-gaNEza-vratam"
-id_display = "kanaka-gaṇEśa-vratam"
+id_display = "kanaka-gaṇeśa-vratam"
 slug = "kanaka-ganeza-vratam"
 source_path = "devatA/gaNapati/lunar_month/tithi/07/18/kanaka-gaNEza-vratam.toml"
 tags = ["SpecialVratam"]

@@ -1,7 +1,7 @@
 +++
 title = "गोविन्द-दामोदर-स्वामिनः जयन्ती"
 id = "gOvinda-dAmOdara-svAmigal-jayantI"
-id_display = "gOvinda-dāmOdara-svāmigal-jayantī"
+id_display = "govinda-dāmodara-svāmigal-jayantī"
 slug = "govinda-damodara-svamigal-jayanti"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/nakshatra/11/25/gOvinda-dAmOdara-svAmigal-jayantI.toml"
 tags = ["MahapurushaEvents"]

@@ -1,7 +1,7 @@
 +++
 title = "वेङ्कटाचले पद्मावती-परिणयम् (अश्व-वाहनम्)"
 id = "vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)"
-id_display = "vEṅkaṭācalE padmāvatī-pariṇayam (aśva-vāhanam)"
+id_display = "veṅkaṭācale padmāvatī-pariṇayam (aśva-vāhanam)"
 slug = "vegkatacale-padmavati-parinayam-azva-vahanam"
 source_path = "temples/venkaTAchala/lunar_month/tithi/02/10/vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam).toml"
 tags = ["AndhraTempleFestivals"]

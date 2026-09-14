@@ -1,7 +1,7 @@
 +++
 title = "शनिरोहिणी-योगः"
 id = "zanirOhiNI-yOgaH"
-id_display = "śanirOhiṇī-yOgaḥ"
+id_display = "śanirohiṇī-yogaḥ"
 slug = "zanirohini-yogah"
 source_path = "time_focus/amrita-siddhi/description_only/zanirOhiNI-yOgaH.toml"
 tags = ["RareDays", "Combinations", "AmritaSiddhiYogaDays"]

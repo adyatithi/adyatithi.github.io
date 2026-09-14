@@ -1,7 +1,7 @@
 +++
 title = "सेङ्गालिपुरम् अनन्तराम-दीक्षित-आराधना"
 id = "sEGgAlipuram_anantarAma-dIkSita-ArAdhanA"
-id_display = "sEṅgālipuram anantarāma-dīkṣita-ārādhanā"
+id_display = "seṅgālipuram anantarāma-dīkṣita-ārādhanā"
 slug = "seggalipuram-anantarama-diksita-aradhana"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/tithi/07/21/sEGgAlipuram_anantarAma-dIkSita-ArAdhanA.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

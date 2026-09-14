@@ -1,7 +1,7 @@
 +++
 title = "आर्द्रादर्शनम्"
 id = "ArudrA~darican2am_or_naTarAjar_mahAbhiSEkam"
-id_display = "ārudrā daricaṉam or naṭarājar mahābhiṣEkam"
+id_display = "ārudrā daricaṉam òr naṭarājar mahābhiṣekam"
 slug = "arudra-darican2am-or-natarajar-mahabhisekam"
 source_path = "devatA/shaiva/sidereal_solar_month/nakshatra/09/06/ArudrA~darican2am_or_naTarAjar_mahAbhiSEkam.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]
@@ -26,6 +26,6 @@ Visit Chidambaram to have darshan of Nataraja, or pray to Nataraja
 '''
 
 [names]
-ta = ["ārudrā daricaṉam/naṭarājar mahābhiṣEkam"]
+ta = ["ārudrā daricaṉam/naṭarājar mahābhiṣekam"]
 sa = ["आर्द्रादर्शनम्"]
 +++

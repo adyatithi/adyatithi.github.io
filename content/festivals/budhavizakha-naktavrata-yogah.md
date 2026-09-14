@@ -1,7 +1,7 @@
 +++
 title = "बुधविशाखा-नक्तव्रत-योगः"
 id = "budhavizAkhA-naktavrata-yOgaH"
-id_display = "budhaviśākhā-naktavrata-yOgaḥ"
+id_display = "budhaviśākhā-naktavrata-yogaḥ"
 slug = "budhavizakha-naktavrata-yogah"
 source_path = "time_focus/nakta-vrata-yoga/description_only/budhavizAkhA-naktavrata-yOgaH.toml"
 tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]

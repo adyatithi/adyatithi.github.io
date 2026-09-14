@@ -1,7 +1,7 @@
 +++
 title = "तिरुविशलूर् गङ्गाकर्षण-महोत्सव-समापनम्"
 id = "tiruvizalUr_gaGgAkarSaNa-mahOtsava-samApanam"
-id_display = "tiruviśalūr gaṅgākarṣaṇa-mahOtsava-samāpanam"
+id_display = "tiruviśalūr gaṅgākarṣaṇa-mahotsava-samāpanam"
 slug = "tiruvizalur-gaggakarsana-mahotsava-samapanam"
 source_path = "temples/Tamil/lunar_month/tithi/08/30/tiruvizalUr_gaGgAkarSaNa-mahOtsava-samApanam.toml"
 tags = ["MahapurushaEvents", "TamilnaduTempleFestivals"]

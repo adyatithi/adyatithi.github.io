@@ -1,7 +1,7 @@
 +++
 title = "श्री-राघवेन्द्र-स्वामि-जयन्ती"
 id = "zrI~rAghavEndra-svAmI~jayantI"
-id_display = "śrī rāghavEndra-svāmī jayantī"
+id_display = "śrī rāghavendra-svāmī jayantī"
 slug = "zri-raghavendra-svami-jayanti"
 source_path = "mahApuruSha/mAdhva-misc/lunar_month/tithi/12/07/zrI~rAghavEndra-svAmI~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]

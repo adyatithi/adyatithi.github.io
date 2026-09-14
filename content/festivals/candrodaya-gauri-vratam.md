@@ -1,7 +1,7 @@
 +++
 title = "चन्द्रोदय-गौरी-व्रतम्"
 id = "candrOdaya-gaurI-vratam"
-id_display = "candrOdaya-gaurī-vratam"
+id_display = "candrodaya-gaurī-vratam"
 slug = "candrodaya-gauri-vratam"
 source_path = "devatA/umA/lunar_month/tithi/07/18/candrOdaya-gaurI-vratam.toml"
 tags = ["SpecialVratam"]

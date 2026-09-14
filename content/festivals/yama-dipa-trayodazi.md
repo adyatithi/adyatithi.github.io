@@ -1,7 +1,7 @@
 +++
 title = "(यम)-दीप-त्रयोदशी"
 id = "(yama)-dIpa-trayOdazI"
-id_display = "(yama)-dīpa-trayOdaśī"
+id_display = "(yama)-dīpa-trayodaśī"
 slug = "yama-dipa-trayodazi"
 source_path = "general/lunar_month/tithi/07/28/(yama)-dIpa-trayOdazI.toml"
 tags = ["CommonFestivals"]
