@@ -4,7 +4,7 @@ id = "cidambarE_kailAsa_vAhanam"
 id_display = "cidambare kailāsa vāhanam"
 slug = "cidambare-kailasa-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-3/cidambarE_kailAsa_vAhanam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

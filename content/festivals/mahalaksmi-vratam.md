@@ -4,14 +4,15 @@ id = "mahAlakSmI-vratam"
 id_display = "mahālakṣmī-vratam"
 slug = "mahalaksmi-vratam"
 source_path = "devatA/lakShmI/lunar_month/tithi/07/23/mahAlakSmI-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Lakṣmī"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Aṣṭamī"]
 category = ["Devatā Observances"]
 kaala = "चन्द्रोदयः"
 timing_summary = "Āśvina (आश्विन) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at चन्द्रोदयः"
-"references" = ["VrataNirnayaKalpavalli"]
+"references" = ["Krutyasaara samucchayam", "VrataNirnayaKalpavalli"]
+sources = ["Kṛtyasārasamuccaya", "Vratanirṇayakalpavallī"]
 
 shlokas = '''
 उक्तं च पुराणसमुच्चये।
@@ -25,11 +26,11 @@ shlokas = '''
 हस्तप्रान्तदलस्थेऽर्के तद्व्रतं न समापयेत्॥ इति।
 पूजनीया गृहस्थानाम् अष्टमी प्रावृषि श्रियः।
 दोषैश्चतुर्भिस्सन्त्यक्त्वा सर्वसम्पत्करी तिथिः॥ इति॥
-तथा च---
+तथा च—
 पुत्रसौभाग्यराज्यादिनाशनी सा प्रकीर्तिता।
 तस्मात् सर्वप्रयत्नेन त्याज्या कन्यागते रवौ॥
 विशेषेण परित्याज्या नवमी दूषिता यदि। इति।
-दोषचतुष्टयलक्षणं तत्रैवोक्तम्---
+दोषचतुष्टयलक्षणं तत्रैवोक्तम्—
 त्रिदिने चावमे चैवाष्टमीं नोपवासयेत्।
 पुत्रहा नवमी विद्धा स्वघ्नी हस्तार्धगे रवौ॥ इति॥
 एते हि दोषाः प्रथमारम्भविषयाः। मध्ये सति सम्भवे ज्ञेयाः केवलतिथावेव कार्याः।

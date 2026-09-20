@@ -4,19 +4,21 @@ id = "agastyArghyam~3"
 id_display = "agastyārghyam 3"
 slug = "agastyarghyam-3"
 source_path = "mahApuruSha/RShi/relative_event/kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH/offset__-2/agastyArghyam~3.toml"
-tags = ["OtherFestivals"]
+tags = ["OtherFestivals", "LessCommonFestivals"]
 tradition = ["Ṛṣi"]
 category = ["Mahāpuruṣa Observances"]
+"references" = ["Krtyasarasamucchaya p. 17"]
+sources = ["Kṛtyasārasamuccaya"]
 
 shlokas = '''
-कृत्यसारसमुच्चयः---
-ब्रह्मवैवर्ते---
+कृत्यसारसमुच्चयः—
+ब्रह्मवैवर्ते—
 अप्राप्ते भास्करे कन्यां शेषभूतैत्रिभिर्दिनैः।
 अर्घं दद्युरगस्त्याय गौडदेशनिवासिनः॥
-नारसिंहे---
+नारसिंहे—
 शङ्खे तोयं विनिक्षिप्य सितपुष्पाक्षतैर्युतम्।
 मन्त्रेणानेन वै दद्याद् दक्षिणाभिमुखः स्थितः॥
-अनेन ‘शङ्खं पुष्पं फलं तोयम्’ इत्यादि मन्त्रेण। अत्र दिनत्रये मन्त्रत्रयं यथा---
+अनेन ‘शङ्खं पुष्पं फलं तोयम्’ इत्यादि मन्त्रेण। अत्र दिनत्रये मन्त्रत्रयं यथा—
 कुम्भयोनिसमुत्पन्न मुनीनां मुनिसत्तम।
 उदयं ते लङ्काद्वारेऽर्घोऽयं प्रतिगृह्यताम्॥१॥
 शङ्खं पुष्पं फलं तोयं रत्नानि विविधानि च।

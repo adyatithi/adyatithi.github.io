@@ -4,15 +4,16 @@ id = "Arumukha-nAvalar-gurupUjai"
 id_display = "ārumukha-nāvalar-gurupūjai"
 slug = "arumukha-navalar-gurupujai"
 source_path = "mahApuruSha/general-indic-non-tropical/sidereal_solar_month/nakshatra/08/10/Arumukha-nAvalar-gurupUjai.toml"
-tags = ["NayanmarGurupujai"]
+tags = ["NayanmarGurupujai", "LessCommonFestivals"]
 tradition = ["General"]
-rashi = ["Vṛścika"]
+rashi = ["08. Vṛścika"]
 nakshatra = ["Maghā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
 timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal, Maghā nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+sources = ["63 Nayanmār Saints (Swami Sivananda)"]
 
 description_en = '''
 ## Event

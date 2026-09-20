@@ -6,13 +6,14 @@ slug = "kajci-1-jagadguru-zri-adi-zagkara-bhagavatpada-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/11/kAJcI_1_jagadguru_zrI~Adi-zaGkara_bhagavatpAda_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Ekādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Ekādaśī, at अपराह्णः"
 "references" = ["www.kamakoti.org"]
+sources = ["kamakoti.org"]
 
 shlokas = '''
 महेशांशाज्जातो मधुरम् उपदिष्टाद्वयनयो

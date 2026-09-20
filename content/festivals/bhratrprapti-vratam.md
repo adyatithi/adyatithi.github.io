@@ -4,7 +4,7 @@ id = "bhrAtRprApti-vratam"
 id_display = "bhrātṛprāpti-vratam"
 slug = "bhratrprapti-vratam"
 source_path = "general/description_only/bhrAtRprApti-vratam.toml"
-tags = ["SpecialVratam", "Vratam", "SpecialPeriod"]
+tags = ["SpecialVratam", "Vratam", "SpecialPeriod", "LessCommonFestivals"]
 category = ["General Observances"]
 
 [names]

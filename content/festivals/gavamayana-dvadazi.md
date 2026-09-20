@@ -5,11 +5,12 @@ id_display = "gavāmayana-dvādaśī"
 slug = "gavamayana-dvadazi"
 source_path = "general/lunar_month/tithi/03/12/gavAmayana-dvAdazI.toml"
 tags = ["LessCommonFestivals"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Dvādaśī"]
 category = ["General Observances"]
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Dvādaśī"
-"references" = ["Smriti Kaustubha p.123"]
+"references" = ["Mahabharata", "Smriti Kaustubha p.123"]
+sources = ["Mahābhārata", "Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।

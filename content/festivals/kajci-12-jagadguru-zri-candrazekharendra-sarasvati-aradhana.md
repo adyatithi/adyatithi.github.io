@@ -4,15 +4,16 @@ id = "kAJcI_12_jagadguru_zrI~candrazEkharEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 12 jagadguru śrī candraśekharendra sarasvatī ārādhanā"
 slug = "kajci-12-jagadguru-zri-candrazekharendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/09/kAJcI_12_jagadguru_zrI~candrazEkharEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीचिद्घनेन्द्रनियतः शरदस्त्रिषष्टिं

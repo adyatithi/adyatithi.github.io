@@ -5,7 +5,7 @@ id_display = "makara-jyotiḥ"
 slug = "makara-jyotih"
 source_path = "temples/Kerala/sidereal_solar_month/day/10/01/makara-jyOtiH.toml"
 tags = ["KeralaTempleFestivals", "CommonFestivals"]
-rashi = ["Makara"]
+rashi = ["10. Makara"]
 category = ["Temple Festivals"]
 timing_summary = "Makara (मकर) māsa, sidereal"
 

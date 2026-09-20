@@ -4,7 +4,7 @@ id = "adhika-mAsa-ArambhaH"
 id_display = "adhika-māsa-ārambhaḥ"
 slug = "adhika-masa-arambhah"
 source_path = "general/lunar_month/tithi/00/01/adhika-mAsa-ArambhaH.toml"
-tags = ["SpecialFestivals", "SpecialPeriodStart"]
+tags = ["SpecialFestivals", "SpecialPeriodStart", "LessCommonFestivals"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 timing_summary = "Śukla Pakṣa Pratipat"
@@ -28,7 +28,7 @@ shlokas = '''
 अन्यथा सघृतमित्यस्य वैयर्थ्यापत्तेः, धात्वर्थानुवादेन कांस्यहिरण्यविधौ वाक्यभेदापत्तेश्च।
 न च निधाये-त्यत्र सघृतमित्यादिकर्मान्वयः।
 प्रथमचकारस्यालग्नतापत्तेः।
-दानमन्त्रास्तत्रैव---
+दानमन्त्रास्तत्रैव—
 विष्णुरूपी सहस्रांशुः सर्वपापप्रणाशनः।
 अपूपानप्रदानेन मम पापं व्यपोहतु॥
 नारायण जगद्बीज भास्कर-प्रतिरूपधृक्।
@@ -41,7 +41,7 @@ shlokas = '''
 पृथ्वीसममिदं दानं गृहाण पुरुषोत्तम॥
 मलानां च विशुद्ध्यर्थं पापप्रशमनाय च।
 पुत्रपौत्राभिवृद्ध्यर्थं तव दास्यामि भास्कर॥
----स्मृतिकौस्तुभम्
+—स्मृतिकौस्तुभम्
 '''
 
 [names]

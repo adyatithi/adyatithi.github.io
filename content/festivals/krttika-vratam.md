@@ -4,7 +4,7 @@ id = "kRttikA-vratam"
 id_display = "kṛttikā-vratam"
 slug = "krttika-vratam"
 source_path = "devatA/kaumAra/sidereal_solar_month/nakshatra/00/03/kRttikA-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Kaumāra (Skanda/Murugan)"]
 nakshatra = ["Kṛttikā"]
 category = ["Devatā Observances"]
@@ -38,7 +38,7 @@ shlokas = '''
 '''
 
 description_en = '''
-`kRttikA-vratam` for Bhagavan Subrahmanya. Observe fast for the entire day, and obtain blessings of all the `kRttikA-striyaH` who raised `skanda` after His birth. Three Vratas are very special for Subrahmanya---the `bhRguvAra-subrahmaNya-vratam` in `tulAmAsa`, this regular `kRttikA vratam`, and `skandaSaSThivratam`.
+`kRttikA-vratam` for Bhagavan Subrahmanya. Observe fast for the entire day, and obtain blessings of all the `kRttikA-striyaH` who raised `skanda` after His birth. Three Vratas are very special for Subrahmanya—the `bhRguvAra-subrahmaNya-vratam` in `tulAmAsa`, this regular `kRttikA vratam`, and `skandaSaSThivratam`.
 '''
 
 [names]

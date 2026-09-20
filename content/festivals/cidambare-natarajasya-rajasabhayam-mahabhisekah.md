@@ -4,7 +4,7 @@ id = "cidambarE_naTarAjasya_rAjasabhAyAM_mahAbhiSEkaH"
 id_display = "cidambare naṭarājasya rājasabhāyāṃ mahābhiṣekaḥ"
 slug = "cidambare-natarajasya-rajasabhayam-mahabhisekah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__00/cidambarE_naTarAjasya_rAjasabhAyAM_mahAbhiSEkaH.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 shlokas = '''

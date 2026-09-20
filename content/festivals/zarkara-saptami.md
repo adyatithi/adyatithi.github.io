@@ -4,11 +4,13 @@ id = "zarkarA-saptamI"
 id_display = "śarkarā-saptamī"
 slug = "zarkara-saptami"
 source_path = "general/lunar_month/tithi/02/07/zarkarA-saptamI.toml"
-tags = ["SpecialPuja"]
-month = ["Vaiśākha"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
+month = ["02. Vaiśākha"]
 tithi = ["Saptamī"]
 category = ["General Observances"]
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Saptamī"
+"references" = ["Smriti Kaustubham p.112", "Naradiya Puranam, Adhyaya 116"]
+sources = ["Smṛtikaustubha (Anantadeva)", "Nārada Purāṇa"]
 
 shlokas = '''
 शर्करासप्तमीं वक्ष्ये सर्वकल्मषनाशिनीम्।
@@ -40,7 +42,7 @@ shlokas = '''
 शर्करासप्तमी चैषा वाजिमेधफलप्रदा।
 सर्वदुःखप्रशमनी सर्वसम्पत्तिदायिनी।
 यः कुर्यात्परया भक्त्या स वै सम्पत्तिमाप्नुयात्॥
-नारदीयपुराणे ११६ अध्याये---
+नारदीयपुराणे ११६ अध्याये—
 सप्तमी शर्कराख्यैषा प्रोक्ता तच्चापि मे शृणु॥२१॥
 अमृतं पिबतो हस्तात् सूर्यस्यामृतबिन्दवः॥
 निष्पेतुर्भुवि चोत्पन्नाः शालिमुद्गयवेक्षवः॥२२॥

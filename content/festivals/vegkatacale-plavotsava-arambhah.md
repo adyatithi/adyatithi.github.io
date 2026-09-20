@@ -4,7 +4,7 @@ id = "vEGkaTAcalE_plavOtsava-ArambhaH"
 id_display = "veṅkaṭācale plavotsava-ārambhaḥ"
 slug = "vegkatacale-plavotsava-arambhah"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_plavOtsava-samApanam/offset__-4/vEGkaTAcalE_plavOtsava-ArambhaH.toml"
-tags = ["AndhraTempleFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

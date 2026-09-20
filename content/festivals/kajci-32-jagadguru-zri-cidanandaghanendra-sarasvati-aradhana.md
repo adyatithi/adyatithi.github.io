@@ -4,15 +4,16 @@ id = "kAJcI_32_jagadguru_zrI~cidAnandaghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 32 jagadguru śrī cidānandaghanendra sarasvatī ārādhanā"
 slug = "kajci-32-jagadguru-zri-cidanandaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/06/kAJcI_32_jagadguru_zrI~cidAnandaghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Ṣaṣṭhī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अण्णु(कण्व)शङ्करनन्दनः पटुपद्मनाभसमाह्वयो

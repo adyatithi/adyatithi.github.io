@@ -4,15 +4,16 @@ id = "kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA"
 id_display = "kāñcī 34 jagadguru śrī candraśekharendra sarasvatī 2 ārādhanā"
 slug = "kajci-34-jagadguru-zri-candrazekharendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/30/kAJcI_34_jagadguru_zrI~candrazEkharEndra_sarasvatI_2_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 सूनुर्वेगवतीतटोद्भवमहादेवाह्वयस्य श्रुतः

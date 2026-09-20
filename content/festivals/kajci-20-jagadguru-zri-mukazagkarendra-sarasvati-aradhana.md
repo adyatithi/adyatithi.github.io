@@ -4,15 +4,16 @@ id = "kAJcI_20_jagadguru_zrI~mUkazaGkarEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 20 jagadguru śrī mūkaśaṅkarendra sarasvatī ārādhanā"
 slug = "kajci-20-jagadguru-zri-mukazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/15/kAJcI_20_jagadguru_zrI~mUkazaGkarEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Pūrṇimā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Pūrṇimā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 जातः खल्वाटवीराद् गणककुलमणेः साधु विद्यावतीतो

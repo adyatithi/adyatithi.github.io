@@ -59,6 +59,7 @@
           (dict "label" "Tradition" "tax" "tradition" "vals" .Params.tradition)
           (dict "label" "Tithi" "tax" "tithi" "vals" .Params.tithi)
           (dict "label" "Nakṣatra" "tax" "nakshatra" "vals" .Params.nakshatra)
+          (dict "label" "Sources" "tax" "sources" "vals" .Params.sources)
       }}
         {{ if .vals }}
         <div class="pill-groups__row">
@@ -72,7 +73,7 @@
 
     {{ if .Params.references }}
     <section class="sources">
-      <h2 class="section-title section-title--sm">Sources cited</h2>
+      <h2 class="section-title section-title--sm">Citations</h2>
       <ul>
         {{ range .Params.references }}<li>{{ . }}</li>{{ end }}
       </ul>

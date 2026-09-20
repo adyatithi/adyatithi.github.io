@@ -4,12 +4,14 @@ id = "anadhyAyaH~23"
 id_display = "anadhyāyaḥ 23"
 slug = "anadhyayah-23"
 source_path = "time_focus/adhyayana/lunar_month/tithi/00/23/anadhyAyaH~23.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 tithi = ["Aṣṭamī"]
 category = ["Calendrical Specials"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
 timing_summary = "Kṛṣṇa Pakṣa Aṣṭamī, at साङ्गवः"
+"references" = ["Smriti Muktaphalam SVR p.  148"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

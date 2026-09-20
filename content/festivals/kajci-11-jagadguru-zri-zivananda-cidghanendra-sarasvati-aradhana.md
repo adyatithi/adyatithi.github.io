@@ -4,15 +4,16 @@ id = "kAJcI_11_jagadguru_zrI~zivAnanda_cidghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 11 jagadguru śrī śivānanda cidghanendra sarasvatī ārādhanā"
 slug = "kajci-11-jagadguru-zri-zivananda-cidghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/10/kAJcI_11_jagadguru_zrI~zivAnanda_cidghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Daśamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Daśamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 कर्णाटोज्ज्वलसूनुरीश्वरवटुः श्रित्वा सुरेशं चिरात्

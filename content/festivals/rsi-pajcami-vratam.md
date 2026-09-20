@@ -5,12 +5,14 @@ id_display = "ṛṣi-pañcamī-vratam"
 slug = "rsi-pajcami-vratam"
 source_path = "general/lunar_month/tithi/06/05/RSi-paJcamI-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Pañcamī"]
 category = ["General Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Pañcamī, at मध्याह्नः"
+"references" = ["Naradiya Purnam, Adhyaya 114"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 भाद्रस्य शुक्लपञ्चम्यां पूजयेदृषिसत्तमान्॥३४॥

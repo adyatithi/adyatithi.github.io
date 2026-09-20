@@ -6,16 +6,18 @@ slug = "bhisma-pajcaka-vrata-samapanam"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/08/15/bhISma-paJcaka-vrata-samApanam.toml"
 tags = ["LessCommonFestivals"]
 tradition = ["Kings & Dynasties"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Pūrṇimā"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Pūrṇimā"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
-सूत उवाच---
+सूत उवाच—
 शृण्वन्तु ऋषयः सर्वे विशेषो भीष्मपञ्चके।
 कार्तिकेयाय रुद्रेण पुरा प्रोक्तः सविस्तरात्॥१४॥
-ईश्वर उवाच---
+ईश्वर उवाच—
 प्रवक्ष्यामि महापुण्यं व्रतं व्रतवतां वर।
 भीष्मेणैतद् यतः प्राप्तं व्रतं पञ्चदिनात्मकम्॥१५॥
 सकाशाद् वासुदेवस्य तेनोक्तं भीष्मपञ्चकम्।

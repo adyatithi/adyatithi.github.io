@@ -4,15 +4,16 @@ id = "kAJcI_46_jagadguru_zrI~sAndrAnandabOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 46 jagadguru śrī sāndrānandabodhendra sarasvatī ārādhanā"
 slug = "kajci-46-jagadguru-zri-sandranandabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/30/kAJcI_46_jagadguru_zrI~sAndrAnandabOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 बोधेन्द्राख्यः स सोमो गुरुपरमशिवेन्द्रार्यवाचाऽधिपीठं

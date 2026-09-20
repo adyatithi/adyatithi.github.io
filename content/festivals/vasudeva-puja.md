@@ -6,10 +6,12 @@ slug = "vasudeva-puja"
 source_path = "devatA/vaiShNava/lunar_month/tithi/07/27/vasudEva-pUjA.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Dvādaśī"]
 category = ["Devatā Observances"]
 timing_summary = "Āśvina (आश्विन) māsa, Kṛṣṇa Pakṣa Dvādaśī"
+"references" = ["Smriti Kaustubham"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 [names]
 sa = ["वसुदेव-पूजा"]

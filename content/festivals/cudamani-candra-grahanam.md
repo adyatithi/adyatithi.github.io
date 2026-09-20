@@ -7,6 +7,7 @@ source_path = "time_focus/Eclipses/description_only/★cUDAmaNi-candra-grahaNam.
 tags = ["RareDays", "Combinations", "Eclipses"]
 category = ["Calendrical Specials"]
 "references" = ["Kielhorn, 1897"]
+sources = ["Kielhorn (1897)"]
 
 description_en = '''
 When a lunar eclipse occurs on a Monday, it is even more special: `cUDAmaNi`, i.e. crest jewel.

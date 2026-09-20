@@ -6,12 +6,14 @@ slug = "zitala-saptami"
 source_path = "devatA/shakti/lunar_month/tithi/05/07/zItalA~saptamI.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Śākta"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Saptamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Saptamī, at मध्याह्नः"
+"references" = ["Nirnaya Sindhu"]
+sources = ["Nirṇayasindhu (Kamalākarabhaṭṭa)"]
 
 [names]
 sa = ["शीतला-सप्तमी"]

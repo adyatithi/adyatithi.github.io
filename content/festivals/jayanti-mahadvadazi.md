@@ -6,6 +6,8 @@ slug = "jayanti-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/jayantI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Padma Puranam"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
 जया च विजया चैव जयन्ती पापनाशिनी।
@@ -14,7 +16,7 @@ shlokas = '''
 जयन्ती नाम सा प्रोक्ता सर्वपापहरा तिथिः।
 सप्तजन्मकृतं पापं स्वल्पं वा यदि वा बहु॥९॥
 प्रक्षालयति गोविन्दस्तस्यामभ्यर्चितो ध्रुवम्।
----श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 '''
 
 description_en = '''

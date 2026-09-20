@@ -6,13 +6,14 @@ slug = "balarama-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/03/balarAma~jayantI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Tṛtīyā"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "paraviddha"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Tṛtīyā, at मध्याह्नः"
-"references" = ["VrataNirnayaKalpavalli"]
+"references" = ["Vaidyanatha Dikshitiyam (SVR) p.62", "VrataNirnayaKalpavalli"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)", "Vratanirṇayakalpavallī"]
 
 shlokas = '''
 वैशाख शुक्लपक्षे तृतीयायां हलायुधः।
@@ -20,8 +21,8 @@ shlokas = '''
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 —स्मृतिमुक्ताफलम्
-व्रतनिर्णयकल्पवल्ली---
-इयमेव बलरामजयन्ती। सा मध्याह्नव्यापिनी ग्राह्या। तथा चोक्तं स्कान्दे---
+व्रतनिर्णयकल्पवल्ली—
+इयमेव बलरामजयन्ती। सा मध्याह्नव्यापिनी ग्राह्या। तथा चोक्तं स्कान्दे—
 वैशाखे शुक्लपक्षे तु तृतीयायां गुरौ तथा।
 रोहिण्यां कर्कटे लग्ने बलरामो भवेद्धरिः॥ इति।
 प्रार्थनामन्त्रः—

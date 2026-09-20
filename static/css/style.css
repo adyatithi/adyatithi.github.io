@@ -208,6 +208,21 @@ h1, h2, h3 { font-family: var(--font-display); margin: 0 0 0.4em; color: var(--r
 
 .sources ul { padding-left: 1.2rem; color: var(--muted); font-size: 0.88rem; }
 
+/* ---- sources tab ---- */
+.source-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; margin: 1.5rem 0 2.5rem; }
+.source-card {
+  display: flex; flex-direction: column; gap: 0.5rem;
+  background: var(--card-bg); border: 1px solid var(--line); border-radius: 14px;
+  padding: 1.1rem 1.2rem; text-decoration: none; color: var(--ink);
+  box-shadow: var(--shadow-sm); transition: transform .15s, box-shadow .15s;
+}
+.source-card:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+.source-card__head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; }
+.source-card__title { margin: 0; font-family: var(--font-display); font-size: 1.1rem; color: var(--rust-dark); }
+.source-card__desc { margin: 0; font-size: 0.86rem; color: var(--ink-soft); line-height: 1.55; }
+.source-card__archive { font-size: 0.76rem; color: var(--muted); font-style: italic; }
+.source-page__desc { max-width: 60ch; color: var(--ink-soft); margin: 0.6rem 0; font-size: 1rem; }
+
 .festival__source { margin-top: 2rem; padding-top: 1.2rem; border-top: 1px solid var(--line); font-size: 0.85rem; }
 .festival__source a { color: var(--rust-dark); text-decoration: underline; text-underline-offset: 3px; }
 

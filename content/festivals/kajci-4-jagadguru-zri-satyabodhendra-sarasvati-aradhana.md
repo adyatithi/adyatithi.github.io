@@ -4,15 +4,16 @@ id = "kAJcI_4_jagadguru_zrI~satyabOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 4 jagadguru śrī satyabodhendra sarasvatī ārādhanā"
 slug = "kajci-4-jagadguru-zri-satyabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/23/kAJcI_4_jagadguru_zrI~satyabOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 आम्रावतीतटजताण्डवशर्मसूनुः श्रीसत्यबोधनियमी फलिनीशनामा।

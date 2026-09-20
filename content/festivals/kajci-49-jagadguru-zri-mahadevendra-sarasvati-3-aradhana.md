@@ -4,15 +4,16 @@ id = "kAJcI_49_jagadguru_zrI~mahAdEvEndra_sarasvatI_3_ArAdhanA"
 id_display = "kāñcī 49 jagadguru śrī mahādevendra sarasvatī 3 ārādhanā"
 slug = "kajci-49-jagadguru-zri-mahadevendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/23/kAJcI_49_jagadguru_zrI~mahAdEvEndra_sarasvatI_3_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 छायावनाच्युतसुतो गुरुमूर्तिनामा

@@ -4,15 +4,16 @@ id = "kAJcI_25_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 25 jagadguru śrī saccidānandaghanendra sarasvatī ārādhanā"
 slug = "kajci-25-jagadguru-zri-saccidanandaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/01/kAJcI_25_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीमुष्णकृष्णतनयः शिवसाम्बनामा यस्त्रिः प्रदक्षिणितपुण्यमहिर्महात्मा।

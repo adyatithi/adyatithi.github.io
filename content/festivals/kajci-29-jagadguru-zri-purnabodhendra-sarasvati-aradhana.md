@@ -4,15 +4,16 @@ id = "kAJcI_29_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 29 jagadguru śrī pūrṇabodhendra sarasvatī ārādhanā"
 slug = "kajci-29-jagadguru-zri-purnabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/11/kAJcI_29_jagadguru_zrI~pUrNabOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Ekādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Ekādaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीपतेस्तनयः कृष्णः पूर्णबोधो दिने हरेः।

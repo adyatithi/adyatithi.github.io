@@ -6,10 +6,12 @@ slug = "suryasya-damanakapuja"
 source_path = "devatA/graha/lunar_month/tithi/01/07/sUryasya~damanakapUjA.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Graha (Planetary)"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Saptamī"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Saptamī"
+"references" = ["Smriti Kaustubham p.94"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 भास्करस्य तु सप्तम्यां पूजां दमनकादिभिः।

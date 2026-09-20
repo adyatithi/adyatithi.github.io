@@ -4,14 +4,16 @@ id = "phAlguna-mAsaH"
 id_display = "phālguna-māsaḥ"
 slug = "phalguna-masah"
 source_path = "time_focus/misc/description_only/phAlguna-mAsaH.toml"
-tags = ["SpecialDays", "SpecialPeriod"]
+tags = ["SpecialDays", "SpecialPeriod", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
-फाल्गुनकृत्यं स्कन्दपुराणे---
+फाल्गुनकृत्यं स्कन्दपुराणे—
 एकभक्तं तु कुर्वाणः फाल्गुने मासि नित्यशः।
 स्त्रीषु सौभाग्यमाप्नोति स्त्रियश्च परमप्रियाः॥
-वामनपुराणे---
+वामनपुराणे—
 फाल्गुने व्रीहयो गावो वस्त्रं कृष्णाजिनान्वितम्।
 गोविन्दप्रीणनार्थाय दातव्यं पुरुषर्षभ॥ इति।
 '''

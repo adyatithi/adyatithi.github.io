@@ -4,7 +4,7 @@ id = "budha-saGkrAntiH"
 id_display = "budha-saṅkrāntiḥ"
 slug = "budha-sagkrantih"
 source_path = "time_focus/sankrAnti/description_only/budha-saGkrAntiH.toml"
-tags = ["Sankranti"]
+tags = ["GrahaSankranti", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

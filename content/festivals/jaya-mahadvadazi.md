@@ -6,6 +6,8 @@ slug = "jaya-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/jayA~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Padma Puranam"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
 जया च विजया चैव जयन्ती पापनाशिनी।
@@ -13,7 +15,7 @@ shlokas = '''
 एकादश्यां यदा ऋक्षं शुक्लपक्षे पुनर्वसुः।
 नाम्ना सा च जया ख्याता तिथीनामुत्तमा तिथिः॥५॥
 तामुपोष्य नरः पापान्मुच्यते नात्र संशयः।
----श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 '''
 
 description_en = '''

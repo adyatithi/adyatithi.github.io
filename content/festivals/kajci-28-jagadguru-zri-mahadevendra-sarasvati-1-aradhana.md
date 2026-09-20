@@ -4,15 +4,16 @@ id = "kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA"
 id_display = "kāñcī 28 jagadguru śrī mahādevendra sarasvatī 1 ārādhanā"
 slug = "kajci-28-jagadguru-zri-mahadevendra-sarasvati-1-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/25/kAJcI_28_jagadguru_zrI~mahAdEvEndra_sarasvatI_1_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Daśamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Daśamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 भद्राचलाभिजनभानुसुतः स शेष-

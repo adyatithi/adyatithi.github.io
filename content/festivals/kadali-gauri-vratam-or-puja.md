@@ -6,11 +6,12 @@ slug = "kadali-gauri-vratam-or-puja"
 source_path = "devatA/umA/lunar_month/tithi/03/04/kadalI-gaurI-vratam_or_pUjA.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Umā"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Caturthī"]
 category = ["Devatā Observances"]
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Caturthī"
-"references" = ["Vaidikasri June 2017"]
+"references" = ["Bhavishyottara Puranam", "Vaidikasri June 2017"]
+sources = ["Bhaviṣyottara Purāṇa", "Vaidikaśrī (periodical)"]
 
 shlokas = '''
 पुत्रान् देहि धनं देहि सौभाग्यं सर्वमङ्गले।

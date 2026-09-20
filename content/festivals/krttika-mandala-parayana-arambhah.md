@@ -5,7 +5,7 @@ id_display = "kṛttikā-maṇḍala-pārāyaṇa-ārambhaḥ"
 slug = "krttika-mandala-parayana-arambhah"
 source_path = "time_focus/misc/sidereal_solar_month/day/08/01/kRttikA-maNDala-pArAyaNa-ArambhaH.toml"
 tags = ["SpecialPeriodStart", "CommonFestivals"]
-rashi = ["Vṛścika"]
+rashi = ["08. Vṛścika"]
 category = ["Calendrical Specials"]
 timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal"
 

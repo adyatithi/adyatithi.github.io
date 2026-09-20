@@ -5,15 +5,17 @@ id_display = "śakradhvajapātaḥ"
 slug = "zakradhvajapatah"
 source_path = "general/lunar_month/tithi/07/12/zakradhvajapAtaH.toml"
 tags = ["LessCommonFestivals"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Dvādaśī"]
 category = ["General Observances"]
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Dvādaśī"
+"references" = ["Smriti Muktaphalam Part 1 (SVR), p. 150"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-याज्ञवल्क्यः---
+याज्ञवल्क्यः—
 त्वहोरात्रं शक्रपाते तथोच्छ्रये। [अनध्यायः]
-शक्रपातः --- आश्वयुक्छुक्लद्वादशी॥
+शक्रपातः — आश्वयुक्छुक्लद्वादशी॥
 '''
 
 description_en = '''

@@ -4,6 +4,7 @@ id = "travencore-temple-entry-proclamation"
 id_display = "travèncòrè-tèmplè-èntry-pròclamatiòn"
 slug = "travencore-temple-entry-proclamation"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/11/12/travencore-temple-entry-proclamation.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "November 12 (Gregorian calendar)"

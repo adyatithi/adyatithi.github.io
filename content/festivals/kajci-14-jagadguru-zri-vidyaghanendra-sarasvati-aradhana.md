@@ -4,15 +4,16 @@ id = "kAJcI_14_jagadguru_zrI~vidyAghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 14 jagadguru śrī vidyāghanendra sarasvatī ārādhanā"
 slug = "kajci-14-jagadguru-zri-vidyaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/30/kAJcI_14_jagadguru_zrI~vidyAghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 निवेश्य गङ्गाधरगीष्पतिं पदे प्रविश्य कूटं तद् अगस्त्यचिह्नितम्।

@@ -6,7 +6,7 @@ slug = "narayaniyam-jayanti"
 source_path = "mahApuruSha/vaiShNava-misc/sidereal_solar_month/day/08/28/nArAyaNIyaM~jayantI.toml"
 tags = ["OtherJayantis", "CommonFestivals"]
 tradition = ["Vaiṣṇava Ācāryas"]
-rashi = ["Vṛścika"]
+rashi = ["08. Vṛścika"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal"
 

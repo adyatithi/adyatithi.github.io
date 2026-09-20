@@ -4,7 +4,7 @@ id = "utpannA-EkAdazI"
 id_display = "utpannā-ekādaśī"
 slug = "utpanna-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/utpannA-EkAdazI.toml"
-tags = ["MonthlyVratam", "EkadashiVratam"]
+tags = ["MonthlyVratam", "EkadashiVratam", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
@@ -18,14 +18,14 @@ shlokas = '''
 व्रतस्यास्य च वै विघ्नो न भवेत्त्वत्प्रसादतः॥
 --पद्मपुराणे
 
-श्रीब्रह्मवैवर्ते महापुराणे ब्रह्मखण्डे सौतिशौनकसंवादे नारदं प्रति शिवोपदेशे भक्ष्याभक्ष्यादिविवरणं नाम सप्तविंशतितमोऽध्यायः---
+श्रीब्रह्मवैवर्ते महापुराणे ब्रह्मखण्डे सौतिशौनकसंवादे नारदं प्रति शिवोपदेशे भक्ष्याभक्ष्यादिविवरणं नाम सप्तविंशतितमोऽध्यायः—
 एकादश्यामनाहारं गृही विप्रश्च भारते।
 स च तिष्ठति वैकुण्ठे यावद्वै ब्रह्मणो वयः॥१४॥
 
-युधिष्ठिर उवाच---
+युधिष्ठिर उवाच—
 उत्पन्ना सा कथं देव पुण्या चैकादशी तिथिः।
 कथं पवित्रा विश्वेऽस्मिन्कथं वै देवताप्रिया॥४९॥
-श्रीभगवानुवाच---
+श्रीभगवानुवाच—
 पुरा कृतयुगे पार्थ मुरनामेति दानवः।
 अत्यद्भुतो महारौद्रः सर्वदेवभयङ्करः॥५०॥
 ...
@@ -43,23 +43,23 @@ shlokas = '''
 पतितं दानवं दृष्ट्वा ततो विस्मयमागतः।
 केनायं च हतो रौद्रो ह्यत्युग्रो मम शत्रुकः॥८९॥
 अत्युग्रं च कृतं कर्म मम कारुण्यता कृतम्।
-कन्योवाच---
+कन्योवाच—
 तेन देवाश्च गन्धर्वाः सयक्षोरगराक्षसाः॥९०॥
 इन्द्राद्याः सकला जित्वा स्वर्गाच्चैव निराकृताः।
 हरिः सुप्तो मया दृष्टो मुरः पृष्ठे समागतः॥९१॥
 संहरिष्यति त्रैलोक्यं सुप्ते चैव जर्नादने।
-श्रीकृष्ण उवाच---
+श्रीकृष्ण उवाच—
 तस्यास्तद्वचनं श्रुत्वा विष्णुर्वचनमब्रवीत्॥९२॥
-श्रीविष्णुरुवाच---
+श्रीविष्णुरुवाच—
 अहं च निर्जितो येन कथं सोऽपि त्वया जितः।
-एकादश्युवाच---
+एकादश्युवाच—
 त्वत्प्रसादाच्च भोः स्वामिन्महादैत्यो मया हतः॥९३॥
-श्रीभगवानुवाच---
+श्रीभगवानुवाच—
 आनन्दं त्रिषु लोकेषु मुनयो देवता गताः।
 ब्रूहि त्वं च मया भद्रे यत्ते मनसि रोचते।
 ददामि च न सन्देहो यत्सुरैरपि दुर्लभम्॥९४॥
 ...
-एकादश्युवाच---
+एकादश्युवाच—
 त्रिभुवनेषु च देवेश चतुर्युगेषु साम्प्रतम्।
 त्रिषु लोकेषु सर्वत्र तादृशं कुरु मे प्रभो॥९८॥
 सर्वतीर्थप्रधानं हि सर्वविघ्नविनाशिनी।
@@ -68,13 +68,13 @@ shlokas = '''
 सर्वसिद्धिर्भवेत्तेषां यदि तुष्टोऽसि मे प्रभो॥१००॥
 उपवासं च नक्तं च एकभक्तं करोति च।
 तस्य वित्तं च धर्मं च मोक्षं वै देहि माधव॥१०१॥
-विष्णुरुवाच---
+विष्णुरुवाच—
 यत्त्वं वदसि कल्याणि तत्सर्वं च भविष्यति।
 सर्वान्मनोरथान्भद्रे दास्यसि त्वं च नान्यथा॥१०२॥
 मम भक्ताश्च ये लोके ये च भक्तास्तु कार्त्तिके।
----श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 
-एकादश्युपवासफलं प्रोक्तं पाद्ममहापुराणे---
+एकादश्युपवासफलं प्रोक्तं पाद्ममहापुराणे—
 शङ्खोद्धारे नरः स्नात्वा दृष्ट्वा देवं गदाधरम्॥३५॥
 एकादश्युपवासस्य कलां नार्हति षोडशीम्।
 सङ्क्रान्तिषु चतुर्लक्षं यो ददाति नृपोत्तम॥३६॥
@@ -95,11 +95,11 @@ shlokas = '''
 एकादशीव्रतस्यापि पुण्यसङ्ख्या न विद्यते।
 एतत्पुण्यं भवेत् तस्य यत्सुरैरपि दुर्लभम्॥४४॥
 एकादशीसमं नास्ति व्रतं पापप्रणाशनम्॥११८॥
----श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 '''
 
 description_en = '''
-Yudhiṣṭhira inquires about the origin of the auspicious Ekādaśī day and its importance in the universe, especially for the deities. In response, Bhagavan Viṣṇu narrates a story from the Kṛta yuga about a fierce demon named Mura, who terrorized the Devas, even defeating Indra and forcing them to flee from Svarga. Seeking help, Indra and the Devas approached Bhagavan Śiva, who directed them to Bhagavan Viṣṇu, the protector. The Devas, led by Indra, found Bhagavan Viṣṇu asleep in the water and pleaded for his help. Bhagavan Viṣṇu inquired about the demon, and Indra explained Mura's origins, his strength, and how he had created an alternate realm of Devas and occupied Svarga. Enraged, Bhagavan Viṣṇu vowed to defeat Mura and attacked his forces. Though many demons were killed, Mura proved to be a formidable opponent, leading to a protracted battle with Bhagavan Viṣṇu that lasted a thousand divine years. Eventually, exhausted, Bhagavan Viṣṇu retreated to the cave of Siṃhavatī in Badarikāśrama to rest. Mura pursued him, believing he had won. As Bhagavan Viṣṇu slept, Mura prepared to kill him. At that moment, a divine maiden, born from Bhagavan Viṣṇu's radiance, appeared and challenged Mura. In a fierce battle, the maiden, using her divine powers, defeated Mura and reduced him to ash with a single powerful sound. When Bhagavan Viṣṇu awoke, he was astonished to find Mura defeated and asked the maiden how she had accomplished this feat. She explained that she killed Mura to protect the world while Bhagavan Viṣṇu slept. Bhagavan Viṣṇu, impressed, offered her a boon. The maiden, who identified herself as Ekādaśī, requested to be the most auspicious of days, granting all those who fast in her honor health, wealth, righteousness, and ultimately, salvation. Bhagavan Viṣṇu granted her wish, decreeing that Ekādaśī would become the holiest day, capable of destroying all sins and conferring (even) salvation to those who observe it. Thus came about the birth of Ekādaśī and the Ekādaśī vrata itself---thus, this day in Kartika is known by the name of `utpannA`, i.e. birth.
+Yudhiṣṭhira inquires about the origin of the auspicious Ekādaśī day and its importance in the universe, especially for the deities. In response, Bhagavan Viṣṇu narrates a story from the Kṛta yuga about a fierce demon named Mura, who terrorized the Devas, even defeating Indra and forcing them to flee from Svarga. Seeking help, Indra and the Devas approached Bhagavan Śiva, who directed them to Bhagavan Viṣṇu, the protector. The Devas, led by Indra, found Bhagavan Viṣṇu asleep in the water and pleaded for his help. Bhagavan Viṣṇu inquired about the demon, and Indra explained Mura's origins, his strength, and how he had created an alternate realm of Devas and occupied Svarga. Enraged, Bhagavan Viṣṇu vowed to defeat Mura and attacked his forces. Though many demons were killed, Mura proved to be a formidable opponent, leading to a protracted battle with Bhagavan Viṣṇu that lasted a thousand divine years. Eventually, exhausted, Bhagavan Viṣṇu retreated to the cave of Siṃhavatī in Badarikāśrama to rest. Mura pursued him, believing he had won. As Bhagavan Viṣṇu slept, Mura prepared to kill him. At that moment, a divine maiden, born from Bhagavan Viṣṇu's radiance, appeared and challenged Mura. In a fierce battle, the maiden, using her divine powers, defeated Mura and reduced him to ash with a single powerful sound. When Bhagavan Viṣṇu awoke, he was astonished to find Mura defeated and asked the maiden how she had accomplished this feat. She explained that she killed Mura to protect the world while Bhagavan Viṣṇu slept. Bhagavan Viṣṇu, impressed, offered her a boon. The maiden, who identified herself as Ekādaśī, requested to be the most auspicious of days, granting all those who fast in her honor health, wealth, righteousness, and ultimately, salvation. Bhagavan Viṣṇu granted her wish, decreeing that Ekādaśī would become the holiest day, capable of destroying all sins and conferring (even) salvation to those who observe it. Thus came about the birth of Ekādaśī and the Ekādaśī vrata itself—thus, this day in Kartika is known by the name of `utpannA`, i.e. birth.
 '''
 
 [names]

@@ -4,7 +4,7 @@ id = "kucEla-dinam"
 id_display = "kucela-dinam"
 slug = "kucela-dinam"
 source_path = "devatA/vaiShNava/description_only/kucEla-dinam.toml"
-tags = ["PuranaEvents"]
+tags = ["PuranaEvents", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
 category = ["Devatā Observances"]
 

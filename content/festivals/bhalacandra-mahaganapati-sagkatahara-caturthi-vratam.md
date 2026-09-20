@@ -4,7 +4,7 @@ id = "bhAlacandra-mahAgaNapati-saGkaTahara-caturthI-vratam"
 id_display = "bhālacandra-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "bhalacandra-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/bhAlacandra-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
-tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
 

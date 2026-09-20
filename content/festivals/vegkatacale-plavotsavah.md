@@ -4,7 +4,7 @@ id = "vEGkaTAcalE_plavOtsavaH"
 id_display = "veṅkaṭācale plavotsavaḥ"
 slug = "vegkatacale-plavotsavah"
 source_path = "temples/venkaTAchala/description_only/vEGkaTAcalE_plavOtsavaH.toml"
-tags = ["AndhraTempleFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

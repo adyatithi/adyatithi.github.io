@@ -4,14 +4,15 @@ id = "AgrayaNa~hOmaH~draviDadeshe~4"
 id_display = "āgrayaṇa homaḥ draviḍadèshè 4"
 slug = "agrayana-homah-dravidadeshe-4"
 source_path = "gRhya/general/sidereal_solar_month/tithi/08/30/AgrayaNa~hOmaH~draviDadeshe~4.toml"
-tags = ["SpecialPuja"]
-rashi = ["Vṛścika"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
+rashi = ["08. Vṛścika"]
 tithi = ["Amāvāsyā"]
 category = ["Gṛhya Rites"]
 kaala = "सूर्योदयः"
 priority_rule = "puurvaviddha"
 timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal, Kṛṣṇa Pakṣa Amāvāsyā, at सूर्योदयः"
 "references" = ["Vaidikasri Nov 2017"]
+sources = ["Vaidikaśrī (periodical)"]
 
 description_en = '''
 Perform `hOma` with fresh rice from paddy.

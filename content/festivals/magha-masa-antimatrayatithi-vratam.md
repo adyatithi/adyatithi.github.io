@@ -6,9 +6,11 @@ slug = "magha-masa-antimatrayatithi-vratam"
 source_path = "general/description_only/mAgha-mAsa-antimatrayatithi-vratam.toml"
 tags = ["LessCommonFestivals"]
 category = ["General Observances"]
+"references" = ["Padma Puranam - Uttara Khanda - Adhyaya 221"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
-भृगुरुवाच---
+भृगुरुवाच—
 माघस्नानैर्विपन्नाशो माघस्नानैरघक्षयः।
 सर्वव्रताधिको माघः सर्वदानफलप्रदः॥६७॥
 माघो गर्जति यज्ञेभ्यो माघो योगाच्च गर्जति।

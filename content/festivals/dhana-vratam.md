@@ -4,11 +4,13 @@ id = "dhana-vratam"
 id_display = "dhana-vratam"
 slug = "dhana-vratam"
 source_path = "general/lunar_month/tithi/09/01/dhana-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Mārgaśira"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["09. Mārgaśira"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Pratipat"
+"references" = ["Naradiya Puranam, Adhyaya 110"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 अथ मार्गसिताद्यायां धनव्रतमनुत्तमम्।

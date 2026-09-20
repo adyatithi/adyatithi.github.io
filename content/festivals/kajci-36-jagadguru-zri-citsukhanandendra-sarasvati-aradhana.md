@@ -4,15 +4,16 @@ id = "kAJcI_36_jagadguru_zrI~citsukhAnandEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 36 jagadguru śrī citsukhānandendra sarasvatī ārādhanā"
 slug = "kajci-36-jagadguru-zri-citsukhanandendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/07/15/kAJcI_36_jagadguru_zrI~citsukhAnandEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Pūrṇimā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Pūrṇimā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 ख्यातः सुरेश इति सोमगिरेस्तनूजः क्षीरापगातटभवोऽभवद् आश्रमीन्द्रः।

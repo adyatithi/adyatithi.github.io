@@ -4,15 +4,16 @@ id = "kAJcI_65_jagadguru_zrI~sudarzana_mahAdEvEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 65 jagadguru śrī sudarśana mahādevendra sarasvatī ārādhanā"
 slug = "kajci-65-jagadguru-zri-sudarzana-mahadevendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/12/30/kAJcI_65_jagadguru_zrI~sudarzana_mahAdEvEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Phālguna"]
+month = ["12. Phālguna"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Phālguna (फाल्गुन) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 मध्यार्जुनमहालिङ्गनामा हारीतगोत्रजः।

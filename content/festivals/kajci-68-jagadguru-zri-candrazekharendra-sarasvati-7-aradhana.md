@@ -6,12 +6,14 @@ slug = "kajci-68-jagadguru-zri-candrazekharendra-sarasvati-7-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/27/kAJcI_68_jagadguru_zrI~candrazEkharEndra_sarasvatI_7_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Dvādaśī, at अपराह्णः"
+"references" = ["Punya Shloka Manjari"]
+sources = ["Puṇyaślokamañjarī"]
 
 shlokas = '''
 महास्वामीति विख्यातस्त्वष्टषष्टो जगद्गुरुः।

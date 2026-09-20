@@ -4,14 +4,16 @@ id = "varAha~jayantI"
 id_display = "varāha jayantī"
 slug = "varaha-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/20/varAha~jayantI.toml"
-tags = ["Dashavataram"]
+tags = ["Dashavataram", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Caitra (चैत्र) māsa, Kṛṣṇa Pakṣa Pañcamī, at मध्याह्नः"
+"references" = ["Vaidyanatha Dikshitiyam (SVR) p.62"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 जितं जितं तेऽजित यज्ञभावन त्रयीं तनुं स्वां परिधुन्वते नमः।

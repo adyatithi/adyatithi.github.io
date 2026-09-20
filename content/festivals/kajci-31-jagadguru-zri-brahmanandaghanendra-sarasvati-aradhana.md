@@ -4,15 +4,16 @@ id = "kAJcI_31_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 31 jagadguru śrī brahmānandaghanendra sarasvatī ārādhanā"
 slug = "kajci-31-jagadguru-zri-brahmanandaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/12/kAJcI_31_jagadguru_zrI~brahmAnandaghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Dvādaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 आनन्तिर्ज्येष्ठरुद्रो द्रविडिषु गरुडह्रादिनीसीम्नि जातो

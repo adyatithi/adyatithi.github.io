@@ -4,9 +4,11 @@ id = "hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam"
 id_display = "heramba-mahāgaṇapati-mahāsaṅkaṭahara-caturthī-vratam"
 slug = "heramba-mahaganapati-mahasagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/hEramba-mahAgaNapati-mahAsaGkaTahara-caturthI-vratam.toml"
-tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
+"references" = ["Dharma Sindhu p.56"]
+sources = ["Dharmasindhu (Kāśīnātha Upādhyāya)"]
 
 shlokas = '''
 गणाधिपस्त्वं देवेश चतुर्थ्यां पूजितो मया।

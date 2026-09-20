@@ -4,17 +4,17 @@ id = "prapAdAnArambhaH"
 id_display = "prapādānārambhaḥ"
 slug = "prapadanarambhah"
 source_path = "general/lunar_month/tithi/01/01/prapAdAnArambhaH.toml"
-tags = ["SpecialPeriodStart", "Danam"]
-month = ["Caitra"]
+tags = ["SpecialPeriodStart", "DanamDays", "LessCommonFestivals"]
+month = ["01. Caitra"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat"
 
 shlokas = '''
-प्रपादानारम्भ उक्तोऽपरार्के---
+प्रपादानारम्भ उक्तोऽपरार्के—
 अतीते फाल्गुने मासि प्राप्ते चैत्रमहोत्सवे।
 पुण्येऽह्नि विप्रकथिते प्रपादानं समारभेत्। 
-तत्र मन्त्रः---
+तत्र मन्त्रः—
 प्रपेयं सर्वसामान्या भूतेभ्यः प्रतिपादिता।
 अस्याः प्रदानात् पितरस्तृप्यन्तु हि पितामहाः॥ इति।
 अनिवार्य ततो देयं जलं मासचतुष्टयम्। 
@@ -26,7 +26,7 @@ shlokas = '''
 अस्य प्रदानात् सकला मम सन्तु मनोरथाः॥ इति।
 अनेन विधिना यस्तु धर्मकुम्भं प्रयच्छति।
 प्रपादानफलं सोऽपि लभते नात्र संशयः॥ 
----स्मृतिकौस्तुभे
+—स्मृतिकौस्तुभे
 '''
 
 description_en = '''

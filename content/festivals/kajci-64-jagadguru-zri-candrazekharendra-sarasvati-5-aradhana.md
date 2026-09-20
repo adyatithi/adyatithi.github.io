@@ -4,15 +4,16 @@ id = "kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA"
 id_display = "kāñcī 64 jagadguru śrī candraśekharendra sarasvatī 5 ārādhanā"
 slug = "kajci-64-jagadguru-zri-candrazekharendra-sarasvati-5-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/16/kAJcI_64_jagadguru_zrI~candrazEkharEndra_sarasvatI_5_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीमठपार्श्वे सद्मनि जातो वेङ्कटसुब्रह्मण्यतपस्वी।

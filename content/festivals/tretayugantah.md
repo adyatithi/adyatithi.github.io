@@ -6,9 +6,11 @@ slug = "tretayugantah"
 source_path = "time_focus/yugAdiH/relative_event/vRzcika-ravi-saGkramaNa-viSNupadI-puNyakAlaH/offset__00/trEtAyugAntaH.toml"
 tags = ["CommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Purushartha Chintamani p. 507"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
-हेमाद्रौ ब्रह्मपुराणे---
+हेमाद्रौ ब्रह्मपुराणे—
 सूर्यस्य सिंहसङ्क्रान्त्यामन्तः कृतयुगस्य तु।
 अथ वृश्चिकसङ्क्रान्त्यामन्तस्त्रेतायुगस्य तु॥
 ज्ञेयस्तु वृषसङ्क्रान्त्यां द्वापरान्तस्तु संज्ञया।

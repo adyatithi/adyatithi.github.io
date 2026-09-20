@@ -4,7 +4,7 @@ id = "candra-darzanam"
 id_display = "candra-darśanam"
 slug = "candra-darzanam"
 source_path = "devatA/graha/description_only/candra-darzanam.toml"
-tags = ["ChandraDarshanam"]
+tags = ["ChandraDarshanam", "LessCommonFestivals"]
 devata = ["Graha (Planetary)"]
 category = ["Devatā Observances"]
 

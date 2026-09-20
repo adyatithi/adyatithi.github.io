@@ -4,15 +4,16 @@ id = "kAJcI_24_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 24 jagadguru śrī citsukhendra sarasvatī ārādhanā"
 slug = "kajci-24-jagadguru-zri-citsukhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/24/kAJcI_24_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 सच्चित्सुखाच्छिव इति प्रथितोऽयम् आदा-

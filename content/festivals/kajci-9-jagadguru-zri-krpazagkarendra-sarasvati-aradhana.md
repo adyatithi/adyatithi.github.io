@@ -4,15 +4,16 @@ id = "kAJcI_9_jagadguru_zrI~kRpAzaGkarEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 9 jagadguru śrī kṛpāśaṅkarendra sarasvatī ārādhanā"
 slug = "kajci-9-jagadguru-zri-krpazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/18/kAJcI_9_jagadguru_zrI~kRpAzaGkarEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Tṛtīyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Tṛtīyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 आन्ध्रेष्वात्मनसोमयाजितनयो गर्गान्वयो गङ्गया-

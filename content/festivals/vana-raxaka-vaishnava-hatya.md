@@ -4,6 +4,7 @@ id = "vana-raxaka-vaiShNava-hatyA"
 id_display = "vana-raxaka-vaiṣhṇava-hatyā"
 slug = "vana-raxaka-vaishnava-hatya"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/09/11/vana-raxaka-vaiShNava-hatyA.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "September 11 (Julian calendar)"

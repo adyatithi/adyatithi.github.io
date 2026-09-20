@@ -5,17 +5,18 @@ id_display = "jīvaputrikāṣṭamī"
 slug = "jivaputrikastami"
 source_path = "general/lunar_month/tithi/06/23/jIvaputrikASTamI.toml"
 tags = ["LessCommonFestivals"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Aṣṭamī"]
 category = ["General Observances"]
 kaala = "प्रदोषः"
 priority_rule = "paraviddha"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at प्रदोषः"
 "references" = ["Krtyasarasamucchaya p. 19", "Aamade Jyotishi"]
+sources = ["Kṛtyasārasamuccaya", "Āmār Jyotiṣī (regional pañcāṅga)"]
 
 shlokas = '''
-जीवत्पुत्रिकाऽष्टमी---
-{[पूर्णिमान्त]}आश्विनकृष्णाष्टमी जीवत्पुत्रिकाख्या। तथा हि भविष्ये---
+जीवत्पुत्रिकाऽष्टमी—
+{[पूर्णिमान्त]}आश्विनकृष्णाष्टमी जीवत्पुत्रिकाख्या। तथा हि भविष्ये—
 इषे मास्यसिते पक्षे चाष्टमी या तिथिर्भवेत्।
 पुत्रसौभाग्यदा स्त्रीणां ख्याता सा जीवपुत्रिका॥
 शालिवाहनराजस्य पुत्रो जीमूतवाहनः।
@@ -30,7 +31,7 @@ shlokas = '''
 पूर्वेद्युरपरेद्युर्वा प्रदोषे यत्र चाष्टमी।
 तत्र पूज्यः सदा स्त्रीभी राजा जीमूतवाहनः॥
 इति विष्णुधर्मोत्तरीयाच्च।
----कृत्यसारसमुच्चयः
+—कृत्यसारसमुच्चयः
 '''
 
 description_en = '''

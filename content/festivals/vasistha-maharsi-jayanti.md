@@ -6,11 +6,12 @@ slug = "vasistha-maharsi-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/02/09/vasiSTha~maharSi~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Ṛṣi"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Navamī"
 "references" = ["http://hindupad.com/vashishta-jayanti/"]
+sources = ["Hindupad.com"]
 
 [names]
 sa = ["वसिष्ठ-महर्षि-जयन्ती"]

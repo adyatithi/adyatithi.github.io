@@ -4,15 +4,16 @@ id = "kAJcI_33_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_2_ArAdhanA"
 id_display = "kāñcī 33 jagadguru śrī saccidānandaghanendra sarasvatī 2 ārādhanā"
 slug = "kajci-33-jagadguru-zri-saccidanandaghanendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/06/21/kAJcI_33_jagadguru_zrI~saccidAnandaghanEndra_sarasvatI_2_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Kṛṣṇa Pakṣa Ṣaṣṭhī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 नानाभाषाभिलापी प्रशमकुलधनः प्रौढरामण्णसूनुः

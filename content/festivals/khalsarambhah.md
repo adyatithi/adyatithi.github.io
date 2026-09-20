@@ -6,7 +6,7 @@ slug = "khalsarambhah"
 source_path = "mahApuruSha/xatra/sidereal_solar_month/day/01/01/khAlsArambhaH.toml"
 tags = ["LessCommonFestivals"]
 tradition = ["Kings & Dynasties"]
-rashi = ["Meṣa"]
+rashi = ["01. Meṣa"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Meṣa (मेष) māsa, sidereal"
 

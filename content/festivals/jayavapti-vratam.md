@@ -4,11 +4,13 @@ id = "jayAvApti-vratam"
 id_display = "jayāvāpti-vratam"
 slug = "jayavapti-vratam"
 source_path = "general/lunar_month/tithi/07/16/jayAvApti-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Āśvina"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["07. Āśvina"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 timing_summary = "Āśvina (आश्विन) māsa, Kṛṣṇa Pakṣa Pratipat"
+"references" = ["Chaturvarga Chintamani"]
+sources = ["Caturvargacintāmaṇi (Hemādri)"]
 
 [names]
 sa = ["जयावाप्ति-व्रतम्"]

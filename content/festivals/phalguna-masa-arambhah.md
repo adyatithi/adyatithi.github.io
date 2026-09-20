@@ -4,17 +4,19 @@ id = "phAlguna-mAsa-ArambhaH"
 id_display = "phālguna-māsa-ārambhaḥ"
 slug = "phalguna-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/12/01/phAlguna-mAsa-ArambhaH.toml"
-tags = ["SpecialDays", "SpecialPeriodStart"]
-month = ["Phālguna"]
+tags = ["SpecialDays", "SpecialPeriodStart", "LessCommonFestivals"]
+month = ["12. Phālguna"]
 tithi = ["Pratipat"]
 category = ["Calendrical Specials"]
 timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pratipat"
+"references" = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
-फाल्गुनकृत्यं स्कन्दपुराणे---
+फाल्गुनकृत्यं स्कन्दपुराणे—
 एकभक्तं तु कुर्वाणः फाल्गुने मासि नित्यशः।
 स्त्रीषु सौभाग्यमाप्नोति स्त्रियश्च परमप्रियाः॥
-वामनपुराणे---
+वामनपुराणे—
 फाल्गुने व्रीहयो गावो वस्त्रं कृष्णाजिनान्वितम्।
 गोविन्दप्रीणनार्थाय दातव्यं पुरुषर्षभ॥ इति।
 '''

@@ -6,10 +6,12 @@ slug = "nrsimha-dolotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/14/nRsiMha-dOlOtsavaH.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Caturdaśī"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Caturdaśī"
+"references" = ["Smriti Kaustubham p.90"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 मधौ शुक्लचतुर्दश्यां नृसिंहं जगतः प्रभुम्।

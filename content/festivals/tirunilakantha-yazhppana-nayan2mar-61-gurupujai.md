@@ -4,15 +4,16 @@ id = "tirunIlakaNTha_yAzhppANa_nAyan2mAr_(61)_gurupUjai"
 id_display = "tirunīlakaṇṭha yāl̤ppāṇa nāyaṉmār (61) gurupūjai"
 slug = "tirunilakantha-yazhppana-nayan2mar-61-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/02/19/tirunIlakaNTha_yAzhppANa_nAyan2mAr_(61)_gurupUjai.toml"
-tags = ["NayanmarGurupujai"]
+tags = ["NayanmarGurupujai", "LessCommonFestivals"]
 tradition = ["Nāyanmār"]
-rashi = ["Vṛṣabha"]
+rashi = ["02. Vṛṣabha"]
 nakshatra = ["Mūla"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
 timing_summary = "Vṛṣabha (वृषभ) māsa, sidereal, Mūla nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+sources = ["63 Nayanmār Saints (Swami Sivananda)"]
 
 description_en = '''
 Between the 6th and 9th centuries, in South India, there existed 63 ardent devotees of Bhagavan Shiva, collectively known as the Nayanmars. These devout individuals, hailing from various walks of life including potters, fishermen, farmers, merchants, priests, hunters, and washermen, created devotional songs still sung by followers around the globe. Among these Nayanmars, Appar, Sambandar, and Sundarar, known for their Thevaram hymns, along with Manikkavasagar, are distinguished as the Samayacharyas or the ‘The Four’ (`nAlvar`) revered teachers of the faith. They were instrumental in promoting the Shaiva Siddhanta philosophy and culture, effectively challenging the spread of Jainism and Buddhism. Their teachings centered around the concept that Shiva embodies love, and that embracing love for all beings and existence is essential in connecting with Shiva, the Supreme Being.
@@ -23,7 +24,7 @@ The next day, the Brahmanas led Yazhpanar into the shrine. Surprised but underst
 
 Later, Yazhpanar visited Tiruvarur. Here, too, he initially sang outside the shrine. In response to his devotion, Bhagavan Shiva created a new opening on the northern side of the temple specifically for Yazhpanar. Recognizing this as another divine gesture, Yazhpanar entered through the gate and sang in the immediate presence of Bhagavan. 
 
-His journey with Sambandar and eventual attainment of Liberation is of note: During a pilgrimage, Sambandar met Tiru Neelakanta Yazhpanar, who became his constant companion.  As his wedding approached at age 16, Sambandar prayed to Shiva for liberation. During this time, a miraculous blaze of light, the Shiva Jyoti, appeared. As he recited the “Panchakshara Padigam”, everyone present --- including Tiruneelanakka Nayanmar, Muruga Nayanmar and Tiruneelakanta Yazhpanar --- were absorbed into a divine light, merging with Bhagavan Shiva! His legacy continues to influence and inspire Shaivite devotion and music.
+His journey with Sambandar and eventual attainment of Liberation is of note: During a pilgrimage, Sambandar met Tiru Neelakanta Yazhpanar, who became his constant companion.  As his wedding approached at age 16, Sambandar prayed to Shiva for liberation. During this time, a miraculous blaze of light, the Shiva Jyoti, appeared. As he recited the “Panchakshara Padigam”, everyone present — including Tiruneelanakka Nayanmar, Muruga Nayanmar and Tiruneelakanta Yazhpanar — were absorbed into a divine light, merging with Bhagavan Shiva! His legacy continues to influence and inspire Shaivite devotion and music.
 '''
 
 [names]

@@ -4,12 +4,14 @@ id = "hayagrIva~jayantI"
 id_display = "hayagrīva jayantī"
 slug = "hayagriva-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/15/hayagrIva~jayantI.toml"
-tags = ["OtherAvatarams"]
+tags = ["OtherAvatarams", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Pūrṇimā"]
 category = ["Devatā Observances"]
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Pūrṇimā"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 हयग्रीवस्यावतारस्तस्यामेव तिथौ मतः॥२१॥
@@ -32,7 +34,7 @@ shlokas = '''
 पुरश्चरणमेतस्य अक्षराणां तु तु सङ्ख्यया।
 लक्षं वाथ सहस्रं वा कलौ तु स्याच्चतुर्गुणम्॥३०॥
 एवं कृते हयग्रीवस्तुष्टः सत्कामदो भवेत्।
----श्रीस्कन्दपुराणे ईश्वरसनत्कुमारसंवादे श्रावणमासमाहात्म्ये उपाकर्मोत्सर्जन-श्रवणाकर्मसर्पबलिसभादीपहयग्रीवजयन्तीरक्षाबन्धविधिकथनं नामैकविंशोऽध्याये
+—श्रीस्कन्दपुराणे ईश्वरसनत्कुमारसंवादे श्रावणमासमाहात्म्ये उपाकर्मोत्सर्जन-श्रवणाकर्मसर्पबलिसभादीपहयग्रीवजयन्तीरक्षाबन्धविधिकथनं नामैकविंशोऽध्याये
 ओङ्कारोद्गीथरूपाय ऋग्यजुस्साममूर्तये।
 नमोऽस्तुदेवदेवाय वाच्छितार्थप्रदायिने॥
 अज्ञानतिमिरं छिन्धि ज्ञानं चाशु प्रयच्छ मे।

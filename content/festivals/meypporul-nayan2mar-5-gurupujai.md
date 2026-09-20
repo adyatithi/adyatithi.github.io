@@ -4,20 +4,21 @@ id = "meypporuL_nAyan2mAr_(5)_gurupUjai"
 id_display = "mèyppòruḻ nāyaṉmār (5) gurupūjai"
 slug = "meypporul-nayan2mar-5-gurupujai"
 source_path = "mahApuruSha/nAyanmAr/sidereal_solar_month/nakshatra/08/12/meypporuL_nAyan2mAr_(5)_gurupUjai.toml"
-tags = ["NayanmarGurupujai"]
+tags = ["NayanmarGurupujai", "LessCommonFestivals"]
 tradition = ["Nāyanmār"]
-rashi = ["Vṛścika"]
+rashi = ["08. Vṛścika"]
 nakshatra = ["Uttara Phalgunī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "प्रातः"
 priority_rule = "paraviddha"
 timing_summary = "Vṛścika (वृश्चिक) māsa, sidereal, Uttara Phalgunī nakṣatra, at प्रातः"
 "references" = ["63 Nayanmar Saints by Swami Sivananda, published by The Divine Life Society"]
+sources = ["63 Nayanmār Saints (Swami Sivananda)"]
 
 description_en = '''
 Between the 6th and 9th centuries, in South India, there existed 63 ardent devotees of Bhagavan Shiva, collectively known as the Nayanmars. These devout individuals, hailing from various walks of life including potters, fishermen, farmers, merchants, priests, hunters, and washermen, created devotional songs still sung by followers around the globe.
 
-The 5th of them---Meypporul Nayanmar---a devout king of Sethi's hill tribes, was celebrated for his bravery, chivalry, and successful battles, creating a peaceful and prosperous kingdom. He deeply revered Bhagavan Shiva, seeing Him and His devotees as the embodiment of Absolute Truth, and held Shiva Bhaktas in high esteem, with daily prayers and festivals in temples.
+The 5th of them—Meypporul Nayanmar—a devout king of Sethi's hill tribes, was celebrated for his bravery, chivalry, and successful battles, creating a peaceful and prosperous kingdom. He deeply revered Bhagavan Shiva, seeing Him and His devotees as the embodiment of Absolute Truth, and held Shiva Bhaktas in high esteem, with daily prayers and festivals in temples.
 
 His fame, however, stirred jealousy in Muthanathan, a neighbouring king. Muthanathan, defeated in battle, resorted to deceit, disguising himself as a Shiva Yogi to assassinate Nayanmar. Even as he lay dying from the betrayal, Nayanmar's concern was for the impostor's safety, instructing his guard to protect the assailant and honour him as a Shiva yogi as he appeared as one! His last words urged continued devotion and service to Shiva Bhaktas.
 

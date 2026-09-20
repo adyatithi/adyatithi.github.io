@@ -6,7 +6,8 @@ slug = "vyatipata-yogah-alabhyam"
 source_path = "time_focus/monthly/amAvAsyA/description_only/vyatIpAta-yOgaH_(alabhyam).toml"
 tags = ["RareDays", "Combinations", "AmavasyaDays"]
 category = ["Calendrical Specials"]
-"references" = ["Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga"]
+"references" = ["Mahabharatam", "Smrti Mukthaphalam Shraddha Kandam Uttara Bhaga"]
+sources = ["Mahābhārata", "Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 श्रवणाश्विधनिष्ठार्द्रानागदैवतमापतेत्।

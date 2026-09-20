@@ -4,7 +4,7 @@ id = "adhika-zrAvaNa_(karkaTa)_amAvAsyA"
 id_display = "adhika-śrāvaṇa (karkaṭa) amāvāsyā"
 slug = "adhika-zravana-karkata-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/adhika-zrAvaNa_(karkaTa)_amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

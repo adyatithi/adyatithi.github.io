@@ -5,12 +5,14 @@ id_display = "rakṣābandhanam"
 slug = "raksabandhanam"
 source_path = "general/lunar_month/tithi/05/15/rakSAbandhanam.toml"
 tags = ["CommonFestivals"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "चैत्रः"
 priority_rule = "puurvaviddha"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Pūrṇimā, at चैत्रः"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 एतस्यामेव पूर्णायां रक्षाबन्धनमिष्यते॥३१॥
@@ -58,11 +60,11 @@ shlokas = '''
 पुत्रैश्च पौत्रसहितः ससुहृज्जनश्च॥५०॥
 भद्रायां च न कर्तव्यो रक्षाबन्धः शुचिव्रतैः।
 बद्धा रक्षा तु भद्रायां विपरीतफलप्रदा॥५१॥
----श्रीस्कन्दपुराणे ईश्वरसनत्कुमारसंवादे श्रावणमासमाहात्म्ये उपाकर्मोत्सर्जन-श्रवणाकर्मसर्पबलिसभादीपहयग्रीवजयन्तीरक्षाबन्धविधिकथनं नामैकविंशोऽध्याये
+—श्रीस्कन्दपुराणे ईश्वरसनत्कुमारसंवादे श्रावणमासमाहात्म्ये उपाकर्मोत्सर्जन-श्रवणाकर्मसर्पबलिसभादीपहयग्रीवजयन्तीरक्षाबन्धविधिकथनं नामैकविंशोऽध्याये
 '''
 
 description_en = '''
-Rakshabandhanam. One who observes this remains happy for the entire year! Note that `bhadrA-karaNaM` must be avoided for `rakSAbandhanam` --- since it bestows opposite fruit!
+Rakshabandhanam. One who observes this remains happy for the entire year! Note that `bhadrA-karaNaM` must be avoided for `rakSAbandhanam` — since it bestows opposite fruit!
 '''
 
 [names]

@@ -4,8 +4,10 @@ id = "caitra-amAvAsyA"
 id_display = "caitra-amāvāsyā"
 slug = "caitra-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/caitra-amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 यो दद्याच्चैत्रदर्शे तु कुम्भं पूर्णं तु पानकैः।

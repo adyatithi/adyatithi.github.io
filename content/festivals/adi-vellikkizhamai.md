@@ -4,8 +4,8 @@ id = "ADi~veLLikkizhamai"
 id_display = "āḍi vèḻḻikkil̤amai"
 slug = "adi-vellikkizhamai"
 source_path = "time_focus/vaara_conditioned/ADi~veLLikkizhamai.toml"
-tags = ["MonthWeekdayFestivals"]
-rashi = ["Karka"]
+tags = ["MonthWeekdayFestivals", "LessCommonFestivals"]
+rashi = ["04. Karka"]
 category = ["Calendrical Specials"]
 timing_summary = "Karka (कर्क) māsa, sidereal"
 

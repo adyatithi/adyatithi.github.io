@@ -4,7 +4,7 @@ id = "sthAlIpAkaH_16"
 id_display = "sthālīpākaḥ 16"
 slug = "sthalipakah-16"
 source_path = "gRhya/general/description_only/sthAlIpAkaH_16.toml"
-tags = ["MonthlyFestivals"]
+tags = ["MonthlyFestivals", "LessCommonFestivals"]
 category = ["Gṛhya Rites"]
 
 description_en = '''

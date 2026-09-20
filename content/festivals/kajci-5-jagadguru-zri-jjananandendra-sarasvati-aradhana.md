@@ -4,15 +4,16 @@ id = "kAJcI_5_jagadguru_zrI~jJAnAnandEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 5 jagadguru śrī jñānānandendra sarasvatī ārādhanā"
 slug = "kajci-5-jagadguru-zri-jjananandendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/07/kAJcI_5_jagadguru_zrI~jJAnAnandEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Saptamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Saptamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 जातो मङ्गलनाम्नि चोलविषये नागेशसंज्ञाद् द्विजा-

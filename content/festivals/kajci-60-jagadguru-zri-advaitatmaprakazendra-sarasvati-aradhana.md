@@ -4,15 +4,16 @@ id = "kAJcI_60_jagadguru_zrI~advaitAtmaprakAzEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 60 jagadguru śrī advaitātmaprakāśendra sarasvatī ārādhanā"
 slug = "kajci-60-jagadguru-zri-advaitatmaprakazendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/02/kAJcI_60_jagadguru_zrI~advaitAtmaprakAzEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Dvitīyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Dvitīyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अथ वसिष्ठनदीतटसम्भवः परशुरामसुतः श्रुतिपण्डितः।

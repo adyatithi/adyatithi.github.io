@@ -4,12 +4,13 @@ id = "vaizAkha-snAnapUrtiH"
 id_display = "vaiśākha-snānapūrtiḥ"
 slug = "vaizakha-snanapurtih"
 source_path = "time_focus/misc/lunar_month/tithi/02/30/vaizAkha-snAnapUrtiH.toml"
-tags = ["SpecialSnanam"]
-month = ["Vaiśākha"]
+tags = ["SpecialSnanam", "LessCommonFestivals"]
+month = ["02. Vaiśākha"]
 tithi = ["Amāvāsyā"]
 category = ["Calendrical Specials"]
 timing_summary = "Vaiśākha (वैशाख) māsa, Kṛṣṇa Pakṣa Amāvāsyā"
 "references" = ["Smriti Kaustubha p.107"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 माधवे मेषगे भानौ मुरारे मधुसूदन।

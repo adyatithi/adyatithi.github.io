@@ -8,7 +8,7 @@ tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
-अग्निपुराणे---
+अग्निपुराणे—
 वारव्रतानि वक्ष्यामि भुक्तिमुक्तिप्रदानि हि।
 ...
 अनुराधे देवगुरुं सप्तनक्ती ग्रहार्तिनुत्॥१९५-५॥

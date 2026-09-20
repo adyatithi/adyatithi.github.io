@@ -9,9 +9,11 @@ tithi = ["Caturdaśī"]
 category = ["Calendrical Specials"]
 kaala = "puurvaahna"
 timing_summary = "Kṛṣṇa Pakṣa Caturdaśī, at puurvaahna"
+"references" = ["Smriti Muktaphalam Part 3"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-वृद्धमनुनोक्तम्---
+वृद्धमनुनोक्तम्—
 दीपोत्सवचतुर्दश्यां कार्यं तु यमतर्पणम्।
 कृष्णाङ्गारचतुर्दश्याम् अपि कार्यं सदैव वा॥
 कृष्णपक्षे चतुर्दश्याम् अङ्गारकदिनं यदा।

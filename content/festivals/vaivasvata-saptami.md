@@ -4,14 +4,16 @@ id = "vaivasvata-saptamI"
 id_display = "vaivasvata-saptamī"
 slug = "vaivasvata-saptami"
 source_path = "general/lunar_month/tithi/04/07/vaivasvata-saptamI.toml"
-tags = ["SpecialPuja"]
-month = ["Āṣāḍha"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
+month = ["04. Āṣāḍha"]
 tithi = ["Saptamī"]
 category = ["General Observances"]
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Saptamī"
+"references" = ["Smriti Kaustubham p.138"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
-मदनरत्ने ब्राह्मे---
+मदनरत्ने ब्राह्मे—
 आषाढशुक्लसप्तम्यां विवस्वान्नाम भास्करः।
 जातः पूर्वासु तस्मात्तं तत्रोपोष्य यजेत्सदा॥
 रथचक्राकृतौ रम्ये मण्डले सर्वकामदम्।

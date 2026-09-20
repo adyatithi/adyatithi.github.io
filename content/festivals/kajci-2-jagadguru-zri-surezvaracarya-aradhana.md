@@ -4,15 +4,16 @@ id = "kAJcI_2_jagadguru_zrI~surEzvarAcArya_ArAdhanA"
 id_display = "kāñcī 2 jagadguru śrī sureśvarācārya ārādhanā"
 slug = "kajci-2-jagadguru-zri-surezvaracarya-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/12/kAJcI_2_jagadguru_zrI~surEzvarAcArya_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Dvādaśī, at अपराह्णः"
 "references" = ["www.kamakoti.org"]
+sources = ["kamakoti.org"]
 
 shlokas = '''
 गौडः काश्मीरजन्मा कलितपरिचितिः पूर्वतन्त्रे कुमाराद्

@@ -6,11 +6,12 @@ slug = "markandeya-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/11/04/mArkaNDEya~jayantI.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Ṛṣi"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Caturthī"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Caturthī"
 "references" = ["http://hindupad.com/markandeya-jayanti/"]
+sources = ["Hindupad.com"]
 
 [names]
 sa = ["मार्कण्डेय-जयन्ती"]

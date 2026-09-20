@@ -4,11 +4,13 @@ id = "karavIra-vratam"
 id_display = "karavīra-vratam"
 slug = "karavira-vratam"
 source_path = "general/lunar_month/tithi/03/01/karavIra-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Jyeṣṭha"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Pratipat"
+"references" = ["Naradiya Puranam, Adhyaya 110"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 करवीर विषावास नमस्ते भानुवल्लभ।

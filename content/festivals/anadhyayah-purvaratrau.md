@@ -4,8 +4,10 @@ id = "anadhyAyaH~pUrvarAtrau"
 id_display = "anadhyāyaḥ pūrvarātrau"
 slug = "anadhyayah-purvaratrau"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~pUrvarAtrau.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  148"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

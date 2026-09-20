@@ -6,10 +6,12 @@ slug = "balenduvratam"
 source_path = "devatA/graha/lunar_month/tithi/01/02/bAlenduvratam.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Graha (Planetary)"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Dvitīyā"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Dvitīyā"
+"references" = ["Smriti Kaustubham p.90"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 चैत्रशुक्लद्वितीयायां सम्प्राप्य नृपसत्तम।
@@ -28,7 +30,7 @@ shlokas = '''
 एतत्पवित्रं रिपुनाशकारि सौभाग्यदं रोगहरं च राजन्।
 प्रोक्तं व्रतं यादववंशमुख्य कार्यं प्रयत्नेन तथा स्त्रियाऽपि॥
 (सदैवेति संवत्सरं तैलपक्वविवर्जनम्।)
----हेमाद्रौ विष्णुधर्मोत्तरे मार्कण्डेयः (स्मृतिकौस्तुभे)
+—हेमाद्रौ विष्णुधर्मोत्तरे मार्कण्डेयः (स्मृतिकौस्तुभे)
 '''
 
 [names]

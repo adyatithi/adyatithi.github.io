@@ -4,13 +4,14 @@ id = "khODiyAra~mAtA~jayantI"
 id_display = "khoḍiyāra mātā jayantī"
 slug = "khodiyara-mata-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/11/08/khODiyAra~mAtA~jayantI.toml"
-tags = ["OtherJayantis"]
+tags = ["OtherJayantis", "LessCommonFestivals"]
 devata = ["Śākta"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Aṣṭamī"]
 category = ["Devatā Observances"]
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Aṣṭamī"
 "references" = ["http://hindupad.com/khodiyar-mata-jayanti/"]
+sources = ["Hindupad.com"]
 
 [names]
 sa = ["खोडियार-माता-जयन्ती"]

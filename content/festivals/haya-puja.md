@@ -6,10 +6,12 @@ slug = "haya-puja"
 source_path = "devatA/misc-fauna/lunar_month/tithi/01/05/haya-pUjA.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Fauna"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pañcamī"
+"references" = ["Smriti Kaustubham p.92--93"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 उच्चैःश्रवाः पूजनीयः पञ्चम्यां चैत्रशुक्लके।
@@ -34,7 +36,7 @@ shlokas = '''
 चैत्रस्य शुक्लपञ्चम्यां शुचिः स्नाता उपोषिता।
 प्रभाते पारणं कृत्वा देवविप्रान्प्रपूज्य च।
 लभते साऽथवा सोऽपि स्वमनोरथजं फलम्॥
----मदनरत्ने पाद्मे पातालखण्डे (स्मृति-कौस्तुभे)
+—मदनरत्ने पाद्मे पातालखण्डे (स्मृति-कौस्तुभे)
 '''
 
 description_en = '''

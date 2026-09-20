@@ -4,15 +4,16 @@ id = "kAJcI_63_jagadguru_zrI~mahAdEvEndra_sarasvatI_5_ArAdhanA"
 id_display = "kāñcī 63 jagadguru śrī mahādevendra sarasvatī 5 ārādhanā"
 slug = "kajci-63-jagadguru-zri-mahadevendra-sarasvati-5-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/12/kAJcI_63_jagadguru_zrI~mahAdEvEndra_sarasvatI_5_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Dvādaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अण्णाश्रौतीति जातोऽयं कुम्भघोणे महामनाः।

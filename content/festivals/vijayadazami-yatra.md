@@ -5,7 +5,7 @@ id_display = "vijayadaśamī yātrā"
 slug = "vijayadazami-yatra"
 source_path = "general/lunar_month/tithi/07/10/vijayadazamI_yAtrA.toml"
 tags = ["CommonFestivals"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Daśamī"]
 category = ["General Observances"]
 kaala = "प्रदोषः"
@@ -14,8 +14,8 @@ timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Daśamī, 
 shlokas = '''
 आश्विनस्य सिते पक्षे दशम्यां तारकोदये।
 स कालो विजयो ज्ञेयः सर्वकार्यार्थसिद्धये॥ (ज्योतिर्निबन्धः)
-स्मृति-कौस्तुभे---
-अस्यामेव दशम्यां विजयमुहूर्तव्यापिन्यां देशान्तरयात्रार्थिभिर्यात्रा विधेया---
+स्मृति-कौस्तुभे—
+अस्यामेव दशम्यां विजयमुहूर्तव्यापिन्यां देशान्तरयात्रार्थिभिर्यात्रा विधेया—
 आश्विनस्य सिते पक्षे दशम्यां सर्वरात्रिषु।
 सायङ्काले शुभा यात्रा दिवा वा विजयक्षणे॥
 इति भृगुवचनात्।

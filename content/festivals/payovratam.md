@@ -4,7 +4,7 @@ id = "payOvratam"
 id_display = "payovratam"
 slug = "payovratam"
 source_path = "general/description_only/aditi-payOvratam.toml"
-tags = ["Vratam", "SpecialPeriod"]
+tags = ["Vratam", "SpecialPeriod", "LessCommonFestivals"]
 category = ["General Observances"]
 
 shlokas = '''

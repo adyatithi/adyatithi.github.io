@@ -4,18 +4,18 @@ id = "harivAsaraH"
 id_display = "harivāsaraḥ"
 slug = "harivasarah"
 source_path = "time_focus/monthly/ekAdashI/description_only/harivAsaraH.toml"
-tags = ["MonthlyVratam", "EkadashiVratam"]
+tags = ["MonthlyVratam", "EkadashiVratam", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
 द्वादश्याः प्रथमः पादो हरिवासरसंज्ञितः।
 तमतिक्रम्य कुर्वीत पारणं विष्णुतत्परः॥
 
-निवेदन-मन्त्रः (कात्यायनः)---
+निवेदन-मन्त्रः (कात्यायनः)—
 अज्ञानतिमिरान्धस्य व्रतेनानेन केशव।
 प्रसीद सुमुखो नाथ ज्ञानदृष्टिप्रदो भव॥
 
-वैद्यनाथदीक्षितीये तिथिनिर्णयकाण्डे विष्णुधर्मे---
+वैद्यनाथदीक्षितीये तिथिनिर्णयकाण्डे विष्णुधर्मे—
 असम्भाष्यांस्तु सम्भाष्य तुलस्यतसिकादलम्।
 द्वादश्यामच्युतफलम् आगस्त्यं पत्रमेव वा। 
 आमलक्याः फलं वापि पारणे प्राश्य शुद्ध्यति॥

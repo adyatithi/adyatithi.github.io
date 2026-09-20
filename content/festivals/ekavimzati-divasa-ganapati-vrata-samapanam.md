@@ -4,7 +4,7 @@ id = "EkaviMzati-divasa-gaNapati-vrata-samApanam"
 id_display = "ekaviṃśati-divasa-gaṇapati-vrata-samāpanam"
 slug = "ekavimzati-divasa-ganapati-vrata-samapanam"
 source_path = "devatA/gaNapati/relative_event/EkaviMzati-divasa-gaNapati-vrata-ArambhaH/offset__20/EkaviMzati-divasa-gaNapati-vrata-samApanam.toml"
-tags = ["SpecialPeriodEnd"]
+tags = ["SpecialPeriodEnd", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
 

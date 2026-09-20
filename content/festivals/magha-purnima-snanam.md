@@ -4,21 +4,22 @@ id = "mAgha-pUrNimA-snAnam"
 id_display = "māgha-pūrṇimā-snānam"
 slug = "magha-purnima-snanam"
 source_path = "general/lunar_month/tithi/11/15/mAgha-pUrNimA-snAnam.toml"
-tags = ["SpecialSnanam"]
-month = ["Māgha"]
+tags = ["SpecialSnanam", "LessCommonFestivals"]
+month = ["11. Māgha"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "paraviddha"
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Pūrṇimā, at प्राक्तनारुणोदयः"
-"references" = ["Vrata Nirnaya Kalpavalli"]
+"references" = ["Satyavrata Smriti", "Vrata Nirnaya Kalpavalli"]
+sources = ["Satyavrata Smṛti", "Vratanirṇayakalpavallī"]
 
 shlokas = '''
 उदयात् प्राक् चतस्रस्तु नाडिका अरुणोदयः।
 तत्र स्नानं प्रशंसन्ति स हि पुण्यतमः स्मृतः॥
 बलं रूपं यशो धर्मं ज्ञानमायुः सुखं धृतिम्।
 आरोग्यं परमाप्नोति सम्यक् स्नानेन मानवः॥
-भविष्ये---
+भविष्ये—
 वैशाखी कार्तिकी माघी ह्याषाढ्यप्यतिपुण्यदाः।
 स्नानदानविहीना वै तासु रौरवगामिनः॥
 '''

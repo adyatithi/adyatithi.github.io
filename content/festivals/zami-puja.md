@@ -6,12 +6,13 @@ slug = "zami-puja"
 source_path = "devatA/misc-flora/lunar_month/tithi/07/10/zamI-pUjA.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Flora"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Daśamī"]
 category = ["Devatā Observances"]
 kaala = "प्रदोषः"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Daśamī, at प्रदोषः"
-"references" = ["Vaidikasri Sep 2009"]
+"references" = ["Vrata Mahima", "Vaidikasri Sep 2009"]
+sources = ["Vrata Mahima", "Vaidikaśrī (periodical)"]
 
 shlokas = '''
 शमीं शमयते पापं शमी शत्रुविनाशिनि।

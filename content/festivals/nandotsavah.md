@@ -4,7 +4,7 @@ id = "nandOtsavaH"
 id_display = "nandotsavaḥ"
 slug = "nandotsavah"
 source_path = "temples/North/relative_event/zrIkRSNajanmASTamI/offset__01/nandOtsavaH.toml"
-tags = ["NorthIndiaTempleFestivals"]
+tags = ["NorthIndiaTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

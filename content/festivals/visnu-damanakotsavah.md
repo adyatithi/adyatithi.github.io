@@ -6,11 +6,13 @@ slug = "visnu-damanakotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/12/viSNu-damanakOtsavaH.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Dvādaśī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Dvādaśī, at मध्याह्नः"
+"references" = ["Smriti Kaustubham p.101"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 चैत्रे मासि तथा विष्णोः कार्यो दमनकोत्सवः।

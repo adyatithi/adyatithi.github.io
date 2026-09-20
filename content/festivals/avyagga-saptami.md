@@ -5,10 +5,12 @@ id_display = "avyaṅga-saptamī"
 slug = "avyagga-saptami"
 source_path = "general/lunar_month/tithi/05/07/avyaGga-saptamI.toml"
 tags = ["LessCommonFestivals"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Saptamī"]
 category = ["General Observances"]
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Saptamī"
+"references" = ["Naradiya Puranam, Adhyaya 116"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 श्रावणे शुक्लसतम्याम् अव्यङ्गाख्यं व्रतं शुभम्॥२९॥

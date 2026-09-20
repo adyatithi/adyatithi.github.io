@@ -7,6 +7,7 @@ source_path = "time_focus/misc_combinations/description_only/ravipuSya-yOgaH.tom
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
 "references" = ["VrataNirnayaKalpavalli"]
+sources = ["Vratanirṇayakalpavallī"]
 
 shlokas = '''
 आदित्येऽहनि पुष्यर्क्षं दैवात् सम्पद्यते यदि।

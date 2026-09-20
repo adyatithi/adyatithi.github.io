@@ -4,8 +4,8 @@ id = "kUDAravallI"
 id_display = "kūḍāravallī"
 slug = "kudaravalli"
 source_path = "tamil/sidereal_solar_month/day/09/27/kUDAravallI.toml"
-tags = ["TamilFestivals", "CommonFestivals"]
-rashi = ["Dhanu"]
+tags = ["TamilNaduFestivals", "CommonFestivals"]
+rashi = ["09. Dhanu"]
 category = ["Tamil Traditions"]
 timing_summary = "Dhanu (धनु) māsa, sidereal"
 

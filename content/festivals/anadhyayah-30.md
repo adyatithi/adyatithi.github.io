@@ -4,12 +4,14 @@ id = "anadhyAyaH~30"
 id_display = "anadhyāyaḥ 30"
 slug = "anadhyayah-30"
 source_path = "time_focus/adhyayana/lunar_month/tithi/00/30/anadhyAyaH~30.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 tithi = ["Amāvāsyā"]
 category = ["Calendrical Specials"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
 timing_summary = "Kṛṣṇa Pakṣa Amāvāsyā, at साङ्गवः"
+"references" = ["Smriti Muktaphalam SVR p.  148"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

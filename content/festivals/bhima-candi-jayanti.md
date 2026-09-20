@@ -4,13 +4,14 @@ id = "bhIma~caNDI~jayantI"
 id_display = "bhīma caṇḍī jayantī"
 slug = "bhima-candi-jayanti"
 source_path = "devatA/shakti/lunar_month/tithi/05/17/bhIma~caNDI~jayantI.toml"
-tags = ["OtherJayantis"]
+tags = ["OtherJayantis", "LessCommonFestivals"]
 devata = ["Śākta"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Dvitīyā"]
 category = ["Devatā Observances"]
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Kṛṣṇa Pakṣa Dvitīyā"
 "references" = ["http://hindupad.com/bhim-chandi-jayanti/"]
+sources = ["Hindupad.com"]
 
 [names]
 sa = ["भीम-चण्डी-जयन्ती"]

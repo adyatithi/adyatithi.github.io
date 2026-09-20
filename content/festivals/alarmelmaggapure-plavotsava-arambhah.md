@@ -4,7 +4,7 @@ id = "alarmElmaGgApurE_plavOtsava-ArambhaH"
 id_display = "alarmelmaṅgāpure plavotsava-ārambhaḥ"
 slug = "alarmelmaggapure-plavotsava-arambhah"
 source_path = "temples/Andhra/relative_event/alarmElmaGgApurE_plavOtsava-samApanam/offset__-4/alarmElmaGgApurE_plavOtsava-ArambhaH.toml"
-tags = ["AndhraTempleFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

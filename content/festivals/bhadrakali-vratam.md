@@ -4,19 +4,21 @@ id = "bhadrakALI-vratam"
 id_display = "bhadrakāḻī-vratam"
 slug = "bhadrakali-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/07/09/bhadrakALI-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Śākta"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Navamī"]
 category = ["Devatā Observances"]
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Navamī"
+"references" = ["Hemadri", "Vrataraja"]
+sources = ["Caturvargacintāmaṇi (Hemādri)", "Vratarāja"]
 
 shlokas = '''
-अथाश्विनशुक्लनवम्यां भद्रकालीव्रतं हेमाद्रौ विष्णुधर्मे---
-राजोवाच---
+अथाश्विनशुक्लनवम्यां भद्रकालीव्रतं हेमाद्रौ विष्णुधर्मे—
+राजोवाच—
 विधिना पूजयेत् केन भद्रकालीं नराधिप।
 नवम्यामाश्विने मासि शुक्लपक्षे नरोत्तम॥
-पुष्कर उवाच---
+पुष्कर उवाच—
 पूर्वोत्तरे तु दिग्भागे शिवे वास्तुमनोहरे।
 भद्रकाल्या गृहं कार्यं चित्रवस्त्रैरलङ्कृतम्॥
 भद्रकाली पटे कृत्वां तत्र सम्पूजयेद् द्विज।

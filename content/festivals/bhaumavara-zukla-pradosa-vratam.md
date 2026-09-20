@@ -4,13 +4,13 @@ id = "bhaumavAra-zukla-pradOSa-vratam"
 id_display = "bhaumavāra-śukla-pradoṣa-vratam"
 slug = "bhaumavara-zukla-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/bhaumavAra-zukla-pradOSa-vratam.toml"
-tags = ["MonthlyVratam", "PradoshaVratam"]
+tags = ["MonthlyVratam", "PradoshaVratam", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
 प्रदोषे  शिवपूजां  तु  ये  कुर्याच्छ्रद्धया  युताः।
 न  भवेत्  तस्य  दारिद्र्यं  जन्मान्तरशतेष्वपि॥
-मदनरत्न-निर्णयामृतान्तर्गतस्कन्दपुराणवचनानि---
+मदनरत्न-निर्णयामृतान्तर्गतस्कन्दपुराणवचनानि—
 यदा त्रयोदशी शुक्ला मन्दवारेण संयुता।
 आरब्धव्यं व्रतं तत्र सन्तानफलसिद्धये॥
 ऋणप्रमोचनार्थं तु भौमवारेण संयुता।
@@ -29,7 +29,7 @@ shlokas = '''
 कर्मद्वयं कलितमेतदनन्यसाध्यम्॥
 गङ्गा धृता त्वयेशान गङ्गादर्पोऽपि नाशितः।
 भगीरथानुग्रहार्थं लोकासम्भेदहेतवे॥
-पुरुषार्थचिन्तामणौ---
+पुरुषार्थचिन्तामणौ—
 तस्मादुभयत्र प्रदोषव्याप्तावव्याप्तौ साम्येनैकदेशव्याप्तौ पूर्वप्रदोषेऽधिकव्याप्तावुत्तरप्रदोषे न्यूनव्याप्तावप्युत्तरदिन एव
 प्रदोषव्रतानुष्ठानमिति सिद्धमिति विभावनीयमिति दिक्।
 '''

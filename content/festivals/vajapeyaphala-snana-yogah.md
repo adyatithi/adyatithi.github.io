@@ -5,10 +5,12 @@ id_display = "vājapeyaphala-snāna-yogaḥ"
 slug = "vajapeyaphala-snana-yogah"
 source_path = "time_focus/vaara_conditioned/vAjapEyaphala-snAna-yOgaH.toml"
 tags = ["RareDays", "Combinations"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 category = ["Calendrical Specials"]
 kaala = "sunrise"
 timing_summary = "Caitra (चैत्र) māsa, at sunrise"
+"references" = ["Dharmasindhu p.34"]
+sources = ["Dharmasindhu (Kāśīnātha Upādhyāya)"]
 
 shlokas = '''
 पुनर्वसुबुधोपेता चैत्रे मासि सिताष्टमी।

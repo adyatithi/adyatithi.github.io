@@ -4,6 +4,7 @@ id = "kAshI-vishvanAtha-mandira-sthApanam"
 id_display = "kāshī-vishvanātha-mandira-sthāpanam"
 slug = "kashi-vishvanatha-mandira-sthapanam"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/02/27/kAshI-vishvanAtha-mandira-sthApanam.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "February 27 (Gregorian calendar)"

@@ -1,0 +1,153 @@
+# Curated descriptions for the most-cited sources in the festival data.
+# `name` must exactly match the canonical string produced by
+# canonicalize_source() in scripts/build_content.py, since the site looks
+# these up by matching against the "sources" taxonomy term text.
+#
+# `archive_url` is a placeholder for later: once populated (e.g. with a
+# Wayback Machine snapshot), templates will show an "Archived copy" link.
+# Leave it empty/omitted until then.
+
+- name: "Smṛtimuktāphala (Vaidyanātha Dīkṣita)"
+  category: "Nibandha"
+  description: >
+    A comprehensive 17th-century dharmaśāstra digest (nibandha) by
+    Vaidyanātha Dīkṣita, organized into several kāṇḍas (sections) —
+    including a śrāddha-kāṇḍa and a varṇāśrama-dharma-kāṇḍa — covering
+    saṃskāra, ācāra, vrata and śrāddha rules. Also cited here under its
+    author's name, as "Vaidyanātha-dīkṣitīyam".
+
+- name: "kamakoti.org"
+  category: "Website"
+  description: >
+    The official website of the Kāñcī Kāmakoṭi Pīṭha, a prominent Advaita
+    maṭha in Kāñcīpuram. Cited mainly for the ārādhanā (commemoration) days
+    of its succession of pontiffs.
+  archive_url: ""
+
+- name: "Puṇyaślokamañjarī"
+  category: "Anthology"
+  description: >
+    An anthology of verses on the pontiffs (jagadgurus) of the Kāñcī
+    Kāmakoṭi Pīṭha. Cited here via its Pariśiṣṭam (appendix) for the
+    ārādhanā-day verse of each pontiff.
+
+- name: "63 Nayanmār Saints (Swami Sivananda)"
+  category: "Hagiography"
+  description: >
+    A well-known account of the sixty-three Nāyanmār (Śaiva) saints, by
+    Swami Sivananda, published by The Divine Life Society. Cited for the
+    gurupūjā day of each Nāyanmār.
+
+- name: "Puruṣārthacintāmaṇi"
+  category: "Nibandha"
+  description: >
+    A nibandha on vratas and their correct observance, cited here (in
+    places via its Ānandāśrama edition) for vrata-specific timing rules.
+
+- name: "Smṛtikaustubha (Anantadeva)"
+  category: "Nibandha"
+  description: >
+    A 17th-century dharmaśāstra digest by Anantadeva, a contemporary of
+    Vaidyanātha Dīkṣita, covering much the same ground of saṃskāra, ācāra
+    and vrata rules.
+
+- name: "Skanda Purāṇa"
+  category: "Purāṇa"
+  description: >
+    The largest of the eighteen mahāpurāṇas, with extensive māhātmya
+    (glorification) material for numerous vratas, tīrthas and festivals.
+
+- name: "Hindupad.com"
+  category: "Website"
+  description: >
+    A festival-information website, cited across many individual pages —
+    a good future candidate for Wayback Machine archiving, since web pages
+    can disappear.
+  archive_url: ""
+
+- name: "Nārada Purāṇa"
+  category: "Purāṇa"
+  description: >
+    One of the eighteen mahāpurāṇas, notable for its detailed pūrvabhāga
+    treatment of monthly vratas and tithi observances.
+
+- name: "Vratanirṇayakalpavallī"
+  category: "Nibandha"
+  description: >
+    A nibandha specifically on determining (nirṇaya) the correct day for
+    observing a vrata when its tithi spans two sunrises.
+
+- name: "Vaidikaśrī (periodical)"
+  category: "Periodical"
+  description: >
+    A periodical carrying articles on Vedic and smārta ritual practice,
+    cited here by monthly issue.
+
+- name: "Kielhorn (1897)"
+  category: "Scholarship"
+  description: >
+    Scholarship by the Indologist Franz Kielhorn on Hindu calendrical
+    chronology.
+
+- name: "Padma Purāṇa"
+  category: "Purāṇa"
+  description: >
+    One of the eighteen mahāpurāṇas, with extensive vrata and tīrtha
+    māhātmya material spread across its several khaṇḍas.
+
+- name: "Nirṇayasindhu (Kamalākarabhaṭṭa)"
+  category: "Nibandha"
+  description: >
+    A widely-followed 17th-century nibandha by Kamalākara Bhaṭṭa on the
+    correct determination of ritual timing — a close counterpart to
+    Dharmasindhu.
+
+- name: "Caturvargacintāmaṇi (Hemādri)"
+  category: "Nibandha"
+  description: >
+    A massive 13th-century nibandha by Hemādri, minister under the Yādavas
+    of Devagiri, covering dāna, vrata, tīrtha and mokṣa in four separate
+    sections — hence "catur-varga", the four goals of life.
+
+- name: "Kṛtyasārasamuccaya"
+  category: "Nibandha"
+  description: >
+    A nibandha compiling essential ritual duties (kṛtya), cited here
+    mainly for vrata and pūjā timing.
+
+- name: "Nīlamata Purāṇa"
+  category: "Purāṇa"
+  description: >
+    A purāṇa specific to Kashmir, describing the region's customs,
+    geography and festival calendar — distinct from the pan-Indian
+    mahāpurāṇas most other sources here draw from.
+
+- name: "Bhaviṣyottara Purāṇa"
+  category: "Purāṇa"
+  description: >
+    Often treated as a later continuation ("uttara") of the Bhaviṣya
+    Purāṇa, also rich in vrata and dāna material.
+
+- name: "Dharmasindhu (Kāśīnātha Upādhyāya)"
+  category: "Nibandha"
+  description: >
+    A widely used nibandha by Kāśīnātha Upādhyāya summarizing dharmaśāstra
+    ritual practice, especially popular in Maharashtra — a close
+    counterpart to Nirṇayasindhu.
+
+- name: "Satyavrata Smṛti"
+  category: "Smṛti"
+  description: >
+    A smṛti text on the observance of vratas.
+
+- name: "Bhaviṣya Purāṇa"
+  category: "Purāṇa"
+  description: >
+    One of the eighteen mahāpurāṇas, notable for extensive content on
+    vratas, tithi observances and sun-worship.
+
+- name: "Vratacūḍāmaṇi"
+  category: "Nibandha"
+  description: >
+    A text specifically on vratas — its title translates to "crest-jewel
+    of vratas".

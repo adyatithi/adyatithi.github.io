@@ -4,7 +4,7 @@ id = "kapAlI_dhvajArOhaNam"
 id_display = "kapālī dhvajārohaṇam"
 slug = "kapali-dhvajarohanam"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-9/kapAlI_dhvajArOhaNam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

@@ -4,8 +4,10 @@ id = "anadhyAyaH-cAturmAsya-tRtIyA-sAmAnya-niyamAH"
 id_display = "anadhyāyaḥ-cāturmāsya-tṛtīyā-sāmānya-niyamāḥ"
 slug = "anadhyayah-caturmasya-trtiya-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-cAturmAsya-tRtIyA-sAmAnya-niyamAH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  165"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 स्मृत्यन्तरे—

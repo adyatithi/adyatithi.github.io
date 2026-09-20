@@ -6,12 +6,14 @@ slug = "gagga-saptami"
 source_path = "devatA/nadI/lunar_month/tithi/02/07/gaGgA-saptamI.toml"
 tags = ["PuranaEvents", "SpecialPuja", "CommonFestivals"]
 devata = ["Nadī (River)"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Saptamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Saptamī, at मध्याह्नः"
+"references" = ["Naradiya Puranam, Adhyaya 116"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 वैशाखशुक्लसतम्यां जह्नुना जाह्नवी स्वयम्।
@@ -23,7 +25,7 @@ shlokas = '''
 '''
 
 description_en = '''
-On this `saptamI` day of the bright fortnight of Vaishakha, Jahnu Maharshi angrily drank up the waters of Ganga, and then discharged her through his right ear, following which She came to be known as Jahnavi. Perform Puja of Ganga Devi, Ganga Snanam. Give away a 1000 pots---performed with bhakti, this vratam liberates seven kulas, taking them to svarga, undoubtedly.
+On this `saptamI` day of the bright fortnight of Vaishakha, Jahnu Maharshi angrily drank up the waters of Ganga, and then discharged her through his right ear, following which She came to be known as Jahnavi. Perform Puja of Ganga Devi, Ganga Snanam. Give away a 1000 pots—performed with bhakti, this vratam liberates seven kulas, taking them to svarga, undoubtedly.
 '''
 
 [names]

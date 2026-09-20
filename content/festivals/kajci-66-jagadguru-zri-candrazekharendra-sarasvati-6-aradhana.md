@@ -6,13 +6,14 @@ slug = "kajci-66-jagadguru-zri-candrazekharendra-sarasvati-6-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/23/kAJcI_66_jagadguru_zrI~candrazEkharEndra_sarasvatI_6_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Māgha (माघ) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 सीतारामविचक्षणस्य तनयः श्रीस्वामिनाथाभिधो

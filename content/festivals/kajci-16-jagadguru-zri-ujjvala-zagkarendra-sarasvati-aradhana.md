@@ -4,15 +4,16 @@ id = "kAJcI_16_jagadguru_zrI~ujjvala_zaGkarEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 16 jagadguru śrī ujjvala śaṅkarendra sarasvatī ārādhanā"
 slug = "kajci-16-jagadguru-zri-ujjvala-zagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/08/kAJcI_16_jagadguru_zrI~ujjvala_zaGkarEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 सूनुः केशवशङ्करस्य तपतीतीरोद्भवो नैष्ठिकः

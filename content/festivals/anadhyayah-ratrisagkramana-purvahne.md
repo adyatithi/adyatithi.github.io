@@ -4,8 +4,10 @@ id = "anadhyAyaH~rAtrisaGkramaNa~pUrvAhNE"
 id_display = "anadhyāyaḥ rātrisaṅkramaṇa pūrvāhṇe"
 slug = "anadhyayah-ratrisagkramana-purvahne"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~rAtrisaGkramaNa~pUrvAhNE.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  162"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 कालादर्शे—

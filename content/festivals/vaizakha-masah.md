@@ -4,9 +4,10 @@ id = "vaizAkha-mAsaH"
 id_display = "vaiśākha-māsaḥ"
 slug = "vaizakha-masah"
 source_path = "time_focus/misc/description_only/vaizAkha-mAsaH.toml"
-tags = ["SpecialDays", "SpecialPeriod"]
+tags = ["SpecialDays", "SpecialPeriod", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
-"references" = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+"references" = ["Skanda Puranam", "Purushartha Chintamani (Anandashrama), p. 7-10"]
+sources = ["Skanda Purāṇa", "Puruṣārthacintāmaṇi"]
 
 shlokas = '''
 वैशाखे मासि यो दद्यात् तक्रं तापविनाशनम्॥४१॥
@@ -32,16 +33,16 @@ shlokas = '''
 वैशाखे पानकं चूतसुपक्वफलसंयुतम्।
 तस्य सर्वाणि पापानि विनाशं यान्ति निश्चितम्॥५१॥
 —स्कन्दपुराणे द्वितीये वैष्णवखण्डे वैशाखमाहात्म्ये तृतीये अध्याये
-वैशाखकृत्यं महाभारते---
+वैशाखकृत्यं महाभारते—
 निश्चरेदेकभक्तेन वैशाखे यो जितेन्द्रियः।
 प्रातःस्नायी नरः स्त्री वा जातीनां श्रेष्ठतां व्रजेत्॥ इति।
-वामनपुराणे---
+वामनपुराणे—
 गन्धमाल्यानि च तथा वैशाखे सुरभीणि च।
 देयानि द्विजमुख्येभ्यो मधुसूदनतुष्टये॥ इति।
 '''
 
 description_en = '''
-`vaizAkha-mAsaH` begins today --- special for various `dAnam`'s such as buttermilk, `pAnakam` etc. Brings unlimited `puNyam`! In the Mahābhārata, it is said that one who, with controlled senses (jitendriyaḥ), observes the month of Vaiśākha with ekabhakta discipline (one meal a day), and bathes early in the morning — whether man or woman — attains excellence among their community. In the Vāmana Purāṇa, it is stated that during Vaiśākha, one should offer fragrant garlands and perfumes to distinguished brāhmaṇas to please Madhusūdana (Viṣṇu).
+`vaizAkha-mAsaH` begins today — special for various `dAnam`'s such as buttermilk, `pAnakam` etc. Brings unlimited `puNyam`! In the Mahābhārata, it is said that one who, with controlled senses (jitendriyaḥ), observes the month of Vaiśākha with ekabhakta discipline (one meal a day), and bathes early in the morning — whether man or woman — attains excellence among their community. In the Vāmana Purāṇa, it is stated that during Vaiśākha, one should offer fragrant garlands and perfumes to distinguished brāhmaṇas to please Madhusūdana (Viṣṇu).
 '''
 
 [names]

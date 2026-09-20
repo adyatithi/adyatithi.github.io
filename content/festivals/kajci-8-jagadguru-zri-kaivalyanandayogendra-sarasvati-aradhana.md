@@ -4,15 +4,16 @@ id = "kAJcI_8_jagadguru_zrI~kaivalyAnandayOgEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 8 jagadguru śrī kaivalyānandayogendra sarasvatī ārādhanā"
 slug = "kajci-8-jagadguru-zri-kaivalyanandayogendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/14/kAJcI_8_jagadguru_zrI~kaivalyAnandayOgEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Pauṣa"]
+month = ["10. Pauṣa"]
 tithi = ["Caturdaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Pauṣa (पौष) māsa, Śukla Pakṣa Caturdaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीशैलीयशिवय्यसूनुरदधात् तस्याज्ञया तत् पदं

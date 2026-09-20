@@ -4,6 +4,7 @@ id = "nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH"
 id_display = "nirmalèna chaturdashānām uttamānāṃ shikharāṇāṃ jayaḥ"
 slug = "nirmalena-chaturdashanam-uttamanam-shikharanam-jayah"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/10/29/nirmalena_chaturdashAnAm_uttamAnAM_shikharANAM_jayaH.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "October 29 (Gregorian calendar)"

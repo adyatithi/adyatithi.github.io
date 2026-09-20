@@ -6,11 +6,13 @@ slug = "pausa-yama-tarpanam"
 source_path = "devatA/pitR/lunar_month/tithi/10/29/pauSa-yama-tarpaNam.toml"
 tags = ["CommonFestivals"]
 devata = ["Pitṛ (Ancestral)"]
-month = ["Pauṣa"]
+month = ["10. Pauṣa"]
 tithi = ["Caturdaśī"]
 category = ["Devatā Observances"]
 priority_rule = "paraviddha"
 timing_summary = "Pauṣa (पौष) māsa, Kṛṣṇa Pakṣa Caturdaśī"
+"references" = ["Naradiya Puranam, Adhyaaya 123"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 माघकृष्णचतुर्दश्यां यमतर्पणमीरितम्॥६६॥

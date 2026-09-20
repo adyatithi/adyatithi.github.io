@@ -4,15 +4,16 @@ id = "kAJcI_27_jagadguru_zrI~cidvilAsEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 27 jagadguru śrī cidvilāsendra sarasvatī ārādhanā"
 slug = "kajci-27-jagadguru-zri-cidvilasendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/01/kAJcI_27_jagadguru_zrI~cidvilAsEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अथ हस्तिशैलमधुसूदनात्मजो हरिकेशवश्च चितिसौख्यमेदुरः।

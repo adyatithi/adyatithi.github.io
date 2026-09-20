@@ -7,6 +7,7 @@ source_path = "time_focus/yoga_intersections/AyuSmad-bava-saumya-saMyOgaH.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
 "references" = ["Maha Periva / Deivattin Kural"]
+sources = ["Maha Periva / Deivattin Kural"]
 
 description_en = '''
 A rare combination of `AyuSmAn yOga, bava karaNa` and `saumyavAsara`.

@@ -4,7 +4,7 @@ id = "subrahmaNya-SaSThI-vratam"
 id_display = "subrahmaṇya-ṣaṣṭhī-vratam"
 slug = "subrahmanya-sasthi-vratam"
 source_path = "devatA/kaumAra/description_only/subrahmaNya-SaSThI-vratam.toml"
-tags = ["MonthlyVratam", "ShashthiVratam"]
+tags = ["MonthlyVratam", "ShashthiVratam", "LessCommonFestivals"]
 devata = ["Kaumāra (Skanda/Murugan)"]
 category = ["Devatā Observances"]
 

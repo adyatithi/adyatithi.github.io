@@ -4,12 +4,14 @@ id = "anadhyAyaH~1"
 id_display = "anadhyāyaḥ 1"
 slug = "anadhyayah-1"
 source_path = "time_focus/adhyayana/lunar_month/tithi/00/01/anadhyAyaH~1.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 tithi = ["Pratipat"]
 category = ["Calendrical Specials"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
 timing_summary = "Śukla Pakṣa Pratipat, at साङ्गवः"
+"references" = ["Smriti Muktaphalam SVR p.  148"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

@@ -4,8 +4,10 @@ id = "anadhyAyaH~bOdhana"
 id_display = "anadhyāyaḥ bodhana"
 slug = "anadhyayah-bodhana"
 source_path = "time_focus/adhyayana/relative_event/cAturmAsyavrata-samApanam/offset__00/anadhyAyaH~bOdhana.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  155"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 नारदः—

@@ -4,13 +4,15 @@ id = "kOkilA-vratam"
 id_display = "kokilā-vratam"
 slug = "kokila-vratam"
 source_path = "general/lunar_month/tithi/04/15/kOkilA-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Āṣāḍha"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["04. Āṣāḍha"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "सूर्यास्तमयः"
 priority_rule = "puurvaviddha"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Pūrṇimā, at सूर्यास्तमयः"
+"references" = ["Naradiya Puranam, Adhyaya 124"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 कोकिलाव्रतमप्यत्र प्रोक्तं तद्विधिरुच्यते।

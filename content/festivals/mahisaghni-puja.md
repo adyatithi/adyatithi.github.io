@@ -4,14 +4,16 @@ id = "mahiSaghnI-pUjA"
 id_display = "mahiṣaghnī-pūjā"
 slug = "mahisaghni-puja"
 source_path = "general/lunar_month/tithi/04/08/mahiSaghnI-pUjA.toml"
-tags = ["SpecialPuja"]
-month = ["Āṣāḍha"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
+month = ["04. Āṣāḍha"]
 tithi = ["Aṣṭamī"]
 category = ["General Observances"]
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Aṣṭamī"
+"references" = ["Smriti Kaustubham p.138"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
-निर्णयामृते देवीपुराणे---
+निर्णयामृते देवीपुराणे—
 अष्टम्यां च तथाऽऽषाढे निशातोयेन स्नापयेत्।
 महिषघ्नीमिति शेषः। निशा हरिद्रा।
 स्वयं स्नात्वा च कर्पूरैश्चन्दनस्तां विलेपयेत्।

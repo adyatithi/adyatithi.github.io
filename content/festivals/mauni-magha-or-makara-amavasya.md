@@ -4,7 +4,7 @@ id = "mauni_(mAgha_or_makara)_amAvAsyA"
 id_display = "mauni (māgha òr makara) amāvāsyā"
 slug = "mauni-magha-or-makara-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/mauni_(mAgha_or_makara)_amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

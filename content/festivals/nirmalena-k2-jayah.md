@@ -4,6 +4,7 @@ id = "nirmalena_k2-jayaH"
 id_display = "nirmalèna k2-jayaḥ"
 slug = "nirmalena-k2-jayah"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/01/16/nirmalena_k2-jayaH.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "January 16 (Gregorian calendar)"

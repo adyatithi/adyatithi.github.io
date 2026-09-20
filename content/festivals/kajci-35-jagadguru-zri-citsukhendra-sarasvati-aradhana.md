@@ -4,15 +4,16 @@ id = "kAJcI_35_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 35 jagadguru śrī citsukhendra sarasvatī ārādhanā"
 slug = "kajci-35-jagadguru-zri-citsukhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/06/kAJcI_35_jagadguru_zrI~citsukhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Ṣaṣṭhī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 वेदाचलान्तिकभवो विमलाक्षनाम्नः

@@ -4,15 +4,16 @@ id = "kAJcI_55_jagadguru_zrI~candracUDEndra_sarasvatI_3_ArAdhanA"
 id_display = "kāñcī 55 jagadguru śrī candracūḍendra sarasvatī 3 ārādhanā"
 slug = "kajci-55-jagadguru-zri-candracudendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/11/kAJcI_55_jagadguru_zrI~candracUDEndra_sarasvatI_3_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Pauṣa"]
+month = ["10. Pauṣa"]
 tithi = ["Ekādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Pauṣa (पौष) māsa, Śukla Pakṣa Ekādaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 मधुरितमणिमुक्तामुग्धतीराश्मशाला-

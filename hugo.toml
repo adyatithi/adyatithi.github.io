@@ -19,6 +19,7 @@ removePathAccents = true
   tithi = "tithi"
   nakshatra = "nakshatra"
   category = "category"
+  source = "sources"
 
 [outputs]
   home = ["HTML", "RSS"]

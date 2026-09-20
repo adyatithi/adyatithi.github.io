@@ -4,15 +4,16 @@ id = "kAJcI_21_jagadguru_zrI~sArvabhaumaguruH_candracUDEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 21 jagadguru śrī sārvabhaumaguruḥ candracūḍendra sarasvatī ārādhanā"
 slug = "kajci-21-jagadguru-zri-sarvabhaumaguruh-candracudendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/23/kAJcI_21_jagadguru_zrI~sArvabhaumaguruH_candracUDEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अर्चाचन्दनपेषणाद् भगवतः श्रीशङ्करेन्द्रार्चित-

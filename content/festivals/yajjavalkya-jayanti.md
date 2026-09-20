@@ -4,13 +4,14 @@ id = "yAjJavalkya~jayantI"
 id_display = "yājñavalkya jayantī"
 slug = "yajjavalkya-jayanti"
 source_path = "mahApuruSha/RShi/lunar_month/tithi/08/12/yAjJavalkya~jayantI.toml"
-tags = ["MahapurushaEvents"]
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["Ṛṣi"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Dvādaśī"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Dvādaśī"
 "references" = ["Vaidikasri Nov 2017"]
+sources = ["Vaidikaśrī (periodical)"]
 
 shlokas = '''
 वन्देऽहं  मङ्गलात्मानं  भास्वन्तं  वेदविग्रहम्।

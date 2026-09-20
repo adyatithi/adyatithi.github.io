@@ -4,13 +4,15 @@ id = "upAGga-lalitA-vratam"
 id_display = "upāṅga-lalitā-vratam"
 slug = "upagga-lalita-vratam"
 source_path = "devatA/shakti/lunar_month/tithi/07/05/upAGga-lalitA-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Śākta"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Pañcamī, at मध्याह्नः"
+"references" = ["Naradiya Puranam, Adhyaya 114"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 आश्विने शुक्लपञ्चम्याम् उपाङ्गललिताव्रतम्॥४९॥

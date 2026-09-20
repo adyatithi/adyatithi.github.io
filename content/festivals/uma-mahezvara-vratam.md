@@ -6,17 +6,18 @@ slug = "uma-mahezvara-vratam"
 source_path = "devatA/umA/lunar_month/tithi/06/15/umA-mahEzvara-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]
 devata = ["Umā"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Pūrṇimā"]
 category = ["Devatā Observances"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Pūrṇimā, at सूर्योदयः"
 "references" = ["VrataNirnayaKalpavalli"]
+sources = ["Vratanirṇayakalpavallī"]
 
 shlokas = '''
 परविद्धा ग्राह्या। तथा चोक्तं भविष्योत्तरे।
-स्कान्दे---
+स्कान्दे—
 भाद्रपदशुक्लपूर्णिमायामुमामहेश्वरव्रतं कार्यम्।
 सा पूर्वाह्णव्यापिनी 
 नभस्ये पूर्णिमायां तु पूर्वाह्ने च विशेषतः।

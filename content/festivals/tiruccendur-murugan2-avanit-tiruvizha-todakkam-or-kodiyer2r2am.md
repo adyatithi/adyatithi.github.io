@@ -4,7 +4,7 @@ id = "tiruccendUr_murugan2_AvaNit_tiruvizhA_toDakkam_or_koDiyEr2r2am"
 id_display = "tiruccèndūr murugaṉ āvaṇit tiruvil̤ā tòḍakkam òr kòḍiyeṟṟam"
 slug = "tiruccendur-murugan2-avanit-tiruvizha-todakkam-or-kodiyer2r2am"
 source_path = "temples/Tamil/relative_event/tiruccendUr_AvaNit_tiruvizhA_nir2aivu/offset__-11/tiruccendUr_murugan2_AvaNit_tiruvizhA_toDakkam_or_koDiyEr2r2am.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

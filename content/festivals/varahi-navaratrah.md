@@ -4,7 +4,7 @@ id = "vArAhI-navarAtraH"
 id_display = "vārāhī-navarātraḥ"
 slug = "varahi-navaratrah"
 source_path = "devatA/shakti/description_only/vArAhI-navarAtraH.toml"
-tags = ["Navaratri", "SpecialPeriod"]
+tags = ["Navaratri", "SpecialPeriod", "LessCommonFestivals"]
 devata = ["Śākta"]
 category = ["Devatā Observances"]
 

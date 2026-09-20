@@ -7,6 +7,7 @@ source_path = "time_focus/misc_combinations/description_only/pAtArka-yOgaH.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
 "references" = ["VrataNirnayaKalpavalli"]
+sources = ["Vratanirṇayakalpavallī"]
 
 shlokas = '''
 भानोर्वारे व्यतीपातयोगः सम्पद्यते यदि।

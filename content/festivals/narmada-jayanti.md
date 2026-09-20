@@ -4,13 +4,14 @@ id = "narmadA~jayantI"
 id_display = "narmadā jayantī"
 slug = "narmada-jayanti"
 source_path = "devatA/nadI/lunar_month/tithi/11/07/narmadA~jayantI.toml"
-tags = ["OtherJayantis"]
+tags = ["OtherJayantis", "LessCommonFestivals"]
 devata = ["Nadī (River)"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Saptamī"]
 category = ["Devatā Observances"]
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Saptamī"
 "references" = ["http://hindupad.com/narmada-jayanti/"]
+sources = ["Hindupad.com"]
 
 shlokas = '''
 गतं तदैव मे भयं त्वदम्बु वीक्षितं यदा
@@ -22,7 +23,7 @@ shlokas = '''
 दुष्प्रापं यज्ञतपसां राशिभिः परमार्थतः। 
 सद्यः पापहरा गङ्गा सप्ताहेन कलिन्दजा।
 त्र्यहात्सरस्वती रेवे त्वं तु दर्शनमात्रतः॥
----स्कन्दपुराणम्/खण्डः ४ (काशीखण्डः)/अध्यायः ०९२
+—स्कन्दपुराणम्/खण्डः ४ (काशीखण्डः)/अध्यायः ०९२
 '''
 
 [names]

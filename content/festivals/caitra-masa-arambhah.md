@@ -4,23 +4,25 @@ id = "caitra-mAsa-ArambhaH"
 id_display = "caitra-māsa-ārambhaḥ"
 slug = "caitra-masa-arambhah"
 source_path = "time_focus/misc/lunar_month/tithi/01/01/caitra-mAsa-ArambhaH.toml"
-tags = ["SpecialDays", "SpecialPeriodStart"]
-month = ["Caitra"]
+tags = ["SpecialDays", "SpecialPeriodStart", "LessCommonFestivals"]
+month = ["01. Caitra"]
 tithi = ["Pratipat"]
 category = ["Calendrical Specials"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat"
+"references" = ["Purushartha Chintamani (Anandashrama), p. 7-10"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
-चैत्रकृत्यं मत्स्यपुराणे---
+चैत्रकृत्यं मत्स्यपुराणे—
 वर्जयित्वा मधौ यस्तु दधिक्षीरघृतैक्षवम्।
 दद्याद्वस्त्राणि सूक्ष्माणि सर्ववर्णयुतानि च॥
 सम्पूज्य विप्रमिथुनं गौरी मे प्रीयतामिति।
 एतद् गौरीव्रतं नाम भवानीलोकदायकम्॥ इति।
-भविष्योत्तरे---
+भविष्योत्तरे—
 चैत्रे त्रिरात्रं नक्ताशी नद्यां स्नात्वा ददाति यः।
 अजाः पञ्च पयस्विन्यो दरिद्राय कुटुम्बिने।
 न जायते पुनरसौ जीवलोके कदाचन॥ इति।
-वामन पुराणे---
+वामन पुराणे—
 चैत्रे मासि विचित्राणि शयनान्यासनानि च।
 विष्णोः प्रीत्यर्थमेतानि देयानि ब्राह्मणेष्वथ॥ इति।
 '''

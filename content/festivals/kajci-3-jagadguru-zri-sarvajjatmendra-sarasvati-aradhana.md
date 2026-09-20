@@ -4,15 +4,16 @@ id = "kAJcI_3_jagadguru_zrI~sarvajJAtmEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 3 jagadguru śrī sarvajñātmendra sarasvatī ārādhanā"
 slug = "kajci-3-jagadguru-zri-sarvajjatmendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/29/kAJcI_3_jagadguru_zrI~sarvajJAtmEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Caturdaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Vaiśākha (वैशाख) māsa, Kṛṣṇa Pakṣa Caturdaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 ताम्रारोधसि वर्धनात् समुदितः सन्न्यासितः सप्तमात्

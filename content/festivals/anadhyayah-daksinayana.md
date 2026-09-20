@@ -4,8 +4,10 @@ id = "anadhyAyaH~dakSiNAyana"
 id_display = "anadhyāyaḥ dakṣiṇāyana"
 slug = "anadhyayah-daksinayana"
 source_path = "time_focus/adhyayana/relative_event/dakSiNAyana-puNyakAlaH/offset__00/anadhyAyaH~dakSiNAyana.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  155"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 नारदः—

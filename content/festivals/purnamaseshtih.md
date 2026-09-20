@@ -4,7 +4,7 @@ id = "pUrNamAseShTiH"
 id_display = "pūrṇamāsèṣhṭiḥ"
 slug = "purnamaseshtih"
 source_path = "gRhya/general/description_only/pUrNamAseShTiH.toml"
-tags = ["MonthlyFestivals"]
+tags = ["MonthlyFestivals", "LessCommonFestivals"]
 category = ["Gṛhya Rites"]
 
 description_en = '''

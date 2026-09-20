@@ -4,15 +4,16 @@ id = "kAJcI_26_jagadguru_zrI~prajJAghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 26 jagadguru śrī prajñāghanendra sarasvatī ārādhanā"
 slug = "kajci-26-jagadguru-zri-prajjaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/08/kAJcI_26_jagadguru_zrI~prajJAghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 प्रभाकरस्यात्मभवः पिनाकिनी-

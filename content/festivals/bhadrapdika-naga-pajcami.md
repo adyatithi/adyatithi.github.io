@@ -4,12 +4,14 @@ id = "bhAdrapdika-nAga-paJcamI"
 id_display = "bhādrapdika-nāga-pañcamī"
 slug = "bhadrapdika-naga-pajcami"
 source_path = "devatA/misc-fauna/lunar_month/tithi/06/05/bhAdrapdika-nAga-paJcamI.toml"
-tags = ["SpecialPuja"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
 devata = ["Fauna"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Pañcamī"
+"references" = ["Bhavishya Puranam"]
+sources = ["Bhaviṣya Purāṇa"]
 
 shlokas = '''
 सुमन्तुरुवाच
@@ -19,7 +21,7 @@ shlokas = '''
 तस्य तुष्टिं समायान्ति पन्नगास्तक्षकादयः॥२॥
 आसप्तमात्कुलात्तस्य न भयं नागतो भवेत्।
 तस्मात्सर्वप्रयत्नेन नागान् सम्पूजयेद्बुधः॥३॥
----श्रीभविष्ये महापुराणे शतार्धसाहस्र्यां संहितायां ब्राह्मे पर्वणि पञ्चमीकल्पे भाद्रपदिकनागपञ्चमीव्रतवर्णनं नाम सप्तत्रिंशोऽध्यायः॥
+—श्रीभविष्ये महापुराणे शतार्धसाहस्र्यां संहितायां ब्राह्मे पर्वणि पञ्चमीकल्पे भाद्रपदिकनागपञ्चमीव्रतवर्णनं नाम सप्तत्रिंशोऽध्यायः॥
 '''
 
 description_en = '''

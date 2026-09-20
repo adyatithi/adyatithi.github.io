@@ -4,7 +4,7 @@ id = "tulA-kAvErI-snAna-samApanam"
 id_display = "tulā-kāverī-snāna-samāpanam"
 slug = "tula-kaveri-snana-samapanam"
 source_path = "devatA/nadI/relative_event/muDavan2_muzhukku/offset__-1/tulA-kAvErI-snAna-samApanam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 devata = ["Nadī (River)"]
 category = ["Devatā Observances"]
 

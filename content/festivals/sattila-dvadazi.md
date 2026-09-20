@@ -4,11 +4,13 @@ id = "SaTtilA-dvAdazI"
 id_display = "ṣaṭtilā-dvādaśī"
 slug = "sattila-dvadazi"
 source_path = "general/lunar_month/tithi/10/12/SaTtilA-dvAdazI.toml"
-tags = ["SpecialPuja"]
-month = ["Pauṣa"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
+month = ["10. Pauṣa"]
 tithi = ["Dvādaśī"]
 category = ["General Observances"]
 timing_summary = "Pauṣa (पौष) māsa, Śukla Pakṣa Dvādaśī"
+"references" = ["Padma Puranam"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
 अर्घं दद्याद्विधानेन पूजयित्वा जनार्दनम्।
@@ -28,7 +30,7 @@ shlokas = '''
 तावद्वर्षसहस्राणि स्वर्गलोके महीयते।
 तिलस्नायी तिलोद्वर्ती तिलहोमी तिलोदकी।
 तिलदाता च भोक्ता च षट्तिला पापनाशिनी॥२४॥
----श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमापतिनारदसंवादान्तर्गतकृष्णयुधिष्ठिरसंवादे माघ-कृष्ण-षट्तिला-एकादशी-माहात्म्यं नाम चतुश्चत्वारिंशोऽध्यायः॥४४॥
+—श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमापतिनारदसंवादान्तर्गतकृष्णयुधिष्ठिरसंवादे माघ-कृष्ण-षट्तिला-एकादशी-माहात्म्यं नाम चतुश्चत्वारिंशोऽध्यायः॥४४॥
 '''
 
 description_en = '''

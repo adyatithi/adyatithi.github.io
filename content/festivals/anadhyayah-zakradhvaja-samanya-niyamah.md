@@ -4,8 +4,10 @@ id = "anadhyAyaH-zakradhvaja-sAmAnya-niyamAH"
 id_display = "anadhyāyaḥ-śakradhvaja-sāmānya-niyamāḥ"
 slug = "anadhyayah-zakradhvaja-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-zakradhvaja-sAmAnya-niyamAH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  150"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 याज्ञवल्क्यः—

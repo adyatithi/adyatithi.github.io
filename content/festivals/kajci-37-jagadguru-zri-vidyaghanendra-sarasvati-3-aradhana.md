@@ -4,15 +4,16 @@ id = "kAJcI_37_jagadguru_zrI~vidyAghanEndra_sarasvatI_3_ArAdhanA"
 id_display = "kāñcī 37 jagadguru śrī vidyāghanendra sarasvatī 3 ārādhanā"
 slug = "kajci-37-jagadguru-zri-vidyaghanendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/10/17/kAJcI_37_jagadguru_zrI~vidyAghanEndra_sarasvatI_3_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Pauṣa"]
+month = ["10. Pauṣa"]
 tithi = ["Dvitīyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Pauṣa (पौष) māsa, Kṛṣṇa Pakṣa Dvitīyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 भालचन्द्रसुतः सूर्यनारायणसमाह्वयः।

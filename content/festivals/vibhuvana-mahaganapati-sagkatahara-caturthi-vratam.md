@@ -4,7 +4,7 @@ id = "vibhuvana-mahAgaNapati-saGkaTahara-caturthI-vratam"
 id_display = "vibhuvana-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "vibhuvana-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/vibhuvana-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
-tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
 

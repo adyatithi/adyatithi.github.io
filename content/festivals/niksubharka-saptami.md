@@ -5,13 +5,14 @@ id_display = "nikṣubhārka-saptamī"
 slug = "niksubharka-saptami"
 source_path = "general/lunar_month/tithi/11/22/nikSubhArka-saptamI.toml"
 tags = ["SpecialVratam", "LessCommonFestivals"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Saptamī"]
 category = ["General Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Māgha (माघ) māsa, Kṛṣṇa Pakṣa Saptamī, at मध्याह्नः"
-"references" = ["Chaturvarga Chintamani"]
+"references" = ["Bhavisyat Purana", "Chaturvarga Chintamani"]
+sources = ["Bhaviṣya Purāṇa", "Caturvargacintāmaṇi (Hemādri)"]
 
 shlokas = '''
 सूर्यभक्ता तु या नारी ध्रुवं सा पुरुषो भवेत्।

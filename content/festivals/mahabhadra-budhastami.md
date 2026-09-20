@@ -6,9 +6,11 @@ slug = "mahabhadra-budhastami"
 source_path = "time_focus/tithi-vara-combinations/description_only/mahAbhadrA~budhASTamI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Kaustubham p.438"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
-भविष्यपुराणे---
+भविष्यपुराणे—
 पुष्ये मासि यदा देवि शुक्लाष्टम्यां बुधो भवेत्।
 तदा तु सा महापुण्या महाभद्रेति कीर्तिता॥
 तस्यां स्नानं जपो होमस्तर्पणं विप्रभोजनम्।

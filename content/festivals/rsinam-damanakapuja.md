@@ -5,11 +5,13 @@ id_display = "ṛṣīṇāṃ damanakapūjā"
 slug = "rsinam-damanakapuja"
 source_path = "general/lunar_month/tithi/01/11/RSINAM~damanakapUjA.toml"
 tags = ["LessCommonFestivals"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Ekādaśī"]
 category = ["General Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Ekādaśī, at मध्याह्नः"
+"references" = ["Smriti Kaustubham p.101"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 दमनकपूजोक्ता हेमाद्रौ देवीपुराणे—

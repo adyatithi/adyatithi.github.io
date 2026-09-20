@@ -4,7 +4,7 @@ id = "cidambarE_rajata_RSabha_vAhanam"
 id_display = "cidambare rajata ṛṣabha vāhanam"
 slug = "cidambare-rajata-rsabha-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-5/cidambarE_rajata_RSabha_vAhanam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

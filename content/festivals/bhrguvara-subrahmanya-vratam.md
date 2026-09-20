@@ -4,9 +4,11 @@ id = "bhRguvAra-subrahmaNya-vratam"
 id_display = "bhṛguvāra-subrahmaṇya-vratam"
 slug = "bhrguvara-subrahmanya-vratam"
 source_path = "devatA/kaumAra/description_only/bhRguvAra-subrahmaNya-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Kaumāra (Skanda/Murugan)"]
 category = ["Devatā Observances"]
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 अन्यद्व्रतं प्रवक्ष्यामि सुब्रह्मण्यस्य वै द्विजाः।
@@ -37,7 +39,7 @@ shlokas = '''
 '''
 
 description_en = '''
-Observed on the first Friday following the transit of Sun into `tulArAzI`. Three Vratas are very special for Subrahmanya---this one, the regular `kRttikA vratam`, and `skandaSaSThivratam`.
+Observed on the first Friday following the transit of Sun into `tulArAzI`. Three Vratas are very special for Subrahmanya—this one, the regular `kRttikA vratam`, and `skandaSaSThivratam`.
 '''
 
 [names]

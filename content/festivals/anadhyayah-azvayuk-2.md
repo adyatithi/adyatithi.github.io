@@ -4,13 +4,15 @@ id = "anadhyAyaH~Azvayuk~2"
 id_display = "anadhyāyaḥ āśvayuk 2"
 slug = "anadhyayah-azvayuk-2"
 source_path = "time_focus/adhyayana/lunar_month/tithi/07/02/anadhyAyaH~Azvayuk~2.toml"
-tags = ["Anadhyayana Days"]
-month = ["Āśvina"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
+month = ["07. Āśvina"]
 tithi = ["Dvitīyā"]
 category = ["Calendrical Specials"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Dvitīyā, at साङ्गवः"
+"references" = ["Smriti Muktaphalam SVR p.  165"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 स्मृत्यन्तरे—

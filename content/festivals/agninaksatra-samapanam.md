@@ -4,7 +4,7 @@ id = "agninakSatra-samApanam"
 id_display = "agninakṣatra-samāpanam"
 slug = "agninaksatra-samapanam"
 source_path = "time_focus/nakShatra/description_only/agninakSatra-samApanam.toml"
-tags = ["SpecialPeriodEnd"]
+tags = ["SpecialPeriodEnd", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

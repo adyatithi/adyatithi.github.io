@@ -4,30 +4,31 @@ id = "vaizAkha-pUrNimA-snAnam"
 id_display = "vaiśākha-pūrṇimā-snānam"
 slug = "vaizakha-purnima-snanam"
 source_path = "general/lunar_month/tithi/02/15/vaizAkha-pUrNimA-snAnam.toml"
-tags = ["SpecialSnanam"]
-month = ["Vaiśākha"]
+tags = ["SpecialSnanam", "LessCommonFestivals"]
+month = ["02. Vaiśākha"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "प्राक्तनारुणोदयः"
 priority_rule = "paraviddha"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Pūrṇimā, at प्राक्तनारुणोदयः"
-"references" = ["Vrata Nirnaya Kalpavalli"]
+"references" = ["Satyavrata Smriti", "Vrata Nirnaya Kalpavalli"]
+sources = ["Satyavrata Smṛti", "Vratanirṇayakalpavallī"]
 
 shlokas = '''
 उदयात् प्राक् चतस्रस्तु नाडिका अरुणोदयः।
 तत्र स्नानं प्रशंसन्ति स हि पुण्यतमः स्मृतः॥
 बलं रूपं यशो धर्मं ज्ञानमायुः सुखं धृतिम्।
 आरोग्यं परमाप्नोति सम्यक् स्नानेन मानवः॥
-भविष्ये---
+भविष्ये—
 वैशाखी कार्तिकी माघी ह्याषाढ्यप्यतिपुण्यदाः।
 स्नानदानविहीना वै तासु रौरवगामिनः॥
-कृत्यसारसमुच्चये---
-वैशाखपूर्णिमामभिधाय विष्णुपुराणे---
+कृत्यसारसमुच्चये—
+वैशाखपूर्णिमामभिधाय विष्णुपुराणे—
 कृष्णाजिनं तिलान् कृष्णान् हिरण्यं मधुसर्पिषी।
 ददाति यस्तु विप्राय सर्वं तरति दुष्कृतम्॥ इति।
 अस्यां गङ्गास्नाने ओं अद्येत्यादि गङ्गास्नानजन्यफलसहस्रगुणाधिकफलप्राप्तिकामो गङ्गायां स्नानमहं करिष्ये।
-स्मृति-कौस्तुभे---
-निर्णयामृते यमगाथासु---
+स्मृति-कौस्तुभे—
+निर्णयामृते यमगाथासु—
 यस्तु कृष्णाजिनं दद्यात्सखुरं शृङ्गसंयुतम्।
 तिलैः प्रच्छाद्य वासोभिः सर्वरत्नैरलङ्कृतम्॥
 वैशाख्यां पौर्णमास्यां तु विशाखासु विशेषतः।

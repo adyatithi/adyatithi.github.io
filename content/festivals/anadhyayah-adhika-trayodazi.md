@@ -4,8 +4,10 @@ id = "anadhyAyaH~adhika-trayOdazI"
 id_display = "anadhyāyaḥ adhika-trayodaśī"
 slug = "anadhyayah-adhika-trayodazi"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~adhika-trayOdazI.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  160"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 केचिदाहुः—

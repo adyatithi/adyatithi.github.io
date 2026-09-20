@@ -6,10 +6,12 @@ slug = "dazavatara-vratam"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/10/dazAvatAra-vratam.toml"
 tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Daśamī"]
 category = ["Devatā Observances"]
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Daśamī"
+"references" = ["Naradiya Puranam, Adhyaya 119"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 अथो नभस्य शुक्लायां दशम्यां द्विजसत्तम।

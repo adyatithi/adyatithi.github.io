@@ -4,14 +4,14 @@ id = "bhAdrapada-candra-darzanam"
 id_display = "bhādrapada-candra-darśanam"
 slug = "bhadrapada-candra-darzanam"
 source_path = "devatA/graha/description_only/bhAdrapada-candra-darzanam.toml"
-tags = ["ChandraDarshanam"]
+tags = ["ChandraDarshanam", "LessCommonFestivals"]
 devata = ["Graha (Planetary)"]
 category = ["Devatā Observances"]
 
 shlokas = '''
 मासादौ पूर्वमेव त्वां ये पश्यन्ति सदा जनाः॥ 
 भद्रायां शुक्लपक्षस्य तेषां दोषो न जायते॥११२॥ 
----व्रतराजोक्त-स्यमन्तकोपाख्याने
+—व्रतराजोक्त-स्यमन्तकोपाख्याने
 श्वेताम्बरः श्वेतविभूषणश्च
 श्वेतद्युतिर्दण्डधरो द्विबाहुः।
 चन्द्रोऽमृतात्मा वरदः किरीटी

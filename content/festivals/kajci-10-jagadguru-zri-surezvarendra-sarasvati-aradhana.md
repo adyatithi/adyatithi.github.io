@@ -4,15 +4,16 @@ id = "kAJcI_10_jagadguru_zrI~surEzvarEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 10 jagadguru śrī sureśvarendra sarasvatī ārādhanā"
 slug = "kajci-10-jagadguru-zri-surezvarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/15/kAJcI_10_jagadguru_zrI~surEzvarEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Pūrṇimā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Śukla Pakṣa Pūrṇimā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 महाबलीश्वरेश्वराच्युतोद्भवो महेश्वरा-

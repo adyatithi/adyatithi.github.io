@@ -5,7 +5,7 @@ id_display = "āḍip pèrukku"
 slug = "adip-perukku"
 source_path = "temples/Tamil/sidereal_solar_month/day/04/18/ADip~perukku.toml"
 tags = ["TamilnaduTempleFestivals", "CommonFestivals"]
-rashi = ["Karka"]
+rashi = ["04. Karka"]
 category = ["Temple Festivals"]
 timing_summary = "Karka (कर्क) māsa, sidereal"
 

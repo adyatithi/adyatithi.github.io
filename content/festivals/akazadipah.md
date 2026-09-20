@@ -6,6 +6,8 @@ slug = "akazadipah"
 source_path = "general/description_only/AkAzadIpaH.toml"
 tags = ["LessCommonFestivals"]
 category = ["General Observances"]
+"references" = ["Purushartha Chintamani p.6"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
 तुलायां  तिलतैलेन  सायङ्काले  समागते।

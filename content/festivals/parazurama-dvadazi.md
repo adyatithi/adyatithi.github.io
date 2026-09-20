@@ -4,18 +4,19 @@ id = "parazurAma-dvAdazI"
 id_display = "paraśurāma-dvādaśī"
 slug = "parazurama-dvadazi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/12/parazurAma-dvAdazI.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Dvādaśī"]
 category = ["Devatā Observances"]
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Dvādaśī"
 "references" = ["VrataNirnayaKalpavalli"]
+sources = ["Vratanirṇayakalpavallī"]
 
 shlokas = '''
 वैशाखशुक्लैकादश्यामुपोष्य सौवर्णं परशुरामं सम्पूज्य
 द्वादश्यां ब्राह्मणाय दद्यादिति बोधायनः।
-स्कान्देऽपि---
+स्कान्देऽपि—
 वैशाखे सितपक्षे च एकादश्यां नराधिप।
 स्वर्णेन निर्मितं परशुरामं सम्पूज्य यत्नतः॥
 द्वादश्यामुदये स्नात्वा समभ्यर्च्य पुनः पुनः।

@@ -4,10 +4,11 @@ id = "agastyArghyam"
 id_display = "agastyārghyam"
 slug = "agastyarghyam"
 source_path = "mahApuruSha/RShi/relative_event/kanyA-ravi-saGkramaNa-SaDazIti-puNyakAlaH/offset__-7/agastyArghyam.toml"
-tags = ["OtherFestivals"]
+tags = ["OtherFestivals", "LessCommonFestivals"]
 tradition = ["Ṛṣi"]
 category = ["Mahāpuruṣa Observances"]
 "references" = ["VrataNirnayaKalpavalli"]
+sources = ["Vratanirṇayakalpavallī"]
 
 shlokas = '''
 कन्यासङ्क्रमणादर्वाग्वै सप्तमदिने अगस्त्यार्घ्यं दातव्यम्। उक्तं च हेमाद्रौ।

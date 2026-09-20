@@ -4,8 +4,10 @@ id = "anadhyAyaH~divAsaGkramaNa~pararAtrau"
 id_display = "anadhyāyaḥ divāsaṅkramaṇa pararātrau"
 slug = "anadhyayah-divasagkramana-pararatrau"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~divAsaGkramaNa~pararAtrau.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  162"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 कालादर्शे—

@@ -4,27 +4,29 @@ id = "mAgha-mAsaH"
 id_display = "māgha-māsaḥ"
 slug = "magha-masah"
 source_path = "time_focus/misc/description_only/mAgha-mAsaH.toml"
-tags = ["SpecialDays", "SpecialPeriod"]
+tags = ["SpecialDays", "SpecialPeriod", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Narada Puranam"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 देवैस्तेजः परिक्षिप्तं माघमासे स्वकं जले।
 तस्माज्जलं माघमासे पावनं हि विशेषतः॥
----नारदमहापुराणे उत्तरार्धे ३१.१०
+—नारदमहापुराणे उत्तरार्धे ३१.१०
 तन्नास्ति पातकं यत्तु माघस्नानं न शोधयेत्।
 अग्निप्रवेशादधिकं माघोषस्येव मज्जनम्॥
----नारदमहापुराणे उत्तरार्धे ३१.१६
+—नारदमहापुराणे उत्तरार्धे ३१.१६
 पावका इव दीप्यन्ते माघस्नानैर्नरोत्तमाः।
 विमुक्ताः सर्वपापेभ्यो मेघेभ्य इव चन्द्रमाः॥
----पाद्मे महापुराणे उत्तरखण्डे १२६.३२
+—पाद्मे महापुराणे उत्तरखण्डे १२६.३२
 एकविंशकुलैः सार्द्धं भोगान् भुक्त्वा यथेप्सितान्।
 माघमास्युषसि स्नात्वा विष्णुलोकं स गच्छति॥
----श्रीभविष्यमहापुराणे उत्तरपर्वणि १२२.३४
+—श्रीभविष्यमहापुराणे उत्तरपर्वणि १२२.३४
 कावेरी तुङ्गभद्रा च यास्तथाऽन्याः समुद्रगाः।
 तासु स्नायी नरो याति स्वर्गलोकं विकल्मषः॥
----नारदमहापुराणे उत्तरार्धे ६३.३०
+—नारदमहापुराणे उत्तरार्धे ६३.३०
 
-सूर्यार्घ्यप्रदानम्---
+सूर्यार्घ्यप्रदानम्—
 तपस्यर्कोदये नद्यां स्नात्वाऽहं विधिपूर्वकम्।
 माधवाय ददामीदम् अर्घ्यं धर्मार्थ-सिद्धिदम्॥
 माधवाय नमः इदमर्घ्यम्। माधवाय नमः इदमर्घ्यम्। माधवाय नमः इदमर्घ्यम्।
@@ -37,27 +39,27 @@ shlokas = '''
 त्वत्तेजसा हतं चास्तु तत्तु पापं सहस्रधा॥
 सवित्रे नमः इदमर्घ्यम्। सवित्रे नमः इदमर्घ्यम्। सवित्रे नमः इदमर्घ्यम्।
 
-प्रार्थना---
+प्रार्थना—
 दिवाकर जगन्नाथ प्रभाकर नमोस्तु ते।
 परिपूर्णं कुरुष्वेदं माघस्नानं महाव्रतम्॥
 
-माघकृत्यमाह विष्णुः---
+माघकृत्यमाह विष्णुः—
 माघे मास्यग्निं प्रत्यहं तिलैर्हुत्वा सघृतं कृसरान्नं/शर्करान्नं बाह्मणान् भोजयित्वा दीप्ताग्निर्भवति।
-भविष्योत्तरे---
+भविष्योत्तरे—
 पौर्णमास्याममायां वा प्रारभ्य स्नानमाचरेत्।
 त्रिंशद्दिनानि पुण्यानि मकरस्थे दिवाकरे॥
-वामनपुराणे---
+वामनपुराणे—
 अप्रावृतशरीरस्तु यः कष्टं स्नानमाचरेत्।
 पदे पदेऽश्वमेधस्य फलं प्राप्नोति मानवः॥
 एवं स्नानस्यावसाने भोज्यं देयमवारितम्।
 भोजयेद् द्विजदाम्पत्यं भूषयेद्वस्त्रभूषणैः॥
-वामनपुराणे---
+वामनपुराणे—
 माघे मासि तिलाः शस्तास्तिलधेनुश्च दानतः।
 एवेन्धनादयश्चान्ये माधवप्रीणनाय च॥
 '''
 
 description_en = '''
-`mAgha-mAsaH` begins today --- special for various `dAnam`'s and especially `mAghasnAnam`! As stated by Viṣṇu: In the month of Māgha, one should daily offer oblations into the fire using sesame seeds mixed with ghee, and feed brāhmaṇas with kṛsarānna (sweet rice with ghee) or śarkarānna (sugar rice). Such a person becomes radiant. In the Bhaviṣyottara Purāṇa, it is said that one should perform daily ritual baths for 30 days, as long as the Sun remains in Makara, beginning on the full moon or new moon (thus, both amānta and purṇimānta māsās have pramāṇa). These baths bring great merit! In the Vāmana Purāṇa, it is stated that a person who bathes in cold water during Māgha earns the merit of an aśvamedha sacrifice with every step! After completing the bath, one should offer unrestricted food to a brāhmaṇa couple and adorn them with garments and ornaments. The Vāmana Purāṇa states that in Māgha, dāna of sesame seeds and a tila-dhenu is highly meritorious. Similarly, donations of firewood and other essentials should be done to please Mādhava.
+`mAgha-mAsaH` begins today — special for various `dAnam`'s and especially `mAghasnAnam`! As stated by Viṣṇu: In the month of Māgha, one should daily offer oblations into the fire using sesame seeds mixed with ghee, and feed brāhmaṇas with kṛsarānna (sweet rice with ghee) or śarkarānna (sugar rice). Such a person becomes radiant. In the Bhaviṣyottara Purāṇa, it is said that one should perform daily ritual baths for 30 days, as long as the Sun remains in Makara, beginning on the full moon or new moon (thus, both amānta and purṇimānta māsās have pramāṇa). These baths bring great merit! In the Vāmana Purāṇa, it is stated that a person who bathes in cold water during Māgha earns the merit of an aśvamedha sacrifice with every step! After completing the bath, one should offer unrestricted food to a brāhmaṇa couple and adorn them with garments and ornaments. The Vāmana Purāṇa states that in Māgha, dāna of sesame seeds and a tila-dhenu is highly meritorious. Similarly, donations of firewood and other essentials should be done to please Mādhava.
 '''
 
 [names]

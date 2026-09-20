@@ -4,11 +4,13 @@ id = "jayA-vratam"
 id_display = "jayā-vratam"
 slug = "jaya-vratam"
 source_path = "general/lunar_month/tithi/08/05/jayA-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Kārtika"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["08. Kārtika"]
 tithi = ["Pañcamī"]
 category = ["General Observances"]
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Pañcamī"
+"references" = ["Naradiya Puranam, Adhyaya 114"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 कार्तिके शुक्कपञ्चम्यां जयाव्रतमनुत्तमम्।

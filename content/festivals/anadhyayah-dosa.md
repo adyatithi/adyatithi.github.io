@@ -4,8 +4,10 @@ id = "anadhyAyaH~dOSa"
 id_display = "anadhyāyaḥ doṣa"
 slug = "anadhyayah-dosa"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~dOSa.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p. 164"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 लिखितः—

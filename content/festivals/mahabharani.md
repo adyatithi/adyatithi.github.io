@@ -6,12 +6,14 @@ slug = "mahabharani"
 source_path = "devatA/pitR/lunar_month/nakshatra/06/02/mahAbharaNI.toml"
 tags = ["SpecialPuja", "CommonFestivals"]
 devata = ["Pitṛ (Ancestral)"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 nakshatra = ["Bharaṇī"]
 category = ["Devatā Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Bharaṇī nakṣatra, at अपराह्णः"
+"references" = ["Smriti Kaustubham p.274"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 भरणी प्रेतपक्षे तु महती परिकीर्तिता।

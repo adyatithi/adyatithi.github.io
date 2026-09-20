@@ -4,8 +4,8 @@ id = "mAci~cevvAy"
 id_display = "māci cèvvāy"
 slug = "maci-cevvay"
 source_path = "time_focus/vaara_conditioned/mAci~cevvAy.toml"
-tags = ["MonthWeekdayFestivals"]
-rashi = ["Kumbha"]
+tags = ["MonthWeekdayFestivals", "LessCommonFestivals"]
+rashi = ["11. Kumbha"]
 category = ["Calendrical Specials"]
 timing_summary = "Kumbha (कुम्भ) māsa, sidereal"
 

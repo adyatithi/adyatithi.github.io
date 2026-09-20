@@ -6,6 +6,8 @@ slug = "visu-punyakalah"
 source_path = "time_focus/sankrAnti/description_only/viSu-puNyakAlaH.toml"
 tags = ["SunSankranti", "CommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p. 267"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 सङ्क्रान्तिस्नानाकरणे प्रत्यवायमाह शातातपः—
@@ -13,19 +15,19 @@ shlokas = '''
 सप्तजन्मसु रोगी स्याद् दुःखभागी च जायते॥
 सङ्क्रान्त्यां यानि दत्तानि हव्यकव्यानि मानवैः।
 तानि तस्य ददात्यर्कः सप्तजन्मसु निश्चितम्॥
----वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+—वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
 षडशीत्यां तु यद्दत्तं यद्दत्तं विषुवद्वये।
 दृश्यते सागरस्यान्तस्तस्यान्तो नैव दृश्यते॥
----स्मृतिकौस्तुभे
+—स्मृतिकौस्तुभे
 वर्तमाने तुलामेषे नाड्यस्तूभयतो दश।
 या याः सन्निहिता नाड्यस्तास्ताः पुण्यतमाः स्मृताः॥
----वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
-जाबालिः---
+—वैद्यनाथ-दीक्षितीये स्मृतिमुक्ताफले आह्निक-काण्डः (पूर्वभागः)
+जाबालिः—
 सङ्क्रान्तिषु यथा कालस्तदीयेऽप्ययने तथा।
 '''
 
 description_en = '''
-`viSu-puNyakAla` --- equinox. For `viSu-puNyakAla` the 10 ghatikas preceding and succeeding the `saGkramaNa` forms a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred. 
+`viSu-puNyakAla` — equinox. For `viSu-puNyakAla` the 10 ghatikas preceding and succeeding the `saGkramaNa` forms a `puNyakAla`; in general, the ghatikas closer to the `puNyakAla` are even more sacred. 
 
 While the `nirayana` `puNyakAla`-s are well known, marked by the transit of the Sun into various `rAzI`-s (which confer the name to the corresponding `saura` month), there are also `ayana`-s and `sAyana` `saGkramaNa`-s, which mark the position of the Sun above the Northern or Southern parts of the Earth. These determine the `Rtu`-s, and also the very famous `uttarAyaNa` and `dakSinAyana` (movement of the Sun towards North or South, respectively). While these two types of `puNyakAla`-s (`sAyana` and `nirayana`) coincided millennia ago, there has been a gradual precession of the equinoxes, owing to the nature of the Earth's rotation, causing the `sAyana` `saGkramaNa`-s to happen about 24 days before the `nirayana` `saGkramaNa`-s. In that era, `uttarAyaNa` coincided with `makara-saGkramaNa` and `dakSinAyana` coincided with `karkaTaka-saGkramaNa`, and the `mEsa` and `tulA` `saGkramaNa`-s corresponded to the equinoxes, when the Sun rises direct East (and sets direct West).
 

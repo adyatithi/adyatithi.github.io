@@ -4,6 +4,7 @@ id = "proklas-mRtyuH"
 id_display = "pròklas-mṛtyuḥ"
 slug = "proklas-mrtyuh"
 source_path = "mahApuruSha/general-indic-tropical/julian/day/04/17/proklas-mRtyuH.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "April 17 (Julian calendar)"

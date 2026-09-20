@@ -4,7 +4,7 @@ id = "sAyana-vaidhRtiH"
 id_display = "sāyana-vaidhṛtiḥ"
 slug = "sayana-vaidhrtih"
 source_path = "time_focus/misc_combinations/description_only/sAyana-vaidhRtiH.toml"
-tags = ["Combinations"]
+tags = ["Combinations", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

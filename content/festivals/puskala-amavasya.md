@@ -4,11 +4,13 @@ id = "puSkalA-amAvAsyA"
 id_display = "puṣkalā-amāvāsyā"
 slug = "puskala-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/puSkalA-amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Vaidyanatha Dikshitiyam"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-स्मृत्यन्तरे---
+स्मृत्यन्तरे—
 अमा सोमेन भौमेन गुरुणा वा युता यदि।
 सा तिथिः पुष्कला नाम सूर्यग्रहणसन्निभा॥
 '''

@@ -4,7 +4,7 @@ id = "kapAlI_teppOtsavam~2"
 id_display = "kapālī tèppotsavam 2"
 slug = "kapali-teppotsavam-2"
 source_path = "temples/Tamil/relative_event/taippUcam/offset__00/kapAlI_teppOtsavam~2.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

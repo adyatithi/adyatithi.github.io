@@ -4,13 +4,14 @@ id = "anadhyAyaH-utsarga-sAmAnya-niyamAH"
 id_display = "anadhyāyaḥ-utsarga-sāmānya-niyamāḥ"
 slug = "anadhyayah-utsarga-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-utsarga-sAmAnya-niyamAH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
-"references" = ["Smriti Muktaphalam SVR p.  148"]
+"references" = ["Kurma Puranam Adhyaya 14", "Smriti Muktaphalam SVR p.  148"]
+sources = ["Kūrma Purāṇa", "Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 उपाकर्मणि चोत्सर्गे त्रिरात्रं क्षपणं स्मृतम्॥७५॥
----श्रीकूर्मपुराणे षट्‌साहस्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
+—श्रीकूर्मपुराणे षट्‌साहस्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
 '''
 
 description_en = '''

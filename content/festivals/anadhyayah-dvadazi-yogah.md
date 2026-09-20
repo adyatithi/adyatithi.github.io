@@ -4,11 +4,13 @@ id = "anadhyAyaH~dvAdazI-yOgaH"
 id_display = "anadhyāyaḥ dvādaśī-yogaḥ"
 slug = "anadhyayah-dvadazi-yogah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH~dvAdazI-yOgaH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  162"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-सत्यतपाः---
+सत्यतपाः—
 आभाकासितपक्षेषु मैत्रश्रवणरेवती।
 द्वादश्यां संस्पृशेयुश्चेत्तत्रानध्ययनं विदुः॥
 '''

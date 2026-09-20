@@ -4,7 +4,7 @@ id = "kAraDaiyAn2_nOn2bu"
 id_display = "kāraḍaiyāṉ noṉbu"
 slug = "karadaiyan2-non2bu"
 source_path = "tamil/description_only/kAraDaiyAn2_nOn2bu.toml"
-tags = ["CommonFestivalsTamilnadu"]
+tags = ["CommonFestivals", "TamilNaduFestivals"]
 category = ["Tamil Traditions"]
 
 shlokas = '''

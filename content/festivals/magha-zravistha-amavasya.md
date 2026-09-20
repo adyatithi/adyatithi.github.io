@@ -4,11 +4,13 @@ id = "mAgha-zraviSThA-amAvAsyA"
 id_display = "māgha-śraviṣṭhā-amāvāsyā"
 slug = "magha-zravistha-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/mAgha-zraviSThA-amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Vaidyanatha Dikshitiyam"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-विष्णुपुराणम्---
+विष्णुपुराणम्—
 माघासिते पञ्चदशी कदाचिदुपैति योगं यदि वारुणेन।
 ऋक्षेण कालः स वरः पितॄणां नह्यल्पपुण्यैर्नृप लभ्यतेऽसौ॥
 गायन्ति केचित् पितरः कदा नु वर्षा मघा तृप्तिमवाप्य भूयः।

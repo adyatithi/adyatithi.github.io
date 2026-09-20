@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{/* Keyed by lower-cased name: Hugo capitalizes the first letter of an
+     auto-generated taxonomy term title (e.g. "kamakoti.org" ->
+     "Kamakoti.org"), so an exact-case match against data/sources.yml
+     would silently miss every source whose canonical name starts
+     lowercase. */}}
+{{ $descByName := dict }}
+{{ range hugo.Data.sources }}
+  {{ $descByName = merge $descByName (dict (.name | lower) .) }}
+{{ end }}
+
+{{/* Every term in the taxonomy, with its count, sorted by count desc. */}}
+{{ $allTerms := .Data.Terms.ByCount }}
+
+{{/* Split into "featured" (has a curated description) and the rest. */}}
+{{ $featured := slice }}
+{{ $rest := slice }}
+{{ range $allTerms }}
+  {{ if isset $descByName (.Page.Title | lower) }}
+    {{ $featured = $featured | append . }}
+  {{ else }}
+    {{ $rest = $rest | append . }}
+  {{ end }}
+{{ end }}
+{{/* Long tail reads better alphabetically than by (mostly 1-2) count. */}}
+{{ $rest = sort $rest "Page.Title" }}
+
+<section class="page-header">
+  <div class="wrap">
+    <p class="eyebrow">Browse by</p>
+    <h1>Sources</h1>
+    <p class="muted">
+      The śāstric texts, anthologies and modern references cited across the
+      festival data — {{ len $allTerms }} in all. Popular sources below are
+      described briefly; every source, however small, links through to the
+      festivals that cite it.
+    </p>
+  </div>
+</section>
+
+{{ if $featured }}
+<section class="wrap">
+  <h2 class="section-title">Popular sources</h2>
+  <div class="source-grid">
+    {{ range $featured }}
+      {{ $meta := index $descByName (.Page.Title | lower) }}
+      <a class="source-card" href="{{ .Page.RelPermalink }}">
+        <div class="source-card__head">
+          <h3 class="source-card__title">{{ .Page.Title }}</h3>
+          <span class="pill__count">{{ .Count }}</span>
+        </div>
+        {{ with $meta.category }}<span class="pill pill--category">{{ . }}</span>{{ end }}
+        {{ with $meta.description }}<p class="source-card__desc">{{ . }}</p>{{ end }}
+        {{ if $meta.archive_url }}<span class="source-card__archive">Archived copy available →</span>{{ end }}
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="wrap">
+  <h2 class="section-title">All sources</h2>
+  <div class="filter-bar__pills filter-bar__pills--big">
+    {{ range $rest }}
+      <a href="{{ .Page.RelPermalink }}" class="pill pill--filter pill--big">
+        {{ .Page.Title }} <span class="pill__count">{{ .Count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

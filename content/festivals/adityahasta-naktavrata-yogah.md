@@ -8,7 +8,7 @@ tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
-अग्निपुराणे---
+अग्निपुराणे—
 वारव्रतानि वक्ष्यामि भुक्तिमुक्तिप्रदानि हि।
 ...
 कृत्वा हस्ते सूर्यवारं नक्तेनाब्दं स सर्वभाक्॥१९५-३॥

@@ -4,15 +4,16 @@ id = "kAJcI_47_jagadguru_zrI~candrazEkharEndra_sarasvatI_3_ArAdhanA"
 id_display = "kāñcī 47 jagadguru śrī candraśekharendra sarasvatī 3 ārādhanā"
 slug = "kajci-47-jagadguru-zri-candrazekharendra-sarasvati-3-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/30/kAJcI_47_jagadguru_zrI~candrazEkharEndra_sarasvatI_3_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीकण्ठः शुकदेवशर्मतनयः कुण्डीनदीकूलभूर्-

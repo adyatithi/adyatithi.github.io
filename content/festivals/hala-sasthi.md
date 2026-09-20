@@ -6,12 +6,14 @@ slug = "hala-sasthi"
 source_path = "devatA/vaiShNava/lunar_month/tithi/05/21/hala-SaSThI.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "paraviddha"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Kṛṣṇa Pakṣa Ṣaṣṭhī, at मध्याह्नः"
+"references" = ["Nirnaya Sindhu", "Dharma Sindhu"]
+sources = ["Nirṇayasindhu (Kamalākarabhaṭṭa)", "Dharmasindhu (Kāśīnātha Upādhyāya)"]
 
 shlokas = '''
 निर्णयसिन्धुः २ परिच्छेदः—

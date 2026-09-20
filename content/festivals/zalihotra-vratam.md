@@ -4,7 +4,7 @@ id = "zAlihOtra-vratam"
 id_display = "śālihotra-vratam"
 slug = "zalihotra-vratam"
 source_path = "general/description_only/zAlihOtra-vratam.toml"
-tags = ["SpecialVratam", "Vratam", "SpecialPeriod"]
+tags = ["SpecialVratam", "Vratam", "SpecialPeriod", "LessCommonFestivals"]
 category = ["General Observances"]
 
 [names]

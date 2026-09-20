@@ -4,15 +4,16 @@ id = "kAJcI_58_jagadguru_zrI~AtmabOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 58 jagadguru śrī ātmabodhendra sarasvatī ārādhanā"
 slug = "kajci-58-jagadguru-zri-atmabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/23/kAJcI_58_jagadguru_zrI~AtmabOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 वृद्धाचलप्रभवविश्वमखीन्द्रसूनुर्-

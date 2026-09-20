@@ -4,8 +4,8 @@ id = "AvaNi~JAyir2r2ukkizhamai"
 id_display = "āvaṇi ñāyiṟṟukkil̤amai"
 slug = "avani-jayir2r2ukkizhamai"
 source_path = "time_focus/vaara_conditioned/AvaNi~JAyir2r2ukkizhamai.toml"
-tags = ["MonthWeekdayFestivals"]
-rashi = ["Siṃha"]
+tags = ["MonthWeekdayFestivals", "LessCommonFestivals"]
+rashi = ["05. Siṃha"]
 category = ["Calendrical Specials"]
 timing_summary = "Siṃha (सिंह) māsa, sidereal"
 

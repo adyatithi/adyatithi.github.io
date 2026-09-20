@@ -4,15 +4,16 @@ id = "kAJcI_17_jagadguru_zrI~sadAzivEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 17 jagadguru śrī sadāśivendra sarasvatī ārādhanā"
 slug = "kajci-17-jagadguru-zri-sadazivendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/10/kAJcI_17_jagadguru_zrI~sadAzivEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Daśamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Daśamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 विप्राच्छ्रीदेवमिश्राद् अजनि जनित एवाप्तविद्याप्रकाशः

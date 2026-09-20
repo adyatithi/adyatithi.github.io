@@ -6,6 +6,8 @@ slug = "paksavardhini-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/pakSavardhinI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations", "SpecialVratam"]
 category = ["Calendrical Specials"]
+"references" = ["Padma Puranam"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
 अमा वा यदि वा पूर्णा सम्पूर्णा जायते तदा।
@@ -30,7 +32,7 @@ shlokas = '''
 तथा वै वर्धते भक्तः कारणात् पक्षवर्धिनी॥३१॥
 सूर्योदये यथा ध्वान्तं नश्यते तत्क्षणादपि।
 तथाऽघं नाशमाप्नोति करणात् पक्षवर्धिनी॥३२॥
----श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उन्मीलनीव्रतं नाम अष्टत्रिंशोऽध्यायः॥३८॥
+—श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उन्मीलनीव्रतं नाम अष्टत्रिंशोऽध्यायः॥३८॥
 '''
 
 description_en = '''

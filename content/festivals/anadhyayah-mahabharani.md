@@ -4,8 +4,10 @@ id = "anadhyAyaH~mahAbharaNI"
 id_display = "anadhyāyaḥ mahābharaṇī"
 slug = "anadhyayah-mahabharani"
 source_path = "time_focus/adhyayana/relative_event/mahAbharaNI/offset__00/anadhyAyaH~mahAbharaNI.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  156"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

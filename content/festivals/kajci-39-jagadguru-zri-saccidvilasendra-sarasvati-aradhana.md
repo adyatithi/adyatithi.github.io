@@ -4,15 +4,16 @@ id = "kAJcI_39_jagadguru_zrI~saccidvilAsEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 39 jagadguru śrī saccidvilāsendra sarasvatī ārādhanā"
 slug = "kajci-39-jagadguru-zri-saccidvilasendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/14/kAJcI_39_jagadguru_zrI~saccidvilAsEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Caturdaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Caturdaśī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 कान्यकुब्जकमलेश्वरात्मजः

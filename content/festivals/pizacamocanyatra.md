@@ -4,16 +4,18 @@ id = "pizAcamOcanyAtrA"
 id_display = "piśācamocanyātrā"
 slug = "pizacamocanyatra"
 source_path = "temples/North/lunar_month/tithi/09/14/pizAcamOcanyAtrA.toml"
-tags = ["Temple Festivals"]
-month = ["Mārgaśira"]
+tags = ["NorthIndiaTempleFestivals", "LessCommonFestivals"]
+month = ["09. Mārgaśira"]
 tithi = ["Caturdaśī"]
 category = ["Temple Festivals"]
 kaala = "पूर्वाह्णः"
 priority_rule = "paraviddha"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Caturdaśī, at पूर्वाह्णः"
+"references" = ["Purushartha Chintamani p. 311"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
-मार्गशुक्लचतुर्दश्याम्---
+मार्गशुक्लचतुर्दश्याम्—
 अद्य शुक्लचतुर्दश्यां मार्गे मासि तपोनिधे।
 अत्र सानादिकं कार्य पैशाच्यपरिमोचनम्॥
 मार्गशुक्लचतुर्दश्यां कपर्दीश्वरसन्निधौ।

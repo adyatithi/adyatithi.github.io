@@ -4,7 +4,7 @@ id = "skandaSaSThI-vratam"
 id_display = "skandaṣaṣṭhī-vratam"
 slug = "skandasasthi-vratam"
 source_path = "devatA/kaumAra/description_only/skandaSaSThI-vratam.toml"
-tags = ["MonthlyVratam", "ShashthiVratam"]
+tags = ["MonthlyVratam", "ShashthiVratam", "LessCommonFestivals"]
 devata = ["Kaumāra (Skanda/Murugan)"]
 category = ["Devatā Observances"]
 
@@ -72,7 +72,7 @@ shlokas = '''
 '''
 
 description_en = '''
-One of the most important vratams, alongside Krishnajanmashtami, Shivaratri etc. Must observe fast. Offer Arghyam facing South, using Curd, Akshata, Water and Flowers (`dadhnAkSatOdakaiH puSpaiH`) chanting the shloka mentioned. Three Vratas are very special for Subrahmanya---the `bhRguvAra-subrahmaNya-vratam` in `tulAmAsa`, the regular `kRttikA vratam`, and this most special `skandaSaSThivratam`.
+One of the most important vratams, alongside Krishnajanmashtami, Shivaratri etc. Must observe fast. Offer Arghyam facing South, using Curd, Akshata, Water and Flowers (`dadhnAkSatOdakaiH puSpaiH`) chanting the shloka mentioned. Three Vratas are very special for Subrahmanya—the `bhRguvAra-subrahmaNya-vratam` in `tulAmAsa`, the regular `kRttikA vratam`, and this most special `skandaSaSThivratam`.
 '''
 
 [names]

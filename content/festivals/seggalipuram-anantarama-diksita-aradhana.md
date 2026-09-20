@@ -6,13 +6,14 @@ slug = "seggalipuram-anantarama-diksita-aradhana"
 source_path = "mahApuruSha/smArta-misc/sidereal_solar_month/tithi/07/21/sEGgAlipuram_anantarAma-dIkSita-ArAdhanA.toml"
 tags = ["MahapurushaEvents", "CommonFestivals"]
 tradition = ["Smārta Ācāryas"]
-rashi = ["Tulā"]
+rashi = ["07. Tulā"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Tulā (तुला) māsa, sidereal, Kṛṣṇa Pakṣa Ṣaṣṭhī, at अपराह्णः"
 "references" = ["Vaidikasri Nov 2017"]
+sources = ["Vaidikaśrī (periodical)"]
 
 description_en = '''
 Aradhana Day of Sri Anantarama Dikshitar.

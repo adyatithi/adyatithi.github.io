@@ -4,7 +4,7 @@ id = "cidambarE_rajata-gajavAhanam"
 id_display = "cidambare rajata-gajavāhanam"
 slug = "cidambare-rajata-gajavahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-4/cidambarE_rajata-gajavAhanam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

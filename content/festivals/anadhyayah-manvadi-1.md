@@ -4,8 +4,10 @@ id = "anadhyAyaH~manvAdi~1"
 id_display = "anadhyāyaḥ manvādi 1"
 slug = "anadhyayah-manvadi-1"
 source_path = "time_focus/adhyayana/relative_event/manvAdiH~(svAyambhuvaH~[1])/offset__00/anadhyAyaH~manvAdi~1.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  155"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 नारदः—

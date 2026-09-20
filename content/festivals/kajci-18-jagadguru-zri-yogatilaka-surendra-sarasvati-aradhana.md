@@ -4,15 +4,16 @@ id = "kAJcI_18_jagadguru_zrI~yOgatilaka_surEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 18 jagadguru śrī yogatilaka surendra sarasvatī ārādhanā"
 slug = "kajci-18-jagadguru-zri-yogatilaka-surendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/09/01/kAJcI_18_jagadguru_zrI~yOgatilaka_surEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 दुर्दीदिविं समभिभूय तथाऽस्य साह्या-

@@ -6,18 +6,20 @@ slug = "parazurama-jayanti-1"
 source_path = "devatA/vaiShNava/lunar_month/tithi/02/03/parazurAma~jayantI~1.toml"
 tags = ["Dashavataram", "MajorFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Tṛtīyā"]
 category = ["Devatā Observances"]
 kaala = "प्रदोषः"
 priority_rule = "paraviddha"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Tṛtīyā, at प्रदोषः"
+"references" = ["Vrata Raja p. 112", "Lakshmi Narayana Samhita"]
+sources = ["Vratarāja", "Lakṣmīnārāyaṇa Saṃhitā"]
 
 shlokas = '''
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
 —स्मृतिमुक्ताफलम्
-लक्ष्मीनारायणसंहिता/खण्डः १ (कृतयुगसन्तानः)/अध्यायः २६८---
+लक्ष्मीनारायणसंहिता/खण्डः १ (कृतयुगसन्तानः)/अध्यायः २६८—
 वैशाखस्य सिते पक्षे तृतीयायां पुनर्वसौ।
 जमदग्निगृहे प्रादुरासीत्परशुधृक् हरिः॥२२॥
 व्रतराजे—

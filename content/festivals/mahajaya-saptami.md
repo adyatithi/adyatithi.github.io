@@ -6,6 +6,8 @@ slug = "mahajaya-saptami"
 source_path = "time_focus/special-tithis/description_only/mahAjayA~saptamI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Purushartha Chintamani (Anandashrama) p. 451"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
 शुक्लपक्षे तु सप्तम्यां यदा सङ्क्रमते रविः।

@@ -4,7 +4,7 @@ id = "kapAlI_viDaiyAr2r2i_nir2aivu"
 id_display = "kapālī viḍaiyāṟṟi niṟaivu"
 slug = "kapali-vidaiyar2r2i-nir2aivu"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__11/kapAlI_viDaiyAr2r2i_nir2aivu.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

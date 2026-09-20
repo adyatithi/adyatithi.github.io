@@ -6,17 +6,19 @@ slug = "zrikrsnadolotsavah"
 source_path = "devatA/vaiShNava/lunar_month/tithi/01/11/zrIkRSNadOlOtsavaH.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Ekādaśī"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Ekādaśī"
+"references" = ["Smriti Kaustubham p.101"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 चैत्रमासस्य शुक्लायामेकादश्यां तु वैष्णवैः।
 आन्दोलनीयो देवेशः सलक्ष्मीको महोत्सवैः।
 दमनेनार्चयित्वा च रात्रौ जागरणं चरेत्॥
 इति मदनरत्ने ब्राह्मवचनात्। 
-एतन्महिमा चोक्तो गारुडे---
+एतन्महिमा चोक्तो गारुडे—
 दोलारूढं प्रपश्यन्ति कृष्णं कलिमलापहम्।
 अपराधसहस्रैस्तु मुक्तास्ते घूर्णने कृते॥
 आन्दोलनदिने प्राप्ते रुद्रेण सहिताः सुराः। 

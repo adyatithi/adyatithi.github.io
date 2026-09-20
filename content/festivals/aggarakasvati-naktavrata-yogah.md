@@ -8,7 +8,7 @@ tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
-अग्निपुराणे---
+अग्निपुराणे—
 वारव्रतानि वक्ष्यामि भुक्तिमुक्तिप्रदानि हि।
 ...
 स्वात्यां गृहीत्वा चाङ्गारं सप्तनक्त्यार्तिवर्जितः॥१९५-४॥

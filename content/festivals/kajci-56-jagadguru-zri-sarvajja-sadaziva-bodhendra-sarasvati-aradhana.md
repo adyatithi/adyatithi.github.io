@@ -4,15 +4,16 @@ id = "kAJcI_56_jagadguru_zrI~sarvajJa_sadAziva_bOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 56 jagadguru śrī sarvajña sadāśiva bodhendra sarasvatī ārādhanā"
 slug = "kajci-56-jagadguru-zri-sarvajja-sadaziva-bodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/23/kAJcI_56_jagadguru_zrI~sarvajJa_sadAziva_bOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Kṛṣṇa Pakṣa Aṣṭamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अथोत्तरपिनाकिनीतटभवः स बोधेश्वरः

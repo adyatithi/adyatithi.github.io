@@ -4,7 +4,7 @@ id = "dEhU-vArI-samApanam"
 id_display = "dehū-vārī-samāpanam"
 slug = "dehu-vari-samapanam"
 source_path = "temples/Maharashtra/relative_event/ASADhI-vArI/offset__00/dEhU-vArI-samApanam.toml"
-tags = ["MaharashtraTempleFestivals"]
+tags = ["MaharashtraTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

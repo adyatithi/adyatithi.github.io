@@ -4,15 +4,16 @@ id = "kAJcI_57_jagadguru_zrI~paramazivEndra_sarasvatI_2_ArAdhanA"
 id_display = "kāñcī 57 jagadguru śrī paramaśivendra sarasvatī 2 ārādhanā"
 slug = "kajci-57-jagadguru-zri-paramazivendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/05/10/kAJcI_57_jagadguru_zrI~paramazivEndra_sarasvatI_2_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Śrāvaṇa"]
+month = ["05. Śrāvaṇa"]
 tithi = ["Daśamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Śrāvaṇa (श्रावण) māsa, Śukla Pakṣa Daśamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 पम्पासरस्तटभुवः परमेश्वरस्य

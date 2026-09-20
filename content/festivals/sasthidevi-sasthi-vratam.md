@@ -4,7 +4,7 @@ id = "SaSThIdEvI-SaSThI-vratam"
 id_display = "ṣaṣṭhīdevī-ṣaṣṭhī-vratam"
 slug = "sasthidevi-sasthi-vratam"
 source_path = "devatA/kaumAra/description_only/SaSThIdEvI-SaSThI-vratam.toml"
-tags = ["MonthlyVratam", "ShashthiVratam"]
+tags = ["MonthlyVratam", "ShashthiVratam", "LessCommonFestivals"]
 devata = ["Kaumāra (Skanda/Murugan)"]
 category = ["Devatā Observances"]
 

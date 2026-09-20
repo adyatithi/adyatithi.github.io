@@ -5,12 +5,14 @@ id_display = "yama òr bhrātṛ-dvitīyā"
 slug = "yama-or-bhratr-dvitiya"
 source_path = "general/lunar_month/tithi/08/02/yama_or_bhrAtR-dvitIyA.toml"
 tags = ["CommonFestivals"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Dvitīyā"]
 category = ["General Observances"]
 kaala = "अपराह्णः"
 priority_rule = "paraviddha"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Dvitīyā, at अपराह्णः"
+"references" = ["Skanda Puranam", "Narada Puranam"]
+sources = ["Skanda Purāṇa", "Nārada Purāṇa"]
 
 shlokas = '''
 कार्तिके शुक्लपक्षस्य द्वितीयायां युधिष्ठिर।

@@ -5,7 +5,7 @@ id_display = "nimba-kusuma-bhakṣaṇam"
 slug = "nimba-kusuma-bhaksanam"
 source_path = "general/sidereal_solar_month/day/01/01/nimba-kusuma-bhakSaNam.toml"
 tags = ["LessCommonFestivals"]
-rashi = ["Meṣa"]
+rashi = ["01. Meṣa"]
 category = ["General Observances"]
 timing_summary = "Meṣa (मेष) māsa, sidereal"
 

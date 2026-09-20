@@ -4,7 +4,7 @@ id = "adhika-jyaiSTha-amAvAsyA"
 id_display = "adhika-jyaiṣṭha-amāvāsyā"
 slug = "adhika-jyaistha-amavasya"
 source_path = "time_focus/monthly/amAvAsyA/description_only/adhika-jyaiSTha-amAvAsyA.toml"
-tags = ["AmavasyaDays"]
+tags = ["AmavasyaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 description_en = '''

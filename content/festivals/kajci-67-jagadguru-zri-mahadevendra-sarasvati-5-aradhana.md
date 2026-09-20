@@ -6,13 +6,14 @@ slug = "kajci-67-jagadguru-zri-mahadevendra-sarasvati-5-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/12/01/kAJcI_67_jagadguru_zrI~mahAdEvEndra_sarasvatI_5_ArAdhanA.toml"
 tags = ["KanchiAradhanaDays", "CommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Phālguna"]
+month = ["12. Phālguna"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 लक्ष्मीनरसिंहयुगलपुत्रो लक्ष्मीकान्तो गुरुवरसेवाम्।

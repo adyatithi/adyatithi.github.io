@@ -7,6 +7,7 @@ source_path = "time_focus/Eclipses/description_only/★cUDAmaNi-sUrya-grahaNam.t
 tags = ["RareDays", "Combinations", "Eclipses"]
 category = ["Calendrical Specials"]
 "references" = ["Kielhorn, 1897"]
+sources = ["Kielhorn (1897)"]
 
 description_en = '''
 When a solar eclipse occurs on a Sunday, it is even more special: `cUDAmaNi`, i.e. crest jewel.

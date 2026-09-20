@@ -6,12 +6,14 @@ slug = "tulasi-vivahotsava-arambhah"
 source_path = "devatA/misc-flora/lunar_month/tithi/08/09/tulasI-vivAhOtsava-ArambhaH.toml"
 tags = ["LessCommonFestivals"]
 devata = ["Flora"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Navamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Navamī, at मध्याह्नः"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 अस्यामेव नवम्यां तु कुर्यात् कृष्णोत्सवं नरः॥३॥
@@ -25,7 +27,7 @@ shlokas = '''
 मध्याह्नव्यापिनी ग्राह्या नवमी पूर्ववेधिता॥७॥
 धात्र्यश्वत्थौ य एकत्र पालयित्वा समुद्वहेत्।
 न नश्यते तस्य पुण्यं कल्पकोटिशतैरपि॥८॥
----श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
+—श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
 '''
 
 description_en = '''

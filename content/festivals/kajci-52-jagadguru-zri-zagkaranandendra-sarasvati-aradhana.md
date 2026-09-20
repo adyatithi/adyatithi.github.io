@@ -4,15 +4,16 @@ id = "kAJcI_52_jagadguru_zrI~zaGkarAnandEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 52 jagadguru śrī śaṅkarānandendra sarasvatī ārādhanā"
 slug = "kajci-52-jagadguru-zri-zagkaranandendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/01/kAJcI_52_jagadguru_zrI~zaGkarAnandEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 आदिश्याष्ट यमीश्वरान् समवितुं कर्णाटदेशेऽद्वयं

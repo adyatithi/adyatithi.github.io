@@ -38,6 +38,72 @@ def to_iast(text: str) -> str:
     return sanscript.transliterate(text, sanscript.roman.HK_DRAVIDIAN, sanscript.IAST)
 
 
+def clean_text(text: str) -> str:
+    """Typographic cleanup for shlokas/descriptions: the source data uses a
+    bare '---' as an inline citation marker (e.g. 'अग्निपुराणे---' or
+    '---धर्मसिन्धौ'); render it as a proper em dash."""
+    if not text:
+        return text
+    return re.sub(r"-{3,}", "—", text)
+
+
+# Ordered: first matching pattern wins. Matched case-insensitively against
+# each raw references_primary/references_secondary string. This collapses
+# ~157 raw citation strings (many differing only by page number, or an
+# author-name vs. title alias for the same nibandha) down to ~38 real
+# sources, so "cited by N festivals" and a "popular sources" list are
+# actually meaningful.
+SOURCE_ALIASES = [
+    (r"smriti\s*muktaphal|smrti\s*mukthaphal|vaidyan[aā]tha[\s\-]*d[iī]k[sṣ]h?it[iī]y", "Smṛtimuktāphala (Vaidyanātha Dīkṣita)"),
+    (r"smriti\s*kaustub", "Smṛtikaustubha (Anantadeva)"),
+    (r"puru[sṣ]?[aā]?rtha\s*chintamani|purushartha\s*chintamani", "Puruṣārthacintāmaṇi"),
+    (r"nirnaya\s*sind[hu]|nirnay\s*sagar", "Nirṇayasindhu (Kamalākarabhaṭṭa)"),
+    (r"naradiya?\s*pur[aā]?nam?|narada\s*puran|narada\s*purnam", "Nārada Purāṇa"),
+    (r"krtyas[aā]rasamu?c{1,2}h?ay|krutyasa+ra\s*samucchayam|kṛtyas", "Kṛtyasārasamuccaya"),
+    (r"chaturvar[ag]a\s*chintamani|chaturvaga\s*chintamani|hemadri", "Caturvargacintāmaṇi (Hemādri)"),
+    (r"skanda\s*puran", "Skanda Purāṇa"),
+    (r"padma\s*puran", "Padma Purāṇa"),
+    (r"nilamata\s*puran", "Nīlamata Purāṇa"),
+    (r"bhavishyottara\s*puran", "Bhaviṣyottara Purāṇa"),
+    (r"bhavish?ya?t?\s*puran", "Bhaviṣya Purāṇa"),
+    (r"satyavrata\s*smriti", "Satyavrata Smṛti"),
+    (r"vrata\s*ch[uū]d[aā]ma[nṇ]i", "Vratacūḍāmaṇi"),
+    (r"kurma\s*puran", "Kūrma Purāṇa"),
+    (r"mahabharat", "Mahābhārata"),
+    (r"dharma\s*sindhu|dharmasindhu", "Dharmasindhu (Kāśīnātha Upādhyāya)"),
+    (r"^vrataraja$|vrata\s*raja\s*p\.", "Vratarāja"),
+    (r"vrata\s*nirnaya\s*kalpavalli", "Vratanirṇayakalpavallī"),
+    (r"^63\s*nayanmar\s*saints", "63 Nayanmār Saints (Swami Sivananda)"),
+    (r"kielhorn", "Kielhorn (1897)"),
+    (r"vaidikasri", "Vaidikaśrī (periodical)"),
+    (r"kamakoti\.org", "kamakoti.org"),
+    (r"hindupad\.com", "Hindupad.com"),
+    (r"aama.{0,4}jyotishi", "Āmār Jyotiṣī (regional pañcāṅga)"),
+    (r"garga\s*samhita", "Gargasaṃhitā"),
+    (r"lakshmi\s*narayana\s*samhita", "Lakṣmīnārāyaṇa Saṃhitā"),
+    (r"markandeya\s*samhita", "Mārkaṇḍeya Saṃhitā"),
+    (r"vrat\s*parichay", "Vrat Parichay"),
+    (r"vrata\s*mahima", "Vrata Mahima"),
+    (r"twitter\.com", "Twitter/X post"),
+    (r"festivalsofindia\.in", "FestivalsOfIndia.in"),
+    (r"jansatta\.com", "Jansatta.com"),
+    (r"mahaperiyavaa\.blog", "mahaperiyavaa.blog"),
+    (r"shishtaachaara|shishtachara", "Śiṣṭācāra (customary practice)"),
+    (r"punya\s*shloka\s*manjari", "Puṇyaślokamañjarī"),
+]
+
+
+def canonicalize_source(raw: str) -> str:
+    s = raw.strip().strip("`")
+    for pattern, canon in SOURCE_ALIASES:
+        if re.search(pattern, s, re.IGNORECASE):
+            return canon
+    m = re.match(r"https?://([^/]+)/?", s)
+    if m:
+        return m.group(1)
+    return s
+
+
 def clean_name(text: str) -> str:
     """IAST-transliterate (if applicable) and strip the '~' / '_' compound-
     word joiners used throughout the source data (in both Devanagari and HK
@@ -245,18 +311,25 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
     parts = rel.parts
     root = parts[0]
 
+    references_raw = doc.get("references_primary", []) + doc.get("references_secondary", [])
+
     record: dict = {
         "id": fid,
         "source_path": str(rel),
         "tags": doc.get("tags", []),
-        "shlokas": (doc.get("shlokas") or "").strip(),
-        "description_en": ((doc.get("description") or {}).get("en") or "").strip(),
+        "shlokas": clean_text((doc.get("shlokas") or "").strip()),
+        "description_en": clean_text(((doc.get("description") or {}).get("en") or "").strip()),
         "names": {
             k: [clean_name(x) for x in v]
             for k, v in (doc.get("names") or {}).items()
             if v
         },
-        "references": doc.get("references_secondary", []),
+        # raw citation strings, exactly as written (kept for display, with
+        # page numbers etc. intact) -- was references_secondary-only before,
+        # silently dropping every references_primary citation.
+        "references": references_raw,
+        # deduped canonical source names, for cross-linking/browsing
+        "sources": list(dict.fromkeys(canonicalize_source(x) for x in references_raw)),
     }
 
     timing = doc.get("timing") or {}
@@ -273,7 +346,12 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
 
     if month_type == "lunar_month" and isinstance(month_num, int) and month_num in MONTHS:
         iast, deva = MONTHS[month_num]
-        record["month"] = [iast]
+        # Zero-padded number prefix on the TAXONOMY VALUE only (not the
+        # prose timing_summary sentence below): this both labels the pill
+        # with its calendar position and makes plain alphabetical sort
+        # (what Hugo's taxonomy .Alphabetical uses) come out in the correct
+        # Caitra->Phalguna / Mesha->Mina order for free.
+        record["month"] = [f"{month_num:02d}. {iast}"]
         record["timing_summary_parts"].append(f"{iast} ({deva}) māsa")
     elif (
         month_type in ("sidereal_solar_month", "tropical", "solar_month")
@@ -281,7 +359,7 @@ def parse_file(path: Path, data_dir: Path) -> dict | None:
         and month_num in RASHIS
     ):
         iast, deva = RASHIS[month_num]
-        record["rashi"] = [iast]
+        record["rashi"] = [f"{month_num:02d}. {iast}"]
         qualifier = "tropical" if month_type == "tropical" else "sidereal"
         record["timing_summary_parts"].append(f"{iast} ({deva}) māsa, {qualifier}")
     elif (
@@ -428,6 +506,8 @@ def build(data_dir: Path, limit: int | None):
             )
         if rec["references"]:
             lines.append(f'"references" = {toml_list(rec["references"])}')
+        if rec["sources"]:
+            lines.append(f'sources = {toml_list(rec["sources"])}')
 
         # NOTE: [names] must be the LAST section emitted. TOML has no way to
         # "close" a table back to root scope, so any scalar keys written

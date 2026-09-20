@@ -4,15 +4,16 @@ id = "kAJcI_50_jagadguru_zrI~candracUDEndra_sarasvatI_2_ArAdhanA"
 id_display = "kāñcī 50 jagadguru śrī candracūḍendra sarasvatī 2 ārādhanā"
 slug = "kajci-50-jagadguru-zri-candracudendra-sarasvati-2-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/06/kAJcI_50_jagadguru_zrI~candracUDEndra_sarasvatI_2_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Ṣaṣṭhī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अरुणगिरितनूभूरार्यगङ्गेशनामा

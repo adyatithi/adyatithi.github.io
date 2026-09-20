@@ -7,13 +7,14 @@ source_path = "time_focus/yoga_intersections/dvipuSkara-yOgaH~0.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
 "references" = ["SmritiMuktaPhalam Part 5, SVR"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 त्रिपुष्कराख्योऽदितिवह्निविश्वद्वीशाजपादर्यमभेषु योगः।
 भद्राख्यतिथ्योऽर्ककुजार्कजाश्चेच्छुभाशुभेषु त्रिगुणः प्रदिष्टः॥२६॥
 द्विपुष्करो द्विगुणदचित्राचान्द्रवसुष्वपि। 
 त एव तिथिवाराश्चेद् गुरुर्वा कैश्चिदुच्यते॥२७॥
----मुहूर्तमाला
+—मुहूर्तमाला
 '''
 
 description_en = '''

@@ -8,6 +8,8 @@ tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
 kaala = "dinamaana"
 timing_summary = "at dinamaana"
+"references" = ["Purushartha Chintamani p.62"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
 भरण्यां तु चतुर्थ्यां तु शनैश्चरदिने यमम्।

@@ -5,12 +5,14 @@ id_display = "ko-jāgarti-vratam"
 slug = "ko-jagarti-vratam"
 source_path = "general/lunar_month/tithi/07/15/kO-jAgarti-vratam.toml"
 tags = ["SpecialVratam", "CommonFestivals"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "निशीथः"
 priority_rule = "paraviddha"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Pūrṇimā, at निशीथः"
+"references" = ["Purushartha Chintamani p.302"]
+sources = ["Puruṣārthacintāmaṇi"]
 
 shlokas = '''
 निशीथे वरदा लक्ष्मीः को जागर्तीति भाषिणी।

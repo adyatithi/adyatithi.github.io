@@ -4,13 +4,15 @@ id = "vasanta-zrI-paJcamI"
 id_display = "vasanta-śrī-pañcamī"
 slug = "vasanta-zri-pajcami"
 source_path = "devatA/vaiShNava/lunar_month/tithi/11/05/vasanta-zrI-paJcamI.toml"
-tags = ["SpecialPuja"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Pañcamī, at मध्याह्नः"
+"references" = ["Smriti Kaustubham 479, Purushartha Chintamani"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 माघमासे नृपश्रेष्ठ शुक्लायां पञ्चमीतिथौ।

@@ -4,13 +4,14 @@ id = "bhImasEna~jayantI"
 id_display = "bhīmasena jayantī"
 slug = "bhimasena-jayanti"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/07/24/bhImasEna~jayantI.toml"
-tags = ["PuranaEvents"]
+tags = ["PuranaEvents", "LessCommonFestivals"]
 tradition = ["Kings & Dynasties"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "Āśvina (आश्विन) māsa, Kṛṣṇa Pakṣa Navamī"
 "references" = ["Kielhorn (1897)"]
+sources = ["Kielhorn (1897)"]
 
 description_en = '''
 Bhava year

@@ -4,11 +4,13 @@ id = "acalA~saptamI-vratam"
 id_display = "acalā saptamī-vratam"
 slug = "acala-saptami-vratam"
 source_path = "general/lunar_month/tithi/11/07/acalA~saptamI-vratam.toml"
-tags = ["SpecialVratam"]
-month = ["Māgha"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["11. Māgha"]
 tithi = ["Saptamī"]
 category = ["General Observances"]
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Saptamī"
+"references" = ["Bhavishyottara Puranam"]
+sources = ["Bhaviṣyottara Purāṇa"]
 
 description_en = '''
 Upadesha of this vrata was done by Maharshi Vasishtha to Indumati, a veshya stri.

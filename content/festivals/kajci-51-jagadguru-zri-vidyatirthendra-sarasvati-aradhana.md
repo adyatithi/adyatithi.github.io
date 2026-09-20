@@ -4,15 +4,16 @@ id = "kAJcI_51_jagadguru_zrI~vidyAtIrthEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 51 jagadguru śrī vidyātīrthendra sarasvatī ārādhanā"
 slug = "kajci-51-jagadguru-zri-vidyatirthendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/11/16/kAJcI_51_jagadguru_zrI~vidyAtIrthEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Māgha (माघ) māsa, Kṛṣṇa Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 बिल्वारण्यजशार्ङ्गपाणितनयः सर्वज्ञविष्णुः श्रयन्

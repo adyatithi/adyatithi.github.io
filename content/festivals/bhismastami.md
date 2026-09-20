@@ -6,13 +6,14 @@ slug = "bhismastami"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/11/08/bhISmASTamI.toml"
 tags = ["SpecialPuja", "CommonFestivals", "CommonFestivals"]
 tradition = ["Kings & Dynasties"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Aṣṭamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Aṣṭamī, at मध्याह्नः"
 "references" = ["Smriti Kaustubha p.480", "Laugakshi Smriti", "Padma Puranam"]
+sources = ["Smṛtikaustubha (Anantadeva)", "Laugakshi Smriti", "Padma Purāṇa"]
 
 shlokas = '''
 माघमासि सिताष्टम्यां सलिले भीष्मतर्पणम्।
@@ -26,13 +27,13 @@ shlokas = '''
 ब्राह्मणाद्याश्च ये वर्णाः दद्युर्भीष्माय नो जलम्।
 संवत्सरकृतं तेषां पुण्यं नश्यति सत्तम॥
 
-उदकदानमन्त्रः---
+उदकदानमन्त्रः—
 वैयाघ्रपादगोत्राय साङ्कृत्यप्रवराय च।
 गङ्गापुत्राय भीष्माय प्रदास्येऽहं तिलोदकम्।
 अपुत्राय ददाम्येतत् सलिलं भीष्मवर्मणे॥
 भीष्मं तर्पयामि।
 
-अर्घ्यप्रदानम्---
+अर्घ्यप्रदानम्—
 सत्यव्रताय शुचये गाङ्गेयाय महात्मने।
 अर्घ्यं ददामि भीष्माय सोमवंशोद्भवाय च॥
 भीष्माय नमः इदमर्घ्यम्। भीष्माय नमः इदमर्घ्यम्। भीष्माय नमः इदमर्घ्यम्।
@@ -41,7 +42,7 @@ shlokas = '''
 अर्घ्यं ददामि भीष्माय आजन्मब्रह्मचारिणे॥
 भीष्माय नमः इदमर्घ्यम्। भीष्माय नमः इदमर्घ्यम्। भीष्माय नमः इदमर्घ्यम्।
 
-प्रार्थना---
+प्रार्थना—
 भीष्मः शान्तनवो वीरः सत्यवादी जितेन्द्रियः।
 आभिरद्भिरवाप्नोतु पुत्रपौत्रोचिताः क्रियाः॥
 '''

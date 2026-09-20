@@ -4,15 +4,16 @@ id = "kAJcI_59_jagadguru_zrI~bhagavannAma_bOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 59 jagadguru śrī bhagavannāma bodhendra sarasvatī ārādhanā"
 slug = "kajci-59-jagadguru-zri-bhagavannama-bodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/06/15/kAJcI_59_jagadguru_zrI~bhagavannAma_bOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Pūrṇimā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Pūrṇimā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीविश्वाधिकदेशिकेन्द्रवचसा प्राप्तो दिशं दक्षिणां

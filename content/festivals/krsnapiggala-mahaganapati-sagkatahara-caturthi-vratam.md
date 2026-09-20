@@ -4,7 +4,7 @@ id = "kRSNapiGgala-mahAgaNapati-saGkaTahara-caturthI-vratam"
 id_display = "kṛṣṇapiṅgala-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "krsnapiggala-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/kRSNapiGgala-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
-tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
 

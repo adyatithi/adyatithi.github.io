@@ -4,8 +4,10 @@ id = "anadhyAyaH~zakradhvajotthApanam"
 id_display = "anadhyāyaḥ śakradhvajòtthāpanam"
 slug = "anadhyayah-zakradhvajotthapanam"
 source_path = "time_focus/adhyayana/relative_event/zakradhvajotthApanam/offset__00/anadhyAyaH~zakradhvajotthApanam.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  150"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 याज्ञवल्क्यः—

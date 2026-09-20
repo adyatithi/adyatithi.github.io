@@ -4,15 +4,16 @@ id = "kAJcI_61_jagadguru_zrI~mahAdEvEndra_sarasvatI_4_ArAdhanA"
 id_display = "kāñcī 61 jagadguru śrī mahādevendra sarasvatī 4 ārādhanā"
 slug = "kajci-61-jagadguru-zri-mahadevendra-sarasvati-4-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/09/kAJcI_61_jagadguru_zrI~mahAdEvEndra_sarasvatI_4_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 अद्वैतात्मप्रकाशेन्द्राद् बाल्य आश्रितसंयमः।

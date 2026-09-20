@@ -4,14 +4,15 @@ id = "rambhA~tRtIyA"
 id_display = "rambhā tṛtīyā"
 slug = "rambha-trtiya"
 source_path = "general/lunar_month/tithi/03/03/rambhA~tRtIyA.toml"
-tags = ["SpecialVratam"]
-month = ["Jyeṣṭha"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Tṛtīyā"]
 category = ["General Observances"]
 kaala = "प्रातः"
 priority_rule = "puurvaviddha"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Tṛtīyā, at प्रातः"
 "references" = ["Smriti Kaustubha p.118"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 पुष्पमण्डपिका कार्या रम्भास्तम्भोपशोभिता।

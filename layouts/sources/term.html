@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ $pages := .Pages }}
+{{ $meta := false }}
+{{ $titleLower := .Title | lower }}
+{{ range hugo.Data.sources }}
+  {{ if eq (.name | lower) $titleLower }}{{ $meta = . }}{{ end }}
+{{ end }}
+
+<section class="page-header">
+  <div class="wrap">
+    <p class="eyebrow">Source</p>
+    <h1>{{ .Title }}</h1>
+    {{ if $meta }}
+      {{ with $meta.category }}<span class="pill pill--category">{{ . }}</span>{{ end }}
+      {{ with $meta.description }}<p class="source-page__desc">{{ . }}</p>{{ end }}
+      {{ if $meta.archive_url }}
+        <p><a href="{{ $meta.archive_url }}" target="_blank" rel="noopener">Archived copy →</a></p>
+      {{ end }}
+    {{ end }}
+    <p class="muted">{{ len $pages }} festival{{ if ne (len $pages) 1 }}s{{ end }} cite this source.</p>
+  </div>
+</section>
+<section class="wrap">
+  {{ partial "pill-filters.html" . }}
+</section>
+<section class="wrap">
+  <div class="card-grid" id="card-grid">
+    {{ range $pages.ByTitle }}
+      {{ partial "card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

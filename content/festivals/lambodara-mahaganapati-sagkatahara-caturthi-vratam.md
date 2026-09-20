@@ -4,7 +4,7 @@ id = "lambOdara-mahAgaNapati-saGkaTahara-caturthI-vratam"
 id_display = "lambodara-mahāgaṇapati-saṅkaṭahara-caturthī-vratam"
 slug = "lambodara-mahaganapati-sagkatahara-caturthi-vratam"
 source_path = "devatA/gaNapati/description_only/lambOdara-mahAgaNapati-saGkaTahara-caturthI-vratam.toml"
-tags = ["MonthlyVratam", "SankataharaChaturthiVratam"]
+tags = ["MonthlyVratam", "SankataharaChaturthiVratam", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
 category = ["Devatā Observances"]
 

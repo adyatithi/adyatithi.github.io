@@ -6,7 +6,7 @@ slug = "dauhitra-pratipat"
 source_path = "devatA/pitR/lunar_month/tithi/07/01/dauhitra-pratipat.toml"
 tags = ["CommonFestivals"]
 devata = ["Pitṛ (Ancestral)"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Pratipat"]
 category = ["Devatā Observances"]
 kaala = "साङ्गवः"
@@ -14,7 +14,7 @@ timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Pratipat, 
 
 shlokas = '''
 अथाश्विनशुक्लप्रतिपदि दौहित्रेण मातामहश्राद्धं कार्यम्॥ 
-तदुक्तं हेमाद्रौ---
+तदुक्तं हेमाद्रौ—
 जातमात्रोऽपि दौहित्रो जीवत्यपि च मातुले।
 कुर्यान्मातामहश्राद्धं प्रतिपद्याश्विने सिते॥
 इयं च सङ्गवव्यापिनी ग्राह्येति निर्णयदीपे उक्तम्॥

@@ -5,10 +5,12 @@ id_display = "kārttika-māsa-antimatrayatithi-vratam 2"
 slug = "karttika-masa-antimatrayatithi-vratam-2"
 source_path = "general/lunar_month/tithi/08/14/kArttika-mAsa-antimatrayatithi-vratam~2.toml"
 tags = ["LessCommonFestivals"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Caturdaśī"]
 category = ["General Observances"]
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Caturdaśī"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 यास्तिस्रस्तिथयः पुण्या अन्तिके शुक्लपक्षके।
@@ -55,7 +57,7 @@ shlokas = '''
 यदि प्रतिदिनं श्रोतुमशक्तः स्यात्तु मानवः॥२१॥
 पुण्यमासेऽथवा पुण्यतिथौ संशृणुयादपि।
 तेन पुण्यप्रभावेन पापान्मुक्तो भवेन्नरः॥२२॥
----स्कान्द महापुराणे वैष्णवखण्डे षड्त्रिंशोऽध्यायः
+—स्कान्द महापुराणे वैष्णवखण्डे षड्त्रिंशोऽध्यायः
 '''
 
 description_en = '''

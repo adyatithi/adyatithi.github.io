@@ -4,15 +4,16 @@ id = "kAJcI_7_jagadguru_zrI~AnandajJAnEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 7 jagadguru śrī ānandajñānendra sarasvatī ārādhanā"
 slug = "kajci-7-jagadguru-zri-anandajjanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/02/24/kAJcI_7_jagadguru_zrI~AnandajJAnEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Vaiśākha (वैशाख) māsa, Kṛṣṇa Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 आनन्दाराद्धगौरीनिरवधिकरुणालब्धसाहित्यविद्या-

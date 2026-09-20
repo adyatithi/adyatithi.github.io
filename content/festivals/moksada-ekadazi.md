@@ -4,7 +4,7 @@ id = "mOkSadA-EkAdazI"
 id_display = "mokṣadā-ekādaśī"
 slug = "moksada-ekadazi"
 source_path = "time_focus/monthly/ekAdashI/description_only/mOkSadA-EkAdazI.toml"
-tags = ["MonthlyVratam", "EkadashiVratam"]
+tags = ["MonthlyVratam", "EkadashiVratam", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
@@ -18,11 +18,11 @@ shlokas = '''
 व्रतस्यास्य च वै विघ्नो न भवेत्त्वत्प्रसादतः॥
 --पद्मपुराणे
 
-श्रीब्रह्मवैवर्ते महापुराणे ब्रह्मखण्डे सौतिशौनकसंवादे नारदं प्रति शिवोपदेशे भक्ष्याभक्ष्यादिविवरणं नाम सप्तविंशतितमोऽध्यायः---
+श्रीब्रह्मवैवर्ते महापुराणे ब्रह्मखण्डे सौतिशौनकसंवादे नारदं प्रति शिवोपदेशे भक्ष्याभक्ष्यादिविवरणं नाम सप्तविंशतितमोऽध्यायः—
 एकादश्यामनाहारं गृही विप्रश्च भारते।
 स च तिष्ठति वैकुण्ठे यावद्वै ब्रह्मणो वयः॥१४॥
 
-एकादश्युपवासफलं प्रोक्तं पाद्ममहापुराणे---
+एकादश्युपवासफलं प्रोक्तं पाद्ममहापुराणे—
 शङ्खोद्धारे नरः स्नात्वा दृष्ट्वा देवं गदाधरम्॥३५॥
 एकादश्युपवासस्य कलां नार्हति षोडशीम्।
 सङ्क्रान्तिषु चतुर्लक्षं यो ददाति नृपोत्तम॥३६॥
@@ -43,7 +43,7 @@ shlokas = '''
 एकादशीव्रतस्यापि पुण्यसङ्ख्या न विद्यते।
 एतत्पुण्यं भवेत् तस्य यत्सुरैरपि दुर्लभम्॥४४॥
 एकादशीसमं नास्ति व्रतं पापप्रणाशनम्॥११८॥
----श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराणे पञ्चपञ्चाशत्साहस्र्यां संहितायामुत्तरखण्डे उमामहेश्वरसंवादे एकादश्युत्पत्ति-मुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 मार्गशीर्षे सिते पक्षे मोक्षा नामेति नामतः।
 सर्वैश्चेतद् व्रतं कार्यं पित्रे पुण्यं प्रदीयताम्॥३९॥
 तेन पुण्यप्रभावेन मोक्षस्तेषां भविष्यति।
@@ -62,11 +62,11 @@ shlokas = '''
 पुण्यसङ्ख्यां न जानामि राजन् मे प्रियकृद् व्रतम्॥४६॥
 चिन्तामणिसमा ह्येषा नृणां मोक्षप्रदायिनी।
 पठनाच्छ्रवणादस्या वाजपेयफलं लभेत्॥४७॥
----इति श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे मार्गशीर्ष-शुक्ल-मोक्षदा एकादशी नामैकचत्वारिंशोऽध्यायः
+—इति श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे मार्गशीर्ष-शुक्ल-मोक्षदा एकादशी नामैकचत्वारिंशोऽध्यायः
 '''
 
 description_en = '''
-During the bright half of Mārgaśīrṣa, the Mokṣadā Ekādaśī vratam is observed, and it is recommended that its religious merits be dedicated to deceased ancestors for their salvation, as stated by Brahmā. King Vaikhānasa, after hearing a sage's advice, returned home and observed this vow during Mārgaśīrṣa. Just as he dedicated its merits to his father, a shower of flowers fell from the sky, leading to a miracle --- celestial event where flowers showered from the sky, and Vaikhānasa's father and ancestors attained salvation! From the heavens, the father blessed his son and ascended to the divine realm. Observing the Mokṣadā Ekādaśī vratam eradicates sins and grants salvation after death. This Ekādaśī is deemed unparalleled in its ability to offer salvation. The extent of its religious merit is immeasurable, likened to a wish-fulfilling gem. Simply reading or hearing of this vratam bestows religious merit comparable to that of a Vājapeya sacrifice.
+During the bright half of Mārgaśīrṣa, the Mokṣadā Ekādaśī vratam is observed, and it is recommended that its religious merits be dedicated to deceased ancestors for their salvation, as stated by Brahmā. King Vaikhānasa, after hearing a sage's advice, returned home and observed this vow during Mārgaśīrṣa. Just as he dedicated its merits to his father, a shower of flowers fell from the sky, leading to a miracle — celestial event where flowers showered from the sky, and Vaikhānasa's father and ancestors attained salvation! From the heavens, the father blessed his son and ascended to the divine realm. Observing the Mokṣadā Ekādaśī vratam eradicates sins and grants salvation after death. This Ekādaśī is deemed unparalleled in its ability to offer salvation. The extent of its religious merit is immeasurable, likened to a wish-fulfilling gem. Simply reading or hearing of this vratam bestows religious merit comparable to that of a Vājapeya sacrifice.
 '''
 
 [names]

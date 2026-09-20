@@ -4,13 +4,15 @@ id = "parazurAma~jayantI~2"
 id_display = "paraśurāma jayantī 2"
 slug = "parazurama-jayanti-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/09/17/parazurAma~jayantI~2.toml"
-tags = ["Dashavataram"]
+tags = ["Dashavataram", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Mārgaśira"]
+month = ["09. Mārgaśira"]
 tithi = ["Dvitīyā"]
 category = ["Devatā Observances"]
 priority_rule = "puurvaviddha"
 timing_summary = "Mārgaśira (मार्गशिर) māsa, Kṛṣṇa Pakṣa Dvitīyā"
+"references" = ["Vaidyanatha Dikshitiyam (SVR) p.62"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 मार्गशीर्षे द्वितीयायां कृष्णपक्षे तु भार्गवः। 

@@ -4,15 +4,16 @@ id = "kAJcI_6_jagadguru_zrI~zuddhAnandEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 6 jagadguru śrī śuddhānandendra sarasvatī ārādhanā"
 slug = "kajci-6-jagadguru-zri-zuddhanandendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/06/kAJcI_6_jagadguru_zrI~zuddhAnandEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Ṣaṣṭhī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 वेदारण्यजवैद्यभर्वुतनयः श्रीविश्वनाथाभिधो

@@ -4,8 +4,8 @@ id = "tai~veLLikkizhamai"
 id_display = "tai vèḻḻikkil̤amai"
 slug = "tai-vellikkizhamai"
 source_path = "time_focus/vaara_conditioned/tai~veLLikkizhamai.toml"
-tags = ["MonthWeekdayFestivals"]
-rashi = ["Makara"]
+tags = ["MonthWeekdayFestivals", "LessCommonFestivals"]
+rashi = ["10. Makara"]
 category = ["Calendrical Specials"]
 timing_summary = "Makara (मकर) māsa, sidereal"
 

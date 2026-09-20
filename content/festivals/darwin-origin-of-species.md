@@ -4,6 +4,7 @@ id = "darwin_origin-of-species"
 id_display = "darwin òrigin-òf-spèciès"
 slug = "darwin-origin-of-species"
 source_path = "mahApuruSha/sci-tech/gregorian/day/11/24/darwin_origin-of-species.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["Science & Technology"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "November 24 (Gregorian calendar)"

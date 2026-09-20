@@ -4,15 +4,16 @@ id = "kAJcI_43_jagadguru_zrI~AnandaghanEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 43 jagadguru śrī ānandaghanendra sarasvatī ārādhanā"
 slug = "kajci-43-jagadguru-zri-anandaghanendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/09/kAJcI_43_jagadguru_zrI~AnandaghanEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीतुङ्गभद्रातटभूः सुदेवभट्टात्मजः शङ्करपण्डिताख्यः।

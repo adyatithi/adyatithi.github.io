@@ -4,6 +4,7 @@ id = "gaNita-rAmAnuja-janma"
 id_display = "gaṇita-rāmānuja-janma"
 slug = "ganita-ramanuja-janma"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/12/22/gaNita-rAmAnuja-janma.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "December 22 (Gregorian calendar)"

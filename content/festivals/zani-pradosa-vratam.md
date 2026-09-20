@@ -4,7 +4,7 @@ id = "zani-pradOSa-vratam"
 id_display = "śani-pradoṣa-vratam"
 slug = "zani-pradosa-vratam"
 source_path = "time_focus/monthly/pradoSha/description_only/zani-pradOSa-vratam.toml"
-tags = ["MonthlyVratam", "PradoshaVratam"]
+tags = ["MonthlyVratam", "PradoshaVratam", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
@@ -27,7 +27,7 @@ shlokas = '''
 कर्मद्वयं कलितमेतदनन्यसाध्यम्॥
 गङ्गा धृता त्वयेशान गङ्गादर्पोऽपि नाशितः।
 भगीरथानुग्रहार्थं लोकासम्भेदहेतवे॥
-पुरुषार्थचिन्तामणौ---
+पुरुषार्थचिन्तामणौ—
 तस्मादुभयत्र प्रदोषव्याप्तावव्याप्तौ साम्येनैकदेशव्याप्तौ पूर्वप्रदोषेऽधिकव्याप्तावुत्तरप्रदोषे न्यूनव्याप्तावप्युत्तरदिन एव
 प्रदोषव्रतानुष्ठानमिति सिद्धमिति विभावनीयमिति दिक्।
 '''

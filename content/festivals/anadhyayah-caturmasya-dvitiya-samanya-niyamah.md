@@ -4,8 +4,10 @@ id = "anadhyAyaH-cAturmAsya-dvitIyA-sAmAnya-niyamAH"
 id_display = "anadhyāyaḥ-cāturmāsya-dvitīyā-sāmānya-niyamāḥ"
 slug = "anadhyayah-caturmasya-dvitiya-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-cAturmAsya-dvitIyA-sAmAnya-niyamAH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  163"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

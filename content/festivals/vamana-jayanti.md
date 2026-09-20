@@ -6,19 +6,21 @@ slug = "vamana-jayanti"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/12/vAmana~jayantI.toml"
 tags = ["Dashavataram", "CommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Dvādaśī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Dvādaśī, at मध्याह्नः"
+"references" = ["Vaidyanatha Dikshitiyam (SVR) p.62"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 मासि भाद्रपदे शुक्लद्वादश्यां वामनो विभुः।
 अदित्यां काश्यपाज्जज्ञे नियन्तुं बलिमोजसा॥
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।
 उपवासादि यत् किञ्चित्तदानन्त्याय कल्पते॥
----वैद्यनाथ-दीक्षितीयम्
+—वैद्यनाथ-दीक्षितीयम्
 श्रीब्रह्मोवाच
 जयोरुगाय भगवन्नुरुक्रम नमोऽस्तु ते।
 नमो ब्रह्मण्यदेवाय त्रिगुणाय नमो नमः॥२५॥
@@ -32,7 +34,7 @@ shlokas = '''
 प्रजापतीनामसि सम्भविष्णुः
 दिवौकसां देव दिवश्च्युतानां
 परायणं नौरिव मज्जतोऽप्सु॥२८॥
----श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां अष्टमस्कन्धे सप्तदशोऽध्यायः॥
+—श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां अष्टमस्कन्धे सप्तदशोऽध्यायः॥
 दिशः प्रसेदुः सलिलाशयास्तदा
 प्रजाः प्रहृष्टा ऋतवो गुणान्विताः।
 द्यौरन्तरीक्षं क्षितिरग्निजिह्वा
@@ -41,11 +43,11 @@ shlokas = '''
 सर्वे नक्षत्रताराद्याश्चक्रुस्तज्जन्म दक्षिणम्॥५॥
 द्वादश्यां सवितातिष्ठन्मध्यन्दिनगतो नृप।
 विजयानाम सा प्रोक्ता यस्यां जन्म विदुर्हरेः॥६॥
----श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां अष्टमस्कन्धे अष्टादशोऽध्यायः॥
+—श्रीमद्भागवते महापुराणे पारमहंस्यां संहितायां अष्टमस्कन्धे अष्टादशोऽध्यायः॥
 '''
 
 description_en = '''
-Vamana Jayanti---Avatara Dinam of Shri Mahavishnu, born as Vamana Murti to Aditi and Kashyapa Maharshi.
+Vamana Jayanti—Avatara Dinam of Shri Mahavishnu, born as Vamana Murti to Aditi and Kashyapa Maharshi.
 '''
 
 [names]

@@ -4,7 +4,7 @@ id = "anadhyAyaH~pauSa-aSTakA~2"
 id_display = "anadhyāyaḥ pauṣa-aṣṭakā 2"
 slug = "anadhyayah-pausa-astaka-2"
 source_path = "time_focus/adhyayana/relative_event/pauSa-aSTakA-zrAddham/offset__00/anadhyAyaH~pauSa-aSTakA~2.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
 
 [names]

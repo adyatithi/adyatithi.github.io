@@ -4,15 +4,16 @@ id = "kAJcI_45_jagadguru_zrI~paramazivEndra_sarasvatI_1_ArAdhanA"
 id_display = "kāñcī 45 jagadguru śrī paramaśivendra sarasvatī 1 ārādhanā"
 slug = "kajci-45-jagadguru-zri-paramazivendra-sarasvati-1-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/07/07/kAJcI_45_jagadguru_zrI~paramazivEndra_sarasvatI_1_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āśvina"]
+month = ["07. Āśvina"]
 tithi = ["Saptamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āśvina (आश्विन) māsa, Śukla Pakṣa Saptamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीकण्ठः शिवसाम्बपण्डितसुतः सैकां समा विंशतिं

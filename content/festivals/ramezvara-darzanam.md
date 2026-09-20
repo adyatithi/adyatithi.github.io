@@ -6,10 +6,12 @@ slug = "ramezvara-darzanam"
 source_path = "general/relative_event/dazaharA_or_gaGgAvataraNam_or_dazapApaharA~dazamI/offset__00/rAmEzvara-darzanam.toml"
 tags = ["CommonFestivals"]
 category = ["General Observances"]
+"references" = ["Krtyasarasamucchaya p. 8"]
+sources = ["Kṛtyasārasamuccaya"]
 
 shlokas = '''
-कृत्यसारसमुच्चये---
-अस्यामेव (ज्येष्ठमास-शुक्लदशम्यां दशहरा-दिने) सेतुबन्धे रामेश्वरदर्शनम्। अस्यां स्थापितत्वात्। तथा हि---
+कृत्यसारसमुच्चये—
+अस्यामेव (ज्येष्ठमास-शुक्लदशम्यां दशहरा-दिने) सेतुबन्धे रामेश्वरदर्शनम्। अस्यां स्थापितत्वात्। तथा हि—
 दशयोगे सेतुमध्ये लिङ्गरूपधरं हरम्।
 रामो वै स्थापयामास शिवलिङ्गमनुत्तमम्॥
 '''

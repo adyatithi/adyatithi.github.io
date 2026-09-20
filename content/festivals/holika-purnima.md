@@ -5,12 +5,14 @@ id_display = "holikā-pūrṇimā"
 slug = "holika-purnima"
 source_path = "general/lunar_month/tithi/12/15/hOlikA-pUrNimA.toml"
 tags = ["SpecialPuja", "CommonFestivals"]
-month = ["Phālguna"]
+month = ["12. Phālguna"]
 tithi = ["Pūrṇimā"]
 category = ["General Observances"]
 kaala = "प्रदोषः"
 priority_rule = "paraviddha"
 timing_summary = "Phālguna (फाल्गुन) māsa, Śukla Pakṣa Pūrṇimā, at प्रदोषः"
+"references" = ["Naradiya Puranam, Adhyaya 124"]
+sources = ["Nārada Purāṇa"]
 
 shlokas = '''
 फाल्गुने पूर्णिमायां तु होलिकापूजनं मतम्॥१२४-७६॥

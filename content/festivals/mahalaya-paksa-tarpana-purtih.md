@@ -7,9 +7,11 @@ source_path = "devatA/pitR/relative_event/mahAlaya-pakSa-samApanam/offset__00/ma
 tags = ["SpecialPeriodEnd", "CommonFestivals"]
 devata = ["Pitṛ (Ancestral)"]
 category = ["Devatā Observances"]
+"references" = ["Smriti Muktaphalam Shraddha Kanda Uttarabhaga"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
-स्मृत्यन्तरे---
+स्मृत्यन्तरे—
 अमा पातश्च सङ्क्रान्तिस्तथा वैधृतिरेव च।
 अष्टकाश्चैव मन्वादिर्युगादिश्च महालयः॥
 चन्द्रसूर्योपरागश्च गजच्छाया तथैव च।

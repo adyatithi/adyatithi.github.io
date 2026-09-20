@@ -4,7 +4,8 @@ id = "uttarAyaNArambhaH"
 id_display = "uttarāyaṇārambhaḥ"
 slug = "uttarayanarambhah"
 source_path = "time_focus/Rtu/tropical-ayanAdi/tropical/day/11/01/uttarAyaNArambhaH.toml"
-rashi = ["Kumbha"]
+tags = ["Ayana", "LessCommonFestivals"]
+rashi = ["11. Kumbha"]
 category = ["Calendrical Specials"]
 timing_summary = "Kumbha (कुम्भ) māsa, tropical"
 

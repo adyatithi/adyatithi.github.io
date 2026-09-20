@@ -4,15 +4,16 @@ id = "kAJcI_54_jagadguru_zrI~vyAsAcala_mahAdEvEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 54 jagadguru śrī vyāsācala mahādevendra sarasvatī ārādhanā"
 slug = "kajci-54-jagadguru-zri-vyasacala-mahadevendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/16/kAJcI_54_jagadguru_zrI~vyAsAcala_mahAdEvEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Kṛṣṇa Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 काञ्चीकामेश्वरार्यात् समजनि कमलाम्बोदरात् कुप्पणाख्यो

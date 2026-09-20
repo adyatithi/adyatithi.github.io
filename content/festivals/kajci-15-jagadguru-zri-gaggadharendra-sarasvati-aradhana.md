@@ -4,15 +4,16 @@ id = "kAJcI_15_jagadguru_zrI~gaGgAdharEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 15 jagadguru śrī gaṅgādharendra sarasvatī ārādhanā"
 slug = "kajci-15-jagadguru-zri-gaggadharendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/01/01/kAJcI_15_jagadguru_zrI~gaGgAdharEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pratipat"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pratipat, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 सूनुर्भद्रगिरेः सुभद्र इति यः काञ्च्य(कप्य?)न्वयो द्वादशे

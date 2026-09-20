@@ -6,14 +6,16 @@ slug = "bhisma-pajcaka-vrata-arambhah"
 source_path = "mahApuruSha/xatra/lunar_month/tithi/08/11/bhISma-paJcaka-vrata-ArambhaH.toml"
 tags = ["LessCommonFestivals"]
 tradition = ["Kings & Dynasties"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Ekādaśī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Ekādaśī, at मध्याह्नः"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
-वालखिल्या ऊचुः---
+वालखिल्या ऊचुः—
 कार्तिकस्याऽमले पक्षे स्नात्वा सम्यग्यतव्रतः।
 एकादश्यां तु गृह्णीयाद् व्रतं पञ्चदिनात्मकम्॥१॥
 शरपञ्जरसुप्तेन भीष्मेण तु महात्मना।

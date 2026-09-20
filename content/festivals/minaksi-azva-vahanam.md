@@ -4,7 +4,7 @@ id = "mInAkSI_azva_vAhanam"
 id_display = "mīnākṣī aśva vāhanam"
 slug = "minaksi-azva-vahanam"
 source_path = "temples/Tamil/relative_event/mIn2AkSI_tirukkalyANam/offset__-5/mInAkSI_azva_vAhanam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

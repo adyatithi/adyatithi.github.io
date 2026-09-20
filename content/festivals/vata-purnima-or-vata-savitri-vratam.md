@@ -4,12 +4,14 @@ id = "vaTa-pUrNimA_or_vaTa-sAvitrI-vratam"
 id_display = "vaṭa-pūrṇimā òr vaṭa-sāvitrī-vratam"
 slug = "vata-purnima-or-vata-savitri-vratam"
 source_path = "devatA/misc-flora/lunar_month/tithi/03/15/vaTa-pUrNimA_or_vaTa-sAvitrI-vratam.toml"
-tags = ["SpecialVratam"]
+tags = ["SpecialVratam", "LessCommonFestivals"]
 devata = ["Flora"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Pūrṇimā"]
 category = ["Devatā Observances"]
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Pūrṇimā"
+"references" = ["Bhavishyottara Puranam"]
+sources = ["Bhaviṣyottara Purāṇa"]
 
 shlokas = '''
 नारी वा विधवा वाऽपि पुत्रीपुत्रविवर्जिता।

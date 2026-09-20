@@ -4,8 +4,10 @@ id = "anadhyAyaH~yugAdi~4"
 id_display = "anadhyāyaḥ yugādi 4"
 slug = "anadhyayah-yugadi-4"
 source_path = "time_focus/adhyayana/relative_event/kaliyugAdiH/offset__00/anadhyAyaH~yugAdi~4.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
+"references" = ["Smriti Muktaphalam SVR p.  155"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 नारदः—

@@ -4,12 +4,14 @@ id = "anadhyAyaH~14"
 id_display = "anadhyāyaḥ 14"
 slug = "anadhyayah-14"
 source_path = "time_focus/adhyayana/lunar_month/tithi/00/14/anadhyAyaH~14.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 tithi = ["Caturdaśī"]
 category = ["Calendrical Specials"]
 kaala = "साङ्गवः"
 priority_rule = "paraviddha"
 timing_summary = "Śukla Pakṣa Caturdaśī, at साङ्गवः"
+"references" = ["Smriti Muktaphalam SVR p.  148"]
+sources = ["Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 हारीतः—

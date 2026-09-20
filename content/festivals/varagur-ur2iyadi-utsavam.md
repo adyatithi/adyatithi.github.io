@@ -4,7 +4,7 @@ id = "varagUr_ur2iyaDi_utsavam"
 id_display = "varagūr uṟiyaḍi utsavam"
 slug = "varagur-ur2iyadi-utsavam"
 source_path = "temples/Tamil/relative_event/zrIkRSNajanmASTamI/offset__01/varagUr_ur2iyaDi_utsavam.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

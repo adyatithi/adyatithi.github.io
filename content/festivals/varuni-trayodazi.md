@@ -6,6 +6,8 @@ slug = "varuni-trayodazi"
 source_path = "time_focus/special-tithis/description_only/vAruNI~trayOdazI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Nirnaya Sindhu p.69"]
+sources = ["Nirṇayasindhu (Kamalākarabhaṭṭa)"]
 
 shlokas = '''
 वारुणेन समायुक्ता मधौ कृष्णा त्रयोदशी।

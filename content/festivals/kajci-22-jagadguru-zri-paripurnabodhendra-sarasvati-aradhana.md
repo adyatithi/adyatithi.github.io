@@ -4,15 +4,16 @@ id = "kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 22 jagadguru śrī paripūrṇabodhendra sarasvatī ārādhanā"
 slug = "kajci-22-jagadguru-zri-paripurnabodhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/08/09/kAJcI_22_jagadguru_zrI~paripUrNabOdhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Navamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Navamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 पुत्रो रमेशमखिनो मधुरोऽगदङ्कृद्

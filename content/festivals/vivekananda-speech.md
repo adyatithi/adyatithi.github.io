@@ -4,6 +4,7 @@ id = "vivekAnanda-speech"
 id_display = "vivèkānanda-spèèch"
 slug = "vivekananda-speech"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/09/11/vivekAnanda-speech.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "September 11 (Gregorian calendar)"

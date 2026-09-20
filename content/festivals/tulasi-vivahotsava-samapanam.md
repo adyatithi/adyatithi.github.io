@@ -6,12 +6,14 @@ slug = "tulasi-vivahotsava-samapanam"
 source_path = "devatA/misc-flora/lunar_month/tithi/08/12/tulasI-vivAhOtsava-samApanam.toml"
 tags = ["CommonFestivals"]
 devata = ["Flora"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Dvādaśī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Dvādaśī, at मध्याह्नः"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 कनकस्य सुता पूर्वमेकादश्यां किशोरिका।
@@ -81,7 +83,7 @@ shlokas = '''
 प्रतिवर्षं तु यः कुर्यात् तुलसीकरपीडनम्।
 भक्तिमान् धनधान्यैः स युक्तो भवति निश्चितम्।
 इहलोके परत्रापि विपुलं च यशो लभेत्॥४०॥
----श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
+—श्रीस्कान्दे महापुराणे द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये कूष्माण्डनवमीतुलसीविवाहविधिवर्णनं नामैकत्रिंशोऽध्यायः
 '''
 
 [names]

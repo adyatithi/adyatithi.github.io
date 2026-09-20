@@ -4,14 +4,15 @@ id = "anadhyAyaH-aSTakA-sAmAnya-niyamAH"
 id_display = "anadhyāyaḥ-aṣṭakā-sāmānya-niyamāḥ"
 slug = "anadhyayah-astaka-samanya-niyamah"
 source_path = "time_focus/adhyayana/description_only/anadhyAyaH-aSTakA-sAmAnya-niyamAH.toml"
-tags = ["Anadhyayana Days"]
+tags = ["AnadhyayanaDays", "LessCommonFestivals"]
 category = ["Calendrical Specials"]
-"references" = ["Smriti Muktaphalam SVR p.  148"]
+"references" = ["Kurma Puranam Adhyaya 14", "Smriti Muktaphalam SVR p.  148"]
+sources = ["Kūrma Purāṇa", "Smṛtimuktāphala (Vaidyanātha Dīkṣita)"]
 
 shlokas = '''
 मार्गशीर्षे तथा पौषे माघमासे तथैव च॥७६॥
 तिस्रोऽष्टकाः समाख्याताः कृष्णपक्षेषु सूरिभिः।
----श्रीकूर्मपुराणे षट्‌साहस्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
+—श्रीकूर्मपुराणे षट्‌साहस्र्यां संहितायामुपरिविभागे चतुर्दशोऽध्याये
 '''
 
 description_en = '''

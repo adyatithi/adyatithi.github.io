@@ -6,13 +6,14 @@ slug = "sitanavami"
 source_path = "devatA/lakShmI/lunar_month/tithi/02/09/sItAnavamI.toml"
 tags = ["CommonFestivals"]
 devata = ["Lakṣmī"]
-month = ["Vaiśākha"]
+month = ["02. Vaiśākha"]
 tithi = ["Navamī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 priority_rule = "puurvaviddha"
 timing_summary = "Vaiśākha (वैशाख) māsa, Śukla Pakṣa Navamī, at मध्याह्नः"
 "references" = ["Kielhorn (1897)"]
+sources = ["Kielhorn (1897)"]
 
 [names]
 sa = ["सीतानवमी"]

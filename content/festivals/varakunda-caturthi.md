@@ -4,20 +4,22 @@ id = "varakunda-caturthI"
 id_display = "varakunda-caturthī"
 slug = "varakunda-caturthi"
 source_path = "devatA/gaNapati/lunar_month/tithi/11/04/varakunda-caturthI.toml"
-tags = ["SpecialPuja"]
+tags = ["SpecialPuja", "LessCommonFestivals"]
 devata = ["Gāṇapatya (Gaṇeśa)"]
-month = ["Māgha"]
+month = ["11. Māgha"]
 tithi = ["Caturthī"]
 category = ["Devatā Observances"]
 kaala = "प्रदोषः"
 priority_rule = "puurvaviddha"
 timing_summary = "Māgha (माघ) māsa, Śukla Pakṣa Caturthī, at प्रदोषः"
+"references" = ["Nirnaya Sindhu 162"]
+sources = ["Nirṇayasindhu (Kamalākarabhaṭṭa)"]
 
 shlokas = '''
 माघशुक्लचतुर्थ्यां तु कुन्दपुष्पैः सदाशिवम्।
 सम्पूज्य यो हि नक्ताऽऽशी सम्प्राप्नोति श्रियं नरः॥
 
-सुमन्तुरुवाच---
+सुमन्तुरुवाच—
 माघे मासि तथा शुक्ला या चतुर्थी महीपते।
 सा शान्ता शान्तिदा नित्यं शान्तिं कुर्यात् सदैव हि॥६॥
 स्नानदानादिकं कर्म सर्वमस्यां कृतं विभो।

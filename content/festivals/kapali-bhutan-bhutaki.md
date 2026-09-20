@@ -4,7 +4,7 @@ id = "kapAlI_bhUtaN_bhUtakI"
 id_display = "kapālī bhūtaṇ bhūtakī"
 slug = "kapali-bhutan-bhutaki"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-7/kapAlI_bhUtaN_bhUtakI.toml"
-tags = ["TamilnaduTempleFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

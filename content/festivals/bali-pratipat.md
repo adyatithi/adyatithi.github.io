@@ -5,12 +5,14 @@ id_display = "bali pratipat"
 slug = "bali-pratipat"
 source_path = "general/lunar_month/tithi/08/01/bali_pratipat.toml"
 tags = ["CommonFestivals"]
-month = ["Kārtika"]
+month = ["08. Kārtika"]
 tithi = ["Pratipat"]
 category = ["General Observances"]
 kaala = "सूर्योदयः"
 priority_rule = "paraviddha"
 timing_summary = "Kārtika (कार्तिक) māsa, Śukla Pakṣa Pratipat, at सूर्योदयः"
+"references" = ["Skanda Puranam"]
+sources = ["Skanda Purāṇa"]
 
 shlokas = '''
 पूजां कुर्यात्ततः साक्षाद्भूमौ मण्डलके कृते।

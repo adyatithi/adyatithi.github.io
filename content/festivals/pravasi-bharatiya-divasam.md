@@ -4,6 +4,7 @@ id = "pravAsi-bhAratIya-divasam"
 id_display = "pravāsi-bhāratīya-divasam"
 slug = "pravasi-bharatiya-divasam"
 source_path = "mahApuruSha/general-indic-tropical/gregorian/day/01/09/pravAsi-bhAratIya-divasam.toml"
+tags = ["MahapurushaEvents", "LessCommonFestivals"]
 tradition = ["General"]
 category = ["Mahāpuruṣa Observances"]
 timing_summary = "January 9 (Gregorian calendar)"

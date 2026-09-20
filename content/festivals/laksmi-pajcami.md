@@ -6,10 +6,12 @@ slug = "laksmi-pajcami"
 source_path = "devatA/lakShmI/lunar_month/tithi/01/05/lakSmI-paJcamI.toml"
 tags = ["CommonFestivals"]
 devata = ["Lakṣmī"]
-month = ["Caitra"]
+month = ["01. Caitra"]
 tithi = ["Pañcamī"]
 category = ["Devatā Observances"]
 timing_summary = "Caitra (चैत्र) māsa, Śukla Pakṣa Pañcamī"
+"references" = ["Smriti Kaustubham p.92"]
+sources = ["Smṛtikaustubha (Anantadeva)"]
 
 shlokas = '''
 शुक्लायामथ पञ्चम्यां चैत्रे मासि शुभानना।

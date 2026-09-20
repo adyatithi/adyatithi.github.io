@@ -4,15 +4,16 @@ id = "kAJcI_38_jagadguru_zrI~abhinavazaGkarEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 38 jagadguru śrī abhinavaśaṅkarendra sarasvatī ārādhanā"
 slug = "kajci-38-jagadguru-zri-abhinavazagkarendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/04/30/kAJcI_38_jagadguru_zrI~abhinavazaGkarEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Āṣāḍha"]
+month = ["04. Āṣāḍha"]
 tithi = ["Amāvāsyā"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Āṣāḍha (आषाढ) māsa, Kṛṣṇa Pakṣa Amāvāsyā, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 जज्ञे विश्वजितश्चिदम्बरभुवः श्रीमान् विशिष्टोदरान्नाथस्यासुविनिर्गमात् परम् असावध्यर्धवर्षद्वये।

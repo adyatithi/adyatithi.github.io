@@ -8,7 +8,7 @@ tags = ["RareDays", "Combinations", "NaktaVrataYogaDays"]
 category = ["Calendrical Specials"]
 
 shlokas = '''
-अग्निपुराणे---
+अग्निपुराणे—
 वारव्रतानि वक्ष्यामि भुक्तिमुक्तिप्रदानि हि।
 ...
 चित्राभसोमवाराणि सप्त कृत्वा सुखी भवेत्॥१९५-३॥

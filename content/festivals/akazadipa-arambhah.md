@@ -5,9 +5,11 @@ id_display = "ākāśadīpa-ārambhaḥ"
 slug = "akazadipa-arambhah"
 source_path = "general/sidereal_solar_month/day/07/01/AkAzadIpa-ArambhaH.toml"
 tags = ["LessCommonFestivals"]
-rashi = ["Tulā"]
+rashi = ["07. Tulā"]
 category = ["General Observances"]
 timing_summary = "Tulā (तुला) māsa, sidereal"
+"references" = ["Nirnaya Sindhu 146"]
+sources = ["Nirṇayasindhu (Kamalākarabhaṭṭa)"]
 
 shlokas = '''
 तुलायां  तिलतैलेन  सायङ्काले  समागते।

@@ -4,7 +4,7 @@ id = "tulA-kAvErI-snAnam"
 id_display = "tulā-kāverī-snānam"
 slug = "tula-kaveri-snanam"
 source_path = "devatA/nadI/description_only/tulA-kAvErI-snAnam.toml"
-tags = ["TamilnaduTempleFestivals", "SpecialPeriod"]
+tags = ["TamilnaduTempleFestivals", "SpecialPeriod", "LessCommonFestivals"]
 devata = ["Nadī (River)"]
 category = ["Devatā Observances"]
 

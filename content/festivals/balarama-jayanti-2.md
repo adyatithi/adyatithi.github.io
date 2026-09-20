@@ -6,11 +6,13 @@ slug = "balarama-jayanti-2"
 source_path = "devatA/vaiShNava/lunar_month/tithi/06/06/balarAma~jayantI~2.toml"
 tags = ["Dashavataram", "LessCommonFestivals"]
 devata = ["Vaiṣṇava"]
-month = ["Bhādrapada"]
+month = ["06. Bhādrapada"]
 tithi = ["Ṣaṣṭhī"]
 category = ["Devatā Observances"]
 kaala = "मध्याह्नः"
 timing_summary = "Bhādrapada (भाद्रपद) māsa, Śukla Pakṣa Ṣaṣṭhī, at मध्याह्नः"
+"references" = ["Garga Samhita 1.11.9"]
+sources = ["Gargasaṃhitā"]
 
 shlokas = '''
 अवतारदिने पुण्ये हरिमुद्दिश्य भक्तितः।

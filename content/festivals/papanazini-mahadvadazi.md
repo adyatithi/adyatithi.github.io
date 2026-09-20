@@ -6,6 +6,8 @@ slug = "papanazini-mahadvadazi"
 source_path = "time_focus/monthly/dvAdashI/description_only/pApanAzinI~mahAdvAdazI.toml"
 tags = ["RareDays", "Combinations"]
 category = ["Calendrical Specials"]
+"references" = ["Padma Puranam"]
+sources = ["Padma Purāṇa"]
 
 shlokas = '''
 जया च विजया चैव जयन्ती पापनाशिनी।
@@ -25,7 +27,7 @@ shlokas = '''
 स्नानं दानं जपो होमः स्वाध्यायो देवतार्चनम्॥१६॥
 यत्तस्यां क्रियते किञ्चित्तदक्षयफलं स्मृतम्।
 तस्मादेषा प्रकर्तव्या यत्नेन फलकाङ्क्षिभिः॥१७॥
----श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
+—श्रीपाद्मे महापुराण उत्तरखण्ड उमापतिनारदसंवादे उत्पन्नैकादशीकृतमुरवधो नाम चत्वारिंशोऽध्यायः॥४०॥
 '''
 
 description_en = '''

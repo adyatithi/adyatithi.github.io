@@ -4,15 +4,16 @@ id = "kAJcI_23_jagadguru_zrI~saccitsukhEndra_sarasvatI_ArAdhanA"
 id_display = "kāñcī 23 jagadguru śrī saccitsukhendra sarasvatī ārādhanā"
 slug = "kajci-23-jagadguru-zri-saccitsukhendra-sarasvati-aradhana"
 source_path = "mahApuruSha/kAnchI-maTha/lunar_month/tithi/03/07/kAJcI_23_jagadguru_zrI~saccitsukhEndra_sarasvatI_ArAdhanA.toml"
-tags = ["KanchiAradhanaDays"]
+tags = ["KanchiAradhanaDays", "LessCommonFestivals"]
 tradition = ["Kāñcī Maṭha"]
-month = ["Jyeṣṭha"]
+month = ["03. Jyeṣṭha"]
 tithi = ["Saptamī"]
 category = ["Mahāpuruṣa Observances"]
 kaala = "अपराह्णः"
 priority_rule = "vyaapti"
 timing_summary = "Jyeṣṭha (ज्येष्ठ) māsa, Śukla Pakṣa Saptamī, at अपराह्णः"
-"references" = ["www.kamakoti.org"]
+"references" = ["Punya Shloka Manjari", "www.kamakoti.org"]
+sources = ["Puṇyaślokamañjarī", "kamakoti.org"]
 
 shlokas = '''
 श्रीचिक्काकुलसोमणार्यतनयः सोऽयं गिरीशः पुरा
