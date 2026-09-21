@@ -52,20 +52,23 @@
     {{ end }}
 
     <section class="pill-groups">
+      {{/* url: the actual URL prefix (from hugo.toml's [permalinks] section
+           for month/rashi, which live under a shared /month/ path but
+           aren't literally named that internally). */}}
       {{ range slice
-          (dict "label" "Lunar Month" "tax" "month" "vals" .Params.month)
-          (dict "label" "Solar Month" "tax" "rashi" "vals" .Params.rashi)
-          (dict "label" "Devatā" "tax" "devata" "vals" .Params.devata)
-          (dict "label" "Tradition" "tax" "tradition" "vals" .Params.tradition)
-          (dict "label" "Tithi" "tax" "tithi" "vals" .Params.tithi)
-          (dict "label" "Nakṣatra" "tax" "nakshatra" "vals" .Params.nakshatra)
-          (dict "label" "Sources" "tax" "sources" "vals" .Params.sources)
+          (dict "label" "Lunar Month" "url" "/month/lunar/" "vals" .Params.month)
+          (dict "label" "Solar Month" "url" "/month/solar/" "vals" .Params.rashi)
+          (dict "label" "Devatā" "url" "/devata/" "vals" .Params.devata)
+          (dict "label" "Tradition" "url" "/tradition/" "vals" .Params.tradition)
+          (dict "label" "Tithi" "url" "/tithi/" "vals" .Params.tithi)
+          (dict "label" "Nakṣatra" "url" "/nakshatra/" "vals" .Params.nakshatra)
+          (dict "label" "Sources" "url" "/sources/" "vals" .Params.sources)
       }}
         {{ if .vals }}
         <div class="pill-groups__row">
           <span class="filter-bar__label">{{ .label }}</span>
-          {{ $tax := .tax }}
-          {{ range .vals }}<a class="pill pill--filter" href="/{{ $tax }}/{{ . | urlize }}/">{{ . }}</a>{{ end }}
+          {{ $url := .url }}
+          {{ range .vals }}<a class="pill pill--filter" href="{{ $url }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
         </div>
         {{ end }}
       {{ end }}

@@ -21,6 +21,14 @@ removePathAccents = true
   category = "category"
   source = "sources"
 
+[permalinks]
+  [permalinks.taxonomy]
+    month = "/month/lunar/"
+    rashi = "/month/solar/"
+  [permalinks.term]
+    month = "/month/lunar/:slug/"
+    rashi = "/month/solar/:slug/"
+
 [outputs]
   home = ["HTML", "RSS"]
 

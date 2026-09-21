@@ -23,7 +23,9 @@
       <span class="filter-bar__label">{{ .label }}</span>
       <div class="filter-bar__pills">
         {{ $key := .key }}
-        {{ range .tax.Alphabetical }}
+        {{ $order := index hugo.Data.term_order $key }}
+        {{ $terms := partial "ordered-terms.html" (dict "tax" .tax "order" $order) }}
+        {{ range $terms }}
           <a href="{{ .Page.RelPermalink }}" class="pill pill--filter" data-tax="{{ $key }}" data-term="{{ .Page.Title | urlize }}">
             {{ .Page.Title }} <span class="pill__count">{{ .Count }}</span>
           </a>

@@ -12,7 +12,8 @@
 </section>
 <section class="wrap">
   <div class="filter-bar__pills filter-bar__pills--big">
-    {{ range .Data.Terms.Alphabetical }}
+    {{ $order := index hugo.Data.term_order .Data.Singular }}
+    {{ range partial "ordered-terms.html" (dict "tax" .Data.Terms "order" $order) }}
       <a href="{{ .Page.RelPermalink }}" class="pill pill--filter pill--big">
         {{ .Page.Title }} <span class="pill__count">{{ .Count }}</span>
       </a>

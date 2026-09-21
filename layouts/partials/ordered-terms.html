@@ -1,0 +1,22 @@
+{{/* Returns a taxonomy's terms (OrderedTaxonomy entries, same shape as
+     .Alphabetical) sorted by a given canonical order instead of
+     alphabetically. Falls back to .Alphabetical when no order is given,
+     or when a term isn't found in it.
+     params: .tax (a Taxonomy), .order (optional []string) */}}
+{{ $alpha := .tax.Alphabetical }}
+{{ $order := .order }}
+{{ $result := $alpha }}
+{{ if $order }}
+  {{ $byTitle := dict }}
+  {{ range $alpha }}
+    {{ $byTitle = merge $byTitle (dict .Page.Title .) }}
+  {{ end }}
+  {{ $ordered := slice }}
+  {{ range $order }}
+    {{ if isset $byTitle . }}
+      {{ $ordered = $ordered | append (index $byTitle .) }}
+    {{ end }}
+  {{ end }}
+  {{ $result = $ordered }}
+{{ end }}
+{{ return $result }}
