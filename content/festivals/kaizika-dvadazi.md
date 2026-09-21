@@ -4,7 +4,7 @@ id = "kaizika-dvAdazI"
 id_display = "kaiśika-dvādaśī"
 slug = "kaizika-dvadazi"
 source_path = "temples/Tamil/relative_event/kaizika-EkAdazI/offset__01/kaizika-dvAdazI.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

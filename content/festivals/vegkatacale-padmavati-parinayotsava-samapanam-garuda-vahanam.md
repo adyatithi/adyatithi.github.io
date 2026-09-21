@@ -4,7 +4,7 @@ id = "vEGkaTAcalE_padmAvatI-pariNayOtsava-samApanam_(garuDa-vAhanam)"
 id_display = "veṅkaṭācale padmāvatī-pariṇayotsava-samāpanam (garuḍa-vāhanam)"
 slug = "vegkatacale-padmavati-parinayotsava-samapanam-garuda-vahanam"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)/offset__01/vEGkaTAcalE_padmAvatI-pariNayOtsava-samApanam_(garuDa-vAhanam).toml"
-tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

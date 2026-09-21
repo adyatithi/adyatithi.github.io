@@ -4,7 +4,7 @@ id = "tiruvizalUr_gaGgAkarSaNa-mahOtsavaH"
 id_display = "tiruviśalūr gaṅgākarṣaṇa-mahotsavaḥ"
 slug = "tiruvizalur-gaggakarsana-mahotsavah"
 source_path = "temples/Tamil/description_only/tiruvizalUr_gaGgAkarSaNa-mahOtsavaH.toml"
-tags = ["MahapurushaEvents", "TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["MahapurushaEvents", "TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 shlokas = '''

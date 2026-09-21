@@ -4,7 +4,7 @@ id = "ASADhI-vArI"
 id_display = "āṣāḍhī-vārī"
 slug = "asadhi-vari"
 source_path = "temples/Maharashtra/description_only/ASADhI-vArI.toml"
-tags = ["MaharashtraTempleFestivals", "LessCommonFestivals"]
+tags = ["MaharashtraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

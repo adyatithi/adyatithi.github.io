@@ -4,7 +4,7 @@ id = "tiruccendUr_murugan2_mAcit_tiruvizhA_##4##m_nAL"
 id_display = "tiruccèndūr murugaṉ mācit tiruvil̤ā ##4##m nāḻ"
 slug = "tiruccendur-murugan2-macit-tiruvizha-4m-nal"
 source_path = "temples/Tamil/relative_event/tiruccendUr_mAcit_tiruvizhA_nir2aivu/offset__-8/tiruccendUr_murugan2_mAcit_tiruvizhA_##4##m_nAL.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

@@ -4,7 +4,7 @@ id = "vEGkaTAcalE_jyESThAbhiSEkaH_(mutyala)"
 id_display = "veṅkaṭācale jyeṣṭhābhiṣekaḥ (mutyala)"
 slug = "vegkatacale-jyesthabhisekah-mutyala"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_jyESThAbhiSEkaH_(svarNa)/offset__-1/vEGkaTAcalE_jyESThAbhiSEkaH_(mutyala).toml"
-tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

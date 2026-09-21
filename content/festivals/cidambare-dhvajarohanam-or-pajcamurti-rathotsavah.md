@@ -4,7 +4,7 @@ id = "cidambarE_dhvajArOhaNam_or_paJcamUrti_rathOtsavaH"
 id_display = "cidambare dhvajārohaṇam òr pañcamūrti rathotsavaḥ"
 slug = "cidambare-dhvajarohanam-or-pajcamurti-rathotsavah"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-9/cidambarE_dhvajArOhaNam_or_paJcamUrti_rathOtsavaH.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

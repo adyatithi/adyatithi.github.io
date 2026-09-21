@@ -4,7 +4,7 @@ id = "kapAlI_ar2upattu_mUvar"
 id_display = "kapālī aṟupattu mūvar"
 slug = "kapali-ar2upattu-muvar"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-2/kapAlI_ar2upattu_mUvar.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

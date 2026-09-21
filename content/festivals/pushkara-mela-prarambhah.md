@@ -4,7 +4,7 @@ id = "puShkara-melA-prArambhaH"
 id_display = "puṣhkara-mèlā-prārambhaḥ"
 slug = "pushkara-mela-prarambhah"
 source_path = "temples/North/relative_event/puShkara-melA-samAptiH/offset__-8/puShkara-melA-prArambhaH.toml"
-tags = ["Pushkara", "NorthIndiaTempleFestivals", "CommonFestivals"]
+tags = ["Pushkara", "NorthIndiaTempleFestivals", "CommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

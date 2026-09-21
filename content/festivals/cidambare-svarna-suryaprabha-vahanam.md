@@ -4,7 +4,7 @@ id = "cidambarE_svarNa-sUryaprabha_vAhanam"
 id_display = "cidambare svarṇa-sūryaprabha vāhanam"
 slug = "cidambare-svarna-suryaprabha-vahanam"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__-7/cidambarE_svarNa-sUryaprabha_vAhanam.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

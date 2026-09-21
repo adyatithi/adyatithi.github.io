@@ -4,7 +4,7 @@ id = "tiruccendUr_murugan2_teppam"
 id_display = "tiruccèndūr murugaṉ tèppam"
 slug = "tiruccendur-murugan2-teppam"
 source_path = "temples/Tamil/relative_event/tiruccendUr_mAcit_tiruvizhA_nir2aivu/offset__-1/tiruccendUr_murugan2_teppam.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

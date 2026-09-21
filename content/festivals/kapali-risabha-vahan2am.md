@@ -4,7 +4,7 @@ id = "kapAlI_riSabha_vAhan2am"
 id_display = "kapālī riṣabha vāhaṉam"
 slug = "kapali-risabha-vahan2am"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-5/kapAlI_riSabha_vAhan2am.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

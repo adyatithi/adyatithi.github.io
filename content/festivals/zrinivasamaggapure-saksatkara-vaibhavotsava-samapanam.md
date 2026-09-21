@@ -4,7 +4,7 @@ id = "zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsava-samApanam"
 id_display = "śrīnivāsamaṅgāpure sākṣātkāra-vaibhavotsava-samāpanam"
 slug = "zrinivasamaggapure-saksatkara-vaibhavotsava-samapanam"
 source_path = "temples/Andhra/relative_event/zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsavaH/offset__01/zrInivAsamaGgApurE_sAkSAtkAra-vaibhavOtsava-samApanam.toml"
-tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

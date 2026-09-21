@@ -4,7 +4,7 @@ id = "vEGkaTAcalE_padmAvatI-pariNayOtsava-ArambhaH_(gaja-vAhanam)"
 id_display = "veṅkaṭācale padmāvatī-pariṇayotsava-ārambhaḥ (gaja-vāhanam)"
 slug = "vegkatacale-padmavati-parinayotsava-arambhah-gaja-vahanam"
 source_path = "temples/venkaTAchala/relative_event/vEGkaTAcalE_padmAvatI-pariNayam_(azva-vAhanam)/offset__-1/vEGkaTAcalE_padmAvatI-pariNayOtsava-ArambhaH_(gaja-vAhanam).toml"
-tags = ["AndhraTempleFestivals", "LessCommonFestivals"]
+tags = ["AndhraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

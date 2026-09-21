@@ -4,7 +4,7 @@ id = "madhurai_mIn2AkSI_kOyilil_kal_yAn2aikku_karumbu_kODutta_lIlai"
 id_display = "madhurai mīṉākṣī koyilil kal yāṉaikku karumbu koḍutta līlai"
 slug = "madhurai-min2aksi-koyilil-kal-yan2aikku-karumbu-kodutta-lilai"
 source_path = "temples/Tamil/relative_event/makara-saGkramaNa-puNyakAlaH/offset__00/madhurai_mIn2AkSI_kOyilil_kal_yAn2aikku_karumbu_kODutta_lIlai.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

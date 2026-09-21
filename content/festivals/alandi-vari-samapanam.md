@@ -4,7 +4,7 @@ id = "ALandI-vArI-samApanam"
 id_display = "āḻandī-vārī-samāpanam"
 slug = "alandi-vari-samapanam"
 source_path = "temples/Maharashtra/relative_event/ASADhI-vArI/offset__00/ALandI-vArI-samApanam.toml"
-tags = ["MaharashtraTempleFestivals", "LessCommonFestivals"]
+tags = ["MaharashtraTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

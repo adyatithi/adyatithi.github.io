@@ -4,7 +4,7 @@ id = "kapAlI_adhikAra_nandi"
 id_display = "kapālī adhikāra nandi"
 slug = "kapali-adhikara-nandi"
 source_path = "temples/Tamil/relative_event/kar2pagAmbAL–kapAlIzvarar_tirukkalyANam/offset__-7/kapAlI_adhikAra_nandi.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''

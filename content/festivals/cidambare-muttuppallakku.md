@@ -4,7 +4,7 @@ id = "cidambarE_muttuppallakku"
 id_display = "cidambare muttuppallakku"
 slug = "cidambare-muttuppallakku"
 source_path = "temples/Tamil/relative_event/naTarAjar_An2i_tirumaJcan2am/offset__01/cidambarE_muttuppallakku.toml"
-tags = ["TamilnaduTempleFestivals", "LessCommonFestivals"]
+tags = ["TamilnaduTempleFestivals", "LessCommonFestivals", "TempleFestivals"]
 category = ["Temple Festivals"]
 
 description_en = '''
